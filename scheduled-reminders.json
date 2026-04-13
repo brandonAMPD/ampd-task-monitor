@@ -6613,9 +6613,92 @@
       "task": "turn on google calendar notifications for funnel website with specific format",
       "assignee": "Josh 'The Ninja' Morales",
       "reminderDate": "2026-04-15"
+    },
+    "67786c7b6111b970600238dfcb24ece4|midpoint|2026-04-15": {
+      "scheduledAt": "2026-04-13T23:30:38.118Z",
+      "type": "midpoint",
+      "task": "final prep of aged leads for client + send 300 leads to channel and tag Eddie",
+      "assignee": "Christle 'Knows All' Ochigue",
+      "reminderDate": "2026-04-15"
+    },
+    "67786c7b6111b970600238dfcb24ece4|overdue|2026-05-15": {
+      "scheduledAt": "2026-04-13T23:31:00.112Z",
+      "type": "overdue",
+      "task": "final prep of aged leads for client + send 300 leads to channel and tag Eddie",
+      "assignee": "Christle 'Knows All' Ochigue",
+      "reminderDate": "2026-05-15"
+    },
+    "67786c7b6111b970600238dfcb24ece4|overdue|2026-05-16": {
+      "scheduledAt": "2026-04-13T23:31:00.839Z",
+      "type": "overdue",
+      "task": "final prep of aged leads for client + send 300 leads to channel and tag Eddie",
+      "assignee": "Christle 'Knows All' Ochigue",
+      "reminderDate": "2026-05-16"
+    },
+    "67786c7b6111b970600238dfcb24ece4|overdue|2026-05-17": {
+      "scheduledAt": "2026-04-13T23:31:01.582Z",
+      "type": "overdue",
+      "task": "final prep of aged leads for client + send 300 leads to channel and tag Eddie",
+      "assignee": "Christle 'Knows All' Ochigue",
+      "reminderDate": "2026-05-17"
+    },
+    "c97d6ff4ce898427bb30c3408f5fdaf5|nag|2026-04-13": {
+      "scheduledAt": "2026-04-13T23:31:42.190Z",
+      "type": "nag",
+      "task": "update landing page for lead gen client with new CRM agreement links and LOS version",
+      "skipped": true
+    },
+    "c97d6ff4ce898427bb30c3408f5fdaf5|due|2026-04-14": {
+      "scheduledAt": "2026-04-13T23:31:42.935Z",
+      "type": "due",
+      "task": "update landing page for lead gen client with new CRM agreement links and LOS version",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-04-14"
+    },
+    "cc6a4723bcabc30ce63fc7adedbbbd6c|overdue|2026-05-15": {
+      "scheduledAt": "2026-04-13T23:34:05.255Z",
+      "type": "overdue",
+      "task": "turn on adroll retargeting using current images, retarget all non-conversions last 90 days",
+      "assignee": "Joma 'Magic Fingers' Cris Cantalejo",
+      "reminderDate": "2026-05-15"
+    },
+    "cc6a4723bcabc30ce63fc7adedbbbd6c|overdue|2026-05-16": {
+      "scheduledAt": "2026-04-13T23:34:17.067Z",
+      "type": "overdue",
+      "task": "turn on adroll retargeting using current images, retarget all non-conversions last 90 days",
+      "assignee": "Joma 'Magic Fingers' Cris Cantalejo",
+      "reminderDate": "2026-05-16"
+    },
+    "cc6a4723bcabc30ce63fc7adedbbbd6c|overdue|2026-05-17": {
+      "scheduledAt": "2026-04-13T23:34:17.790Z",
+      "type": "overdue",
+      "task": "turn on adroll retargeting using current images, retarget all non-conversions last 90 days",
+      "assignee": "Joma 'Magic Fingers' Cris Cantalejo",
+      "reminderDate": "2026-05-17"
+    },
+    "cc6a4723bcabc30ce63fc7adedbbbd6c|overdue|2026-05-18": {
+      "scheduledAt": "2026-04-13T23:34:18.500Z",
+      "type": "overdue",
+      "task": "turn on adroll retargeting using current images, retarget all non-conversions last 90 days",
+      "assignee": "Joma 'Magic Fingers' Cris Cantalejo",
+      "reminderDate": "2026-05-18"
+    },
+    "cc6a4723bcabc30ce63fc7adedbbbd6c|overdue|2026-05-19": {
+      "scheduledAt": "2026-04-13T23:34:19.253Z",
+      "type": "overdue",
+      "task": "turn on adroll retargeting using current images, retarget all non-conversions last 90 days",
+      "assignee": "Joma 'Magic Fingers' Cris Cantalejo",
+      "reminderDate": "2026-05-19"
+    },
+    "cc6a4723bcabc30ce63fc7adedbbbd6c|overdue|2026-05-20": {
+      "scheduledAt": "2026-04-13T23:34:19.975Z",
+      "type": "overdue",
+      "task": "turn on adroll retargeting using current images, retarget all non-conversions last 90 days",
+      "assignee": "Joma 'Magic Fingers' Cris Cantalejo",
+      "reminderDate": "2026-05-20"
     }
   },
-  "lastRun": "2026-04-13T23:07:35.520Z",
+  "lastRun": "2026-04-13T23:34:19.977Z",
   "tasks": {
     "2886df20f4859405206a1dccebe0612c": {
       "task": "turn ads back",
@@ -6784,8 +6867,9 @@
       "source_message": "@Mark 'Morpheus' Manaog Please check on their tech concern: <https://dovetailmktg.freshdesk.com/a/",
       "assigneeId": "U023F61R16F",
       "messageTs": "1776109872.053879",
-      "completed": false,
-      "firstSeenAt": "2026-04-13T20:00:38.826Z"
+      "completed": true,
+      "firstSeenAt": "2026-04-13T20:00:38.826Z",
+      "completedAt": "2026-04-13T23:30:18.020Z"
     },
     "9b3f18bdcc7fd1849d1c7f1606d48bb5": {
       "task": "Set-up his round robin that he gets another additional rotation for Eric V only",
@@ -6823,8 +6907,9 @@
       "source_message": "@Mark 'Morpheus' Manaog Please check on their tech concern: <https://dovetailmktg.freshdesk.com",
       "assigneeId": "U023F61R16F",
       "messageTs": "1776109872.053879",
-      "completed": false,
-      "firstSeenAt": "2026-04-13T20:12:43.003Z"
+      "completed": true,
+      "firstSeenAt": "2026-04-13T20:12:43.003Z",
+      "completedAt": "2026-04-13T23:30:18.112Z"
     },
     "aa815e628a9b42b871c0a2ac511023ab": {
       "task": "Set-up round robin additional rotation for Eric V only",
@@ -6941,8 +7026,9 @@
       "source_message": "@Mark 'Morpheus' Manaog Please check on their tech concern: <https://dovetailmktg.freshdesk.com/a/ti",
       "assigneeId": "U023F61R16F",
       "messageTs": "1776109872.053879",
-      "completed": false,
-      "firstSeenAt": "2026-04-13T20:30:36.755Z"
+      "completed": true,
+      "firstSeenAt": "2026-04-13T20:30:36.755Z",
+      "completedAt": "2026-04-13T23:30:18.197Z"
     },
     "bd4d53f1a4f566fb1d50ce8f7781cfe5": {
       "task": "Update landing page with new links for LOS version",
@@ -6980,8 +7066,9 @@
       "source_message": "@Mark 'Morpheus' Manaog Please check on their tech concern: <https://dovetailmktg.freshdesk.com/a/",
       "assigneeId": "U023F61R16F",
       "messageTs": "1776109872.053879",
-      "completed": false,
-      "firstSeenAt": "2026-04-13T21:00:40.687Z"
+      "completed": true,
+      "firstSeenAt": "2026-04-13T21:00:40.687Z",
+      "completedAt": "2026-04-13T23:30:18.299Z"
     },
     "6f03c98182110e7ac23ae5409292a4fd": {
       "task": "Update landing page with updated links and new links for LOS version",
@@ -7032,8 +7119,9 @@
       "source_message": "@Mark 'Morpheus' Manaog Please check on their tech concern: <https://dovetailmktg.freshdesk.com/",
       "assigneeId": "U023F61R16F",
       "messageTs": "1776109872.053879",
-      "completed": false,
-      "firstSeenAt": "2026-04-13T21:30:54.899Z"
+      "completed": true,
+      "firstSeenAt": "2026-04-13T21:30:54.899Z",
+      "completedAt": "2026-04-13T23:30:18.387Z"
     },
     "fa835e130a59cd64171fbd77fdbdc8cb": {
       "task": "check on their set-up: https://dovetailmktg.freshdesk.com/a/tickets/22210",
@@ -7125,6 +7213,45 @@
       "messageTs": "1776114894.412259",
       "completed": false,
       "firstSeenAt": "2026-04-13T23:07:14.045Z"
+    },
+    "67786c7b6111b970600238dfcb24ece4": {
+      "task": "final prep of aged leads for client + send 300 leads to channel and tag Eddie",
+      "assignee_name": "Christle 'Knows All' Ochigue",
+      "assignee_slack_mention": "@Christle 'Knows All' Ochigue",
+      "assigned_date": "2026-04-13",
+      "due_date": "2026-04-17",
+      "message_ts": "1776121264.756129",
+      "source_message": "@Christle 'Knows All' Ochigue i assigned this task for the final prep of aged leads for client",
+      "assigneeId": "UMCPG3D8A",
+      "messageTs": "1776121264.756129",
+      "completed": false,
+      "firstSeenAt": "2026-04-13T23:30:37.327Z"
+    },
+    "c97d6ff4ce898427bb30c3408f5fdaf5": {
+      "task": "update landing page for lead gen client with new CRM agreement links and LOS version",
+      "assignee_name": "Mark 'Morpheus' Manaog",
+      "assignee_slack_mention": "@Mark 'Morpheus' Manaog",
+      "assigned_date": "2026-04-13",
+      "due_date": "2026-04-14",
+      "message_ts": "1776108180.619019",
+      "source_message": "@Mark 'Morpheus' Manaog please update the landing page that a lead gen (broker lift system) c",
+      "assigneeId": "U023F61R16F",
+      "messageTs": "1776108180.619019",
+      "completed": false,
+      "firstSeenAt": "2026-04-13T23:31:42.190Z"
+    },
+    "cc6a4723bcabc30ce63fc7adedbbbd6c": {
+      "task": "turn on adroll retargeting using current images, retarget all non-conversions last 90 days",
+      "assignee_name": "Joma 'Magic Fingers' Cris Cantalejo",
+      "assignee_slack_mention": "@Joma 'Magic Fingers' Cris Cantalejo",
+      "assigned_date": "2026-04-13",
+      "due_date": "2026-04-20",
+      "message_ts": "1776093594.754979",
+      "source_message": "@Joma 'Magic Fingers' Cris Cantalejo please turn on adroll retargeting using the most curren",
+      "assigneeId": "U03KVJD9927",
+      "messageTs": "1776093594.754979",
+      "completed": false,
+      "firstSeenAt": "2026-04-13T23:32:26.595Z"
     }
   }
 }
