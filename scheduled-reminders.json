@@ -6545,9 +6545,29 @@
       "task": "turn on adroll retargeting using the most current images retarget non-conversions last 90 days",
       "assignee": "Joma 'Magic Fingers' Cris Cantalejo",
       "reminderDate": "2026-05-20"
+    },
+    "6ea08549a4ddd09a947dc8103e324124|nag|2026-04-13": {
+      "scheduledAt": "2026-04-13T23:01:30.745Z",
+      "type": "nag",
+      "task": "update the landing page that a lead gen (broker lift system) client would go to after signing",
+      "skipped": true
+    },
+    "6ea08549a4ddd09a947dc8103e324124|due|2026-04-14": {
+      "scheduledAt": "2026-04-13T23:01:31.669Z",
+      "type": "due",
+      "task": "update the landing page that a lead gen (broker lift system) client would go to after signing",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-04-14"
+    },
+    "6ea08549a4ddd09a947dc8103e324124|overdue|2026-04-15": {
+      "scheduledAt": "2026-04-13T23:01:32.608Z",
+      "type": "overdue",
+      "task": "update the landing page that a lead gen (broker lift system) client would go to after signing",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-04-15"
     }
   },
-  "lastRun": "2026-04-13T22:33:18.442Z",
+  "lastRun": "2026-04-13T23:02:00.291Z",
   "tasks": {
     "2886df20f4859405206a1dccebe0612c": {
       "task": "turn ads back",
@@ -7018,6 +7038,19 @@
       "messageTs": "1776093594.754979",
       "completed": false,
       "firstSeenAt": "2026-04-13T22:31:52.586Z"
+    },
+    "6ea08549a4ddd09a947dc8103e324124": {
+      "task": "update the landing page that a lead gen (broker lift system) client would go to after signing",
+      "assignee_name": "Mark 'Morpheus' Manaog",
+      "assignee_slack_mention": "@Mark 'Morpheus' Manaog",
+      "assigned_date": "2026-04-13",
+      "due_date": "2026-04-14",
+      "message_ts": "1776108180.619019",
+      "source_message": "@Mark 'Morpheus' Manaog please update the landing page that a lead gen (broker lift system) client",
+      "assigneeId": "U023F61R16F",
+      "messageTs": "1776108180.619019",
+      "completed": false,
+      "firstSeenAt": "2026-04-13T23:01:30.745Z"
     }
   }
 }
