@@ -41,6 +41,7 @@ const anthropic = new Anthropic({ apiKey: ANTHROPIC_API_KEY });
 const TEAM_CHANNEL_MAP = {
   'UMS39RAGP':   'C05HV4SQD6G',  // Brandon   → #fd-brandon
   'U023F61R16F': 'C05JGF817H6',  // Mark      → #fd-mark
+  'U03KVJD9927': 'C08RPJDC073',  // Joma      → #fd-joma
   'U01M7FMPTRR': 'C08RNTW55JM',  // Chrissy   → #fd-to-do-chrissy
   'U07FVUF09T7': 'C093VPK55NF',  // Josh      → #fd-josh
   'U02LFUG2WLR': 'C05HPPDCSS1',  // Eddie     → #fd-eddie
