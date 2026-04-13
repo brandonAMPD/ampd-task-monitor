@@ -6347,9 +6347,84 @@
       "task": "Turn on adroll retargeting using most current images, retarget non-conversions last 90 days",
       "assignee": "Joma 'Magic Fingers' Cris Cantalejo",
       "reminderDate": "2026-05-20"
+    },
+    "a4358868538f0bd944233aa9f76edb94|nag|2026-04-13": {
+      "scheduledAt": "2026-04-13T21:30:33.288Z",
+      "type": "nag",
+      "task": "turn the google calendar notifications on for our funnel website on but use the format I shared",
+      "skipped": true
+    },
+    "a4358868538f0bd944233aa9f76edb94|due|2026-04-14": {
+      "scheduledAt": "2026-04-13T21:30:34.087Z",
+      "type": "due",
+      "task": "turn the google calendar notifications on for our funnel website on but use the format I shared",
+      "assignee": "Josh 'The Ninja' Morales",
+      "reminderDate": "2026-04-14"
+    },
+    "a4358868538f0bd944233aa9f76edb94|overdue|2026-04-15": {
+      "scheduledAt": "2026-04-13T21:30:34.815Z",
+      "type": "overdue",
+      "task": "turn the google calendar notifications on for our funnel website on but use the format I shared",
+      "assignee": "Josh 'The Ninja' Morales",
+      "reminderDate": "2026-04-15"
+    },
+    "a4358868538f0bd944233aa9f76edb94|overdue|2026-04-16": {
+      "scheduledAt": "2026-04-13T21:30:35.530Z",
+      "type": "overdue",
+      "task": "turn the google calendar notifications on for our funnel website on but use the format I shared",
+      "assignee": "Josh 'The Ninja' Morales",
+      "reminderDate": "2026-04-16"
+    },
+    "a4358868538f0bd944233aa9f76edb94|overdue|2026-04-17": {
+      "scheduledAt": "2026-04-13T21:30:36.222Z",
+      "type": "overdue",
+      "task": "turn the google calendar notifications on for our funnel website on but use the format I shared",
+      "assignee": "Josh 'The Ninja' Morales",
+      "reminderDate": "2026-04-17"
+    },
+    "a4358868538f0bd944233aa9f76edb94|overdue|2026-04-18": {
+      "scheduledAt": "2026-04-13T21:30:36.939Z",
+      "type": "overdue",
+      "task": "turn the google calendar notifications on for our funnel website on but use the format I shared",
+      "assignee": "Josh 'The Ninja' Morales",
+      "reminderDate": "2026-04-18"
+    },
+    "a4358868538f0bd944233aa9f76edb94|overdue|2026-05-14": {
+      "scheduledAt": "2026-04-13T21:30:54.899Z",
+      "type": "overdue",
+      "task": "turn the google calendar notifications on for our funnel website on but use the format I shared",
+      "assignee": "Josh 'The Ninja' Morales",
+      "reminderDate": "2026-05-14"
+    },
+    "2ce69d73b76a4699e56d7df03c3d9378|due|2026-04-13": {
+      "scheduledAt": "2026-04-13T21:30:54.900Z",
+      "type": "due",
+      "task": "check on their tech concern: freshdesk ticket 22075",
+      "skipped": true
+    },
+    "2ce69d73b76a4699e56d7df03c3d9378|overdue|2026-04-14": {
+      "scheduledAt": "2026-04-13T21:30:55.608Z",
+      "type": "overdue",
+      "task": "check on their tech concern: freshdesk ticket 22075",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-04-14"
+    },
+    "2ce69d73b76a4699e56d7df03c3d9378|overdue|2026-04-15": {
+      "scheduledAt": "2026-04-13T21:30:56.326Z",
+      "type": "overdue",
+      "task": "check on their tech concern: freshdesk ticket 22075",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-04-15"
+    },
+    "2ce69d73b76a4699e56d7df03c3d9378|overdue|2026-04-17": {
+      "scheduledAt": "2026-04-13T21:30:57.719Z",
+      "type": "overdue",
+      "task": "check on their tech concern: freshdesk ticket 22075",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-04-17"
     }
   },
-  "lastRun": "2026-04-13T21:01:45.980Z",
+  "lastRun": "2026-04-13T21:31:15.699Z",
   "tasks": {
     "2886df20f4859405206a1dccebe0612c": {
       "task": "turn ads back",
@@ -6742,6 +6817,32 @@
       "messageTs": "1776093594.754979",
       "completed": false,
       "firstSeenAt": "2026-04-13T21:01:23.695Z"
+    },
+    "a4358868538f0bd944233aa9f76edb94": {
+      "task": "turn the google calendar notifications on for our funnel website on but use the format I shared",
+      "assignee_name": "Josh 'The Ninja' Morales",
+      "assignee_slack_mention": "@Josh 'The Ninja' Morales",
+      "assigned_date": "2026-04-13",
+      "due_date": "2026-04-14",
+      "message_ts": "1776114894.412259",
+      "source_message": "@Josh 'The Ninja' Morales please turn the google calendar notifications on for our funnel websit",
+      "assigneeId": "U07FVUF09T7",
+      "messageTs": "1776114894.412259",
+      "completed": false,
+      "firstSeenAt": "2026-04-13T21:30:33.288Z"
+    },
+    "2ce69d73b76a4699e56d7df03c3d9378": {
+      "task": "check on their tech concern: freshdesk ticket 22075",
+      "assignee_name": "Mark 'Morpheus' Manaog",
+      "assignee_slack_mention": "@Mark 'Morpheus' Manaog",
+      "assigned_date": "2026-04-13",
+      "due_date": "2026-04-13",
+      "message_ts": "1776109872.053879",
+      "source_message": "@Mark 'Morpheus' Manaog Please check on their tech concern: <https://dovetailmktg.freshdesk.com/",
+      "assigneeId": "U023F61R16F",
+      "messageTs": "1776109872.053879",
+      "completed": false,
+      "firstSeenAt": "2026-04-13T21:30:54.899Z"
     }
   }
 }
