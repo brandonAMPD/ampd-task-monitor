@@ -1,0 +1,45 @@
+name: Task Monitor (Every 30 Minutes)
+
+on:
+  schedule:
+    # Runs every 30 minutes, 24/7
+    # Reminders are sent at 9:00 AM EST (14:00 UTC)
+    - cron: '*/30 * * * *'
+  workflow_dispatch:
+    # Also allows manual trigger from GitHub Actions tab anytime
+
+jobs:
+  scan-tasks:
+    runs-on: ubuntu-latest
+
+    permissions:
+      contents: write  # needed to read/write the dedup state file
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Install dependencies
+        run: npm install
+
+      - name: Run task monitor scan
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          SLACK_BOT_TOKEN: ${{ secrets.SLACK_BOT_TOKEN }}
+          SLACK_CHANNEL_ID: ${{ secrets.SLACK_CHANNEL_ID }}
+          SLACK_MANAGER_ID: ${{ secrets.SLACK_MANAGER_ID }}
+          LOOKBACK_DAYS: '14'
+        run: node scan.js
+
+      - name: Save deduplication state
+        run: |
+          git config user.name "Task Monitor Bot"
+          git config user.email "actions@github.com"
+          git add scheduled-reminders.json || true
+          git diff --staged --quiet || git commit -m "chore: update scheduled reminders state [skip ci]"
+          git push || true
