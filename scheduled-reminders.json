@@ -1834,7 +1834,7 @@
       "reminderDate": "2026-05-21"
     }
   },
-  "lastRun": "2026-04-13T16:24:37.659Z",
+  "lastRun": "2026-04-13T16:30:34.530Z",
   "tasks": {
     "2886df20f4859405206a1dccebe0612c": {
       "task": "turn ads back",
@@ -1911,8 +1911,9 @@
       "source_message": "@Mark 'Morpheus' Manaog task: give Christle lead data of Eric Lovett from Jan 1, 2026 to Apr 1,",
       "assigneeId": "U023F61R16F",
       "messageTs": "1776095146.704839",
-      "completed": false,
-      "firstSeenAt": "2026-04-13T16:21:17.201Z"
+      "completed": true,
+      "firstSeenAt": "2026-04-13T16:21:17.201Z",
+      "completedAt": "2026-04-13T16:30:25.608Z"
     },
     "ada3f7d9c9c063b944f15d8c96331d36": {
       "task": "turn on adroll retargeting using current images, retarget non-conversions last 90 days at $5/day",
