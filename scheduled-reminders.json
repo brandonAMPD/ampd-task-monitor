@@ -6422,9 +6422,63 @@
       "task": "check on their tech concern: freshdesk ticket 22075",
       "assignee": "Mark 'Morpheus' Manaog",
       "reminderDate": "2026-04-17"
+    },
+    "fa835e130a59cd64171fbd77fdbdc8cb|due|2026-04-13": {
+      "scheduledAt": "2026-04-13T22:00:39.956Z",
+      "type": "due",
+      "task": "check on their set-up: https://dovetailmktg.freshdesk.com/a/tickets/22210",
+      "skipped": true
+    },
+    "fa835e130a59cd64171fbd77fdbdc8cb|overdue|2026-04-14": {
+      "scheduledAt": "2026-04-13T22:00:40.787Z",
+      "type": "overdue",
+      "task": "check on their set-up: https://dovetailmktg.freshdesk.com/a/tickets/22210",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-04-14"
+    },
+    "fa835e130a59cd64171fbd77fdbdc8cb|overdue|2026-04-15": {
+      "scheduledAt": "2026-04-13T22:00:41.546Z",
+      "type": "overdue",
+      "task": "check on their set-up: https://dovetailmktg.freshdesk.com/a/tickets/22210",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-04-15"
+    },
+    "fa835e130a59cd64171fbd77fdbdc8cb|overdue|2026-04-17": {
+      "scheduledAt": "2026-04-13T22:00:43.511Z",
+      "type": "overdue",
+      "task": "check on their set-up: https://dovetailmktg.freshdesk.com/a/tickets/22210",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-04-17"
+    },
+    "4a4b9dd08521e308b25d43243edc846c|nag|2026-04-13": {
+      "scheduledAt": "2026-04-13T22:01:23.831Z",
+      "type": "nag",
+      "task": "update the landing page that a lead gen client would go to with updated links and new LOS links",
+      "skipped": true
+    },
+    "4a4b9dd08521e308b25d43243edc846c|due|2026-04-14": {
+      "scheduledAt": "2026-04-13T22:01:24.655Z",
+      "type": "due",
+      "task": "update the landing page that a lead gen client would go to with updated links and new LOS links",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-04-14"
+    },
+    "4a4b9dd08521e308b25d43243edc846c|overdue|2026-04-15": {
+      "scheduledAt": "2026-04-13T22:01:25.444Z",
+      "type": "overdue",
+      "task": "update the landing page that a lead gen client would go to with updated links and new LOS links",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-04-15"
+    },
+    "4a4b9dd08521e308b25d43243edc846c|overdue|2026-04-17": {
+      "scheduledAt": "2026-04-13T22:01:27.032Z",
+      "type": "overdue",
+      "task": "update the landing page that a lead gen client would go to with updated links and new LOS links",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-04-17"
     }
   },
-  "lastRun": "2026-04-13T21:31:15.699Z",
+  "lastRun": "2026-04-13T22:01:47.900Z",
   "tasks": {
     "2886df20f4859405206a1dccebe0612c": {
       "task": "turn ads back",
@@ -6843,6 +6897,32 @@
       "messageTs": "1776109872.053879",
       "completed": false,
       "firstSeenAt": "2026-04-13T21:30:54.899Z"
+    },
+    "fa835e130a59cd64171fbd77fdbdc8cb": {
+      "task": "check on their set-up: https://dovetailmktg.freshdesk.com/a/tickets/22210",
+      "assignee_name": "Mark 'Morpheus' Manaog",
+      "assignee_slack_mention": "@Mark 'Morpheus' Manaog",
+      "assigned_date": "2026-04-13",
+      "due_date": "2026-04-13",
+      "message_ts": "1776116048.322129",
+      "source_message": "@Mark 'Morpheus' Manaog Can you check on their set-up: <https://dovetailmktg.freshdesk.com/a/ti",
+      "assigneeId": "U023F61R16F",
+      "messageTs": "1776116048.322129",
+      "completed": false,
+      "firstSeenAt": "2026-04-13T22:00:39.956Z"
+    },
+    "4a4b9dd08521e308b25d43243edc846c": {
+      "task": "update the landing page that a lead gen client would go to with updated links and new LOS links",
+      "assignee_name": "Mark 'Morpheus' Manaog",
+      "assignee_slack_mention": "@Mark 'Morpheus' Manaog",
+      "assigned_date": "2026-04-13",
+      "due_date": "2026-04-14",
+      "message_ts": "1776108180.619019",
+      "source_message": "@Mark 'Morpheus' Manaog please update the landing page that a lead gen (broker lift system) c",
+      "assigneeId": "U023F61R16F",
+      "messageTs": "1776108180.619019",
+      "completed": false,
+      "firstSeenAt": "2026-04-13T22:01:23.830Z"
     }
   }
 }
