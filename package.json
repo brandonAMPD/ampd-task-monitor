@@ -1,0 +1,15 @@
+{
+  "name": "ampd-task-monitor",
+  "version": "1.0.0",
+  "description": "Daily Slack task monitor and reminder scheduler for #ampd-team-tasks",
+  "main": "scan.js",
+  "type": "module",
+  "scripts": {
+    "start": "node scan.js",
+    "test": "node scan.js"
+  },
+  "dependencies": {
+    "@anthropic-ai/sdk": "^0.39.0",
+    "node-fetch": "^3.3.2"
+  }
+}
