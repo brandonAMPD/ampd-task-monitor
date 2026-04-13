@@ -6565,9 +6565,57 @@
       "task": "update the landing page that a lead gen (broker lift system) client would go to after signing",
       "assignee": "Mark 'Morpheus' Manaog",
       "reminderDate": "2026-04-15"
+    },
+    "295a84fdbb216d8bd49b03b0edb08dc8|midpoint|2026-04-15": {
+      "scheduledAt": "2026-04-13T23:06:34.144Z",
+      "type": "midpoint",
+      "task": "final prep of aged leads for client, send 300 leads to channel and tag Eddie",
+      "assignee": "Christle 'Knows All' Ochigue",
+      "reminderDate": "2026-04-15"
+    },
+    "295a84fdbb216d8bd49b03b0edb08dc8|overdue|2026-05-15": {
+      "scheduledAt": "2026-04-13T23:06:54.700Z",
+      "type": "overdue",
+      "task": "final prep of aged leads for client, send 300 leads to channel and tag Eddie",
+      "assignee": "Christle 'Knows All' Ochigue",
+      "reminderDate": "2026-05-15"
+    },
+    "295a84fdbb216d8bd49b03b0edb08dc8|overdue|2026-05-16": {
+      "scheduledAt": "2026-04-13T23:06:55.338Z",
+      "type": "overdue",
+      "task": "final prep of aged leads for client, send 300 leads to channel and tag Eddie",
+      "assignee": "Christle 'Knows All' Ochigue",
+      "reminderDate": "2026-05-16"
+    },
+    "295a84fdbb216d8bd49b03b0edb08dc8|overdue|2026-05-17": {
+      "scheduledAt": "2026-04-13T23:06:56.007Z",
+      "type": "overdue",
+      "task": "final prep of aged leads for client, send 300 leads to channel and tag Eddie",
+      "assignee": "Christle 'Knows All' Ochigue",
+      "reminderDate": "2026-05-17"
+    },
+    "81d339e63267d2060cbccc316ef46491|nag|2026-04-13": {
+      "scheduledAt": "2026-04-13T23:07:14.045Z",
+      "type": "nag",
+      "task": "turn on google calendar notifications for funnel website with specific format",
+      "skipped": true
+    },
+    "81d339e63267d2060cbccc316ef46491|due|2026-04-14": {
+      "scheduledAt": "2026-04-13T23:07:14.700Z",
+      "type": "due",
+      "task": "turn on google calendar notifications for funnel website with specific format",
+      "assignee": "Josh 'The Ninja' Morales",
+      "reminderDate": "2026-04-14"
+    },
+    "81d339e63267d2060cbccc316ef46491|overdue|2026-04-15": {
+      "scheduledAt": "2026-04-13T23:07:15.405Z",
+      "type": "overdue",
+      "task": "turn on google calendar notifications for funnel website with specific format",
+      "assignee": "Josh 'The Ninja' Morales",
+      "reminderDate": "2026-04-15"
     }
   },
-  "lastRun": "2026-04-13T23:02:00.291Z",
+  "lastRun": "2026-04-13T23:07:35.520Z",
   "tasks": {
     "2886df20f4859405206a1dccebe0612c": {
       "task": "turn ads back",
@@ -7051,6 +7099,32 @@
       "messageTs": "1776108180.619019",
       "completed": false,
       "firstSeenAt": "2026-04-13T23:01:30.745Z"
+    },
+    "295a84fdbb216d8bd49b03b0edb08dc8": {
+      "task": "final prep of aged leads for client, send 300 leads to channel and tag Eddie",
+      "assignee_name": "Christle 'Knows All' Ochigue",
+      "assignee_slack_mention": "@Christle 'Knows All' Ochigue",
+      "assigned_date": "2026-04-13",
+      "due_date": "2026-04-17",
+      "message_ts": "1776121264.756129",
+      "source_message": "@Christle 'Knows All' Ochigue i assigned this task for the final prep of aged leads for client",
+      "assigneeId": "UMCPG3D8A",
+      "messageTs": "1776121264.756129",
+      "completed": false,
+      "firstSeenAt": "2026-04-13T23:06:33.467Z"
+    },
+    "81d339e63267d2060cbccc316ef46491": {
+      "task": "turn on google calendar notifications for funnel website with specific format",
+      "assignee_name": "Josh 'The Ninja' Morales",
+      "assignee_slack_mention": "@Josh 'The Ninja' Morales",
+      "assigned_date": "2026-04-13",
+      "due_date": "2026-04-14",
+      "message_ts": "1776114894.412259",
+      "source_message": "@Josh 'The Ninja' Morales please turn the google calendar notifications on for our funnel webs",
+      "assigneeId": "U07FVUF09T7",
+      "messageTs": "1776114894.412259",
+      "completed": false,
+      "firstSeenAt": "2026-04-13T23:07:14.045Z"
     }
   }
 }
