@@ -1,11 +1,13 @@
 /**
  * AMPD Task Monitor — scan.js
  * Reads #ampd-team-tasks, extracts task assignments using Claude AI,
- * then schedules Slack DM reminders to assignees and the manager.
+ * then schedules:
+ *   1. A Slack DM to the manager (Brandon)
+ *   2. A Slack DM to the assignee
+ *   3. A message to the assignee's personal #fd- channel (with @mention)
  *
  * Runs every 30 minutes via GitHub Actions.
- * Uses scheduled-reminders.json to deduplicate — reminders are only
- * scheduled once no matter how many times the script runs.
+ * Uses scheduled-reminders.json to deduplicate across runs.
  */
 
 import Anthropic from '@anthropic-ai/sdk';
@@ -26,6 +28,19 @@ if (!ANTHROPIC_API_KEY || !SLACK_BOT_TOKEN) {
 }
 
 const anthropic = new Anthropic({ apiKey: ANTHROPIC_API_KEY });
+
+// ─── Team channel mapping ─────────────────────────────────────────────────────
+// Maps Slack user ID → their personal #fd- channel ID
+const TEAM_CHANNEL_MAP = {
+  'U023F61R16F': 'C05JGF817H6',  // Mark      → #fd-mark
+  'U01M7FMPTRR': 'C08RNTW55JM',  // Chrissy   → #fd-to-do-chrissy
+  'U07FVUF09T7': 'C093VPK55NF',  // Josh      → #fd-josh
+  'U02LFUG2WLR': 'C05HPPDCSS1',  // Eddie     → #fd-eddie
+  'U08D4RE1SKF': 'C097HTJ0Z5G',  // Liz       → #fd-liz
+  'U02773FLDN2': 'C097208ALLF',  // Jimmy     → #fd-jimmy
+  'UMCPG3D8A':   'C08R493ESAJ',  // Christle  → #fd-christle
+  'U05FE9QNFSQ': 'C05HL1VGA22',  // Megan     → #fd-megan
+};
 
 // ─── Deduplication state ──────────────────────────────────────────────────────
 const STATE_FILE = 'scheduled-reminders.json';
@@ -226,6 +241,12 @@ async function scheduleRemindersForTask(task, userMap, state) {
   const assigneeId = resolveUserId(task.assignee_slack_mention, userMap)
     || resolveUserId(task.assignee_name, userMap);
 
+  // Slack @mention string — renders as a clickable tag and sends a notification
+  const assigneeMention = assigneeId ? `<@${assigneeId}>` : task.assignee_name;
+  const managerMention  = `<@${SLACK_MANAGER_ID}>`;
+
+  const fdChannelId = assigneeId ? TEAM_CHANNEL_MAP[assigneeId] : null;
+
   for (const reminder of reminders) {
     const key = makeReminderKey(task, reminder.type);
 
@@ -251,34 +272,75 @@ async function scheduleRemindersForTask(task, userMap, state) {
     }
 
     const dueLabel = task.due_date ? formatDate(task.due_date) : 'no due date set';
+    const isMidpoint = reminder.type === 'midpoint';
 
-    const managerMsg = reminder.type === 'midpoint'
-      ? `*Midpoint check-in* 📋\n*Task:* ${task.task}\n*Assigned to:* ${task.assignee_name}\n*Due:* ${dueLabel}\n\nThis task is at its halfway point. Consider checking on progress.`
-      : `*Task due today* 📋\n*Task:* ${task.task}\n*Assigned to:* ${task.assignee_name}\n*Due:* ${dueLabel}\n\nThis task is due today — you may want to check in with ${task.assignee_name}.`;
+    // ── Message templates (all use real @mentions) ─────────────────────────
 
-    const assigneeMsg = reminder.type === 'midpoint'
-      ? `*Check-in: Task in progress* 👋\n*Task:* ${task.task}\n*Due:* ${dueLabel}\n\nHey! Just checking in — how is this task coming along? Brandon wanted a quick status update.`
-      : `*Reminder: Task due today* ⏰\n*Task:* ${task.task}\n*Due:* ${dueLabel}\n\nThis task is due today! Let Brandon know if you need anything.`;
+    // 1. Manager DM — tags the assignee so Brandon can see who it's about
+    const managerMsg = isMidpoint
+      ? `*Midpoint check-in* 📋\n*Task:* ${task.task}\n*Assigned to:* ${assigneeMention}\n*Due:* ${dueLabel}\n\nThis task is at its halfway point. Consider checking on progress with ${assigneeMention}.`
+      : `*Task due today* 📋\n*Task:* ${task.task}\n*Assigned to:* ${assigneeMention}\n*Due:* ${dueLabel}\n\nThis task is due today — you may want to check in with ${assigneeMention}.`;
 
+    // 2. Assignee DM — tags themselves (confirms it's meant for them) + tags Brandon
+    const assigneeDmMsg = isMidpoint
+      ? `Hey ${assigneeMention}! 👋 Midpoint check-in on your task:\n\n*Task:* ${task.task}\n*Due:* ${dueLabel}\n\nHow's progress coming along? ${managerMention} wanted a quick status update.`
+      : `Hey ${assigneeMention}! ⏰ Reminder — task due today:\n\n*Task:* ${task.task}\n*Due:* ${dueLabel}\n\nThis is due today! Reach out to ${managerMention} if you need anything.`;
+
+    // 3. #fd- channel — tags the assignee so they get a channel notification too
+    const fdChannelMsg = isMidpoint
+      ? `${assigneeMention} — midpoint check-in 📋\n\n*Task:* ${task.task}\n*Due:* ${dueLabel}\n\nYou're halfway to the deadline on this one. How's it going? Loop in ${managerMention} with a status update.`
+      : `${assigneeMention} — task due today ⏰\n\n*Task:* ${task.task}\n*Due:* ${dueLabel}\n\nThis is due today! Let ${managerMention} know if you need any help.`;
+
+    let scheduled = false;
+
+    // Send manager DM
     try {
       await slackPost('chat.scheduleMessage', {
         channel: SLACK_MANAGER_ID,
         text: managerMsg,
         post_at: postAt
       });
-      console.log(`  ✓ Manager ${reminder.type} reminder scheduled → ${sendTime.toISOString().split('T')[0]}`);
+      console.log(`  ✓ Manager DM scheduled → ${sendTime.toISOString().split('T')[0]}`);
+      scheduled = true;
+    } catch (e) {
+      console.error(`  ✗ Manager DM failed: ${e.message}`);
+    }
 
-      if (assigneeId && assigneeId !== SLACK_MANAGER_ID) {
+    // Send assignee DM
+    if (assigneeId && assigneeId !== SLACK_MANAGER_ID) {
+      try {
         await slackPost('chat.scheduleMessage', {
           channel: assigneeId,
-          text: assigneeMsg,
+          text: assigneeDmMsg,
           post_at: postAt
         });
         console.log(`  ✓ Assignee DM scheduled → ${task.assignee_name}`);
-      } else if (!assigneeId) {
-        console.log(`  ⚠ Could not resolve Slack ID for "${task.assignee_name}" — manager DM only`);
+      } catch (e) {
+        console.error(`  ✗ Assignee DM failed: ${e.message}`);
       }
+    } else if (!assigneeId) {
+      console.log(`  ⚠ Could not resolve Slack ID for "${task.assignee_name}" — manager DM only`);
+    }
 
+    // Send to personal #fd- channel
+    if (fdChannelId) {
+      try {
+        await slackPost('chat.scheduleMessage', {
+          channel: fdChannelId,
+          text: fdChannelMsg,
+          post_at: postAt
+        });
+        console.log(`  ✓ #fd- channel message scheduled → ${task.assignee_name}`);
+      } catch (e) {
+        console.error(`  ✗ #fd- channel message failed: ${e.message}`);
+      }
+    } else if (assigneeId) {
+      console.log(`  ⚠ No #fd- channel mapped for "${task.assignee_name}" (${assigneeId})`);
+    }
+
+    await new Promise(r => setTimeout(r, 300));
+
+    if (scheduled) {
       state.scheduled[key] = {
         scheduledAt: new Date().toISOString(),
         type: reminder.type,
@@ -286,11 +348,7 @@ async function scheduleRemindersForTask(task, userMap, state) {
         assignee: task.assignee_name,
         reminderDate: sendTime.toISOString().split('T')[0]
       };
-    } catch (e) {
-      console.error(`  ✗ Failed to schedule reminder: ${e.message}`);
     }
-
-    await new Promise(r => setTimeout(r, 300));
   }
 }
 
