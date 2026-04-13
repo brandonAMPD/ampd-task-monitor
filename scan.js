@@ -5,15 +5,15 @@
  *   - Midpoint check-in
  *   - Nag reminders daily starting 2 days before due date
  *   - Due date reminder
- *   - Post-due daily reminders until marked complete ("overdue by X days")
+ *   - Post-due daily reminders until marked complete ("overdue by X days"), up to 30 days
  *   - 7-day follow-up for tasks with no due date
  *
  * Completion detection:
- *   - Scans main channel messages for completion keywords
- *   - Also reads thread replies on every tracked task message
+ *   - Scans thread replies on every tracked task message
+ *   - Scans main channel messages for completion keywords via Claude
  *
  * Runs every 30 minutes via GitHub Actions.
- * Persists state in scheduled-reminders.json for deduplication.
+ * Includes retry logic with exponential backoff for Slack API rate limits.
  */
 
 import Anthropic from '@anthropic-ai/sdk';
@@ -27,8 +27,8 @@ const SLACK_CHANNEL_ID  = process.env.SLACK_CHANNEL_ID || 'C0AQK5D4LD6';
 const SLACK_MANAGER_ID  = process.env.SLACK_MANAGER_ID || 'UMS39RAGP';
 const LOOKBACK_DAYS     = parseInt(process.env.LOOKBACK_DAYS || '14');
 const REMINDER_HOUR_UTC = 14;  // 9:00 AM EST = 14:00 UTC
-const NAG_DAYS_BEFORE   = 2;   // Start nag reminders this many days before due date
-const MAX_OVERDUE_DAYS  = 30;  // Stop post-due reminders after this many days overdue
+const NAG_DAYS_BEFORE   = 2;
+const MAX_OVERDUE_DAYS  = 30;
 
 if (!ANTHROPIC_API_KEY || !SLACK_BOT_TOKEN) {
   console.error('ERROR: ANTHROPIC_API_KEY and SLACK_BOT_TOKEN must be set.');
@@ -93,43 +93,101 @@ function purgeOldState(state) {
   let purged = 0;
   for (const [key, entry] of Object.entries(state.scheduled || {})) {
     if (entry.scheduledAt && new Date(entry.scheduledAt).getTime() < cutoff) {
-      delete state.scheduled[key];
-      purged++;
+      delete state.scheduled[key]; purged++;
     }
   }
   for (const [key, entry] of Object.entries(state.tasks || {})) {
     if (entry.completedAt && new Date(entry.completedAt).getTime() < cutoff) {
-      delete state.tasks[key];
-      purged++;
+      delete state.tasks[key]; purged++;
     }
   }
   if (purged > 0) console.log(`Purged ${purged} old state entries.`);
 }
 
-// ─── Slack helpers ────────────────────────────────────────────────────────────
-async function slackGet(method, params = {}) {
-  const url = new URL(`https://slack.com/api/${method}`);
-  Object.entries(params).forEach(([k, v]) => url.searchParams.set(k, v));
-  const res = await fetch(url.toString(), {
-    headers: { Authorization: `Bearer ${SLACK_BOT_TOKEN}` }
-  });
-  const data = await res.json();
-  if (!data.ok) throw new Error(`Slack ${method} error: ${data.error}`);
-  return data;
+// ─── Slack helpers with retry ─────────────────────────────────────────────────
+// Retries on rate limit (429) and transient server errors (5xx)
+async function slackRequest(method, options = {}) {
+  const maxRetries = 4;
+  let attempt = 0;
+
+  while (attempt <= maxRetries) {
+    try {
+      let res;
+      if (options.body) {
+        res = await fetch(`https://slack.com/api/${method}`, {
+          method: 'POST',
+          headers: {
+            Authorization: `Bearer ${SLACK_BOT_TOKEN}`,
+            'Content-Type': 'application/json; charset=utf-8'
+          },
+          body: JSON.stringify(options.body)
+        });
+      } else {
+        const url = new URL(`https://slack.com/api/${method}`);
+        Object.entries(options.params || {}).forEach(([k, v]) => url.searchParams.set(k, v));
+        res = await fetch(url.toString(), {
+          headers: { Authorization: `Bearer ${SLACK_BOT_TOKEN}` }
+        });
+      }
+
+      // Handle HTTP-level rate limiting
+      if (res.status === 429) {
+        const retryAfter = parseInt(res.headers.get('Retry-After') || '5');
+        console.warn(`  ⏳ Rate limited. Waiting ${retryAfter}s before retry ${attempt + 1}/${maxRetries}...`);
+        await sleep((retryAfter + 1) * 1000);
+        attempt++;
+        continue;
+      }
+
+      // Handle transient server errors
+      if (res.status >= 500) {
+        const wait = Math.pow(2, attempt) * 1000;
+        console.warn(`  ⏳ Server error ${res.status}. Waiting ${wait/1000}s before retry ${attempt + 1}/${maxRetries}...`);
+        await sleep(wait);
+        attempt++;
+        continue;
+      }
+
+      const data = await res.json();
+
+      // Handle Slack API-level rate limiting
+      if (!data.ok && data.error === 'ratelimited') {
+        const wait = Math.pow(2, attempt) * 2000;
+        console.warn(`  ⏳ Slack ratelimited. Waiting ${wait/1000}s before retry ${attempt + 1}/${maxRetries}...`);
+        await sleep(wait);
+        attempt++;
+        continue;
+      }
+
+      if (!data.ok) throw new Error(`Slack ${method} error: ${data.error}`);
+      return data;
+
+    } catch (e) {
+      // Network error — retry with backoff
+      if (attempt < maxRetries && e.message.includes('fetch')) {
+        const wait = Math.pow(2, attempt) * 1000;
+        console.warn(`  ⏳ Network error. Waiting ${wait/1000}s before retry...`);
+        await sleep(wait);
+        attempt++;
+        continue;
+      }
+      throw e;
+    }
+  }
+
+  throw new Error(`Slack ${method} failed after ${maxRetries} retries`);
 }
 
-async function slackPost(method, body = {}) {
-  const res = await fetch(`https://slack.com/api/${method}`, {
-    method: 'POST',
-    headers: {
-      Authorization: `Bearer ${SLACK_BOT_TOKEN}`,
-      'Content-Type': 'application/json; charset=utf-8'
-    },
-    body: JSON.stringify(body)
-  });
-  const data = await res.json();
-  if (!data.ok) throw new Error(`Slack ${method} error: ${data.error}`);
-  return data;
+function slackGet(method, params = {}) {
+  return slackRequest(method, { params });
+}
+
+function slackPost(method, body = {}) {
+  return slackRequest(method, { body });
+}
+
+function sleep(ms) {
+  return new Promise(r => setTimeout(r, ms));
 }
 
 // ─── Fetch messages ───────────────────────────────────────────────────────────
@@ -144,7 +202,6 @@ async function fetchMessages() {
   return data.messages || [];
 }
 
-// Fetch thread replies for a specific message timestamp
 async function fetchThreadReplies(messageTs) {
   try {
     const data = await slackGet('conversations.replies', {
@@ -152,8 +209,7 @@ async function fetchThreadReplies(messageTs) {
       ts: messageTs,
       limit: '50'
     });
-    // replies[0] is the parent message, skip it
-    return (data.messages || []).slice(1);
+    return (data.messages || []).slice(1); // skip parent message
   } catch (e) {
     console.warn(`  Could not fetch thread for ${messageTs}: ${e.message}`);
     return [];
@@ -183,42 +239,35 @@ function resolveUserId(mention, userMap) {
 }
 
 // ─── Completion detection ─────────────────────────────────────────────────────
-// Checks both main channel messages AND thread replies on task messages
 async function detectCompletions(messages, userMap, existingTasks) {
   const openTasks = Object.entries(existingTasks).filter(([, t]) => !t.completed);
   if (openTasks.length === 0) return [];
 
-  // 1. Check thread replies for each tracked task that has a message timestamp
-  console.log('Checking thread replies for completions...');
   const quickCompletions = new Set();
 
+  // 1. Check thread replies for each tracked task
+  console.log('Checking thread replies for completions...');
   for (const [taskId, taskState] of openTasks) {
     if (!taskState.messageTs) continue;
-
     const replies = await fetchThreadReplies(taskState.messageTs);
     if (replies.length === 0) continue;
-
-    const replyTexts = replies.map(r => (r.text || '').toLowerCase());
-    const hasCompletion = replyTexts.some(text =>
-      COMPLETION_KEYWORDS.some(kw => text.includes(kw.toLowerCase()))
-    );
-
+    const hasCompletion = replies
+      .map(r => (r.text || '').toLowerCase())
+      .some(text => COMPLETION_KEYWORDS.some(kw => text.includes(kw.toLowerCase())));
     if (hasCompletion) {
       console.log(`  ✅ Thread reply signals completion: "${taskState.task}"`);
       quickCompletions.add(taskId);
     }
-
-    await new Promise(r => setTimeout(r, 200));
+    await sleep(200);
   }
 
-  // 2. Use Claude to check main channel messages for completions
+  // 2. Use Claude to check main channel for completion signals
   const taskList = openTasks
     .filter(([id]) => !quickCompletions.has(id))
     .map(([id, t]) => `ID: ${id} | Task: ${t.task} | Assignee: ${t.assignee_name}`)
     .join('\n');
 
   let claudeCompletions = [];
-
   if (taskList) {
     const today = new Date().toISOString().split('T')[0];
     const recentMessages = messages.slice(0, 50).map(m => {
@@ -230,26 +279,23 @@ async function detectCompletions(messages, userMap, existingTasks) {
     }).join('\n');
 
     console.log('Checking main channel for completion signals...');
-
     try {
       const response = await anthropic.messages.create({
         model: 'claude-sonnet-4-20250514',
         max_tokens: 500,
-        system: `You detect when tasks have been marked complete in Slack messages. Today is ${today}.
-A completion is when someone clearly says a task is done — e.g. "done", "completed", "finished", "submitted", "delivered", "✅".
+        system: `Detect completed tasks from Slack messages. Today is ${today}.
 Return ONLY valid JSON: {"completed": ["taskId1"]}
 If none: {"completed": []}
-Be conservative — only mark complete on clear signals.`,
+Only mark complete on clear signals like "done", "completed", "finished", "submitted", "✅".`,
         messages: [{
           role: 'user',
           content: `Open tasks:\n${taskList}\n\nRecent messages:\n${recentMessages}`
         }]
       });
-
       const raw = response.content[0].text.replace(/```json|```/g, '').trim();
       claudeCompletions = JSON.parse(raw).completed || [];
     } catch (e) {
-      console.warn('Completion detection parse error:', e.message);
+      console.warn('Completion detection error:', e.message);
     }
   }
 
@@ -259,52 +305,43 @@ Be conservative — only mark complete on clear signals.`,
 // ─── Extract tasks via Claude ─────────────────────────────────────────────────
 async function extractTasks(messages, userMap) {
   const today = new Date().toISOString().split('T')[0];
-
   const enriched = messages.map(m => {
     const date = new Date(parseFloat(m.ts) * 1000).toISOString().split('T')[0];
     const author = userMap[m.user]?.name || m.user || 'unknown';
     const text = (m.text || '').replace(/<@([A-Z0-9]+)>/g, (_, uid) =>
       `@${userMap[uid]?.name || uid}`
     );
-    // Include message timestamp so we can track threads later
-    return { line: `[${date}] [ts:${m.ts}] ${author}: ${text}`, ts: m.ts };
-  });
+    return `[${date}] [ts:${m.ts}] ${author}: ${text}`;
+  }).join('\n');
 
-  if (!enriched.length) return [];
-
+  if (!enriched.trim()) return [];
   console.log(`Sending ${messages.length} messages to Claude for task extraction...`);
 
   const response = await anthropic.messages.create({
     model: 'claude-sonnet-4-20250514',
     max_tokens: 3000,
     system: `You extract task assignments from Slack messages. Today is ${today}.
-
 Return ONLY valid JSON — no markdown, no explanation, no code fences:
 {
   "tasks": [
     {
       "task": "brief task description (max 100 chars)",
-      "assignee_name": "full name or @handle of person assigned",
-      "assignee_slack_mention": "@handle exactly as written, or null",
+      "assignee_name": "full name or @handle",
+      "assignee_slack_mention": "@handle as written, or null",
       "assigned_date": "YYYY-MM-DD",
-      "due_date": "YYYY-MM-DD or null if not mentioned",
-      "message_ts": "the ts value from [ts:...] in the source message",
-      "source_message": "first 100 chars of the original message"
+      "due_date": "YYYY-MM-DD or null",
+      "message_ts": "ts value from [ts:...] tag",
+      "source_message": "first 100 chars"
     }
   ]
 }
-
 Rules:
-- Resolve relative dates (e.g. "by Friday", "end of week", "tomorrow") to YYYY-MM-DD from today ${today}
+- Resolve relative dates to YYYY-MM-DD from today ${today}
 - Include ALL assignments — casual, formal, @mentioned, implied
-- Set due_date to null if not mentioned
-- Exclude join messages, bot messages, completion messages, non-task conversation
-- assigned_date = date the message was sent
-- message_ts = copy exactly from [ts:XXXXXXXXX] tag in the message line`,
-    messages: [{
-      role: 'user',
-      content: `Extract all task assignments:\n\n${enriched.map(e => e.line).join('\n')}`
-    }]
+- Exclude join/bot/completion messages
+- assigned_date = message send date
+- message_ts = copy exactly from [ts:XXXXX] in the line`,
+    messages: [{ role: 'user', content: `Extract all task assignments:\n\n${enriched}` }]
   });
 
   const raw = response.content[0].text.replace(/```json|```/g, '').trim();
@@ -320,8 +357,7 @@ Rules:
 
 // ─── Reminder schedule ────────────────────────────────────────────────────────
 function calcReminders(task) {
-  const today = new Date();
-  today.setUTCHours(0, 0, 0, 0);
+  const today = new Date(); today.setUTCHours(0,0,0,0);
   const todayStr = today.toISOString().split('T')[0];
   const assigned = new Date((task.assigned_date || todayStr) + 'T00:00:00Z');
   const reminders = [];
@@ -333,60 +369,37 @@ function calcReminders(task) {
     // Midpoint
     if (totalMs > 2 * 86400000) {
       const mid = new Date(assigned.getTime() + totalMs / 2);
-      mid.setUTCHours(0, 0, 0, 0);
-      if (mid >= today) {
-        reminders.push({ type: 'midpoint', date: new Date(mid), dateStr: mid.toISOString().split('T')[0] });
-      }
+      mid.setUTCHours(0,0,0,0);
+      if (mid >= today) reminders.push({ type: 'midpoint', date: new Date(mid), dateStr: mid.toISOString().split('T')[0] });
     }
 
-    // Pre-due nag window (NAG_DAYS_BEFORE days before due up to and including due date)
+    // Pre-due nag window
     for (let d = NAG_DAYS_BEFORE; d >= 0; d--) {
       const nagDate = new Date(due.getTime() - d * 86400000);
-      nagDate.setUTCHours(0, 0, 0, 0);
+      nagDate.setUTCHours(0,0,0,0);
       if (nagDate >= today) {
-        const daysUntilDue = d;
-        reminders.push({
-          type: d === 0 ? 'due' : 'nag',
-          date: new Date(nagDate),
-          dateStr: nagDate.toISOString().split('T')[0],
-          daysUntilDue
-        });
+        reminders.push({ type: d === 0 ? 'due' : 'nag', date: new Date(nagDate), dateStr: nagDate.toISOString().split('T')[0], daysUntilDue: d });
       }
     }
 
-    // Post-due daily reminders (day after due up to MAX_OVERDUE_DAYS)
+    // Post-due daily overdue reminders
     for (let d = 1; d <= MAX_OVERDUE_DAYS; d++) {
       const overdueDate = new Date(due.getTime() + d * 86400000);
-      overdueDate.setUTCHours(0, 0, 0, 0);
+      overdueDate.setUTCHours(0,0,0,0);
       if (overdueDate >= today) {
-        reminders.push({
-          type: 'overdue',
-          date: new Date(overdueDate),
-          dateStr: overdueDate.toISOString().split('T')[0],
-          daysOverdue: d
-        });
+        reminders.push({ type: 'overdue', date: new Date(overdueDate), dateStr: overdueDate.toISOString().split('T')[0], daysOverdue: d });
       }
     }
   } else {
     // No due date: 7-day follow-up
     const followUp = new Date(assigned.getTime() + 7 * 86400000);
-    followUp.setUTCHours(0, 0, 0, 0);
-    if (followUp >= today) {
-      reminders.push({
-        type: 'followup',
-        date: new Date(followUp),
-        dateStr: followUp.toISOString().split('T')[0]
-      });
-    }
+    followUp.setUTCHours(0,0,0,0);
+    if (followUp >= today) reminders.push({ type: 'followup', date: new Date(followUp), dateStr: followUp.toISOString().split('T')[0] });
   }
 
-  // Deduplicate by date (midpoint may land on a nag day)
+  // Deduplicate by date
   const seen = new Set();
-  return reminders.filter(r => {
-    if (seen.has(r.dateStr)) return false;
-    seen.add(r.dateStr);
-    return true;
-  });
+  return reminders.filter(r => { if (seen.has(r.dateStr)) return false; seen.add(r.dateStr); return true; });
 }
 
 function formatDate(dateStr) {
@@ -407,7 +420,6 @@ function buildMessages(reminder, task, assigneeMention) {
         assignee: `Hey ${assigneeMention}! 👋 Midpoint check-in:\n\n*Task:* ${task.task}\n*Due:* ${dueLabel}\n\nHow's progress? ${managerMention} wanted a quick status update.`,
         channel:  `${assigneeMention} — midpoint check-in 📋\n\n*Task:* ${task.task}\n*Due:* ${dueLabel}\n\nHalfway there! Loop in ${managerMention} with a status update.`
       };
-
     case 'nag': {
       const d = reminder.daysUntilDue;
       const urgency = d === 1 ? '🚨 *1 day left!*' : `⚠️ *${d} days left*`;
@@ -417,14 +429,12 @@ function buildMessages(reminder, task, assigneeMention) {
         channel:  `${assigneeMention} — ${urgency}:\n\n*Task:* ${task.task}\n*Due:* ${dueLabel}\n\nUpdate ${managerMention} on your status!`
       };
     }
-
     case 'due':
       return {
         manager:  `*Task due today* 📋\n*Task:* ${task.task}\n*Assigned to:* ${assigneeMention}\n*Due:* ${dueLabel}\n\nThis task is due today — check in with ${assigneeMention}.`,
         assignee: `Hey ${assigneeMention}! ⏰ Task due *today*:\n\n*Task:* ${task.task}\n*Due:* ${dueLabel}\n\nGet it wrapped up! Reach out to ${managerMention} if you need anything.`,
         channel:  `${assigneeMention} — task due *today* ⏰\n\n*Task:* ${task.task}\n*Due:* ${dueLabel}\n\nDue today! Let ${managerMention} know if you need help.`
       };
-
     case 'overdue': {
       const d = reminder.daysOverdue;
       const dayLabel = d === 1 ? '1 day' : `${d} days`;
@@ -434,9 +444,7 @@ function buildMessages(reminder, task, assigneeMention) {
         channel:  `${assigneeMention} — *overdue by ${dayLabel}* 🚨\n\n*Task:* ${task.task}\n*Was due:* ${dueLabel}\n\nThis is past due! Update ${managerMention} immediately.`
       };
     }
-
-    case 'followup':
-    default:
+    default: // followup
       return {
         manager:  `*Weekly follow-up* 📋\n*Task:* ${task.task}\n*Assigned to:* ${assigneeMention}\n*Assigned:* ${formatDate(task.assigned_date)}\n\nNo due date set — hasn't been marked complete after 7 days.`,
         assignee: `Hey ${assigneeMention}! 👋 Following up on an open task:\n\n*Task:* ${task.task}\n\nNo due date was set — what's the status? Loop in ${managerMention}.`,
@@ -465,7 +473,6 @@ async function scheduleRemindersForTask(task, taskId, userMap, state) {
 
   for (const reminder of reminders) {
     const key = makeReminderKey(taskId, reminder.type, reminder.dateStr);
-
     if (state.scheduled[key]) {
       console.log(`  → Already scheduled ${reminder.type} (${reminder.dateStr}) — skipping`);
       continue;
@@ -478,62 +485,36 @@ async function scheduleRemindersForTask(task, taskId, userMap, state) {
 
     if (postAt <= nowSec + 120) {
       console.log(`  → Past/too soon — skipping ${reminder.type} (${reminder.dateStr})`);
-      state.scheduled[key] = {
-        scheduledAt: new Date().toISOString(),
-        type: reminder.type,
-        task: task.task,
-        skipped: true
-      };
+      state.scheduled[key] = { scheduledAt: new Date().toISOString(), type: reminder.type, task: task.task, skipped: true };
       continue;
     }
 
     const msgs = buildMessages(reminder, task, assigneeMention);
     let scheduled = false;
 
-    // 1. Manager DM
     try {
-      await slackPost('chat.scheduleMessage', {
-        channel: SLACK_MANAGER_ID,
-        text: msgs.manager,
-        post_at: postAt
-      });
+      await slackPost('chat.scheduleMessage', { channel: SLACK_MANAGER_ID, text: msgs.manager, post_at: postAt });
       console.log(`  ✓ Manager DM — ${reminder.type} on ${reminder.dateStr}`);
       scheduled = true;
-    } catch (e) {
-      console.error(`  ✗ Manager DM failed: ${e.message}`);
-    }
+    } catch (e) { console.error(`  ✗ Manager DM failed: ${e.message}`); }
 
-    // 2. Assignee DM
     if (assigneeId && assigneeId !== SLACK_MANAGER_ID) {
       try {
-        await slackPost('chat.scheduleMessage', {
-          channel: assigneeId,
-          text: msgs.assignee,
-          post_at: postAt
-        });
+        await slackPost('chat.scheduleMessage', { channel: assigneeId, text: msgs.assignee, post_at: postAt });
         console.log(`  ✓ Assignee DM — ${task.assignee_name}`);
-      } catch (e) {
-        console.error(`  ✗ Assignee DM failed: ${e.message}`);
-      }
+      } catch (e) { console.error(`  ✗ Assignee DM failed: ${e.message}`); }
     } else if (!assigneeId) {
       console.log(`  ⚠ Could not resolve Slack ID for "${task.assignee_name}"`);
     }
 
-    // 3. Personal #fd- channel
     if (fdChannelId) {
       try {
-        await slackPost('chat.scheduleMessage', {
-          channel: fdChannelId,
-          text: msgs.channel,
-          post_at: postAt
-        });
+        await slackPost('chat.scheduleMessage', { channel: fdChannelId, text: msgs.channel, post_at: postAt });
         console.log(`  ✓ #fd- channel — ${task.assignee_name}`);
-      } catch (e) {
-        console.error(`  ✗ #fd- channel failed: ${e.message}`);
-      }
+      } catch (e) { console.error(`  ✗ #fd- channel failed: ${e.message}`); }
     }
 
-    await new Promise(r => setTimeout(r, 300));
+    await sleep(500); // small delay between Slack calls to reduce rate limit risk
 
     if (scheduled) {
       state.scheduled[key] = {
@@ -573,7 +554,7 @@ async function main() {
       return;
     }
 
-    // Step 1: Check for completions (channel messages + thread replies)
+    // Step 1: Detect completions
     const completedIds = await detectCompletions(realMessages, userMap, state.tasks);
     if (completedIds.length > 0) {
       console.log(`\nMarking ${completedIds.length} task(s) complete:`);
@@ -587,11 +568,9 @@ async function main() {
           try {
             await slackPost('chat.postMessage', {
               channel: SLACK_MANAGER_ID,
-              text: `*Task completed* ✅\n*Task:* ${state.tasks[id].task}\n*Completed by:* ${assigneeMention}\n\nAll future reminders for this task have been cancelled.`
+              text: `*Task completed* ✅\n*Task:* ${state.tasks[id].task}\n*Completed by:* ${assigneeMention}\n\nAll future reminders cancelled.`
             });
-          } catch (e) {
-            console.warn('  Could not send completion notice:', e.message);
-          }
+          } catch (e) { console.warn('  Could not send completion notice:', e.message); }
         }
       }
     }
@@ -604,7 +583,7 @@ async function main() {
       return;
     }
 
-    // Step 3: Register new tasks and schedule reminders
+    // Step 3: Register and schedule
     console.log('\nProcessing tasks...');
     for (const task of tasks) {
       const taskId = makeTaskId(task);
@@ -612,20 +591,13 @@ async function main() {
       if (!state.tasks[taskId]) {
         const assigneeId = resolveUserId(task.assignee_slack_mention, userMap)
           || resolveUserId(task.assignee_name, userMap);
-        state.tasks[taskId] = {
-          ...task,
-          assigneeId,
-          messageTs: task.message_ts || null,
-          completed: false,
-          firstSeenAt: new Date().toISOString()
-        };
+        state.tasks[taskId] = { ...task, assigneeId, messageTs: task.message_ts || null, completed: false, firstSeenAt: new Date().toISOString() };
         console.log(`\n[NEW] "${task.task}" → ${task.assignee_name} (due: ${task.due_date || 'none'})`);
       } else if (state.tasks[taskId].completed) {
         console.log(`\n[DONE] Skipping: "${task.task}"`);
         continue;
       } else {
         console.log(`\n[OPEN] "${task.task}" → ${task.assignee_name} (due: ${task.due_date || 'none'})`);
-        // Update messageTs if we now have it
         if (task.message_ts && !state.tasks[taskId].messageTs) {
           state.tasks[taskId].messageTs = task.message_ts;
         }
