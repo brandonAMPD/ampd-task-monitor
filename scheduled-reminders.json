@@ -6195,9 +6195,161 @@
       "task": "Fix Eric Lovett's leadsheet data and coordinate with Mark/Joma",
       "assignee": "Christle 'Knows All' Ochigue",
       "reminderDate": "2026-05-20"
+    },
+    "5ef7c1c55317e031f0e9669ee13e8ad7|due|2026-04-13": {
+      "scheduledAt": "2026-04-13T21:00:40.688Z",
+      "type": "due",
+      "task": "Check on tech concern: https://dovetailmktg.freshdesk.com/a/tickets/22075",
+      "skipped": true
+    },
+    "5ef7c1c55317e031f0e9669ee13e8ad7|overdue|2026-04-14": {
+      "scheduledAt": "2026-04-13T21:00:41.481Z",
+      "type": "overdue",
+      "task": "Check on tech concern: https://dovetailmktg.freshdesk.com/a/tickets/22075",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-04-14"
+    },
+    "5ef7c1c55317e031f0e9669ee13e8ad7|overdue|2026-04-15": {
+      "scheduledAt": "2026-04-13T21:00:42.175Z",
+      "type": "overdue",
+      "task": "Check on tech concern: https://dovetailmktg.freshdesk.com/a/tickets/22075",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-04-15"
+    },
+    "5ef7c1c55317e031f0e9669ee13e8ad7|overdue|2026-04-16": {
+      "scheduledAt": "2026-04-13T21:00:42.887Z",
+      "type": "overdue",
+      "task": "Check on tech concern: https://dovetailmktg.freshdesk.com/a/tickets/22075",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-04-16"
+    },
+    "5ef7c1c55317e031f0e9669ee13e8ad7|overdue|2026-04-17": {
+      "scheduledAt": "2026-04-13T21:00:43.566Z",
+      "type": "overdue",
+      "task": "Check on tech concern: https://dovetailmktg.freshdesk.com/a/tickets/22075",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-04-17"
+    },
+    "5ef7c1c55317e031f0e9669ee13e8ad7|overdue|2026-04-18": {
+      "scheduledAt": "2026-04-13T21:00:44.226Z",
+      "type": "overdue",
+      "task": "Check on tech concern: https://dovetailmktg.freshdesk.com/a/tickets/22075",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-04-18"
+    },
+    "6f03c98182110e7ac23ae5409292a4fd|nag|2026-04-13": {
+      "scheduledAt": "2026-04-13T21:01:01.676Z",
+      "type": "nag",
+      "task": "Update landing page with updated links and new links for LOS version",
+      "skipped": true
+    },
+    "6f03c98182110e7ac23ae5409292a4fd|due|2026-04-14": {
+      "scheduledAt": "2026-04-13T21:01:02.363Z",
+      "type": "due",
+      "task": "Update landing page with updated links and new links for LOS version",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-04-14"
+    },
+    "6f03c98182110e7ac23ae5409292a4fd|overdue|2026-04-15": {
+      "scheduledAt": "2026-04-13T21:01:03.075Z",
+      "type": "overdue",
+      "task": "Update landing page with updated links and new links for LOS version",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-04-15"
+    },
+    "6f03c98182110e7ac23ae5409292a4fd|overdue|2026-04-16": {
+      "scheduledAt": "2026-04-13T21:01:03.741Z",
+      "type": "overdue",
+      "task": "Update landing page with updated links and new links for LOS version",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-04-16"
+    },
+    "6f03c98182110e7ac23ae5409292a4fd|overdue|2026-04-17": {
+      "scheduledAt": "2026-04-13T21:01:04.566Z",
+      "type": "overdue",
+      "task": "Update landing page with updated links and new links for LOS version",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-04-17"
+    },
+    "6f03c98182110e7ac23ae5409292a4fd|overdue|2026-04-18": {
+      "scheduledAt": "2026-04-13T21:01:05.223Z",
+      "type": "overdue",
+      "task": "Update landing page with updated links and new links for LOS version",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-04-18"
+    },
+    "6f03c98182110e7ac23ae5409292a4fd|overdue|2026-05-14": {
+      "scheduledAt": "2026-04-13T21:01:23.694Z",
+      "type": "overdue",
+      "task": "Update landing page with updated links and new links for LOS version",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-05-14"
+    },
+    "b5dd4cfe4df376787bd40e7a1000ef9b|midpoint|2026-04-16": {
+      "scheduledAt": "2026-04-13T21:01:24.355Z",
+      "type": "midpoint",
+      "task": "Turn on adroll retargeting using most current images, retarget non-conversions last 90 days",
+      "assignee": "Joma 'Magic Fingers' Cris Cantalejo",
+      "reminderDate": "2026-04-16"
+    },
+    "b5dd4cfe4df376787bd40e7a1000ef9b|nag|2026-04-18": {
+      "scheduledAt": "2026-04-13T21:01:25.019Z",
+      "type": "nag",
+      "task": "Turn on adroll retargeting using most current images, retarget non-conversions last 90 days",
+      "assignee": "Joma 'Magic Fingers' Cris Cantalejo",
+      "reminderDate": "2026-04-18"
+    },
+    "b5dd4cfe4df376787bd40e7a1000ef9b|overdue|2026-05-14": {
+      "scheduledAt": "2026-04-13T21:01:42.017Z",
+      "type": "overdue",
+      "task": "Turn on adroll retargeting using most current images, retarget non-conversions last 90 days",
+      "assignee": "Joma 'Magic Fingers' Cris Cantalejo",
+      "reminderDate": "2026-05-14"
+    },
+    "b5dd4cfe4df376787bd40e7a1000ef9b|overdue|2026-05-15": {
+      "scheduledAt": "2026-04-13T21:01:42.674Z",
+      "type": "overdue",
+      "task": "Turn on adroll retargeting using most current images, retarget non-conversions last 90 days",
+      "assignee": "Joma 'Magic Fingers' Cris Cantalejo",
+      "reminderDate": "2026-05-15"
+    },
+    "b5dd4cfe4df376787bd40e7a1000ef9b|overdue|2026-05-16": {
+      "scheduledAt": "2026-04-13T21:01:43.340Z",
+      "type": "overdue",
+      "task": "Turn on adroll retargeting using most current images, retarget non-conversions last 90 days",
+      "assignee": "Joma 'Magic Fingers' Cris Cantalejo",
+      "reminderDate": "2026-05-16"
+    },
+    "b5dd4cfe4df376787bd40e7a1000ef9b|overdue|2026-05-17": {
+      "scheduledAt": "2026-04-13T21:01:43.983Z",
+      "type": "overdue",
+      "task": "Turn on adroll retargeting using most current images, retarget non-conversions last 90 days",
+      "assignee": "Joma 'Magic Fingers' Cris Cantalejo",
+      "reminderDate": "2026-05-17"
+    },
+    "b5dd4cfe4df376787bd40e7a1000ef9b|overdue|2026-05-18": {
+      "scheduledAt": "2026-04-13T21:01:44.642Z",
+      "type": "overdue",
+      "task": "Turn on adroll retargeting using most current images, retarget non-conversions last 90 days",
+      "assignee": "Joma 'Magic Fingers' Cris Cantalejo",
+      "reminderDate": "2026-05-18"
+    },
+    "b5dd4cfe4df376787bd40e7a1000ef9b|overdue|2026-05-19": {
+      "scheduledAt": "2026-04-13T21:01:45.333Z",
+      "type": "overdue",
+      "task": "Turn on adroll retargeting using most current images, retarget non-conversions last 90 days",
+      "assignee": "Joma 'Magic Fingers' Cris Cantalejo",
+      "reminderDate": "2026-05-19"
+    },
+    "b5dd4cfe4df376787bd40e7a1000ef9b|overdue|2026-05-20": {
+      "scheduledAt": "2026-04-13T21:01:45.978Z",
+      "type": "overdue",
+      "task": "Turn on adroll retargeting using most current images, retarget non-conversions last 90 days",
+      "assignee": "Joma 'Magic Fingers' Cris Cantalejo",
+      "reminderDate": "2026-05-20"
     }
   },
-  "lastRun": "2026-04-13T20:31:41.611Z",
+  "lastRun": "2026-04-13T21:01:45.980Z",
   "tasks": {
     "2886df20f4859405206a1dccebe0612c": {
       "task": "turn ads back",
@@ -6551,6 +6703,45 @@
       "messageTs": "1776094285.826509",
       "completed": false,
       "firstSeenAt": "2026-04-13T20:31:18.378Z"
+    },
+    "5ef7c1c55317e031f0e9669ee13e8ad7": {
+      "task": "Check on tech concern: https://dovetailmktg.freshdesk.com/a/tickets/22075",
+      "assignee_name": "Mark 'Morpheus' Manaog",
+      "assignee_slack_mention": "@Mark 'Morpheus' Manaog",
+      "assigned_date": "2026-04-13",
+      "due_date": "2026-04-13",
+      "message_ts": "1776109872.053879",
+      "source_message": "@Mark 'Morpheus' Manaog Please check on their tech concern: <https://dovetailmktg.freshdesk.com/a/",
+      "assigneeId": "U023F61R16F",
+      "messageTs": "1776109872.053879",
+      "completed": false,
+      "firstSeenAt": "2026-04-13T21:00:40.687Z"
+    },
+    "6f03c98182110e7ac23ae5409292a4fd": {
+      "task": "Update landing page with updated links and new links for LOS version",
+      "assignee_name": "Mark 'Morpheus' Manaog",
+      "assignee_slack_mention": "@Mark 'Morpheus' Manaog",
+      "assigned_date": "2026-04-13",
+      "due_date": "2026-04-14",
+      "message_ts": "1776108180.619019",
+      "source_message": "@Mark 'Morpheus' Manaog please update the landing page that a lead gen (broker lift system) clie",
+      "assigneeId": "U023F61R16F",
+      "messageTs": "1776108180.619019",
+      "completed": false,
+      "firstSeenAt": "2026-04-13T21:01:01.676Z"
+    },
+    "b5dd4cfe4df376787bd40e7a1000ef9b": {
+      "task": "Turn on adroll retargeting using most current images, retarget non-conversions last 90 days",
+      "assignee_name": "Joma 'Magic Fingers' Cris Cantalejo",
+      "assignee_slack_mention": "@Joma 'Magic Fingers' Cris Cantalejo",
+      "assigned_date": "2026-04-13",
+      "due_date": "2026-04-20",
+      "message_ts": "1776093594.754979",
+      "source_message": "@Joma 'Magic Fingers' Cris Cantalejo please turn on adroll retargeting using the most current i",
+      "assigneeId": "U03KVJD9927",
+      "messageTs": "1776093594.754979",
+      "completed": false,
+      "firstSeenAt": "2026-04-13T21:01:23.695Z"
     }
   }
 }
