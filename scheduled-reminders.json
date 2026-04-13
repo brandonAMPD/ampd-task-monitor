@@ -6476,9 +6476,78 @@
       "task": "update the landing page that a lead gen client would go to with updated links and new LOS links",
       "assignee": "Mark 'Morpheus' Manaog",
       "reminderDate": "2026-04-17"
+    },
+    "2815766e3417206d21f5032874c39b6d|nag|2026-04-13": {
+      "scheduledAt": "2026-04-13T22:31:25.119Z",
+      "type": "nag",
+      "task": "update the landing page with updated links and new links for LOS version",
+      "skipped": true
+    },
+    "2815766e3417206d21f5032874c39b6d|due|2026-04-14": {
+      "scheduledAt": "2026-04-13T22:31:25.987Z",
+      "type": "due",
+      "task": "update the landing page with updated links and new links for LOS version",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-04-14"
+    },
+    "2815766e3417206d21f5032874c39b6d|overdue|2026-04-15": {
+      "scheduledAt": "2026-04-13T22:31:26.852Z",
+      "type": "overdue",
+      "task": "update the landing page with updated links and new links for LOS version",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-04-15"
+    },
+    "2815766e3417206d21f5032874c39b6d|overdue|2026-04-17": {
+      "scheduledAt": "2026-04-13T22:31:28.623Z",
+      "type": "overdue",
+      "task": "update the landing page with updated links and new links for LOS version",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-04-17"
+    },
+    "e5e72e9c0d8e857b97592a5374f76d43|overdue|2026-05-15": {
+      "scheduledAt": "2026-04-13T22:33:02.845Z",
+      "type": "overdue",
+      "task": "turn on adroll retargeting using the most current images retarget non-conversions last 90 days",
+      "assignee": "Joma 'Magic Fingers' Cris Cantalejo",
+      "reminderDate": "2026-05-15"
+    },
+    "e5e72e9c0d8e857b97592a5374f76d43|overdue|2026-05-16": {
+      "scheduledAt": "2026-04-13T22:33:03.717Z",
+      "type": "overdue",
+      "task": "turn on adroll retargeting using the most current images retarget non-conversions last 90 days",
+      "assignee": "Joma 'Magic Fingers' Cris Cantalejo",
+      "reminderDate": "2026-05-16"
+    },
+    "e5e72e9c0d8e857b97592a5374f76d43|overdue|2026-05-17": {
+      "scheduledAt": "2026-04-13T22:33:15.749Z",
+      "type": "overdue",
+      "task": "turn on adroll retargeting using the most current images retarget non-conversions last 90 days",
+      "assignee": "Joma 'Magic Fingers' Cris Cantalejo",
+      "reminderDate": "2026-05-17"
+    },
+    "e5e72e9c0d8e857b97592a5374f76d43|overdue|2026-05-18": {
+      "scheduledAt": "2026-04-13T22:33:16.651Z",
+      "type": "overdue",
+      "task": "turn on adroll retargeting using the most current images retarget non-conversions last 90 days",
+      "assignee": "Joma 'Magic Fingers' Cris Cantalejo",
+      "reminderDate": "2026-05-18"
+    },
+    "e5e72e9c0d8e857b97592a5374f76d43|overdue|2026-05-19": {
+      "scheduledAt": "2026-04-13T22:33:17.546Z",
+      "type": "overdue",
+      "task": "turn on adroll retargeting using the most current images retarget non-conversions last 90 days",
+      "assignee": "Joma 'Magic Fingers' Cris Cantalejo",
+      "reminderDate": "2026-05-19"
+    },
+    "e5e72e9c0d8e857b97592a5374f76d43|overdue|2026-05-20": {
+      "scheduledAt": "2026-04-13T22:33:18.440Z",
+      "type": "overdue",
+      "task": "turn on adroll retargeting using the most current images retarget non-conversions last 90 days",
+      "assignee": "Joma 'Magic Fingers' Cris Cantalejo",
+      "reminderDate": "2026-05-20"
     }
   },
-  "lastRun": "2026-04-13T22:01:47.900Z",
+  "lastRun": "2026-04-13T22:33:18.442Z",
   "tasks": {
     "2886df20f4859405206a1dccebe0612c": {
       "task": "turn ads back",
@@ -6923,6 +6992,32 @@
       "messageTs": "1776108180.619019",
       "completed": false,
       "firstSeenAt": "2026-04-13T22:01:23.830Z"
+    },
+    "2815766e3417206d21f5032874c39b6d": {
+      "task": "update the landing page with updated links and new links for LOS version",
+      "assignee_name": "Mark 'Morpheus' Manaog",
+      "assignee_slack_mention": "@Mark 'Morpheus' Manaog",
+      "assigned_date": "2026-04-13",
+      "due_date": "2026-04-14",
+      "message_ts": "1776108180.619019",
+      "source_message": "@Mark 'Morpheus' Manaog please update the landing page that a lead gen (broker lift system) c",
+      "assigneeId": "U023F61R16F",
+      "messageTs": "1776108180.619019",
+      "completed": false,
+      "firstSeenAt": "2026-04-13T22:31:25.119Z"
+    },
+    "e5e72e9c0d8e857b97592a5374f76d43": {
+      "task": "turn on adroll retargeting using the most current images retarget non-conversions last 90 days",
+      "assignee_name": "Joma 'Magic Fingers' Cris Cantalejo",
+      "assignee_slack_mention": "@Joma 'Magic Fingers' Cris Cantalejo",
+      "assigned_date": "2026-04-13",
+      "due_date": "2026-04-20",
+      "message_ts": "1776093594.754979",
+      "source_message": "@Joma 'Magic Fingers' Cris Cantalejo please turn on adroll retargeting using the most curre",
+      "assigneeId": "U03KVJD9927",
+      "messageTs": "1776093594.754979",
+      "completed": false,
+      "firstSeenAt": "2026-04-13T22:31:52.586Z"
     }
   }
 }
