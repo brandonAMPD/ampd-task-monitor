@@ -7241,9 +7241,63 @@
       "task": "turn on adroll retargeting using current images for non-conversions last 90 days",
       "assignee": "Joma 'Magic Fingers' Cris Cantalejo",
       "reminderDate": "2026-05-20"
+    },
+    "e21bc84509f50faa8cc66e6158ff2139|nag|2026-04-14": {
+      "scheduledAt": "2026-04-14T15:03:03.926Z",
+      "type": "nag",
+      "task": "update Sergio Tapia's bullets",
+      "skipped": true
+    },
+    "0870ae68d88bb908d62dea6d4d6afbc4|due|2026-04-14": {
+      "scheduledAt": "2026-04-14T15:05:28.917Z",
+      "type": "due",
+      "task": "update landing page with new links and LOS version updates",
+      "skipped": true
+    },
+    "b3e4d6e75d6e3466cbb88e4df802b4bb|overdue|2026-05-18": {
+      "scheduledAt": "2026-04-14T15:07:36.282Z",
+      "type": "overdue",
+      "task": "fix Eric Lovett's leadsheet data and coordinate with Mark and/or Joma",
+      "assignee": "Christle 'Knows All' Ochigue",
+      "reminderDate": "2026-05-18"
+    },
+    "b3e4d6e75d6e3466cbb88e4df802b4bb|overdue|2026-05-19": {
+      "scheduledAt": "2026-04-14T15:07:48.241Z",
+      "type": "overdue",
+      "task": "fix Eric Lovett's leadsheet data and coordinate with Mark and/or Joma",
+      "assignee": "Christle 'Knows All' Ochigue",
+      "reminderDate": "2026-05-19"
+    },
+    "b3e4d6e75d6e3466cbb88e4df802b4bb|overdue|2026-05-20": {
+      "scheduledAt": "2026-04-14T15:07:48.972Z",
+      "type": "overdue",
+      "task": "fix Eric Lovett's leadsheet data and coordinate with Mark and/or Joma",
+      "assignee": "Christle 'Knows All' Ochigue",
+      "reminderDate": "2026-05-20"
+    },
+    "6def665bea6399ec06ea581075c4df16|overdue|2026-05-18": {
+      "scheduledAt": "2026-04-14T15:09:42.379Z",
+      "type": "overdue",
+      "task": "turn on adroll retargeting using current images for 90 days non-conversions at $5/day",
+      "assignee": "Joma 'Magic Fingers' Cris Cantalejo",
+      "reminderDate": "2026-05-18"
+    },
+    "6def665bea6399ec06ea581075c4df16|overdue|2026-05-19": {
+      "scheduledAt": "2026-04-14T15:09:43.213Z",
+      "type": "overdue",
+      "task": "turn on adroll retargeting using current images for 90 days non-conversions at $5/day",
+      "assignee": "Joma 'Magic Fingers' Cris Cantalejo",
+      "reminderDate": "2026-05-19"
+    },
+    "6def665bea6399ec06ea581075c4df16|overdue|2026-05-20": {
+      "scheduledAt": "2026-04-14T15:09:43.995Z",
+      "type": "overdue",
+      "task": "turn on adroll retargeting using current images for 90 days non-conversions at $5/day",
+      "assignee": "Joma 'Magic Fingers' Cris Cantalejo",
+      "reminderDate": "2026-05-20"
     }
   },
-  "lastRun": "2026-04-14T14:33:11.449Z",
+  "lastRun": "2026-04-14T15:09:43.996Z",
   "tasks": {
     "2886df20f4859405206a1dccebe0612c": {
       "task": "turn ads back",
@@ -8397,6 +8451,58 @@
       "messageTs": "1776093594.754979",
       "completed": false,
       "firstSeenAt": "2026-04-14T14:32:03.456Z"
+    },
+    "e21bc84509f50faa8cc66e6158ff2139": {
+      "task": "update Sergio Tapia's bullets",
+      "assignee_name": "Christle 'Knows All' Ochigue",
+      "assignee_slack_mention": "@Christle 'Knows All' Ochigue",
+      "assigned_date": "2026-04-14",
+      "due_date": "2026-04-15",
+      "message_ts": "1776178539.382329",
+      "source_message": "@Christle 'Knows All' Ochigue | task: update Sergio Tapia's bullets | Due: 4-15-26 EOD",
+      "assigneeId": "UMCPG3D8A",
+      "messageTs": "1776178539.382329",
+      "completed": false,
+      "firstSeenAt": "2026-04-14T15:03:03.925Z"
+    },
+    "0870ae68d88bb908d62dea6d4d6afbc4": {
+      "task": "update landing page with new links and LOS version updates",
+      "assignee_name": "Mark 'Morpheus' Manaog",
+      "assignee_slack_mention": "@Mark 'Morpheus' Manaog",
+      "assigned_date": "2026-04-13",
+      "due_date": "2026-04-14",
+      "message_ts": "1776108180.619019",
+      "source_message": "@Mark 'Morpheus' Manaog please update the landing page that a lead gen (broker lift system) clien",
+      "assigneeId": "U023F61R16F",
+      "messageTs": "1776108180.619019",
+      "completed": false,
+      "firstSeenAt": "2026-04-14T15:05:28.916Z"
+    },
+    "b3e4d6e75d6e3466cbb88e4df802b4bb": {
+      "task": "fix Eric Lovett's leadsheet data and coordinate with Mark and/or Joma",
+      "assignee_name": "Christle 'Knows All' Ochigue",
+      "assignee_slack_mention": "@Christle 'Knows All' Ochigue",
+      "assigned_date": "2026-04-13",
+      "due_date": "2026-04-20",
+      "message_ts": "1776094285.826509",
+      "source_message": "@Christle 'Knows All' Ochigue please fix Eric Lovett's leadsheet data and get with Mark and/or",
+      "assigneeId": "UMCPG3D8A",
+      "messageTs": "1776094285.826509",
+      "completed": false,
+      "firstSeenAt": "2026-04-14T15:06:37.436Z"
+    },
+    "6def665bea6399ec06ea581075c4df16": {
+      "task": "turn on adroll retargeting using current images for 90 days non-conversions at $5/day",
+      "assignee_name": "Joma 'Magic Fingers' Cris Cantalejo",
+      "assignee_slack_mention": "@Joma 'Magic Fingers' Cris Cantalejo",
+      "assigned_date": "2026-04-13",
+      "due_date": "2026-04-20",
+      "message_ts": "1776093594.754979",
+      "source_message": "@Joma 'Magic Fingers' Cris Cantalejo please turn on adroll retargeting using the most current",
+      "assigneeId": "U03KVJD9927",
+      "messageTs": "1776093594.754979",
+      "completed": false,
+      "firstSeenAt": "2026-04-14T15:07:48.972Z"
     }
   }
 }
