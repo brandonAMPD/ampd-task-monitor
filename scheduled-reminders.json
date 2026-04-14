@@ -6899,9 +6899,23 @@
       "task": "turn on adroll retargeting with current images, retarget non-conversions last 90 days at $5/day",
       "assignee": "Joma 'Magic Fingers' Cris Cantalejo",
       "reminderDate": "2026-05-20"
+    },
+    "27b117b7432c0ca4bcde7f2def513e7d|overdue|2026-05-15": {
+      "scheduledAt": "2026-04-14T01:31:56.881Z",
+      "type": "overdue",
+      "task": "instruct team on how to find the 300 leads for Paul Lenskold",
+      "assignee": "Brandon 'The One' Robertson",
+      "reminderDate": "2026-05-15"
+    },
+    "27b117b7432c0ca4bcde7f2def513e7d|overdue|2026-05-16": {
+      "scheduledAt": "2026-04-14T01:31:58.063Z",
+      "type": "overdue",
+      "task": "instruct team on how to find the 300 leads for Paul Lenskold",
+      "assignee": "Brandon 'The One' Robertson",
+      "reminderDate": "2026-05-16"
     }
   },
-  "lastRun": "2026-04-14T01:09:03.148Z",
+  "lastRun": "2026-04-14T01:31:58.067Z",
   "tasks": {
     "2886df20f4859405206a1dccebe0612c": {
       "task": "turn ads back",
@@ -7574,8 +7588,9 @@
       "source_message": "@Mark 'Morpheus' Manaog Can you check on their set-up: <https://dovetailmktg.freshdesk.com/a/tic",
       "assigneeId": "U023F61R16F",
       "messageTs": "1776116048.322129",
-      "completed": false,
-      "firstSeenAt": "2026-04-14T01:01:08.613Z"
+      "completed": true,
+      "firstSeenAt": "2026-04-14T01:01:08.613Z",
+      "completedAt": "2026-04-14T01:30:22.678Z"
     },
     "972a4e65898048846845403b4271efa5": {
       "task": "check on their tech concern ticket",
@@ -7587,8 +7602,9 @@
       "source_message": "@Mark 'Morpheus' Manaog Please check on their tech concern: <https://dovetailmktg.freshdesk.com",
       "assigneeId": "U023F61R16F",
       "messageTs": "1776109872.053879",
-      "completed": false,
-      "firstSeenAt": "2026-04-14T01:02:02.706Z"
+      "completed": true,
+      "firstSeenAt": "2026-04-14T01:02:02.706Z",
+      "completedAt": "2026-04-14T01:30:23.113Z"
     },
     "78d10155b8ef9e06f6a21cdf39fa7cb1": {
       "task": "fix Eric Lovett's leadsheet data, work with Mark and/or Joma as needed",
@@ -7615,6 +7631,19 @@
       "messageTs": "1776093594.754979",
       "completed": false,
       "firstSeenAt": "2026-04-14T01:07:04.011Z"
+    },
+    "27b117b7432c0ca4bcde7f2def513e7d": {
+      "task": "instruct team on how to find the 300 leads for Paul Lenskold",
+      "assignee_name": "Brandon 'The One' Robertson",
+      "assignee_slack_mention": "@Brandon 'The One' Robertson",
+      "assigned_date": "2026-04-13",
+      "due_date": "2026-04-16",
+      "message_ts": "1776108322.687899",
+      "source_message": "@Brandon 'The One' Robertson be sure to instruct team on how to find the 300 leads we need f",
+      "assigneeId": "UMS39RAGP",
+      "messageTs": "1776108322.687899",
+      "completed": false,
+      "firstSeenAt": "2026-04-14T01:31:33.331Z"
     }
   }
 }
