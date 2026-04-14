@@ -7153,7 +7153,7 @@
       "reminderDate": "2026-05-20"
     }
   },
-  "lastRun": "2026-04-14T07:35:19.443Z",
+  "lastRun": "2026-04-14T08:02:25.833Z",
   "tasks": {
     "2886df20f4859405206a1dccebe0612c": {
       "task": "turn ads back",
@@ -8131,6 +8131,19 @@
       "messageTs": "1776094285.826509",
       "completed": false,
       "firstSeenAt": "2026-04-14T07:32:24.964Z"
+    },
+    "d26ec853736071a9f2ee66479908100e": {
+      "task": "final prep of aged leads for client and send final 300 leads to channel, tag Eddie",
+      "assignee_name": "Christle 'Knows All' Ochigue",
+      "assignee_slack_mention": "@Christle 'Knows All' Ochigue",
+      "assigned_date": "2026-04-13",
+      "due_date": "2026-04-17",
+      "message_ts": "1776121264.756129",
+      "source_message": "@Christle 'Knows All' Ochigue i assigned this task for the final prep of aged leads for client",
+      "assigneeId": "UMCPG3D8A",
+      "messageTs": "1776121264.756129",
+      "completed": false,
+      "firstSeenAt": "2026-04-14T08:00:48.143Z"
     }
   }
 }
