@@ -7193,9 +7193,30 @@
       "task": "fix Eric Lovett's leadsheet data, work with Mark/Joma to resolve",
       "assignee": "Christle 'Knows All' Ochigue",
       "reminderDate": "2026-05-20"
+    },
+    "f683718693176d06f3dda822f5b75f29|overdue|2026-05-18": {
+      "scheduledAt": "2026-04-14T13:34:22.195Z",
+      "type": "overdue",
+      "task": "turn on adroll retargeting with current images, $5/day budget for 90-day non-conversions",
+      "assignee": "Joma 'Magic Fingers' Cris Cantalejo",
+      "reminderDate": "2026-05-18"
+    },
+    "f683718693176d06f3dda822f5b75f29|overdue|2026-05-19": {
+      "scheduledAt": "2026-04-14T13:34:22.917Z",
+      "type": "overdue",
+      "task": "turn on adroll retargeting with current images, $5/day budget for 90-day non-conversions",
+      "assignee": "Joma 'Magic Fingers' Cris Cantalejo",
+      "reminderDate": "2026-05-19"
+    },
+    "f683718693176d06f3dda822f5b75f29|overdue|2026-05-20": {
+      "scheduledAt": "2026-04-14T13:34:23.630Z",
+      "type": "overdue",
+      "task": "turn on adroll retargeting with current images, $5/day budget for 90-day non-conversions",
+      "assignee": "Joma 'Magic Fingers' Cris Cantalejo",
+      "reminderDate": "2026-05-20"
     }
   },
-  "lastRun": "2026-04-14T13:03:00.111Z",
+  "lastRun": "2026-04-14T13:34:23.631Z",
   "tasks": {
     "2886df20f4859405206a1dccebe0612c": {
       "task": "turn ads back",
@@ -8323,6 +8344,19 @@
       "completed": true,
       "firstSeenAt": "2026-04-14T10:34:30.238Z",
       "completedAt": "2026-04-14T11:30:27.073Z"
+    },
+    "f683718693176d06f3dda822f5b75f29": {
+      "task": "turn on adroll retargeting with current images, $5/day budget for 90-day non-conversions",
+      "assignee_name": "Joma 'Magic Fingers' Cris Cantalejo",
+      "assignee_slack_mention": "@Joma 'Magic Fingers' Cris Cantalejo",
+      "assigned_date": "2026-04-13",
+      "due_date": "2026-04-20",
+      "message_ts": "1776093594.754979",
+      "source_message": "@Joma 'Magic Fingers' Cris Cantalejo please turn on adroll retargeting using the most curren",
+      "assigneeId": "U03KVJD9927",
+      "messageTs": "1776093594.754979",
+      "completed": false,
+      "firstSeenAt": "2026-04-14T13:33:36.144Z"
     }
   }
 }
