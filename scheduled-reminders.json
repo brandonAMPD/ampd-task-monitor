@@ -6815,9 +6815,93 @@
       "task": "turn on adroll retargeting with current images for non-conversions last 90 days",
       "assignee": "Joma 'Magic Fingers' Cris Cantalejo",
       "reminderDate": "2026-05-20"
+    },
+    "78d10155b8ef9e06f6a21cdf39fa7cb1|overdue|2026-05-15": {
+      "scheduledAt": "2026-04-14T01:06:48.456Z",
+      "type": "overdue",
+      "task": "fix Eric Lovett's leadsheet data, work with Mark and/or Joma as needed",
+      "assignee": "Christle 'Knows All' Ochigue",
+      "reminderDate": "2026-05-15"
+    },
+    "78d10155b8ef9e06f6a21cdf39fa7cb1|overdue|2026-05-16": {
+      "scheduledAt": "2026-04-14T01:06:49.324Z",
+      "type": "overdue",
+      "task": "fix Eric Lovett's leadsheet data, work with Mark and/or Joma as needed",
+      "assignee": "Christle 'Knows All' Ochigue",
+      "reminderDate": "2026-05-16"
+    },
+    "78d10155b8ef9e06f6a21cdf39fa7cb1|overdue|2026-05-17": {
+      "scheduledAt": "2026-04-14T01:07:01.329Z",
+      "type": "overdue",
+      "task": "fix Eric Lovett's leadsheet data, work with Mark and/or Joma as needed",
+      "assignee": "Christle 'Knows All' Ochigue",
+      "reminderDate": "2026-05-17"
+    },
+    "78d10155b8ef9e06f6a21cdf39fa7cb1|overdue|2026-05-18": {
+      "scheduledAt": "2026-04-14T01:07:02.243Z",
+      "type": "overdue",
+      "task": "fix Eric Lovett's leadsheet data, work with Mark and/or Joma as needed",
+      "assignee": "Christle 'Knows All' Ochigue",
+      "reminderDate": "2026-05-18"
+    },
+    "78d10155b8ef9e06f6a21cdf39fa7cb1|overdue|2026-05-19": {
+      "scheduledAt": "2026-04-14T01:07:03.110Z",
+      "type": "overdue",
+      "task": "fix Eric Lovett's leadsheet data, work with Mark and/or Joma as needed",
+      "assignee": "Christle 'Knows All' Ochigue",
+      "reminderDate": "2026-05-19"
+    },
+    "78d10155b8ef9e06f6a21cdf39fa7cb1|overdue|2026-05-20": {
+      "scheduledAt": "2026-04-14T01:07:04.011Z",
+      "type": "overdue",
+      "task": "fix Eric Lovett's leadsheet data, work with Mark and/or Joma as needed",
+      "assignee": "Christle 'Knows All' Ochigue",
+      "reminderDate": "2026-05-20"
+    },
+    "6c1e9b8794219e72139f7da4e1068877|overdue|2026-05-15": {
+      "scheduledAt": "2026-04-14T01:08:36.380Z",
+      "type": "overdue",
+      "task": "turn on adroll retargeting with current images, retarget non-conversions last 90 days at $5/day",
+      "assignee": "Joma 'Magic Fingers' Cris Cantalejo",
+      "reminderDate": "2026-05-15"
+    },
+    "6c1e9b8794219e72139f7da4e1068877|overdue|2026-05-16": {
+      "scheduledAt": "2026-04-14T01:08:37.312Z",
+      "type": "overdue",
+      "task": "turn on adroll retargeting with current images, retarget non-conversions last 90 days at $5/day",
+      "assignee": "Joma 'Magic Fingers' Cris Cantalejo",
+      "reminderDate": "2026-05-16"
+    },
+    "6c1e9b8794219e72139f7da4e1068877|overdue|2026-05-17": {
+      "scheduledAt": "2026-04-14T01:08:38.194Z",
+      "type": "overdue",
+      "task": "turn on adroll retargeting with current images, retarget non-conversions last 90 days at $5/day",
+      "assignee": "Joma 'Magic Fingers' Cris Cantalejo",
+      "reminderDate": "2026-05-17"
+    },
+    "6c1e9b8794219e72139f7da4e1068877|overdue|2026-05-18": {
+      "scheduledAt": "2026-04-14T01:08:50.261Z",
+      "type": "overdue",
+      "task": "turn on adroll retargeting with current images, retarget non-conversions last 90 days at $5/day",
+      "assignee": "Joma 'Magic Fingers' Cris Cantalejo",
+      "reminderDate": "2026-05-18"
+    },
+    "6c1e9b8794219e72139f7da4e1068877|overdue|2026-05-19": {
+      "scheduledAt": "2026-04-14T01:08:51.135Z",
+      "type": "overdue",
+      "task": "turn on adroll retargeting with current images, retarget non-conversions last 90 days at $5/day",
+      "assignee": "Joma 'Magic Fingers' Cris Cantalejo",
+      "reminderDate": "2026-05-19"
+    },
+    "6c1e9b8794219e72139f7da4e1068877|overdue|2026-05-20": {
+      "scheduledAt": "2026-04-14T01:09:03.147Z",
+      "type": "overdue",
+      "task": "turn on adroll retargeting with current images, retarget non-conversions last 90 days at $5/day",
+      "assignee": "Joma 'Magic Fingers' Cris Cantalejo",
+      "reminderDate": "2026-05-20"
     }
   },
-  "lastRun": "2026-04-14T00:38:57.785Z",
+  "lastRun": "2026-04-14T01:09:03.148Z",
   "tasks": {
     "2886df20f4859405206a1dccebe0612c": {
       "task": "turn ads back",
@@ -7410,8 +7494,9 @@
       "source_message": "@Mark 'Morpheus' Manaog Can you check on their set-up: <https://dovetailmktg.freshdesk.com/a/",
       "assigneeId": "U023F61R16F",
       "messageTs": "1776116048.322129",
-      "completed": false,
-      "firstSeenAt": "2026-04-14T00:31:01.654Z"
+      "completed": true,
+      "firstSeenAt": "2026-04-14T00:31:01.654Z",
+      "completedAt": "2026-04-14T01:00:23.018Z"
     },
     "6443ed3695e512a0cea3433b56c18ccd": {
       "task": "check on their tech concern",
@@ -7423,8 +7508,9 @@
       "source_message": "@Mark 'Morpheus' Manaog Please check on their tech concern: <https://dovetailmktg.freshdesk.",
       "assigneeId": "U023F61R16F",
       "messageTs": "1776109872.053879",
-      "completed": false,
-      "firstSeenAt": "2026-04-14T00:32:19.424Z"
+      "completed": true,
+      "firstSeenAt": "2026-04-14T00:32:19.424Z",
+      "completedAt": "2026-04-14T01:00:23.163Z"
     },
     "cf02299a07f0cc81e0774027d8e3db20": {
       "task": "instruct team on how to find 300 leads for Paul Lenskold",
@@ -7477,6 +7563,58 @@
       "messageTs": "1776093594.754979",
       "completed": false,
       "firstSeenAt": "2026-04-14T00:37:02.826Z"
+    },
+    "32081e825eb717cc162e72baf6ff1685": {
+      "task": "check on their set-up ticket",
+      "assignee_name": "Mark 'Morpheus' Manaog",
+      "assignee_slack_mention": "@Mark 'Morpheus' Manaog",
+      "assigned_date": "2026-04-13",
+      "due_date": "2026-04-13",
+      "message_ts": "1776116048.322129",
+      "source_message": "@Mark 'Morpheus' Manaog Can you check on their set-up: <https://dovetailmktg.freshdesk.com/a/tic",
+      "assigneeId": "U023F61R16F",
+      "messageTs": "1776116048.322129",
+      "completed": false,
+      "firstSeenAt": "2026-04-14T01:01:08.613Z"
+    },
+    "972a4e65898048846845403b4271efa5": {
+      "task": "check on their tech concern ticket",
+      "assignee_name": "Mark 'Morpheus' Manaog",
+      "assignee_slack_mention": "@Mark 'Morpheus' Manaog",
+      "assigned_date": "2026-04-13",
+      "due_date": "2026-04-13",
+      "message_ts": "1776109872.053879",
+      "source_message": "@Mark 'Morpheus' Manaog Please check on their tech concern: <https://dovetailmktg.freshdesk.com",
+      "assigneeId": "U023F61R16F",
+      "messageTs": "1776109872.053879",
+      "completed": false,
+      "firstSeenAt": "2026-04-14T01:02:02.706Z"
+    },
+    "78d10155b8ef9e06f6a21cdf39fa7cb1": {
+      "task": "fix Eric Lovett's leadsheet data, work with Mark and/or Joma as needed",
+      "assignee_name": "Christle 'Knows All' Ochigue",
+      "assignee_slack_mention": "@Christle 'Knows All' Ochigue",
+      "assigned_date": "2026-04-13",
+      "due_date": "2026-04-20",
+      "message_ts": "1776094285.826509",
+      "source_message": "@Christle 'Knows All' Ochigue please fix Eric Lovett's leadsheet data and get with Mark and/o",
+      "assigneeId": "UMCPG3D8A",
+      "messageTs": "1776094285.826509",
+      "completed": false,
+      "firstSeenAt": "2026-04-14T01:05:26.931Z"
+    },
+    "6c1e9b8794219e72139f7da4e1068877": {
+      "task": "turn on adroll retargeting with current images, retarget non-conversions last 90 days at $5/day",
+      "assignee_name": "Joma 'Magic Fingers' Cris Cantalejo",
+      "assignee_slack_mention": "@Joma 'Magic Fingers' Cris Cantalejo",
+      "assigned_date": "2026-04-13",
+      "due_date": "2026-04-20",
+      "message_ts": "1776093594.754979",
+      "source_message": "@Joma 'Magic Fingers' Cris Cantalejo please turn on adroll retargeting using the most current",
+      "assigneeId": "U03KVJD9927",
+      "messageTs": "1776093594.754979",
+      "completed": false,
+      "firstSeenAt": "2026-04-14T01:07:04.011Z"
     }
   }
 }
