@@ -7220,9 +7220,30 @@
       "type": "midpoint",
       "task": "instruct team on how to find 300 leads for Paul Lenskold",
       "skipped": true
+    },
+    "b78cae345fdb32f051032af9ecbf97f5|overdue|2026-05-18": {
+      "scheduledAt": "2026-04-14T14:33:10.066Z",
+      "type": "overdue",
+      "task": "turn on adroll retargeting using current images for non-conversions last 90 days",
+      "assignee": "Joma 'Magic Fingers' Cris Cantalejo",
+      "reminderDate": "2026-05-18"
+    },
+    "b78cae345fdb32f051032af9ecbf97f5|overdue|2026-05-19": {
+      "scheduledAt": "2026-04-14T14:33:10.779Z",
+      "type": "overdue",
+      "task": "turn on adroll retargeting using current images for non-conversions last 90 days",
+      "assignee": "Joma 'Magic Fingers' Cris Cantalejo",
+      "reminderDate": "2026-05-19"
+    },
+    "b78cae345fdb32f051032af9ecbf97f5|overdue|2026-05-20": {
+      "scheduledAt": "2026-04-14T14:33:11.448Z",
+      "type": "overdue",
+      "task": "turn on adroll retargeting using current images for non-conversions last 90 days",
+      "assignee": "Joma 'Magic Fingers' Cris Cantalejo",
+      "reminderDate": "2026-05-20"
     }
   },
-  "lastRun": "2026-04-14T14:02:26.629Z",
+  "lastRun": "2026-04-14T14:33:11.449Z",
   "tasks": {
     "2886df20f4859405206a1dccebe0612c": {
       "task": "turn ads back",
@@ -8363,6 +8384,19 @@
       "messageTs": "1776093594.754979",
       "completed": false,
       "firstSeenAt": "2026-04-14T13:33:36.144Z"
+    },
+    "b78cae345fdb32f051032af9ecbf97f5": {
+      "task": "turn on adroll retargeting using current images for non-conversions last 90 days",
+      "assignee_name": "Joma 'Magic Fingers' Cris Cantalejo",
+      "assignee_slack_mention": "@Joma 'Magic Fingers' Cris Cantalejo",
+      "assigned_date": "2026-04-13",
+      "due_date": "2026-04-20",
+      "message_ts": "1776093594.754979",
+      "source_message": "@Joma 'Magic Fingers' Cris Cantalejo please turn on adroll retargeting using the most current",
+      "assigneeId": "U03KVJD9927",
+      "messageTs": "1776093594.754979",
+      "completed": false,
+      "firstSeenAt": "2026-04-14T14:32:03.456Z"
     }
   }
 }
