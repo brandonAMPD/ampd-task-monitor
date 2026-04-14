@@ -7095,9 +7095,37 @@
       "task": "fix Eric Lovett's leadsheet data, coordinate with Mark/Joma to resolve",
       "assignee": "Christle 'Knows All' Ochigue",
       "reminderDate": "2026-05-20"
+    },
+    "dff29004f12ae52bb41266d504066959|overdue|2026-05-17": {
+      "scheduledAt": "2026-04-14T06:22:08.072Z",
+      "type": "overdue",
+      "task": "fix Eric Lovett's leadsheet data, coordinate with Mark and/or Joma",
+      "assignee": "Christle 'Knows All' Ochigue",
+      "reminderDate": "2026-05-17"
+    },
+    "dff29004f12ae52bb41266d504066959|overdue|2026-05-18": {
+      "scheduledAt": "2026-04-14T06:22:09.006Z",
+      "type": "overdue",
+      "task": "fix Eric Lovett's leadsheet data, coordinate with Mark and/or Joma",
+      "assignee": "Christle 'Knows All' Ochigue",
+      "reminderDate": "2026-05-18"
+    },
+    "dff29004f12ae52bb41266d504066959|overdue|2026-05-19": {
+      "scheduledAt": "2026-04-14T06:22:09.920Z",
+      "type": "overdue",
+      "task": "fix Eric Lovett's leadsheet data, coordinate with Mark and/or Joma",
+      "assignee": "Christle 'Knows All' Ochigue",
+      "reminderDate": "2026-05-19"
+    },
+    "dff29004f12ae52bb41266d504066959|overdue|2026-05-20": {
+      "scheduledAt": "2026-04-14T06:22:10.884Z",
+      "type": "overdue",
+      "task": "fix Eric Lovett's leadsheet data, coordinate with Mark and/or Joma",
+      "assignee": "Christle 'Knows All' Ochigue",
+      "reminderDate": "2026-05-20"
     }
   },
-  "lastRun": "2026-04-14T06:01:43.386Z",
+  "lastRun": "2026-04-14T06:22:10.885Z",
   "tasks": {
     "2886df20f4859405206a1dccebe0612c": {
       "task": "turn ads back",
@@ -7997,6 +8025,32 @@
       "messageTs": "1776094285.826509",
       "completed": false,
       "firstSeenAt": "2026-04-14T05:01:49.757Z"
+    },
+    "ba068bfe4119d1b04ea3b5a55afd3653": {
+      "task": "set-up round robin with additional rotation for Eric V",
+      "assignee_name": "Mark 'Morpheus' Manaog",
+      "assignee_slack_mention": "@Mark 'Morpheus' Manaog",
+      "assigned_date": "2026-04-13",
+      "due_date": "2026-04-15",
+      "message_ts": "1776108398.093159",
+      "source_message": "@Mark 'Morpheus' Manaog Task: Can we set-up his round robin that he gets another additional",
+      "assigneeId": "U023F61R16F",
+      "messageTs": "1776108398.093159",
+      "completed": false,
+      "firstSeenAt": "2026-04-14T06:17:44.151Z"
+    },
+    "dff29004f12ae52bb41266d504066959": {
+      "task": "fix Eric Lovett's leadsheet data, coordinate with Mark and/or Joma",
+      "assignee_name": "Christle 'Knows All' Ochigue",
+      "assignee_slack_mention": "@Christle 'Knows All' Ochigue",
+      "assigned_date": "2026-04-13",
+      "due_date": "2026-04-20",
+      "message_ts": "1776094285.826509",
+      "source_message": "@Christle 'Knows All' Ochigue please fix Eric Lovett's leadsheet data and get with Mark an",
+      "assigneeId": "UMCPG3D8A",
+      "messageTs": "1776094285.826509",
+      "completed": false,
+      "firstSeenAt": "2026-04-14T06:20:07.713Z"
     }
   }
 }
