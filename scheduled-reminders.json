@@ -7125,7 +7125,7 @@
       "reminderDate": "2026-05-20"
     }
   },
-  "lastRun": "2026-04-14T06:22:10.885Z",
+  "lastRun": "2026-04-14T06:33:16.023Z",
   "tasks": {
     "2886df20f4859405206a1dccebe0612c": {
       "task": "turn ads back",
@@ -8051,6 +8051,19 @@
       "messageTs": "1776094285.826509",
       "completed": false,
       "firstSeenAt": "2026-04-14T06:20:07.713Z"
+    },
+    "eac39a628dad1940bbfd28d026a631e9": {
+      "task": "turn google calendar notifications on for funnel website with email domain format",
+      "assignee_name": "Josh 'The Ninja' Morales",
+      "assignee_slack_mention": "@Josh 'The Ninja' Morales",
+      "assigned_date": "2026-04-13",
+      "due_date": "2026-04-14",
+      "message_ts": "1776114894.412259",
+      "source_message": "@Josh 'The Ninja' Morales please turn the google calendar notifications on for our funnel webs",
+      "assigneeId": "U07FVUF09T7",
+      "messageTs": "1776114894.412259",
+      "completed": false,
+      "firstSeenAt": "2026-04-14T06:31:30.748Z"
     }
   }
 }
