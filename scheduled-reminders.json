@@ -7025,9 +7025,16 @@
       "task": "fix Eric Lovett's leadsheet data and resolve issue with Mark/Joma",
       "assignee": "Christle 'Knows All' Ochigue",
       "reminderDate": "2026-05-20"
+    },
+    "2fd1f9e9a6bed2f9a6e373d661f73a26|overdue|2026-05-17": {
+      "scheduledAt": "2026-04-14T03:31:10.858Z",
+      "type": "overdue",
+      "task": "final prep of aged leads for client & send 300 leads to Eddie's channel",
+      "assignee": "Christle 'Knows All' Ochigue",
+      "reminderDate": "2026-05-17"
     }
   },
-  "lastRun": "2026-04-14T03:08:04.943Z",
+  "lastRun": "2026-04-14T03:34:29.569Z",
   "tasks": {
     "2886df20f4859405206a1dccebe0612c": {
       "task": "turn ads back",
@@ -7832,8 +7839,9 @@
       "source_message": "@Mark 'Morpheus' Manaog Can you check on their set-up: https://dovetailmktg.freshdesk.com/a/tickets",
       "assigneeId": "U023F61R16F",
       "messageTs": "1776116048.322129",
-      "completed": false,
-      "firstSeenAt": "2026-04-14T03:01:13.674Z"
+      "completed": true,
+      "firstSeenAt": "2026-04-14T03:01:13.674Z",
+      "completedAt": "2026-04-14T03:30:26.109Z"
     },
     "e009cff2018740ca008b4f9b9999f7b5": {
       "task": "check on their tech concern ticket 22075",
@@ -7845,8 +7853,9 @@
       "source_message": "@Mark 'Morpheus' Manaog Please check on their tech concern: https://dovetailmktg.freshdesk.com/a/",
       "assigneeId": "U023F61R16F",
       "messageTs": "1776109872.053879",
-      "completed": false,
-      "firstSeenAt": "2026-04-14T03:02:08.434Z"
+      "completed": true,
+      "firstSeenAt": "2026-04-14T03:02:08.434Z",
+      "completedAt": "2026-04-14T03:30:26.235Z"
     },
     "9a66039a589b52d69dbeda81f9907431": {
       "task": "fix Eric Lovett's leadsheet data and resolve issue with Mark/Joma",
@@ -7860,6 +7869,19 @@
       "messageTs": "1776094285.826509",
       "completed": false,
       "firstSeenAt": "2026-04-14T03:06:49.228Z"
+    },
+    "2fd1f9e9a6bed2f9a6e373d661f73a26": {
+      "task": "final prep of aged leads for client & send 300 leads to Eddie's channel",
+      "assignee_name": "Christle 'Knows All' Ochigue",
+      "assignee_slack_mention": "@Christle 'Knows All' Ochigue",
+      "assigned_date": "2026-04-13",
+      "due_date": "2026-04-17",
+      "message_ts": "1776121264.756129",
+      "source_message": "@Christle 'Knows All' Ochigue i assigned this task for the final prep of aged leads for client",
+      "assigneeId": "UMCPG3D8A",
+      "messageTs": "1776121264.756129",
+      "completed": false,
+      "firstSeenAt": "2026-04-14T03:30:44.731Z"
     }
   }
 }
