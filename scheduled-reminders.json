@@ -7295,9 +7295,21 @@
       "task": "turn on adroll retargeting using current images for 90 days non-conversions at $5/day",
       "assignee": "Joma 'Magic Fingers' Cris Cantalejo",
       "reminderDate": "2026-05-20"
+    },
+    "aa9d02b09fe5942de5d9ec90e7950247|overdue|2026-04-14": {
+      "scheduledAt": "2026-04-14T15:31:48.435Z",
+      "type": "overdue",
+      "task": "check on their set-up (ticket 22210)",
+      "skipped": true
+    },
+    "450d537334aff95f1c7680a2ebc76394|overdue|2026-04-14": {
+      "scheduledAt": "2026-04-14T15:33:12.584Z",
+      "type": "overdue",
+      "task": "check on their tech concern (ticket 22075)",
+      "skipped": true
     }
   },
-  "lastRun": "2026-04-14T15:09:43.996Z",
+  "lastRun": "2026-04-14T15:38:12.528Z",
   "tasks": {
     "2886df20f4859405206a1dccebe0612c": {
       "task": "turn ads back",
@@ -8475,8 +8487,9 @@
       "source_message": "@Mark 'Morpheus' Manaog please update the landing page that a lead gen (broker lift system) clien",
       "assigneeId": "U023F61R16F",
       "messageTs": "1776108180.619019",
-      "completed": false,
-      "firstSeenAt": "2026-04-14T15:05:28.916Z"
+      "completed": true,
+      "firstSeenAt": "2026-04-14T15:05:28.916Z",
+      "completedAt": "2026-04-14T15:30:29.995Z"
     },
     "b3e4d6e75d6e3466cbb88e4df802b4bb": {
       "task": "fix Eric Lovett's leadsheet data and coordinate with Mark and/or Joma",
@@ -8503,6 +8516,32 @@
       "messageTs": "1776093594.754979",
       "completed": false,
       "firstSeenAt": "2026-04-14T15:07:48.972Z"
+    },
+    "aa9d02b09fe5942de5d9ec90e7950247": {
+      "task": "check on their set-up (ticket 22210)",
+      "assignee_name": "Mark 'Morpheus' Manaog",
+      "assignee_slack_mention": "@Mark 'Morpheus' Manaog",
+      "assigned_date": "2026-04-13",
+      "due_date": "2026-04-13",
+      "message_ts": "1776116048.322129",
+      "source_message": "@Mark 'Morpheus' Manaog Can you check on their set-up: <https://dovetailmktg.freshdesk.com/a/ti",
+      "assigneeId": "U023F61R16F",
+      "messageTs": "1776116048.322129",
+      "completed": false,
+      "firstSeenAt": "2026-04-14T15:31:48.435Z"
+    },
+    "450d537334aff95f1c7680a2ebc76394": {
+      "task": "check on their tech concern (ticket 22075)",
+      "assignee_name": "Mark 'Morpheus' Manaog",
+      "assignee_slack_mention": "@Mark 'Morpheus' Manaog",
+      "assigned_date": "2026-04-13",
+      "due_date": "2026-04-13",
+      "message_ts": "1776109872.053879",
+      "source_message": "@Mark 'Morpheus' Manaog Please check on their tech concern: <https://dovetailmktg.freshdesk.com",
+      "assigneeId": "U023F61R16F",
+      "messageTs": "1776109872.053879",
+      "completed": false,
+      "firstSeenAt": "2026-04-14T15:33:12.584Z"
     }
   }
 }
