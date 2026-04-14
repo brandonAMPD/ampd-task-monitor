@@ -6913,9 +6913,58 @@
       "task": "instruct team on how to find the 300 leads for Paul Lenskold",
       "assignee": "Brandon 'The One' Robertson",
       "reminderDate": "2026-05-16"
+    },
+    "1b6ffa66ef9e5f5015886637d92b0bb9|overdue|2026-05-16": {
+      "scheduledAt": "2026-04-14T02:01:02.281Z",
+      "type": "overdue",
+      "task": "final prep of aged leads for client and send 300 leads to Eddie's channel",
+      "assignee": "Christle 'Knows All' Ochigue",
+      "reminderDate": "2026-05-16"
+    },
+    "1b6ffa66ef9e5f5015886637d92b0bb9|overdue|2026-05-17": {
+      "scheduledAt": "2026-04-14T02:01:03.014Z",
+      "type": "overdue",
+      "task": "final prep of aged leads for client and send 300 leads to Eddie's channel",
+      "assignee": "Christle 'Knows All' Ochigue",
+      "reminderDate": "2026-05-17"
+    },
+    "f7e60533190a46c8bc1b3c170ff7b121|overdue|2026-05-16": {
+      "scheduledAt": "2026-04-14T02:03:56.625Z",
+      "type": "overdue",
+      "task": "fix Eric Lovett's leadsheet data with Mark and/or Joma",
+      "assignee": "Christle 'Knows All' Ochigue",
+      "reminderDate": "2026-05-16"
+    },
+    "f7e60533190a46c8bc1b3c170ff7b121|overdue|2026-05-17": {
+      "scheduledAt": "2026-04-14T02:03:57.327Z",
+      "type": "overdue",
+      "task": "fix Eric Lovett's leadsheet data with Mark and/or Joma",
+      "assignee": "Christle 'Knows All' Ochigue",
+      "reminderDate": "2026-05-17"
+    },
+    "f7e60533190a46c8bc1b3c170ff7b121|overdue|2026-05-18": {
+      "scheduledAt": "2026-04-14T02:03:58.056Z",
+      "type": "overdue",
+      "task": "fix Eric Lovett's leadsheet data with Mark and/or Joma",
+      "assignee": "Christle 'Knows All' Ochigue",
+      "reminderDate": "2026-05-18"
+    },
+    "f7e60533190a46c8bc1b3c170ff7b121|overdue|2026-05-19": {
+      "scheduledAt": "2026-04-14T02:03:58.759Z",
+      "type": "overdue",
+      "task": "fix Eric Lovett's leadsheet data with Mark and/or Joma",
+      "assignee": "Christle 'Knows All' Ochigue",
+      "reminderDate": "2026-05-19"
+    },
+    "f7e60533190a46c8bc1b3c170ff7b121|overdue|2026-05-20": {
+      "scheduledAt": "2026-04-14T02:03:59.479Z",
+      "type": "overdue",
+      "task": "fix Eric Lovett's leadsheet data with Mark and/or Joma",
+      "assignee": "Christle 'Knows All' Ochigue",
+      "reminderDate": "2026-05-20"
     }
   },
-  "lastRun": "2026-04-14T01:31:58.067Z",
+  "lastRun": "2026-04-14T02:05:37.645Z",
   "tasks": {
     "2886df20f4859405206a1dccebe0612c": {
       "task": "turn ads back",
@@ -7644,6 +7693,45 @@
       "messageTs": "1776108322.687899",
       "completed": false,
       "firstSeenAt": "2026-04-14T01:31:33.331Z"
+    },
+    "1b6ffa66ef9e5f5015886637d92b0bb9": {
+      "task": "final prep of aged leads for client and send 300 leads to Eddie's channel",
+      "assignee_name": "Christle 'Knows All' Ochigue",
+      "assignee_slack_mention": "@Christle 'Knows All' Ochigue",
+      "assigned_date": "2026-04-13",
+      "due_date": "2026-04-17",
+      "message_ts": "1776121264.756129",
+      "source_message": "@Christle 'Knows All' Ochigue i assigned this task for the final prep of aged leads for client fou",
+      "assigneeId": "UMCPG3D8A",
+      "messageTs": "1776121264.756129",
+      "completed": false,
+      "firstSeenAt": "2026-04-14T02:00:39.457Z"
+    },
+    "126605829d92c1535d57658ae56e3f93": {
+      "task": "update landing page for lead gen client with new links and LOS version",
+      "assignee_name": "Mark 'Morpheus' Manaog",
+      "assignee_slack_mention": "@Mark 'Morpheus' Manaog",
+      "assigned_date": "2026-04-13",
+      "due_date": "2026-04-14",
+      "message_ts": "1776108180.619019",
+      "source_message": "@Mark 'Morpheus' Manaog please update the landing page that a lead gen (broker lift system) client",
+      "assigneeId": "U023F61R16F",
+      "messageTs": "1776108180.619019",
+      "completed": false,
+      "firstSeenAt": "2026-04-14T02:01:43.411Z"
+    },
+    "f7e60533190a46c8bc1b3c170ff7b121": {
+      "task": "fix Eric Lovett's leadsheet data with Mark and/or Joma",
+      "assignee_name": "Christle 'Knows All' Ochigue",
+      "assignee_slack_mention": "@Christle 'Knows All' Ochigue",
+      "assigned_date": "2026-04-13",
+      "due_date": "2026-04-20",
+      "message_ts": "1776094285.826509",
+      "source_message": "@Christle 'Knows All' Ochigue please fix Eric Lovett's leadsheet data and get with Mark and/or ",
+      "assigneeId": "UMCPG3D8A",
+      "messageTs": "1776094285.826509",
+      "completed": false,
+      "firstSeenAt": "2026-04-14T02:03:12.334Z"
     }
   }
 }
