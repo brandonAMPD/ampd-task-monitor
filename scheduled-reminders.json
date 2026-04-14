@@ -7172,9 +7172,30 @@
       "task": "turn on adroll retargeting with current images, $5/day or less",
       "assignee": "Joma 'Magic Fingers' Cris Cantalejo",
       "reminderDate": "2026-05-20"
+    },
+    "a1eec524ad1bea6bdc7d87a303f5ad44|overdue|2026-05-18": {
+      "scheduledAt": "2026-04-14T09:34:02.230Z",
+      "type": "overdue",
+      "task": "fix Eric Lovett's leadsheet data, work with Mark/Joma to resolve",
+      "assignee": "Christle 'Knows All' Ochigue",
+      "reminderDate": "2026-05-18"
+    },
+    "a1eec524ad1bea6bdc7d87a303f5ad44|overdue|2026-05-19": {
+      "scheduledAt": "2026-04-14T09:34:02.919Z",
+      "type": "overdue",
+      "task": "fix Eric Lovett's leadsheet data, work with Mark/Joma to resolve",
+      "assignee": "Christle 'Knows All' Ochigue",
+      "reminderDate": "2026-05-19"
+    },
+    "a1eec524ad1bea6bdc7d87a303f5ad44|overdue|2026-05-20": {
+      "scheduledAt": "2026-04-14T09:34:03.574Z",
+      "type": "overdue",
+      "task": "fix Eric Lovett's leadsheet data, work with Mark/Joma to resolve",
+      "assignee": "Christle 'Knows All' Ochigue",
+      "reminderDate": "2026-05-20"
     }
   },
-  "lastRun": "2026-04-14T09:09:02.327Z",
+  "lastRun": "2026-04-14T09:35:29.176Z",
   "tasks": {
     "2886df20f4859405206a1dccebe0612c": {
       "task": "turn ads back",
@@ -8176,8 +8197,9 @@
       "source_message": "@Mark 'Morpheus' Manaog Can you check on their set-up: <https://dovetailmktg.freshdesk.com/a/tic",
       "assigneeId": "U023F61R16F",
       "messageTs": "1776116048.322129",
-      "completed": false,
-      "firstSeenAt": "2026-04-14T09:01:34.233Z"
+      "completed": true,
+      "firstSeenAt": "2026-04-14T09:01:34.233Z",
+      "completedAt": "2026-04-14T09:30:20.777Z"
     },
     "586dc16858869bafb074938fd9e0792c": {
       "task": "check on their tech concern: ticket 22075",
@@ -8189,8 +8211,9 @@
       "source_message": "@Mark 'Morpheus' Manaog Please check on their tech concern: <https://dovetailmktg.freshdesk.com",
       "assigneeId": "U023F61R16F",
       "messageTs": "1776109872.053879",
-      "completed": false,
-      "firstSeenAt": "2026-04-14T09:02:32.987Z"
+      "completed": true,
+      "firstSeenAt": "2026-04-14T09:02:32.987Z",
+      "completedAt": "2026-04-14T09:30:20.855Z"
     },
     "9cb32c028d5042c9902b033bb394c11e": {
       "task": "turn on adroll retargeting with current images, $5/day or less",
@@ -8204,6 +8227,19 @@
       "messageTs": "1776093594.754979",
       "completed": false,
       "firstSeenAt": "2026-04-14T09:07:39.495Z"
+    },
+    "a1eec524ad1bea6bdc7d87a303f5ad44": {
+      "task": "fix Eric Lovett's leadsheet data, work with Mark/Joma to resolve",
+      "assignee_name": "Christle 'Knows All' Ochigue",
+      "assignee_slack_mention": "@Christle 'Knows All' Ochigue",
+      "assigned_date": "2026-04-13",
+      "due_date": "2026-04-20",
+      "message_ts": "1776094285.826509",
+      "source_message": "@Christle 'Knows All' Ochigue please fix Eric Lovett's leadsheet data and get with Mark an",
+      "assigneeId": "UMCPG3D8A",
+      "messageTs": "1776094285.826509",
+      "completed": false,
+      "firstSeenAt": "2026-04-14T09:32:35.290Z"
     }
   }
 }
