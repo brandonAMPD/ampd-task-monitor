@@ -7195,7 +7195,7 @@
       "reminderDate": "2026-05-20"
     }
   },
-  "lastRun": "2026-04-14T10:36:00.439Z",
+  "lastRun": "2026-04-14T10:50:01.548Z",
   "tasks": {
     "2886df20f4859405206a1dccebe0612c": {
       "task": "turn ads back",
@@ -8277,8 +8277,9 @@
       "source_message": "@Mark 'Morpheus' Manaog Can you check on their set-up: <https://dovetailmktg.freshdesk.com/a/t",
       "assigneeId": "U023F61R16F",
       "messageTs": "1776116048.322129",
-      "completed": false,
-      "firstSeenAt": "2026-04-14T10:31:31.097Z"
+      "completed": true,
+      "firstSeenAt": "2026-04-14T10:31:31.097Z",
+      "completedAt": "2026-04-14T10:48:46.086Z"
     },
     "8592ef8bbe9ea46928b61828dc374b01": {
       "task": "check on their tech concern in ticket 22075",
@@ -8290,8 +8291,9 @@
       "source_message": "@Mark 'Morpheus' Manaog Please check on their tech concern: <https://dovetailmktg.freshdesk.co",
       "assigneeId": "U023F61R16F",
       "messageTs": "1776109872.053879",
-      "completed": false,
-      "firstSeenAt": "2026-04-14T10:32:44.390Z"
+      "completed": true,
+      "firstSeenAt": "2026-04-14T10:32:44.390Z",
+      "completedAt": "2026-04-14T10:48:46.172Z"
     },
     "e13831eb1760c367e05cbafeabdd07eb": {
       "task": "update landing page with new links for LOS version as directed in channel",
