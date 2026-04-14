@@ -7413,7 +7413,7 @@
       "skipped": true
     }
   },
-  "lastRun": "2026-04-14T17:40:32.377Z",
+  "lastRun": "2026-04-14T18:01:17.399Z",
   "tasks": {
     "2886df20f4859405206a1dccebe0612c": {
       "task": "turn ads back",
@@ -8804,8 +8804,9 @@
       "source_message": "@Mark 'Morpheus' Manaog please update the landing page that a lead gen (broker lift system) client",
       "assigneeId": "U023F61R16F",
       "messageTs": "1776108180.619019",
-      "completed": false,
-      "firstSeenAt": "2026-04-14T17:38:44.565Z"
+      "completed": true,
+      "firstSeenAt": "2026-04-14T17:38:44.565Z",
+      "completedAt": "2026-04-14T18:00:39.101Z"
     }
   }
 }
