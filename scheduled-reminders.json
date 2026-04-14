@@ -6696,9 +6696,30 @@
       "task": "turn on adroll retargeting using current images, retarget all non-conversions last 90 days",
       "assignee": "Joma 'Magic Fingers' Cris Cantalejo",
       "reminderDate": "2026-05-20"
+    },
+    "a03f657b3304638f9d2e06f6184b27d1|overdue|2026-05-15": {
+      "scheduledAt": "2026-04-14T00:01:12.882Z",
+      "type": "overdue",
+      "task": "final prep of aged leads for client and send 300 leads to channel, tag Eddie",
+      "assignee": "Christle 'Knows All' Ochigue",
+      "reminderDate": "2026-05-15"
+    },
+    "a03f657b3304638f9d2e06f6184b27d1|overdue|2026-05-16": {
+      "scheduledAt": "2026-04-14T00:01:13.779Z",
+      "type": "overdue",
+      "task": "final prep of aged leads for client and send 300 leads to channel, tag Eddie",
+      "assignee": "Christle 'Knows All' Ochigue",
+      "reminderDate": "2026-05-16"
+    },
+    "a03f657b3304638f9d2e06f6184b27d1|overdue|2026-05-17": {
+      "scheduledAt": "2026-04-14T00:01:14.676Z",
+      "type": "overdue",
+      "task": "final prep of aged leads for client and send 300 leads to channel, tag Eddie",
+      "assignee": "Christle 'Knows All' Ochigue",
+      "reminderDate": "2026-05-17"
     }
   },
-  "lastRun": "2026-04-13T23:34:19.977Z",
+  "lastRun": "2026-04-14T00:02:08.243Z",
   "tasks": {
     "2886df20f4859405206a1dccebe0612c": {
       "task": "turn ads back",
@@ -7133,8 +7154,9 @@
       "source_message": "@Mark 'Morpheus' Manaog Can you check on their set-up: <https://dovetailmktg.freshdesk.com/a/ti",
       "assigneeId": "U023F61R16F",
       "messageTs": "1776116048.322129",
-      "completed": false,
-      "firstSeenAt": "2026-04-13T22:00:39.956Z"
+      "completed": true,
+      "firstSeenAt": "2026-04-13T22:00:39.956Z",
+      "completedAt": "2026-04-14T00:00:25.703Z"
     },
     "4a4b9dd08521e308b25d43243edc846c": {
       "task": "update the landing page that a lead gen client would go to with updated links and new LOS links",
@@ -7252,6 +7274,32 @@
       "messageTs": "1776093594.754979",
       "completed": false,
       "firstSeenAt": "2026-04-13T23:32:26.595Z"
+    },
+    "a03f657b3304638f9d2e06f6184b27d1": {
+      "task": "final prep of aged leads for client and send 300 leads to channel, tag Eddie",
+      "assignee_name": "Christle 'Knows All' Ochigue",
+      "assignee_slack_mention": "@Christle 'Knows All' Ochigue",
+      "assigned_date": "2026-04-13",
+      "due_date": "2026-04-17",
+      "message_ts": "1776121264.756129",
+      "source_message": "@Christle 'Knows All' Ochigue i assigned this task for the final prep of aged leads for client",
+      "assigneeId": "UMCPG3D8A",
+      "messageTs": "1776121264.756129",
+      "completed": false,
+      "firstSeenAt": "2026-04-14T00:00:44.860Z"
+    },
+    "bae79250e6692dbfa29cbb437989b5e2": {
+      "task": "check on their set-up: freshdesk ticket 22210",
+      "assignee_name": "Mark 'Morpheus' Manaog",
+      "assignee_slack_mention": "@Mark 'Morpheus' Manaog",
+      "assigned_date": "2026-04-13",
+      "due_date": "2026-04-13",
+      "message_ts": "1776116048.322129",
+      "source_message": "@Mark 'Morpheus' Manaog Can you check on their set-up: <https://dovetailmktg.freshdesk.com/a/t",
+      "assigneeId": "U023F61R16F",
+      "messageTs": "1776116048.322129",
+      "completed": false,
+      "firstSeenAt": "2026-04-14T00:01:14.676Z"
     }
   }
 }
