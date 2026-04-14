@@ -7307,9 +7307,15 @@
       "type": "overdue",
       "task": "check on their tech concern (ticket 22075)",
       "skipped": true
+    },
+    "27b117b7432c0ca4bcde7f2def513e7d|midpoint|2026-04-14": {
+      "scheduledAt": "2026-04-14T15:53:33.041Z",
+      "type": "midpoint",
+      "task": "instruct team on how to find the 300 leads for Paul Lenskold",
+      "skipped": true
     }
   },
-  "lastRun": "2026-04-14T15:38:12.528Z",
+  "lastRun": "2026-04-14T15:55:45.567Z",
   "tasks": {
     "2886df20f4859405206a1dccebe0612c": {
       "task": "turn ads back",
@@ -7321,8 +7327,9 @@
       "source_message": "@Joma 'Magic Fingers' Cris Cantalejo Task: turn ads back Due: Tomorrow",
       "assigneeId": "U03KVJD9927",
       "messageTs": "1776061956.315109",
-      "completed": false,
-      "firstSeenAt": "2026-04-13T07:55:44.824Z"
+      "completed": true,
+      "firstSeenAt": "2026-04-13T07:55:44.824Z",
+      "completedAt": "2026-04-14T15:51:59.000Z"
     },
     "91ed79dc1d18cfe31e4d2c49becc00ab": {
       "task": "fix Eric Lovett's leadsheet data and get with Mark and/or Joma as needed to resolve this issue",
@@ -7627,8 +7634,9 @@
       "source_message": "@Joma 'Magic Fingers' Cris Cantalejo Task: turn ads back Due: Tomorrow",
       "assigneeId": "U03KVJD9927",
       "messageTs": "1776061956.315109",
-      "completed": false,
-      "firstSeenAt": "2026-04-13T20:21:18.195Z"
+      "completed": true,
+      "firstSeenAt": "2026-04-13T20:21:18.195Z",
+      "completedAt": "2026-04-14T15:51:59.121Z"
     },
     "83ff3988698fa9d2bd5d57b8481b65aa": {
       "task": "@Mark check tech concern ticket by EOD",
@@ -8527,8 +8535,9 @@
       "source_message": "@Mark 'Morpheus' Manaog Can you check on their set-up: <https://dovetailmktg.freshdesk.com/a/ti",
       "assigneeId": "U023F61R16F",
       "messageTs": "1776116048.322129",
-      "completed": false,
-      "firstSeenAt": "2026-04-14T15:31:48.435Z"
+      "completed": true,
+      "firstSeenAt": "2026-04-14T15:31:48.435Z",
+      "completedAt": "2026-04-14T15:51:59.223Z"
     },
     "450d537334aff95f1c7680a2ebc76394": {
       "task": "check on their tech concern (ticket 22075)",
@@ -8540,8 +8549,9 @@
       "source_message": "@Mark 'Morpheus' Manaog Please check on their tech concern: <https://dovetailmktg.freshdesk.com",
       "assigneeId": "U023F61R16F",
       "messageTs": "1776109872.053879",
-      "completed": false,
-      "firstSeenAt": "2026-04-14T15:33:12.584Z"
+      "completed": true,
+      "firstSeenAt": "2026-04-14T15:33:12.584Z",
+      "completedAt": "2026-04-14T15:51:59.351Z"
     }
   }
 }
