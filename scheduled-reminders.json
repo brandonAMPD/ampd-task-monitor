@@ -7151,9 +7151,30 @@
       "task": "fix Eric Lovett's leadsheet data and get with Mark/Joma to resolve",
       "assignee": "Christle 'Knows All' Ochigue",
       "reminderDate": "2026-05-20"
+    },
+    "9cb32c028d5042c9902b033bb394c11e|overdue|2026-05-18": {
+      "scheduledAt": "2026-04-14T09:09:00.078Z",
+      "type": "overdue",
+      "task": "turn on adroll retargeting with current images, $5/day or less",
+      "assignee": "Joma 'Magic Fingers' Cris Cantalejo",
+      "reminderDate": "2026-05-18"
+    },
+    "9cb32c028d5042c9902b033bb394c11e|overdue|2026-05-19": {
+      "scheduledAt": "2026-04-14T09:09:01.186Z",
+      "type": "overdue",
+      "task": "turn on adroll retargeting with current images, $5/day or less",
+      "assignee": "Joma 'Magic Fingers' Cris Cantalejo",
+      "reminderDate": "2026-05-19"
+    },
+    "9cb32c028d5042c9902b033bb394c11e|overdue|2026-05-20": {
+      "scheduledAt": "2026-04-14T09:09:02.326Z",
+      "type": "overdue",
+      "task": "turn on adroll retargeting with current images, $5/day or less",
+      "assignee": "Joma 'Magic Fingers' Cris Cantalejo",
+      "reminderDate": "2026-05-20"
     }
   },
-  "lastRun": "2026-04-14T08:31:25.730Z",
+  "lastRun": "2026-04-14T09:09:02.327Z",
   "tasks": {
     "2886df20f4859405206a1dccebe0612c": {
       "task": "turn ads back",
@@ -8144,6 +8165,45 @@
       "messageTs": "1776121264.756129",
       "completed": false,
       "firstSeenAt": "2026-04-14T08:00:48.143Z"
+    },
+    "99677d8c7f26066b9c1391b37787154d": {
+      "task": "check on their set-up: ticket 22210",
+      "assignee_name": "Mark 'Morpheus' Manaog",
+      "assignee_slack_mention": "@Mark 'Morpheus' Manaog",
+      "assigned_date": "2026-04-13",
+      "due_date": "2026-04-13",
+      "message_ts": "1776116048.322129",
+      "source_message": "@Mark 'Morpheus' Manaog Can you check on their set-up: <https://dovetailmktg.freshdesk.com/a/tic",
+      "assigneeId": "U023F61R16F",
+      "messageTs": "1776116048.322129",
+      "completed": false,
+      "firstSeenAt": "2026-04-14T09:01:34.233Z"
+    },
+    "586dc16858869bafb074938fd9e0792c": {
+      "task": "check on their tech concern: ticket 22075",
+      "assignee_name": "Mark 'Morpheus' Manaog",
+      "assignee_slack_mention": "@Mark 'Morpheus' Manaog",
+      "assigned_date": "2026-04-13",
+      "due_date": "2026-04-13",
+      "message_ts": "1776109872.053879",
+      "source_message": "@Mark 'Morpheus' Manaog Please check on their tech concern: <https://dovetailmktg.freshdesk.com",
+      "assigneeId": "U023F61R16F",
+      "messageTs": "1776109872.053879",
+      "completed": false,
+      "firstSeenAt": "2026-04-14T09:02:32.987Z"
+    },
+    "9cb32c028d5042c9902b033bb394c11e": {
+      "task": "turn on adroll retargeting with current images, $5/day or less",
+      "assignee_name": "Joma 'Magic Fingers' Cris Cantalejo",
+      "assignee_slack_mention": "@Joma 'Magic Fingers' Cris Cantalejo",
+      "assigned_date": "2026-04-13",
+      "due_date": "2026-04-20",
+      "message_ts": "1776093594.754979",
+      "source_message": "@Joma 'Magic Fingers' Cris Cantalejo please turn on adroll retargeting using the most curren",
+      "assigneeId": "U03KVJD9927",
+      "messageTs": "1776093594.754979",
+      "completed": false,
+      "firstSeenAt": "2026-04-14T09:07:39.495Z"
     }
   }
 }
