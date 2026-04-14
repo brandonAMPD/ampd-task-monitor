@@ -7331,9 +7331,49 @@
       "type": "nag",
       "task": "archive the funnel page or move the CRM signup page out of the current funnel",
       "skipped": true
+    },
+    "ee5ad38f7db7e8985f461654349bcc60|overdue|2026-05-21": {
+      "scheduledAt": "2026-04-14T17:01:42.615Z",
+      "type": "overdue",
+      "task": "schedule ISA review/AI testing meeting for Donovan Palmer, include Josh",
+      "assignee": "Eddie 'Rockstar' Monarrez",
+      "reminderDate": "2026-05-21"
+    },
+    "ee5ad38f7db7e8985f461654349bcc60|overdue|2026-05-22": {
+      "scheduledAt": "2026-04-14T17:01:43.546Z",
+      "type": "overdue",
+      "task": "schedule ISA review/AI testing meeting for Donovan Palmer, include Josh",
+      "assignee": "Eddie 'Rockstar' Monarrez",
+      "reminderDate": "2026-05-22"
+    },
+    "ee5ad38f7db7e8985f461654349bcc60|overdue|2026-05-23": {
+      "scheduledAt": "2026-04-14T17:01:44.533Z",
+      "type": "overdue",
+      "task": "schedule ISA review/AI testing meeting for Donovan Palmer, include Josh",
+      "assignee": "Eddie 'Rockstar' Monarrez",
+      "reminderDate": "2026-05-23"
+    },
+    "ee5ad38f7db7e8985f461654349bcc60|overdue|2026-05-24": {
+      "scheduledAt": "2026-04-14T17:01:45.497Z",
+      "type": "overdue",
+      "task": "schedule ISA review/AI testing meeting for Donovan Palmer, include Josh",
+      "assignee": "Eddie 'Rockstar' Monarrez",
+      "reminderDate": "2026-05-24"
+    },
+    "306c6a859f505fb5d75be112deb5cbd7|nag|2026-04-14": {
+      "scheduledAt": "2026-04-14T17:01:45.497Z",
+      "type": "nag",
+      "task": "discover best practices and plan SOP for GHL CRM packages and billing updates",
+      "skipped": true
+    },
+    "241590252f0856b6d9d2bdac3c929209|nag|2026-04-14": {
+      "scheduledAt": "2026-04-14T17:02:54.986Z",
+      "type": "nag",
+      "task": "archive funnel page or move CRM signup page, replace with new doc redirect",
+      "skipped": true
     }
   },
-  "lastRun": "2026-04-14T16:38:11.219Z",
+  "lastRun": "2026-04-14T17:10:21.855Z",
   "tasks": {
     "2886df20f4859405206a1dccebe0612c": {
       "task": "turn ads back",
@@ -8635,6 +8675,58 @@
       "messageTs": "1776121264.756129",
       "completed": false,
       "firstSeenAt": "2026-04-14T16:33:07.785Z"
+    },
+    "ee5ad38f7db7e8985f461654349bcc60": {
+      "task": "schedule ISA review/AI testing meeting for Donovan Palmer, include Josh",
+      "assignee_name": "Eddie 'Rockstar' Monarrez",
+      "assignee_slack_mention": "@Eddie 'Rockstar' Monarrez",
+      "assigned_date": "2026-04-14",
+      "due_date": "2026-04-24",
+      "message_ts": "1776185538.274169",
+      "source_message": "@Eddie 'Rockstar' Monarrez make sure we have an appt scheduled for an ISA review / AI testing review",
+      "assigneeId": "U02LFUG2WLR",
+      "messageTs": "1776185538.274169",
+      "completed": false,
+      "firstSeenAt": "2026-04-14T17:01:12.508Z"
+    },
+    "306c6a859f505fb5d75be112deb5cbd7": {
+      "task": "discover best practices and plan SOP for GHL CRM packages and billing updates",
+      "assignee_name": "Meg 'The Sage' Scheffler",
+      "assignee_slack_mention": "@Meg 'The Sage' Scheffler",
+      "assigned_date": "2026-04-14",
+      "due_date": "2026-04-16",
+      "message_ts": "1776182302.028819",
+      "source_message": "@Meg 'The Sage' Scheffler discover best practices and plan an SOP for GHL CRM packages and billing",
+      "assigneeId": "U05FE9QNFSQ",
+      "messageTs": "1776182302.028819",
+      "completed": false,
+      "firstSeenAt": "2026-04-14T17:01:45.497Z"
+    },
+    "241590252f0856b6d9d2bdac3c929209": {
+      "task": "archive funnel page or move CRM signup page, replace with new doc redirect",
+      "assignee_name": "Mark 'Morpheus' Manaog",
+      "assignee_slack_mention": "@Mark 'Morpheus' Manaog",
+      "assigned_date": "2026-04-14",
+      "due_date": "2026-04-16",
+      "message_ts": "1776181998.487419",
+      "source_message": "@Mark 'Morpheus' Manaog please archive the funnel page or move the CRM signup page out of the cur",
+      "assigneeId": "U023F61R16F",
+      "messageTs": "1776181998.487419",
+      "completed": false,
+      "firstSeenAt": "2026-04-14T17:02:54.986Z"
+    },
+    "3e754b375b3be761467b0fbc0cd48153": {
+      "task": "turn on adroll retargeting using current images, retarget 90 days non-conversions at $5/day",
+      "assignee_name": "Joma 'Magic Fingers' Cris Cantalejo",
+      "assignee_slack_mention": "@Joma 'Magic Fingers' Cris Cantalejo",
+      "assigned_date": "2026-04-13",
+      "due_date": "2026-04-20",
+      "message_ts": "1776093594.754979",
+      "source_message": "@Joma 'Magic Fingers' Cris Cantalejo please turn on adroll retargeting using the most current",
+      "assigneeId": "U03KVJD9927",
+      "messageTs": "1776093594.754979",
+      "completed": false,
+      "firstSeenAt": "2026-04-14T17:08:32.440Z"
     }
   }
 }
