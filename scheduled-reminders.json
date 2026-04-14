@@ -7195,7 +7195,7 @@
       "reminderDate": "2026-05-20"
     }
   },
-  "lastRun": "2026-04-14T09:35:29.176Z",
+  "lastRun": "2026-04-14T10:04:46.714Z",
   "tasks": {
     "2886df20f4859405206a1dccebe0612c": {
       "task": "turn ads back",
@@ -8240,6 +8240,19 @@
       "messageTs": "1776094285.826509",
       "completed": false,
       "firstSeenAt": "2026-04-14T09:32:35.290Z"
+    },
+    "8f0c2a3d9364395778f993b786d83225": {
+      "task": "instruct team on how to find the 300 leads needed for Paul Lenskold",
+      "assignee_name": "Brandon 'The One' Robertson",
+      "assignee_slack_mention": "@Brandon 'The One' Robertson",
+      "assigned_date": "2026-04-13",
+      "due_date": "2026-04-16",
+      "message_ts": "1776108322.687899",
+      "source_message": "@Brandon 'The One' Robertson be sure to instruct team on how to find the 300 leads we need fo",
+      "assigneeId": "UMS39RAGP",
+      "messageTs": "1776108322.687899",
+      "completed": false,
+      "firstSeenAt": "2026-04-14T10:02:06.345Z"
     }
   }
 }
