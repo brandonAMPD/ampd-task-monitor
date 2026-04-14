@@ -7125,7 +7125,7 @@
       "reminderDate": "2026-05-20"
     }
   },
-  "lastRun": "2026-04-14T06:33:16.023Z",
+  "lastRun": "2026-04-14T07:05:28.242Z",
   "tasks": {
     "2886df20f4859405206a1dccebe0612c": {
       "task": "turn ads back",
@@ -8064,6 +8064,19 @@
       "messageTs": "1776114894.412259",
       "completed": false,
       "firstSeenAt": "2026-04-14T06:31:30.748Z"
+    },
+    "9d2d1dd329f27887288b19f64a95d376": {
+      "task": "update landing page for lead gen client with updated and new LOS links",
+      "assignee_name": "Mark 'Morpheus' Manaog",
+      "assignee_slack_mention": "@Mark 'Morpheus' Manaog",
+      "assigned_date": "2026-04-13",
+      "due_date": "2026-04-14",
+      "message_ts": "1776108180.619019",
+      "source_message": "@Mark 'Morpheus' Manaog please update the landing page that a lead gen (broker lift system) cl",
+      "assigneeId": "U023F61R16F",
+      "messageTs": "1776108180.619019",
+      "completed": false,
+      "firstSeenAt": "2026-04-14T07:02:26.185Z"
     }
   }
 }
