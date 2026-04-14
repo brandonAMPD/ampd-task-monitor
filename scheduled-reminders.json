@@ -7032,9 +7032,37 @@
       "task": "final prep of aged leads for client & send 300 leads to Eddie's channel",
       "assignee": "Christle 'Knows All' Ochigue",
       "reminderDate": "2026-05-17"
+    },
+    "cc044fab07e33480d69b5d74f66a7ea4|overdue|2026-05-17": {
+      "scheduledAt": "2026-04-14T04:03:56.372Z",
+      "type": "overdue",
+      "task": "turn on adroll retargeting with current images for 90-day non-conversions at $5/day",
+      "assignee": "Joma 'Magic Fingers' Cris Cantalejo",
+      "reminderDate": "2026-05-17"
+    },
+    "cc044fab07e33480d69b5d74f66a7ea4|overdue|2026-05-18": {
+      "scheduledAt": "2026-04-14T04:04:08.437Z",
+      "type": "overdue",
+      "task": "turn on adroll retargeting with current images for 90-day non-conversions at $5/day",
+      "assignee": "Joma 'Magic Fingers' Cris Cantalejo",
+      "reminderDate": "2026-05-18"
+    },
+    "cc044fab07e33480d69b5d74f66a7ea4|overdue|2026-05-19": {
+      "scheduledAt": "2026-04-14T04:04:09.365Z",
+      "type": "overdue",
+      "task": "turn on adroll retargeting with current images for 90-day non-conversions at $5/day",
+      "assignee": "Joma 'Magic Fingers' Cris Cantalejo",
+      "reminderDate": "2026-05-19"
+    },
+    "cc044fab07e33480d69b5d74f66a7ea4|overdue|2026-05-20": {
+      "scheduledAt": "2026-04-14T04:04:10.272Z",
+      "type": "overdue",
+      "task": "turn on adroll retargeting with current images for 90-day non-conversions at $5/day",
+      "assignee": "Joma 'Magic Fingers' Cris Cantalejo",
+      "reminderDate": "2026-05-20"
     }
   },
-  "lastRun": "2026-04-14T03:34:29.569Z",
+  "lastRun": "2026-04-14T04:04:10.273Z",
   "tasks": {
     "2886df20f4859405206a1dccebe0612c": {
       "task": "turn ads back",
@@ -7882,6 +7910,19 @@
       "messageTs": "1776121264.756129",
       "completed": false,
       "firstSeenAt": "2026-04-14T03:30:44.731Z"
+    },
+    "cc044fab07e33480d69b5d74f66a7ea4": {
+      "task": "turn on adroll retargeting with current images for 90-day non-conversions at $5/day",
+      "assignee_name": "Joma 'Magic Fingers' Cris Cantalejo",
+      "assignee_slack_mention": "@Joma 'Magic Fingers' Cris Cantalejo",
+      "assigned_date": "2026-04-13",
+      "due_date": "2026-04-20",
+      "message_ts": "1776093594.754979",
+      "source_message": "@Joma 'Magic Fingers' Cris Cantalejo please turn on adroll retargeting using the most current ima",
+      "assigneeId": "U03KVJD9927",
+      "messageTs": "1776093594.754979",
+      "completed": false,
+      "firstSeenAt": "2026-04-14T04:02:43.739Z"
     }
   }
 }
