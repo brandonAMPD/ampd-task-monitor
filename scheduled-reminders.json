@@ -7313,9 +7313,27 @@
       "type": "midpoint",
       "task": "instruct team on how to find the 300 leads for Paul Lenskold",
       "skipped": true
+    },
+    "f04a5f6466d40fdd5ced5eb544edb8fc|nag|2026-04-14": {
+      "scheduledAt": "2026-04-14T16:01:05.684Z",
+      "type": "nag",
+      "task": "discover best practices and plan an SOP for GHL CRM packages and billing updates",
+      "skipped": true
+    },
+    "331155bf05753d84a053f0cfd7525e03|due|2026-04-14": {
+      "scheduledAt": "2026-04-14T16:01:29.626Z",
+      "type": "due",
+      "task": "let me know once you've sent the invoices on freshdesk",
+      "skipped": true
+    },
+    "c9d3a20a07804f817147ef803bcc344e|nag|2026-04-14": {
+      "scheduledAt": "2026-04-14T16:01:51.221Z",
+      "type": "nag",
+      "task": "archive the funnel page or move the CRM signup page out of the current funnel",
+      "skipped": true
     }
   },
-  "lastRun": "2026-04-14T15:55:45.567Z",
+  "lastRun": "2026-04-14T16:07:50.077Z",
   "tasks": {
     "2886df20f4859405206a1dccebe0612c": {
       "task": "turn ads back",
@@ -8552,6 +8570,58 @@
       "completed": true,
       "firstSeenAt": "2026-04-14T15:33:12.584Z",
       "completedAt": "2026-04-14T15:51:59.351Z"
+    },
+    "f04a5f6466d40fdd5ced5eb544edb8fc": {
+      "task": "discover best practices and plan an SOP for GHL CRM packages and billing updates",
+      "assignee_name": "Meg 'The Sage' Scheffler",
+      "assignee_slack_mention": "@Meg 'The Sage' Scheffler",
+      "assigned_date": "2026-04-14",
+      "due_date": "2026-04-16",
+      "message_ts": "1776182302.028819",
+      "source_message": "@Meg 'The Sage' Scheffler discover best practices and plan an SOP for GHL CRM packages and bil",
+      "assigneeId": "U05FE9QNFSQ",
+      "messageTs": "1776182302.028819",
+      "completed": false,
+      "firstSeenAt": "2026-04-14T16:01:05.683Z"
+    },
+    "331155bf05753d84a053f0cfd7525e03": {
+      "task": "let me know once you've sent the invoices on freshdesk",
+      "assignee_name": "Christle 'Knows All' Ochigue",
+      "assignee_slack_mention": "@Christle 'Knows All' Ochigue",
+      "assigned_date": "2026-04-14",
+      "due_date": "2026-04-14",
+      "message_ts": "1776182058.020449",
+      "source_message": "@Christle 'Knows All' Ochigue Please let me know once you've sent the invoices on freshdesk by",
+      "assigneeId": "UMCPG3D8A",
+      "messageTs": "1776182058.020449",
+      "completed": false,
+      "firstSeenAt": "2026-04-14T16:01:29.626Z"
+    },
+    "c9d3a20a07804f817147ef803bcc344e": {
+      "task": "archive the funnel page or move the CRM signup page out of the current funnel",
+      "assignee_name": "Mark 'Morpheus' Manaog",
+      "assignee_slack_mention": "@Mark 'Morpheus' Manaog",
+      "assigned_date": "2026-04-14",
+      "due_date": "2026-04-16",
+      "message_ts": "1776181998.487419",
+      "source_message": "@Mark 'Morpheus' Manaog please archive the funnel page or move the CRM signup page out of the c",
+      "assigneeId": "U023F61R16F",
+      "messageTs": "1776181998.487419",
+      "completed": false,
+      "firstSeenAt": "2026-04-14T16:01:51.220Z"
+    },
+    "bebe0fe7633dad5c00fda2a543e2e185": {
+      "task": "turn on adroll retargeting using the most current images",
+      "assignee_name": "Joma 'Magic Fingers' Cris Cantalejo",
+      "assignee_slack_mention": "@Joma 'Magic Fingers' Cris Cantalejo",
+      "assigned_date": "2026-04-13",
+      "due_date": "2026-04-20",
+      "message_ts": "1776093594.754979",
+      "source_message": "@Joma 'Magic Fingers' Cris Cantalejo please turn on adroll retargeting using the most current",
+      "assigneeId": "U03KVJD9927",
+      "messageTs": "1776093594.754979",
+      "completed": false,
+      "firstSeenAt": "2026-04-14T16:06:10.297Z"
     }
   }
 }
