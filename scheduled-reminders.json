@@ -7195,7 +7195,7 @@
       "reminderDate": "2026-05-20"
     }
   },
-  "lastRun": "2026-04-14T10:04:46.714Z",
+  "lastRun": "2026-04-14T10:36:00.439Z",
   "tasks": {
     "2886df20f4859405206a1dccebe0612c": {
       "task": "turn ads back",
@@ -8253,6 +8253,58 @@
       "messageTs": "1776108322.687899",
       "completed": false,
       "firstSeenAt": "2026-04-14T10:02:06.345Z"
+    },
+    "b045892c4021ebbac6f3f728c041d1a0": {
+      "task": "final prep of aged leads for client found in thread, send 300 leads to channel and tag Eddie",
+      "assignee_name": "Christle 'Knows All' Ochigue",
+      "assignee_slack_mention": "@Christle 'Knows All' Ochigue",
+      "assigned_date": "2026-04-13",
+      "due_date": "2026-04-17",
+      "message_ts": "1776121264.756129",
+      "source_message": "@Christle 'Knows All' Ochigue i assigned this task for the final prep of aged leads for client",
+      "assigneeId": "UMCPG3D8A",
+      "messageTs": "1776121264.756129",
+      "completed": false,
+      "firstSeenAt": "2026-04-14T10:30:54.064Z"
+    },
+    "9c04d029997de17a42178a85c06395f5": {
+      "task": "check on their set-up in ticket 22210",
+      "assignee_name": "Mark 'Morpheus' Manaog",
+      "assignee_slack_mention": "@Mark 'Morpheus' Manaog",
+      "assigned_date": "2026-04-13",
+      "due_date": "2026-04-13",
+      "message_ts": "1776116048.322129",
+      "source_message": "@Mark 'Morpheus' Manaog Can you check on their set-up: <https://dovetailmktg.freshdesk.com/a/t",
+      "assigneeId": "U023F61R16F",
+      "messageTs": "1776116048.322129",
+      "completed": false,
+      "firstSeenAt": "2026-04-14T10:31:31.097Z"
+    },
+    "8592ef8bbe9ea46928b61828dc374b01": {
+      "task": "check on their tech concern in ticket 22075",
+      "assignee_name": "Mark 'Morpheus' Manaog",
+      "assignee_slack_mention": "@Mark 'Morpheus' Manaog",
+      "assigned_date": "2026-04-13",
+      "due_date": "2026-04-13",
+      "message_ts": "1776109872.053879",
+      "source_message": "@Mark 'Morpheus' Manaog Please check on their tech concern: <https://dovetailmktg.freshdesk.co",
+      "assigneeId": "U023F61R16F",
+      "messageTs": "1776109872.053879",
+      "completed": false,
+      "firstSeenAt": "2026-04-14T10:32:44.390Z"
+    },
+    "e13831eb1760c367e05cbafeabdd07eb": {
+      "task": "update landing page with new links for LOS version as directed in channel",
+      "assignee_name": "Mark 'Morpheus' Manaog",
+      "assignee_slack_mention": "@Mark 'Morpheus' Manaog",
+      "assigned_date": "2026-04-13",
+      "due_date": "2026-04-14",
+      "message_ts": "1776108180.619019",
+      "source_message": "@Mark 'Morpheus' Manaog please update the landing page that a lead gen (broker lift system)",
+      "assigneeId": "U023F61R16F",
+      "messageTs": "1776108180.619019",
+      "completed": false,
+      "firstSeenAt": "2026-04-14T10:34:30.238Z"
     }
   }
 }
