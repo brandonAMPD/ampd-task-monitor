@@ -7060,9 +7060,16 @@
       "task": "turn on adroll retargeting with current images for 90-day non-conversions at $5/day",
       "assignee": "Joma 'Magic Fingers' Cris Cantalejo",
       "reminderDate": "2026-05-20"
+    },
+    "aecf91bb46f5d4b8cc2c2c4eb1e1e538|overdue|2026-05-17": {
+      "scheduledAt": "2026-04-14T04:31:03.306Z",
+      "type": "overdue",
+      "task": "final prep of aged leads for client, send 300 leads to Eddie's channel",
+      "assignee": "Christle 'Knows All' Ochigue",
+      "reminderDate": "2026-05-17"
     }
   },
-  "lastRun": "2026-04-14T04:04:10.273Z",
+  "lastRun": "2026-04-14T04:34:01.229Z",
   "tasks": {
     "2886df20f4859405206a1dccebe0612c": {
       "task": "turn ads back",
@@ -7923,6 +7930,32 @@
       "messageTs": "1776093594.754979",
       "completed": false,
       "firstSeenAt": "2026-04-14T04:02:43.739Z"
+    },
+    "aecf91bb46f5d4b8cc2c2c4eb1e1e538": {
+      "task": "final prep of aged leads for client, send 300 leads to Eddie's channel",
+      "assignee_name": "Christle 'Knows All' Ochigue",
+      "assignee_slack_mention": "@Christle 'Knows All' Ochigue",
+      "assigned_date": "2026-04-13",
+      "due_date": "2026-04-17",
+      "message_ts": "1776121264.756129",
+      "source_message": "@Christle 'Knows All' Ochigue i assigned this task for the final prep of aged leads for client",
+      "assigneeId": "UMCPG3D8A",
+      "messageTs": "1776121264.756129",
+      "completed": false,
+      "firstSeenAt": "2026-04-14T04:30:39.883Z"
+    },
+    "afbe19ca4453f8b002445587c3ec9b96": {
+      "task": "update landing page for broker lift system client with new links",
+      "assignee_name": "Mark 'Morpheus' Manaog",
+      "assignee_slack_mention": "@Mark 'Morpheus' Manaog",
+      "assigned_date": "2026-04-13",
+      "due_date": "2026-04-14",
+      "message_ts": "1776108180.619019",
+      "source_message": "@Mark 'Morpheus' Manaog please update the landing page that a lead gen (broker lift system) client",
+      "assigneeId": "U023F61R16F",
+      "messageTs": "1776108180.619019",
+      "completed": false,
+      "firstSeenAt": "2026-04-14T04:31:42.208Z"
     }
   }
 }
