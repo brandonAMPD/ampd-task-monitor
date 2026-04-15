@@ -7814,9 +7814,68 @@
       "task": "make sure we have an appt scheduled for an ISA review / AI testing review and include Josh",
       "assignee": "Eddie 'Rockstar' Monarrez",
       "reminderDate": "2026-05-24"
+    },
+    "e1247446b79d719939f9c80a04a40306|overdue|2026-05-21": {
+      "scheduledAt": "2026-04-15T21:25:32.837Z",
+      "type": "overdue",
+      "task": "use example funnel in Dovetail GHL account to finish a full working funnel minus CRM automations",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-05-21"
+    },
+    "e1247446b79d719939f9c80a04a40306|overdue|2026-05-22": {
+      "scheduledAt": "2026-04-15T21:25:33.510Z",
+      "type": "overdue",
+      "task": "use example funnel in Dovetail GHL account to finish a full working funnel minus CRM automations",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-05-22"
+    },
+    "e1247446b79d719939f9c80a04a40306|overdue|2026-05-23": {
+      "scheduledAt": "2026-04-15T21:25:34.184Z",
+      "type": "overdue",
+      "task": "use example funnel in Dovetail GHL account to finish a full working funnel minus CRM automations",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-05-23"
+    },
+    "e1247446b79d719939f9c80a04a40306|overdue|2026-05-24": {
+      "scheduledAt": "2026-04-15T21:25:45.897Z",
+      "type": "overdue",
+      "task": "use example funnel in Dovetail GHL account to finish a full working funnel minus CRM automations",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-05-24"
+    },
+    "e1247446b79d719939f9c80a04a40306|overdue|2026-05-25": {
+      "scheduledAt": "2026-04-15T21:25:46.543Z",
+      "type": "overdue",
+      "task": "use example funnel in Dovetail GHL account to finish a full working funnel minus CRM automations",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-05-25"
+    },
+    "7384a207574931d6bcc1326cc2e3d5d4|overdue|2026-04-15": {
+      "scheduledAt": "2026-04-15T21:27:25.975Z",
+      "type": "overdue",
+      "task": "Please check on their tech concern",
+      "skipped": true
+    },
+    "c380d7ce47c63419688fd3b28a59f1b0|due|2026-04-15": {
+      "scheduledAt": "2026-04-15T21:29:12.329Z",
+      "type": "due",
+      "task": "Can we set-up his round robin that he gets another additional rotation for Eric V only",
+      "skipped": true
+    },
+    "40006b46c326b0dfef7325a23c56f9be|nag|2026-04-15": {
+      "scheduledAt": "2026-04-15T21:30:37.960Z",
+      "type": "nag",
+      "task": "be sure to instruct team on how to find the 300 leads we need for Paul Lenskold",
+      "skipped": true
+    },
+    "b74a05bd0e86883eb9ab78bd6ef5688c|overdue|2026-04-15": {
+      "scheduledAt": "2026-04-15T21:31:51.415Z",
+      "type": "overdue",
+      "task": "please update the landing page that a lead gen (broker lift system) client would go to",
+      "skipped": true
     }
   },
-  "lastRun": "2026-04-15T18:58:07.387Z",
+  "lastRun": "2026-04-15T21:36:34.814Z",
   "tasks": {
     "2886df20f4859405206a1dccebe0612c": {
       "task": "turn ads back",
@@ -9292,8 +9351,9 @@
       "source_message": "@Mark 'Morpheus' Manaog please make sure your tech calendar is setup correctly and on the form",
       "assigneeId": "U023F61R16F",
       "messageTs": "1776197163.245039",
-      "completed": false,
-      "firstSeenAt": "2026-04-15T18:01:47.203Z"
+      "completed": true,
+      "firstSeenAt": "2026-04-15T18:01:47.203Z",
+      "completedAt": "2026-04-15T20:31:51.023Z"
     },
     "ca5158fffbac0e31233a79160c363a8d": {
       "task": "determine if relaunch and optimization is needed for the PMP call ads in Ampd ad account",
@@ -9346,6 +9406,110 @@
       "messageTs": "1776185538.274169",
       "completed": false,
       "firstSeenAt": "2026-04-15T18:01:47.204Z"
+    },
+    "e1247446b79d719939f9c80a04a40306": {
+      "task": "use example funnel in Dovetail GHL account to finish a full working funnel minus CRM automations",
+      "assignee_name": "Mark 'Morpheus' Manaog",
+      "assignee_slack_mention": "@Mark 'Morpheus' Manaog",
+      "assigned_date": "2026-04-15",
+      "due_date": "2026-04-25",
+      "message_ts": "1776274346.349429",
+      "source_message": "@Mark 'Morpheus' Manaog once Chrissy has created the brand/logo, please use the example funnel",
+      "assigneeId": "U023F61R16F",
+      "messageTs": "1776274346.349429",
+      "completed": false,
+      "firstSeenAt": "2026-04-15T20:32:22.291Z"
+    },
+    "9bc816642c92c07c4c916f1dfb2e5a6d": {
+      "task": "DETERMINE if a realunch and optimization is needed for the PMP call ads in Ampd ad account",
+      "assignee_name": "Joma 'Magic Fingers' Cris Cantalejo",
+      "assignee_slack_mention": "@Joma 'Magic Fingers' Cris Cantalejo",
+      "assigned_date": "2026-04-14",
+      "due_date": "2026-04-20",
+      "message_ts": "1776189324.560199",
+      "source_message": "@Joma 'Magic Fingers' Cris Cantalejo DETERMINE if a realunch and optimization is needed for the",
+      "assigneeId": "U03KVJD9927",
+      "messageTs": "1776189324.560199",
+      "completed": false,
+      "firstSeenAt": "2026-04-15T20:32:22.292Z"
+    },
+    "7384a207574931d6bcc1326cc2e3d5d4": {
+      "task": "Please check on their tech concern",
+      "assignee_name": "Mark 'Morpheus' Manaog",
+      "assignee_slack_mention": "@Mark 'Morpheus' Manaog",
+      "assigned_date": "2026-04-13",
+      "due_date": "2026-04-13",
+      "message_ts": "1776109872.053879",
+      "source_message": "@Mark 'Morpheus' Manaog Please check on their tech concern: <https://dovetailmktg.freshdesk.com/a/ti",
+      "assigneeId": "U023F61R16F",
+      "messageTs": "1776109872.053879",
+      "completed": false,
+      "firstSeenAt": "2026-04-15T20:32:22.292Z"
+    },
+    "c380d7ce47c63419688fd3b28a59f1b0": {
+      "task": "Can we set-up his round robin that he gets another additional rotation for Eric V only",
+      "assignee_name": "Mark 'Morpheus' Manaog",
+      "assignee_slack_mention": "@Mark 'Morpheus' Manaog",
+      "assigned_date": "2026-04-13",
+      "due_date": "2026-04-15",
+      "message_ts": "1776108398.093159",
+      "source_message": "@Mark 'Morpheus' Manaog Task: Can we set-up his round robin that he gets another additional rotat",
+      "assigneeId": "U023F61R16F",
+      "messageTs": "1776108398.093159",
+      "completed": false,
+      "firstSeenAt": "2026-04-15T20:32:22.292Z"
+    },
+    "40006b46c326b0dfef7325a23c56f9be": {
+      "task": "be sure to instruct team on how to find the 300 leads we need for Paul Lenskold",
+      "assignee_name": "Brandon 'The One' Robertson",
+      "assignee_slack_mention": "@Brandon 'The One' Robertson",
+      "assigned_date": "2026-04-13",
+      "due_date": "2026-04-16",
+      "message_ts": "1776108322.687899",
+      "source_message": "@Brandon 'The One' Robertson be sure to instruct team on how to find the 300 leads we need for Pa",
+      "assigneeId": "UMS39RAGP",
+      "messageTs": "1776108322.687899",
+      "completed": false,
+      "firstSeenAt": "2026-04-15T20:32:22.292Z"
+    },
+    "b74a05bd0e86883eb9ab78bd6ef5688c": {
+      "task": "please update the landing page that a lead gen (broker lift system) client would go to",
+      "assignee_name": "Mark 'Morpheus' Manaog",
+      "assignee_slack_mention": "@Mark 'Morpheus' Manaog",
+      "assigned_date": "2026-04-13",
+      "due_date": "2026-04-14",
+      "message_ts": "1776108180.619019",
+      "source_message": "@Mark 'Morpheus' Manaog please update the landing page that a lead gen (broker lift system) cli",
+      "assigneeId": "U023F61R16F",
+      "messageTs": "1776108180.619019",
+      "completed": false,
+      "firstSeenAt": "2026-04-15T20:32:22.292Z"
+    },
+    "4d0fe2bb63a2375ffc9e28a1fc931a76": {
+      "task": "please fix Eric Lovett's leadsheet data and get with Mark and/or Joma as needed",
+      "assignee_name": "Christle 'Knows All' Ochigue",
+      "assignee_slack_mention": "@Christle 'Knows All' Ochigue",
+      "assigned_date": "2026-04-13",
+      "due_date": "2026-04-20",
+      "message_ts": "1776094285.826509",
+      "source_message": "@Christle 'Knows All' Ochigue please fix Eric Lovett's leadsheet data and get with Mark and/or",
+      "assigneeId": "UMCPG3D8A",
+      "messageTs": "1776094285.826509",
+      "completed": false,
+      "firstSeenAt": "2026-04-15T20:32:22.292Z"
+    },
+    "1ec6e8c18a95e9e52f7b5197b34983eb": {
+      "task": "please turn on adroll retargeting using the most current images but retarget all non-conversion",
+      "assignee_name": "Joma 'Magic Fingers' Cris Cantalejo",
+      "assignee_slack_mention": "@Joma 'Magic Fingers' Cris Cantalejo",
+      "assigned_date": "2026-04-13",
+      "due_date": "2026-04-20",
+      "message_ts": "1776093594.754979",
+      "source_message": "@Joma 'Magic Fingers' Cris Cantalejo please turn on adroll retargeting using the most current ",
+      "assigneeId": "U03KVJD9927",
+      "messageTs": "1776093594.754979",
+      "completed": false,
+      "firstSeenAt": "2026-04-15T20:32:22.292Z"
     }
   },
   "lastWeeklySummaryDate": null
