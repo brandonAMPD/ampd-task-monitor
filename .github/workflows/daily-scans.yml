@@ -2,10 +2,10 @@ name: Task Monitor (Twice Daily)
 
 on:
   schedule:
+    # 1:00 AM EST = 06:00 UTC
+    - cron: '0 6 * * *'
     # 1:00 PM EST = 18:00 UTC
     - cron: '0 18 * * *'
-    # 10:00 PM EST = 03:00 UTC (next day)
-    - cron: '0 3 * * *'
   workflow_dispatch:
     # Allows manual trigger from GitHub Actions tab anytime
 
