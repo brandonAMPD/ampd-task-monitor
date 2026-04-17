@@ -1,0 +1,40 @@
+name: Weekly Task Summary (Fridays 10 AM EST)
+
+on:
+  schedule:
+    # Every Friday at 10:00 AM EST = 15:00 UTC
+    - cron: '0 15 * * 5'
+  workflow_dispatch:
+    # Manual trigger — run anytime to send the summary immediately
+
+jobs:
+  weekly-summary:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4.2.2
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v4.4.0
+        with:
+          node-version: '22'
+
+      - name: Install dependencies
+        run: npm install
+
+      - name: Send weekly summary
+        env:
+          SLACK_BOT_TOKEN: ${{ secrets.SLACK_BOT_TOKEN }}
+          SLACK_CHANNEL_ID: ${{ secrets.SLACK_CHANNEL_ID }}
+        run: node weekly-summary.js
+
+      - name: Save updated state
+        if: always()
+        run: |
+          git config user.name "Task Monitor Bot"
+          git config user.email "actions@github.com"
+          git add scheduled-reminders.json || true
+          git diff --staged --quiet || git commit -m "chore: mark weekly summary as sent [skip ci]"
+          git push || true
