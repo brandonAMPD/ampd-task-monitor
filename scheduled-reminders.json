@@ -473,8 +473,9 @@
       "source_message": "Brandon 'The One' Robertson: @Mark 'Morpheus' Manaog please make sure your tech calendar is s",
       "assigneeId": "U023F61R16F",
       "messageTs": "1776197163.245039",
-      "completed": false,
-      "firstSeenAt": "2026-04-17T06:01:44.143Z"
+      "completed": true,
+      "firstSeenAt": "2026-04-17T06:01:44.143Z",
+      "completedAt": "2026-04-17T10:22:38.226Z"
     },
     "e5d926fdb629df2ba9d16c0a4f844270": {
       "task": "determine if relaunch and optimization needed for PMP call ads and proceed if needed on 4/20/26",
@@ -525,8 +526,9 @@
       "source_message": "@Mark 'Morpheus' Manaog please archive the funnel page or move the CRM signup page out of the curr",
       "assigneeId": "U023F61R16F",
       "messageTs": "1776181998.487419",
-      "completed": false,
-      "firstSeenAt": "2026-04-17T06:01:44.144Z"
+      "completed": true,
+      "firstSeenAt": "2026-04-17T06:01:44.144Z",
+      "completedAt": "2026-04-17T10:22:38.336Z"
     },
     "1b6ffa66ef9e5f5015886637d92b0bb9": {
       "task": "final prep of aged leads for client and send 300 leads to Eddie's channel",
@@ -551,8 +553,9 @@
       "source_message": "@Mark 'Morpheus' Manaog Can you check on their set-up: <https://dovetailmktg.freshdesk.com/a/tic",
       "assigneeId": "U023F61R16F",
       "messageTs": "1776116048.322129",
-      "completed": false,
-      "firstSeenAt": "2026-04-17T06:01:44.144Z"
+      "completed": true,
+      "firstSeenAt": "2026-04-17T06:01:44.144Z",
+      "completedAt": "2026-04-17T10:22:38.438Z"
     },
     "81d339e63267d2060cbccc316ef46491": {
       "task": "turn on google calendar notifications for funnel website with two email domains format",
@@ -577,8 +580,9 @@
       "source_message": "@Mark 'Morpheus' Manaog Please check on their tech concern: <https://dovetailmktg.freshdesk.com/",
       "assigneeId": "U023F61R16F",
       "messageTs": "1776109872.053879",
-      "completed": false,
-      "firstSeenAt": "2026-04-17T06:01:44.144Z"
+      "completed": true,
+      "firstSeenAt": "2026-04-17T06:01:44.144Z",
+      "completedAt": "2026-04-17T10:22:38.540Z"
     },
     "9825a199285eb4f8182bafde0bbb78f7": {
       "task": "set-up round robin with additional rotation for Eric V only",
@@ -616,8 +620,9 @@
       "source_message": "@Mark 'Morpheus' Manaog please update the landing page that a lead gen (broker lift system) clien",
       "assigneeId": "U023F61R16F",
       "messageTs": "1776108180.619019",
-      "completed": false,
-      "firstSeenAt": "2026-04-17T06:01:44.144Z"
+      "completed": true,
+      "firstSeenAt": "2026-04-17T06:01:44.144Z",
+      "completedAt": "2026-04-17T10:22:38.642Z"
     },
     "469522dcc0e8622e09681a84349d10a2": {
       "task": "define sales target goals for various services and products",
@@ -655,8 +660,74 @@
       "source_message": "@Joma 'Magic Fingers' Cris Cantalejo please turn on adroll retargeting using the most current",
       "assigneeId": "U03KVJD9927",
       "messageTs": "1776093594.754979",
+      "completed": true,
+      "firstSeenAt": "2026-04-17T06:01:44.144Z",
+      "completedAt": "2026-04-17T10:22:38.739Z"
+    },
+    "f0d78e249eaec10e7d867f7e03c058d5": {
+      "task": "make sure strategy call booked for early next week due this friday",
+      "assignee_name": "Meg 'The Sage' Scheffler",
+      "assignee_slack_mention": "@Meg 'The Sage' Scheffler",
+      "assigned_date": "2026-04-15",
+      "due_date": "2026-04-18",
+      "message_ts": "1776292607.753149",
+      "source_message": "Brandon 'The One' Robertson: @Meg 'The Sage' Scheffler make sure a strategy call has been boo",
+      "assigneeId": "U05FE9QNFSQ",
+      "messageTs": "1776292607.753149",
       "completed": false,
-      "firstSeenAt": "2026-04-17T06:01:44.144Z"
+      "firstSeenAt": "2026-04-17T10:23:18.340Z"
+    },
+    "2a77765fbd66b30f634e5561d2c42838": {
+      "task": "make sure tech calendar setup correctly and on form by 4/15/26",
+      "assignee_name": "Mark 'Morpheus' Manaog",
+      "assignee_slack_mention": "@Mark 'Morpheus' Manaog",
+      "assigned_date": "2026-04-14",
+      "due_date": "2026-04-15",
+      "message_ts": "1776197163.245039",
+      "source_message": "Brandon 'The One' Robertson: @Mark 'Morpheus' Manaog please make sure your tech calendar is set",
+      "assigneeId": "U023F61R16F",
+      "messageTs": "1776197163.245039",
+      "completed": false,
+      "firstSeenAt": "2026-04-17T10:23:18.341Z"
+    },
+    "fdc396db61ab4b30434d39351517c828": {
+      "task": "turn the google calendar notifications on for funnel website with two email domains format",
+      "assignee_name": "Josh 'The Ninja' Morales",
+      "assignee_slack_mention": "@Josh 'The Ninja' Morales",
+      "assigned_date": "2026-04-13",
+      "due_date": "2026-04-14",
+      "message_ts": "1776114894.412259",
+      "source_message": "Brandon 'The One' Robertson: @Josh 'The Ninja' Morales please turn the google calendar notif",
+      "assigneeId": "U07FVUF09T7",
+      "messageTs": "1776114894.412259",
+      "completed": false,
+      "firstSeenAt": "2026-04-17T10:23:18.341Z"
+    },
+    "d7f3ff5892b0e8554c126a56f6e1ea20": {
+      "task": "update landing page for lead gen client with updated links and new links for LOS version",
+      "assignee_name": "Mark 'Morpheus' Manaog",
+      "assignee_slack_mention": "@Mark 'Morpheus' Manaog",
+      "assigned_date": "2026-04-13",
+      "due_date": "2026-04-14",
+      "message_ts": "1776108180.619019",
+      "source_message": "Brandon 'The One' Robertson: @Mark 'Morpheus' Manaog please update the landing page that a le",
+      "assigneeId": "U023F61R16F",
+      "messageTs": "1776108180.619019",
+      "completed": false,
+      "firstSeenAt": "2026-04-17T10:23:18.341Z"
+    },
+    "344674357bd4e783102a6aaafc2b028d": {
+      "task": "turn on adroll retargeting using most current images for non-conversions last 90 days",
+      "assignee_name": "Joma 'Magic Fingers' Cris Cantalejo",
+      "assignee_slack_mention": "@Joma 'Magic Fingers' Cris Cantalejo",
+      "assigned_date": "2026-04-13",
+      "due_date": "2026-04-20",
+      "message_ts": "1776093594.754979",
+      "source_message": "Brandon 'The One' Robertson: @Joma 'Magic Fingers' Cris Cantalejo please turn on adroll re",
+      "assigneeId": "U03KVJD9927",
+      "messageTs": "1776093594.754979",
+      "completed": false,
+      "firstSeenAt": "2026-04-17T10:23:18.341Z"
     }
   },
   "scheduled": {
@@ -1408,8 +1479,29 @@
       "task": "turn on adroll retargeting for non-conversions last 90 days at $5/day or less",
       "assignee": "Joma 'Magic Fingers' Cris Cantalejo",
       "reminderDate": "2026-04-20"
+    },
+    "f0d78e249eaec10e7d867f7e03c058d5|nag|2026-04-17": {
+      "scheduledAt": "2026-04-17T10:23:23.548Z",
+      "type": "nag",
+      "task": "make sure strategy call booked for early next week due this friday",
+      "assignee": "Meg 'The Sage' Scheffler",
+      "reminderDate": "2026-04-17"
+    },
+    "344674357bd4e783102a6aaafc2b028d|nag|2026-04-19": {
+      "scheduledAt": "2026-04-17T10:23:28.340Z",
+      "type": "nag",
+      "task": "turn on adroll retargeting using most current images for non-conversions last 90 days",
+      "assignee": "Joma 'Magic Fingers' Cris Cantalejo",
+      "reminderDate": "2026-04-19"
+    },
+    "344674357bd4e783102a6aaafc2b028d|due|2026-04-20": {
+      "scheduledAt": "2026-04-17T10:23:29.116Z",
+      "type": "due",
+      "task": "turn on adroll retargeting using most current images for non-conversions last 90 days",
+      "assignee": "Joma 'Magic Fingers' Cris Cantalejo",
+      "reminderDate": "2026-04-20"
     }
   },
   "lastWeeklySummaryDate": null,
-  "lastRun": "2026-04-17T06:02:15.511Z"
+  "lastRun": "2026-04-17T10:23:29.116Z"
 }
