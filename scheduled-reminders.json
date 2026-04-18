@@ -1011,8 +1011,9 @@
       "source_message": "@Meg 'The Sage' Scheffler discover best practices and plan an SOP for GHL CRM packages and bil",
       "assigneeId": "U05FE9QNFSQ",
       "messageTs": "1776182302.028819",
-      "completed": false,
-      "firstSeenAt": "2026-04-18T06:01:47.634Z"
+      "completed": true,
+      "firstSeenAt": "2026-04-18T06:01:47.634Z",
+      "completedAt": "2026-04-18T08:09:16.966Z"
     },
     "3d1d8214a3a857010dec98b10acff596": {
       "task": "let me know once invoices sent on freshdesk",
@@ -1076,8 +1077,9 @@
       "source_message": "@Joma 'Magic Fingers' Cris Cantalejo please turn on adroll retargeting using the most current i",
       "assigneeId": "U03KVJD9927",
       "messageTs": "1776093594.754979",
-      "completed": false,
-      "firstSeenAt": "2026-04-18T06:01:47.634Z"
+      "completed": true,
+      "firstSeenAt": "2026-04-18T06:01:47.634Z",
+      "completedAt": "2026-04-18T08:09:17.189Z"
     },
     "fdd2c4e8402a4ed249f6f0ba9b228d84": {
       "task": "Create dashboard for ampd CRM for broker lift system and reactivation",
@@ -1091,6 +1093,71 @@
       "messageTs": "1776092466.283209",
       "completed": false,
       "firstSeenAt": "2026-04-18T06:01:47.634Z"
+    },
+    "6c0c5eb2df808ce4678f0a758ee818f5": {
+      "task": "book strategy call for early next week due this friday",
+      "assignee_name": "Meg 'The Sage' Scheffler",
+      "assignee_slack_mention": "@Meg 'The Sage' Scheffler",
+      "assigned_date": "2026-04-15",
+      "due_date": "2026-04-18",
+      "message_ts": "1776292607.753149",
+      "source_message": "Brandon 'The One' Robertson: @Meg 'The Sage' Scheffler make sure a strategy call has been booke",
+      "assigneeId": "U05FE9QNFSQ",
+      "messageTs": "1776292607.753149",
+      "completed": false,
+      "firstSeenAt": "2026-04-18T08:09:55.901Z"
+    },
+    "38d27f0c8e5caaf90f71498e78ca3047": {
+      "task": "notify when invoices sent on freshdesk",
+      "assignee_name": "Christle 'Knows All' Ochigue",
+      "assignee_slack_mention": "@Christle 'Knows All' Ochigue",
+      "assigned_date": "2026-04-14",
+      "due_date": "2026-04-14",
+      "message_ts": "1776182058.020449",
+      "source_message": "@Christle 'Knows All' Ochigue Please let me know once you've sent the invoices on freshdesk by",
+      "assigneeId": "UMCPG3D8A",
+      "messageTs": "1776182058.020449",
+      "completed": false,
+      "firstSeenAt": "2026-04-18T08:09:55.902Z"
+    },
+    "aecf91bb46f5d4b8cc2c2c4eb1e1e538": {
+      "task": "final prep of aged leads for client, send 300 leads to Eddie",
+      "assignee_name": "Christle 'Knows All' Ochigue",
+      "assignee_slack_mention": "@Christle 'Knows All' Ochigue",
+      "assigned_date": "2026-04-13",
+      "due_date": "2026-04-17",
+      "message_ts": "1776121264.756129",
+      "source_message": "@Christle 'Knows All' Ochigue i assigned this task for the final prep of aged leads for client",
+      "assigneeId": "UMCPG3D8A",
+      "messageTs": "1776121264.756129",
+      "completed": false,
+      "firstSeenAt": "2026-04-18T08:09:55.902Z"
+    },
+    "5cb60ec2e7849db17da9685f119207c0": {
+      "task": "check on their set-up via freshdesk ticket",
+      "assignee_name": "Mark 'Morpheus' Manaog",
+      "assignee_slack_mention": "@Mark 'Morpheus' Manaog",
+      "assigned_date": "2026-04-13",
+      "due_date": "2026-04-13",
+      "message_ts": "1776116048.322129",
+      "source_message": "@Mark 'Morpheus' Manaog Can you check on their set-up: https://dovetailmktg.freshdesk.com/a/tick",
+      "assigneeId": "U023F61R16F",
+      "messageTs": "1776116048.322129",
+      "completed": false,
+      "firstSeenAt": "2026-04-18T08:09:55.902Z"
+    },
+    "56005ec96a53e6f11080bfd199462585": {
+      "task": "check on their tech concern via freshdesk ticket",
+      "assignee_name": "Mark 'Morpheus' Manaog",
+      "assignee_slack_mention": "@Mark 'Morpheus' Manaog",
+      "assigned_date": "2026-04-13",
+      "due_date": "2026-04-13",
+      "message_ts": "1776109872.053879",
+      "source_message": "@Mark 'Morpheus' Manaog Please check on their tech concern: https://dovetailmktg.freshdesk.com/a/",
+      "assigneeId": "U023F61R16F",
+      "messageTs": "1776109872.053879",
+      "completed": false,
+      "firstSeenAt": "2026-04-18T08:09:55.902Z"
     }
   },
   "scheduled": {
@@ -2232,5 +2299,5 @@
     }
   },
   "lastWeeklySummaryDate": "2026-W16",
-  "lastRun": "2026-04-18T06:02:26.528Z"
+  "lastRun": "2026-04-18T08:10:20.734Z"
 }
