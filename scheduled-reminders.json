@@ -274,8 +274,9 @@
       "source_message": "Brandon 'The One' Robertson: @Josh 'The Ninja' Morales please turn the google calendar notific",
       "assigneeId": "U07FVUF09T7",
       "messageTs": "1776114894.412259",
-      "completed": false,
-      "firstSeenAt": "2026-04-17T01:06:28.535Z"
+      "completed": true,
+      "firstSeenAt": "2026-04-17T01:06:28.535Z",
+      "completedAt": "2026-04-18T06:01:05.851Z"
     },
     "6443ed3695e512a0cea3433b56c18ccd": {
       "task": "check on their tech concern",
@@ -568,8 +569,9 @@
       "source_message": "@Josh 'The Ninja' Morales please turn the google calendar notifications on for our funnel websit",
       "assigneeId": "U07FVUF09T7",
       "messageTs": "1776114894.412259",
-      "completed": false,
-      "firstSeenAt": "2026-04-17T06:01:44.144Z"
+      "completed": true,
+      "firstSeenAt": "2026-04-17T06:01:44.144Z",
+      "completedAt": "2026-04-18T06:01:05.996Z"
     },
     "8a69e4d6be71390171df79121001418c": {
       "task": "check on their tech concern from freshdesk ticket 22075",
@@ -702,8 +704,9 @@
       "source_message": "Brandon 'The One' Robertson: @Josh 'The Ninja' Morales please turn the google calendar notif",
       "assigneeId": "U07FVUF09T7",
       "messageTs": "1776114894.412259",
-      "completed": false,
-      "firstSeenAt": "2026-04-17T10:23:18.341Z"
+      "completed": true,
+      "firstSeenAt": "2026-04-17T10:23:18.341Z",
+      "completedAt": "2026-04-18T06:01:06.210Z"
     },
     "d7f3ff5892b0e8554c126a56f6e1ea20": {
       "task": "update landing page for lead gen client with updated links and new links for LOS version",
@@ -900,8 +903,9 @@
       "source_message": "@Mark 'Morpheus' Manaog please archive the funnel page or move the CRM signup page out of the c",
       "assigneeId": "U023F61R16F",
       "messageTs": "1776181998.487419",
-      "completed": false,
-      "firstSeenAt": "2026-04-17T20:10:20.914Z"
+      "completed": true,
+      "firstSeenAt": "2026-04-17T20:10:20.914Z",
+      "completedAt": "2026-04-18T06:01:06.354Z"
     },
     "295a84fdbb216d8bd49b03b0edb08dc8": {
       "task": "final prep of aged leads for client, send 300 leads to channel and tag Eddie",
@@ -926,8 +930,9 @@
       "source_message": "@Mark 'Morpheus' Manaog Can you check on their set-up: https://dovetailmktg.freshdesk.com/a/t",
       "assigneeId": "U023F61R16F",
       "messageTs": "1776116048.322129",
-      "completed": false,
-      "firstSeenAt": "2026-04-17T20:10:20.914Z"
+      "completed": true,
+      "firstSeenAt": "2026-04-17T20:10:20.914Z",
+      "completedAt": "2026-04-18T06:01:07.181Z"
     },
     "450d537334aff95f1c7680a2ebc76394": {
       "task": "check on their tech concern (ticket 22075)",
@@ -939,8 +944,9 @@
       "source_message": "@Mark 'Morpheus' Manaog Please check on their tech concern: https://dovetailmktg.freshdesk.com",
       "assigneeId": "U023F61R16F",
       "messageTs": "1776109872.053879",
-      "completed": false,
-      "firstSeenAt": "2026-04-17T20:10:20.914Z"
+      "completed": true,
+      "firstSeenAt": "2026-04-17T20:10:20.914Z",
+      "completedAt": "2026-04-18T06:01:07.325Z"
     },
     "e13831eb1760c367e05cbafeabdd07eb": {
       "task": "update landing page with new links for LOS version as directed",
@@ -952,8 +958,139 @@
       "source_message": "@Mark 'Morpheus' Manaog please update the landing page that a lead gen (broker lift system) cl",
       "assigneeId": "U023F61R16F",
       "messageTs": "1776108180.619019",
+      "completed": true,
+      "firstSeenAt": "2026-04-17T20:10:20.914Z",
+      "completedAt": "2026-04-18T06:01:07.476Z"
+    },
+    "ff69caa6b5d3594abe501b533e8b3994": {
+      "task": "design dashboard for ampd crm tracking primary pipeline data",
+      "assignee_name": "Eddie 'Rockstar' Monarrez",
+      "assignee_slack_mention": "@Eddie 'Rockstar' Monarrez",
+      "assigned_date": "2026-04-14",
+      "due_date": "2026-04-22",
+      "message_ts": "1776188666.939779",
+      "source_message": "@Eddie 'Rockstar' Monarrez please help design a dashboard for ampd crm that tracks the pertine",
+      "assigneeId": "U02LFUG2WLR",
+      "messageTs": "1776188666.939779",
       "completed": false,
-      "firstSeenAt": "2026-04-17T20:10:20.914Z"
+      "firstSeenAt": "2026-04-18T06:01:47.633Z"
+    },
+    "f44a9e2d0657779d64d35fc36be3373e": {
+      "task": "reassess and design new approach for past client reach out for all services",
+      "assignee_name": "Brandon 'The One' Robertson",
+      "assignee_slack_mention": "@Brandon 'The One' Robertson",
+      "assigned_date": "2026-04-14",
+      "due_date": "2026-05-01",
+      "message_ts": "1776188158.192699",
+      "source_message": "@Brandon 'The One' Robertson please reassess and design a new approach for a reach out attempt",
+      "assigneeId": "UMS39RAGP",
+      "messageTs": "1776188158.192699",
+      "completed": false,
+      "firstSeenAt": "2026-04-18T06:01:47.633Z"
+    },
+    "34240dfe914a3a9c967f19d817d508c5": {
+      "task": "schedule ISA/AI testing review meeting for Donovan Palmer including Josh",
+      "assignee_name": "Eddie 'Rockstar' Monarrez",
+      "assignee_slack_mention": "@Eddie 'Rockstar' Monarrez",
+      "assigned_date": "2026-04-14",
+      "due_date": "2026-04-24",
+      "message_ts": "1776185538.274169",
+      "source_message": "@Eddie 'Rockstar' Monarrez make sure we have an appt scheduled for an ISA review / AI testing",
+      "assigneeId": "U02LFUG2WLR",
+      "messageTs": "1776185538.274169",
+      "completed": false,
+      "firstSeenAt": "2026-04-18T06:01:47.634Z"
+    },
+    "306c6a859f505fb5d75be112deb5cbd7": {
+      "task": "discover best practices and plan SOP for GHL CRM packages and billing updates",
+      "assignee_name": "Meg 'The Sage' Scheffler",
+      "assignee_slack_mention": "@Meg 'The Sage' Scheffler",
+      "assigned_date": "2026-04-14",
+      "due_date": "2026-04-16",
+      "message_ts": "1776182302.028819",
+      "source_message": "@Meg 'The Sage' Scheffler discover best practices and plan an SOP for GHL CRM packages and bil",
+      "assigneeId": "U05FE9QNFSQ",
+      "messageTs": "1776182302.028819",
+      "completed": false,
+      "firstSeenAt": "2026-04-18T06:01:47.634Z"
+    },
+    "3d1d8214a3a857010dec98b10acff596": {
+      "task": "let me know once invoices sent on freshdesk",
+      "assignee_name": "Christle 'Knows All' Ochigue",
+      "assignee_slack_mention": "@Christle 'Knows All' Ochigue",
+      "assigned_date": "2026-04-14",
+      "due_date": "2026-04-14",
+      "message_ts": "1776182058.020449",
+      "source_message": "@Christle 'Knows All' Ochigue Please let me know once you've sent the invoices on freshdesk",
+      "assigneeId": "UMCPG3D8A",
+      "messageTs": "1776182058.020449",
+      "completed": false,
+      "firstSeenAt": "2026-04-18T06:01:47.634Z"
+    },
+    "a03f657b3304638f9d2e06f6184b27d1": {
+      "task": "final prep of aged leads for client and send 300 leads to channel",
+      "assignee_name": "Christle 'Knows All' Ochigue",
+      "assignee_slack_mention": "@Christle 'Knows All' Ochigue",
+      "assigned_date": "2026-04-13",
+      "due_date": "2026-04-17",
+      "message_ts": "1776121264.756129",
+      "source_message": "@Christle 'Knows All' Ochigue i assigned this task for the final prep of aged leads for clien",
+      "assigneeId": "UMCPG3D8A",
+      "messageTs": "1776121264.756129",
+      "completed": false,
+      "firstSeenAt": "2026-04-18T06:01:47.634Z"
+    },
+    "b4da651589e2797a7cd9b6c70ed8cff5": {
+      "task": "set up round robin with additional rotation for Eric V only",
+      "assignee_name": "Mark 'Morpheus' Manaog",
+      "assignee_slack_mention": "@Mark 'Morpheus' Manaog",
+      "assigned_date": "2026-04-13",
+      "due_date": "2026-04-15",
+      "message_ts": "1776108398.093159",
+      "source_message": "@Mark 'Morpheus' Manaog Task: Can we set-up his round robin that he gets another addition",
+      "assigneeId": "U023F61R16F",
+      "messageTs": "1776108398.093159",
+      "completed": false,
+      "firstSeenAt": "2026-04-18T06:01:47.634Z"
+    },
+    "cf02299a07f0cc81e0774027d8e3db20": {
+      "task": "instruct team on how to find 300 leads for Paul Lenskold",
+      "assignee_name": "Brandon 'The One' Robertson",
+      "assignee_slack_mention": "@Brandon 'The One' Robertson",
+      "assigned_date": "2026-04-13",
+      "due_date": "2026-04-16",
+      "message_ts": "1776108322.687899",
+      "source_message": "@Brandon 'The One' Robertson be sure to instruct team on how to find the 300 leads we need",
+      "assigneeId": "UMS39RAGP",
+      "messageTs": "1776108322.687899",
+      "completed": false,
+      "firstSeenAt": "2026-04-18T06:01:47.634Z"
+    },
+    "3e6d3c92939e413a16c8b4411b8106e6": {
+      "task": "turn on adroll retargeting using most current images retarget non-conversions last 90 days $5/day",
+      "assignee_name": "Joma 'Magic Fingers' Cris Cantalejo",
+      "assignee_slack_mention": "@Joma 'Magic Fingers' Cris Cantalejo",
+      "assigned_date": "2026-04-13",
+      "due_date": "2026-04-20",
+      "message_ts": "1776093594.754979",
+      "source_message": "@Joma 'Magic Fingers' Cris Cantalejo please turn on adroll retargeting using the most current i",
+      "assigneeId": "U03KVJD9927",
+      "messageTs": "1776093594.754979",
+      "completed": false,
+      "firstSeenAt": "2026-04-18T06:01:47.634Z"
+    },
+    "fdd2c4e8402a4ed249f6f0ba9b228d84": {
+      "task": "Create dashboard for ampd CRM for broker lift system and reactivation",
+      "assignee_name": "Eddie 'Rockstar' Monarrez",
+      "assignee_slack_mention": "@Eddie 'Rockstar' Monarrez",
+      "assigned_date": "2026-04-13",
+      "due_date": "2026-04-21",
+      "message_ts": "1776092466.283209",
+      "source_message": "@Eddie 'Rockstar' Monarrez Create dashboard for ampd CRM that is for broker lift system and reac",
+      "assigneeId": "U02LFUG2WLR",
+      "messageTs": "1776092466.283209",
+      "completed": false,
+      "firstSeenAt": "2026-04-18T06:01:47.634Z"
     }
   },
   "scheduled": {
@@ -1938,8 +2075,162 @@
       "type": "due",
       "task": "final prep of aged leads for client, send 300 leads to channel and tag Eddie",
       "skipped": true
+    },
+    "3621afcdff64085ca58541c8980fc613|overdue|2026-04-19": {
+      "scheduledAt": "2026-04-18T06:01:48.682Z",
+      "type": "overdue",
+      "task": "handle github authentication request due by tomorrow",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-04-19"
+    },
+    "331155bf05753d84a053f0cfd7525e03|overdue|2026-04-19": {
+      "scheduledAt": "2026-04-18T06:01:49.589Z",
+      "type": "overdue",
+      "task": "let me know once you've sent the invoices on freshdesk",
+      "assignee": "Christle 'Knows All' Ochigue",
+      "reminderDate": "2026-04-19"
+    },
+    "e21bc84509f50faa8cc66e6158ff2139|overdue|2026-04-19": {
+      "scheduledAt": "2026-04-18T06:01:50.486Z",
+      "type": "overdue",
+      "task": "update Sergio Tapia's bullets",
+      "assignee": "Christle 'Knows All' Ochigue",
+      "reminderDate": "2026-04-19"
+    },
+    "d26ec853736071a9f2ee66479908100e|overdue|2026-04-19": {
+      "scheduledAt": "2026-04-18T06:01:51.451Z",
+      "type": "overdue",
+      "task": "final prep of aged leads for client and send final 300 leads to channel",
+      "assignee": "Christle 'Knows All' Ochigue",
+      "reminderDate": "2026-04-19"
+    },
+    "9b3f18bdcc7fd1849d1c7f1606d48bb5|overdue|2026-04-19": {
+      "scheduledAt": "2026-04-18T06:01:52.347Z",
+      "type": "overdue",
+      "task": "set-up his round robin that he gets another additional rotation for Eric V only",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-04-19"
+    },
+    "a2280a7261c9c5ad55b02f4d52379cf2|overdue|2026-04-19": {
+      "scheduledAt": "2026-04-18T06:01:53.214Z",
+      "type": "overdue",
+      "task": "instruct team on how to find the 300 leads we need for Paul Lenskold",
+      "assignee": "Brandon 'The One' Robertson",
+      "reminderDate": "2026-04-19"
+    },
+    "66546312d3dab9e5bfce171dbd7571f4|overdue|2026-04-19": {
+      "scheduledAt": "2026-04-18T06:01:53.980Z",
+      "type": "overdue",
+      "task": "define sales target goals for our various services and products",
+      "assignee": "Brandon 'The One' Robertson",
+      "reminderDate": "2026-04-19"
+    },
+    "1b6ffa66ef9e5f5015886637d92b0bb9|overdue|2026-04-19": {
+      "scheduledAt": "2026-04-18T06:01:54.956Z",
+      "type": "overdue",
+      "task": "final prep of aged leads for client and send 300 leads to Eddie's channel",
+      "assignee": "Christle 'Knows All' Ochigue",
+      "reminderDate": "2026-04-19"
+    },
+    "9825a199285eb4f8182bafde0bbb78f7|overdue|2026-04-19": {
+      "scheduledAt": "2026-04-18T06:01:55.903Z",
+      "type": "overdue",
+      "task": "set-up round robin with additional rotation for Eric V only",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-04-19"
+    },
+    "ff69caa6b5d3594abe501b533e8b3994|nag|2026-04-20": {
+      "scheduledAt": "2026-04-18T06:02:07.174Z",
+      "type": "nag",
+      "task": "design dashboard for ampd crm tracking primary pipeline data",
+      "assignee": "Eddie 'Rockstar' Monarrez",
+      "reminderDate": "2026-04-20"
+    },
+    "ff69caa6b5d3594abe501b533e8b3994|nag|2026-04-21": {
+      "scheduledAt": "2026-04-18T06:02:08.158Z",
+      "type": "nag",
+      "task": "design dashboard for ampd crm tracking primary pipeline data",
+      "assignee": "Eddie 'Rockstar' Monarrez",
+      "reminderDate": "2026-04-21"
+    },
+    "ff69caa6b5d3594abe501b533e8b3994|due|2026-04-22": {
+      "scheduledAt": "2026-04-18T06:02:09.116Z",
+      "type": "due",
+      "task": "design dashboard for ampd crm tracking primary pipeline data",
+      "assignee": "Eddie 'Rockstar' Monarrez",
+      "reminderDate": "2026-04-22"
+    },
+    "f44a9e2d0657779d64d35fc36be3373e|midpoint|2026-04-22": {
+      "scheduledAt": "2026-04-18T06:02:09.899Z",
+      "type": "midpoint",
+      "task": "reassess and design new approach for past client reach out for all services",
+      "assignee": "Brandon 'The One' Robertson",
+      "reminderDate": "2026-04-22"
+    },
+    "f44a9e2d0657779d64d35fc36be3373e|nag|2026-04-29": {
+      "scheduledAt": "2026-04-18T06:02:10.729Z",
+      "type": "nag",
+      "task": "reassess and design new approach for past client reach out for all services",
+      "assignee": "Brandon 'The One' Robertson",
+      "reminderDate": "2026-04-29"
+    },
+    "f44a9e2d0657779d64d35fc36be3373e|nag|2026-04-30": {
+      "scheduledAt": "2026-04-18T06:02:11.503Z",
+      "type": "nag",
+      "task": "reassess and design new approach for past client reach out for all services",
+      "assignee": "Brandon 'The One' Robertson",
+      "reminderDate": "2026-04-30"
+    },
+    "f44a9e2d0657779d64d35fc36be3373e|due|2026-05-01": {
+      "scheduledAt": "2026-04-18T06:02:12.308Z",
+      "type": "due",
+      "task": "reassess and design new approach for past client reach out for all services",
+      "assignee": "Brandon 'The One' Robertson",
+      "reminderDate": "2026-05-01"
+    },
+    "34240dfe914a3a9c967f19d817d508c5|nag|2026-04-22": {
+      "scheduledAt": "2026-04-18T06:02:14.101Z",
+      "type": "nag",
+      "task": "schedule ISA/AI testing review meeting for Donovan Palmer including Josh",
+      "assignee": "Eddie 'Rockstar' Monarrez",
+      "reminderDate": "2026-04-22"
+    },
+    "34240dfe914a3a9c967f19d817d508c5|nag|2026-04-23": {
+      "scheduledAt": "2026-04-18T06:02:15.017Z",
+      "type": "nag",
+      "task": "schedule ISA/AI testing review meeting for Donovan Palmer including Josh",
+      "assignee": "Eddie 'Rockstar' Monarrez",
+      "reminderDate": "2026-04-23"
+    },
+    "34240dfe914a3a9c967f19d817d508c5|due|2026-04-24": {
+      "scheduledAt": "2026-04-18T06:02:15.919Z",
+      "type": "due",
+      "task": "schedule ISA/AI testing review meeting for Donovan Palmer including Josh",
+      "assignee": "Eddie 'Rockstar' Monarrez",
+      "reminderDate": "2026-04-24"
+    },
+    "3e6d3c92939e413a16c8b4411b8106e6|due|2026-04-20": {
+      "scheduledAt": "2026-04-18T06:02:23.863Z",
+      "type": "due",
+      "task": "turn on adroll retargeting using most current images retarget non-conversions last 90 days $5/day",
+      "assignee": "Joma 'Magic Fingers' Cris Cantalejo",
+      "reminderDate": "2026-04-20"
+    },
+    "fdd2c4e8402a4ed249f6f0ba9b228d84|nag|2026-04-20": {
+      "scheduledAt": "2026-04-18T06:02:25.631Z",
+      "type": "nag",
+      "task": "Create dashboard for ampd CRM for broker lift system and reactivation",
+      "assignee": "Eddie 'Rockstar' Monarrez",
+      "reminderDate": "2026-04-20"
+    },
+    "fdd2c4e8402a4ed249f6f0ba9b228d84|due|2026-04-21": {
+      "scheduledAt": "2026-04-18T06:02:26.527Z",
+      "type": "due",
+      "task": "Create dashboard for ampd CRM for broker lift system and reactivation",
+      "assignee": "Eddie 'Rockstar' Monarrez",
+      "reminderDate": "2026-04-21"
     }
   },
   "lastWeeklySummaryDate": "2026-W16",
-  "lastRun": "2026-04-17T20:10:41.723Z"
+  "lastRun": "2026-04-18T06:02:26.528Z"
 }
