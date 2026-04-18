@@ -1236,8 +1236,9 @@
       "source_message": "@Mark 'Morpheus' Manaog please archive the funnel page or move the CRM signup page out of the",
       "assigneeId": "U023F61R16F",
       "messageTs": "1776181998.487419",
-      "completed": false,
-      "firstSeenAt": "2026-04-18T18:01:49.367Z"
+      "completed": true,
+      "firstSeenAt": "2026-04-18T18:01:49.367Z",
+      "completedAt": "2026-04-18T19:56:07.496Z"
     },
     "5b05a1a36bd55ff60ae0f09db8966fb7": {
       "task": "update landing page for lead gen client with new links for LOS version",
@@ -1249,8 +1250,35 @@
       "source_message": "@Mark 'Morpheus' Manaog please update the landing page that a lead gen (broker lift system) c",
       "assigneeId": "U023F61R16F",
       "messageTs": "1776108180.619019",
+      "completed": true,
+      "firstSeenAt": "2026-04-18T18:01:49.367Z",
+      "completedAt": "2026-04-18T19:56:07.682Z"
+    },
+    "27de055d63f67ecad633a45716da5e1f": {
+      "task": "design a dashboard for ampd crm that tracks the pertinent data for primary pipeline",
+      "assignee_name": "Eddie 'Rockstar' Monarrez",
+      "assignee_slack_mention": "@Eddie 'Rockstar' Monarrez",
+      "assigned_date": "2026-04-14",
+      "due_date": "2026-04-22",
+      "message_ts": "1776188666.939779",
+      "source_message": "@Eddie 'Rockstar' Monarrez please help design a dashboard for ampd crm that tracks the pertinent d",
+      "assigneeId": "U02LFUG2WLR",
+      "messageTs": "1776188666.939779",
       "completed": false,
-      "firstSeenAt": "2026-04-18T18:01:49.367Z"
+      "firstSeenAt": "2026-04-18T19:56:53.548Z"
+    },
+    "b5dd4cfe4df376787bd40e7a1000ef9b": {
+      "task": "turn on adroll retargeting using most current images, retarget non-conversions last 90 days",
+      "assignee_name": "Joma 'Magic Fingers' Cris Cantalejo",
+      "assignee_slack_mention": "@Joma 'Magic Fingers' Cris Cantalejo",
+      "assigned_date": "2026-04-13",
+      "due_date": "2026-04-20",
+      "message_ts": "1776093594.754979",
+      "source_message": "Brandon 'The One' Robertson: @Joma 'Magic Fingers' Cris Cantalejo please turn on adroll ret",
+      "assigneeId": "U03KVJD9927",
+      "messageTs": "1776093594.754979",
+      "completed": false,
+      "firstSeenAt": "2026-04-18T19:56:53.548Z"
     }
   },
   "scheduled": {
@@ -2542,8 +2570,48 @@
       "task": "schedule ISA review / AI testing review appointment for Donovan Palmer including Josh",
       "assignee": "Eddie 'Rockstar' Monarrez",
       "reminderDate": "2026-04-24"
+    },
+    "27de055d63f67ecad633a45716da5e1f|midpoint|2026-04-18": {
+      "scheduledAt": "2026-04-18T19:57:09.765Z",
+      "type": "midpoint",
+      "task": "design a dashboard for ampd crm that tracks the pertinent data for primary pipeline",
+      "skipped": true
+    },
+    "27de055d63f67ecad633a45716da5e1f|nag|2026-04-20": {
+      "scheduledAt": "2026-04-18T19:57:10.863Z",
+      "type": "nag",
+      "task": "design a dashboard for ampd crm that tracks the pertinent data for primary pipeline",
+      "assignee": "Eddie 'Rockstar' Monarrez",
+      "reminderDate": "2026-04-20"
+    },
+    "27de055d63f67ecad633a45716da5e1f|nag|2026-04-21": {
+      "scheduledAt": "2026-04-18T19:57:11.960Z",
+      "type": "nag",
+      "task": "design a dashboard for ampd crm that tracks the pertinent data for primary pipeline",
+      "assignee": "Eddie 'Rockstar' Monarrez",
+      "reminderDate": "2026-04-21"
+    },
+    "27de055d63f67ecad633a45716da5e1f|due|2026-04-22": {
+      "scheduledAt": "2026-04-18T19:57:12.918Z",
+      "type": "due",
+      "task": "design a dashboard for ampd crm that tracks the pertinent data for primary pipeline",
+      "assignee": "Eddie 'Rockstar' Monarrez",
+      "reminderDate": "2026-04-22"
+    },
+    "b5dd4cfe4df376787bd40e7a1000ef9b|nag|2026-04-18": {
+      "scheduledAt": "2026-04-18T19:57:12.919Z",
+      "type": "nag",
+      "task": "turn on adroll retargeting using most current images, retarget non-conversions last 90 days",
+      "skipped": true
+    },
+    "b5dd4cfe4df376787bd40e7a1000ef9b|due|2026-04-20": {
+      "scheduledAt": "2026-04-18T19:57:14.968Z",
+      "type": "due",
+      "task": "turn on adroll retargeting using most current images, retarget non-conversions last 90 days",
+      "assignee": "Joma 'Magic Fingers' Cris Cantalejo",
+      "reminderDate": "2026-04-20"
     }
   },
   "lastWeeklySummaryDate": "2026-W16",
-  "lastRun": "2026-04-18T18:02:13.224Z"
+  "lastRun": "2026-04-18T19:57:14.968Z"
 }
