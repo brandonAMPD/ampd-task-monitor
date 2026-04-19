@@ -1330,8 +1330,9 @@
       "source_message": "@Mark 'Morpheus' Manaog please archive the funnel page or move the CRM signup page out of th",
       "assigneeId": "U023F61R16F",
       "messageTs": "1776181998.487419",
-      "completed": false,
-      "firstSeenAt": "2026-04-19T06:01:47.329Z"
+      "completed": true,
+      "firstSeenAt": "2026-04-19T06:01:47.329Z",
+      "completedAt": "2026-04-19T09:07:22.496Z"
     },
     "65b672f24bef6cf922665241c5277df2": {
       "task": "final prep of aged leads for client and send 300 leads",
@@ -1356,8 +1357,9 @@
       "source_message": "@Josh 'The Ninja' Morales please turn the google calendar notifications on for our funnel w",
       "assigneeId": "U07FVUF09T7",
       "messageTs": "1776114894.412259",
-      "completed": false,
-      "firstSeenAt": "2026-04-19T06:01:47.329Z"
+      "completed": true,
+      "firstSeenAt": "2026-04-19T06:01:47.329Z",
+      "completedAt": "2026-04-19T09:07:22.589Z"
     },
     "c57309f840cb77dfdfedd5468a76d182": {
       "task": "set-up round robin additional rotation for Eric V",
@@ -1382,8 +1384,152 @@
       "source_message": "@Mark 'Morpheus' Manaog please update the landing page that a lead gen (broker lift system)",
       "assigneeId": "U023F61R16F",
       "messageTs": "1776108180.619019",
+      "completed": true,
+      "firstSeenAt": "2026-04-19T06:01:47.329Z",
+      "completedAt": "2026-04-19T09:07:22.670Z"
+    },
+    "ffc94692e548ec049387c93cc1438f17": {
+      "task": "finish a full working funnel and give to jimmy by next Friday",
+      "assignee_name": "Mark 'Morpheus' Manaog",
+      "assignee_slack_mention": "@Mark 'Morpheus' Manaog",
+      "assigned_date": "2026-04-15",
+      "due_date": "2026-04-25",
+      "message_ts": "1776274346.349429",
+      "source_message": "Brandon 'The One' Robertson: @Mark 'Morpheus' Manaog once Chrissy has created the brand/logo, p",
+      "assigneeId": "U023F61R16F",
+      "messageTs": "1776274346.349429",
       "completed": false,
-      "firstSeenAt": "2026-04-19T06:01:47.329Z"
+      "firstSeenAt": "2026-04-19T09:08:10.091Z"
+    },
+    "06e98748d31f0901af88e0a38c8a0fb4": {
+      "task": "help design a dashboard for ampd crm that tracks the pertinent data for us and make that dashboard",
+      "assignee_name": "Eddie 'Rockstar' Monarrez",
+      "assignee_slack_mention": "@Eddie 'Rockstar' Monarrez",
+      "assigned_date": "2026-04-14",
+      "due_date": "2026-04-22",
+      "message_ts": "1776188666.939779",
+      "source_message": "@Eddie 'Rockstar' Monarrez please help design a dashboard for ampd crm that tracks the pertinent d",
+      "assigneeId": "U02LFUG2WLR",
+      "messageTs": "1776188666.939779",
+      "completed": false,
+      "firstSeenAt": "2026-04-19T09:08:10.091Z"
+    },
+    "bf1b68de32f02552aa73b3aae0c1c835": {
+      "task": "Please let me know once you've sent the invoices on freshdesk",
+      "assignee_name": "Christle 'Knows All' Ochigue",
+      "assignee_slack_mention": "@Christle 'Knows All' Ochigue",
+      "assigned_date": "2026-04-14",
+      "due_date": "2026-04-14",
+      "message_ts": "1776182058.020449",
+      "source_message": "@Christle 'Knows All' Ochigue Please let me know once you've sent the invoices on freshdesk b",
+      "assigneeId": "UMCPG3D8A",
+      "messageTs": "1776182058.020449",
+      "completed": false,
+      "firstSeenAt": "2026-04-19T09:08:10.091Z"
+    },
+    "5e37f9bc5fc2c9e4bf9fa42ec6a2e0d0": {
+      "task": "please archive the funnel page or move the CRM signup page out of the current funnel into it's",
+      "assignee_name": "Mark 'Morpheus' Manaog",
+      "assignee_slack_mention": "@Mark 'Morpheus' Manaog",
+      "assigned_date": "2026-04-14",
+      "due_date": "2026-04-16",
+      "message_ts": "1776181998.487419",
+      "source_message": "@Mark 'Morpheus' Manaog please archive the funnel page or move the CRM signup page out of the c",
+      "assigneeId": "U023F61R16F",
+      "messageTs": "1776181998.487419",
+      "completed": false,
+      "firstSeenAt": "2026-04-19T09:08:10.091Z"
+    },
+    "3be564f8cbd05300d68566a7dec1888d": {
+      "task": "assigned this task for the final prep of aged leads for client found in this thread",
+      "assignee_name": "Christle 'Knows All' Ochigue",
+      "assignee_slack_mention": "@Christle 'Knows All' Ochigue",
+      "assigned_date": "2026-04-13",
+      "due_date": "2026-04-17",
+      "message_ts": "1776121264.756129",
+      "source_message": "@Christle 'Knows All' Ochigue i assigned this task for the final prep of aged leads for cl",
+      "assigneeId": "UMCPG3D8A",
+      "messageTs": "1776121264.756129",
+      "completed": false,
+      "firstSeenAt": "2026-04-19T09:08:10.091Z"
+    },
+    "649b2d8f2aba1b424141b1424ede4570": {
+      "task": "Can you check on their set-up:",
+      "assignee_name": "Mark 'Morpheus' Manaog",
+      "assignee_slack_mention": "@Mark 'Morpheus' Manaog",
+      "assigned_date": "2026-04-13",
+      "due_date": "2026-04-13",
+      "message_ts": "1776116048.322129",
+      "source_message": "@Mark 'Morpheus' Manaog Can you check on their set-up: <https://dovetailmktg.freshdesk.com/a/",
+      "assigneeId": "U023F61R16F",
+      "messageTs": "1776116048.322129",
+      "completed": false,
+      "firstSeenAt": "2026-04-19T09:08:10.091Z"
+    },
+    "36fdce6b6d1813743e9c3d1d386c1ad0": {
+      "task": "please turn the google calendar notifications on for our funnel website on but use the format I",
+      "assignee_name": "Josh 'The Ninja' Morales",
+      "assignee_slack_mention": "@Josh 'The Ninja' Morales",
+      "assigned_date": "2026-04-13",
+      "due_date": "2026-04-14",
+      "message_ts": "1776114894.412259",
+      "source_message": "@Josh 'The Ninja' Morales please turn the google calendar notifications on for our funnel webs",
+      "assigneeId": "U07FVUF09T7",
+      "messageTs": "1776114894.412259",
+      "completed": false,
+      "firstSeenAt": "2026-04-19T09:08:10.091Z"
+    },
+    "87c53959b332ac9b1dc3513a12a64792": {
+      "task": "Please check on their tech concern:",
+      "assignee_name": "Mark 'Morpheus' Manaog",
+      "assignee_slack_mention": "@Mark 'Morpheus' Manaog",
+      "assigned_date": "2026-04-13",
+      "due_date": "2026-04-13",
+      "message_ts": "1776109872.053879",
+      "source_message": "@Mark 'Morpheus' Manaog Please check on their tech concern: <https://dovetailmktg.freshdesk.com",
+      "assigneeId": "U023F61R16F",
+      "messageTs": "1776109872.053879",
+      "completed": false,
+      "firstSeenAt": "2026-04-19T09:08:10.091Z"
+    },
+    "c380d7ce47c63419688fd3b28a59f1b0": {
+      "task": "Can we set-up his round robin that he gets another additional rotation for Eric V only",
+      "assignee_name": "Mark 'Morpheus' Manaog",
+      "assignee_slack_mention": "@Mark 'Morpheus' Manaog",
+      "assigned_date": "2026-04-13",
+      "due_date": "2026-04-15",
+      "message_ts": "1776108398.093159",
+      "source_message": "@Mark 'Morpheus' Manaog Task: Can we set-up his round robin that he gets another additional r",
+      "assigneeId": "U023F61R16F",
+      "messageTs": "1776108398.093159",
+      "completed": false,
+      "firstSeenAt": "2026-04-19T09:08:10.091Z"
+    },
+    "40006b46c326b0dfef7325a23c56f9be": {
+      "task": "be sure to instruct team on how to find the 300 leads we need for Paul Lenskold",
+      "assignee_name": "Brandon 'The One' Robertson",
+      "assignee_slack_mention": "@Brandon 'The One' Robertson",
+      "assigned_date": "2026-04-13",
+      "due_date": "2026-04-16",
+      "message_ts": "1776108322.687899",
+      "source_message": "@Brandon 'The One' Robertson be sure to instruct team on how to find the 300 leads we need f",
+      "assigneeId": "UMS39RAGP",
+      "messageTs": "1776108322.687899",
+      "completed": false,
+      "firstSeenAt": "2026-04-19T09:08:10.092Z"
+    },
+    "b74a05bd0e86883eb9ab78bd6ef5688c": {
+      "task": "please update the landing page that a lead gen (broker lift system) client would go to after s",
+      "assignee_name": "Mark 'Morpheus' Manaog",
+      "assignee_slack_mention": "@Mark 'Morpheus' Manaog",
+      "assigned_date": "2026-04-13",
+      "due_date": "2026-04-14",
+      "message_ts": "1776108180.619019",
+      "source_message": "@Mark 'Morpheus' Manaog please update the landing page that a lead gen (broker lift system) c",
+      "assigneeId": "U023F61R16F",
+      "messageTs": "1776108180.619019",
+      "completed": false,
+      "firstSeenAt": "2026-04-19T09:08:10.092Z"
     }
   },
   "scheduled": {
@@ -2778,8 +2924,43 @@
       "task": "schedule ISA review / AI testing review meeting with Josh for Donovan Palmer",
       "assignee": "Eddie 'Rockstar' Monarrez",
       "reminderDate": "2026-04-24"
+    },
+    "ffc94692e548ec049387c93cc1438f17|nag|2026-04-23": {
+      "scheduledAt": "2026-04-19T09:08:31.811Z",
+      "type": "nag",
+      "task": "finish a full working funnel and give to jimmy by next Friday",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-04-23"
+    },
+    "ffc94692e548ec049387c93cc1438f17|nag|2026-04-24": {
+      "scheduledAt": "2026-04-19T09:08:32.486Z",
+      "type": "nag",
+      "task": "finish a full working funnel and give to jimmy by next Friday",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-04-24"
+    },
+    "ffc94692e548ec049387c93cc1438f17|due|2026-04-25": {
+      "scheduledAt": "2026-04-19T09:08:33.130Z",
+      "type": "due",
+      "task": "finish a full working funnel and give to jimmy by next Friday",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-04-25"
+    },
+    "06e98748d31f0901af88e0a38c8a0fb4|nag|2026-04-21": {
+      "scheduledAt": "2026-04-19T09:08:34.431Z",
+      "type": "nag",
+      "task": "help design a dashboard for ampd crm that tracks the pertinent data for us and make that dashboard",
+      "assignee": "Eddie 'Rockstar' Monarrez",
+      "reminderDate": "2026-04-21"
+    },
+    "06e98748d31f0901af88e0a38c8a0fb4|due|2026-04-22": {
+      "scheduledAt": "2026-04-19T09:08:35.083Z",
+      "type": "due",
+      "task": "help design a dashboard for ampd crm that tracks the pertinent data for us and make that dashboard",
+      "assignee": "Eddie 'Rockstar' Monarrez",
+      "reminderDate": "2026-04-22"
     }
   },
   "lastWeeklySummaryDate": "2026-W16",
-  "lastRun": "2026-04-19T06:02:18.087Z"
+  "lastRun": "2026-04-19T09:08:40.922Z"
 }
