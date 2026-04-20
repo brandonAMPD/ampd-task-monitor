@@ -587,6 +587,48 @@
       "completed": true,
       "completedAt": "2026-04-20T18:01:54.538Z",
       "firstSeenAt": "2026-04-20T18:01:54.538Z"
+    },
+    "515341ba5ba7b9883a255dbc5f3268ed": {
+      "task": "review document",
+      "assignee_name": "Brandon 'The One' Robertson",
+      "assignee_slack_mention": "@Brandon 'The One' Robertson",
+      "assigned_date": "2026-04-16",
+      "due_date": "2026-04-22",
+      "message_ts": "1776360425.014549",
+      "source_message": "Eddie 'Rockstar' Monarrez: @Brandon 'The One' Robertson, can you review <https://docs.google.co",
+      "assigneeId": "UMS39RAGP",
+      "messageTs": "1776360425.014549",
+      "completed": false,
+      "completedAt": null,
+      "firstSeenAt": "2026-04-20T20:12:44.802Z"
+    },
+    "86aa9b15c142a20ed111124576e1037f": {
+      "task": "make sure a strategy call has been booked for early next week",
+      "assignee_name": "Meg 'The Sage' Scheffler",
+      "assignee_slack_mention": "@Meg 'The Sage' Scheffler",
+      "assigned_date": "2026-04-15",
+      "due_date": "2026-04-18",
+      "message_ts": "1776292607.753149",
+      "source_message": "Brandon 'The One' Robertson: @Meg 'The Sage' Scheffler make sure a strategy call has been boo",
+      "assigneeId": "U05FE9QNFSQ",
+      "messageTs": "1776292607.753149",
+      "completed": false,
+      "completedAt": null,
+      "firstSeenAt": "2026-04-20T20:12:44.981Z"
+    },
+    "342ec76e8b5d0308df8cf33aa7f008f8": {
+      "task": "update landing page for lead gen client with new links per #C030DCPQWJ2 channel",
+      "assignee_name": "Mark 'Morpheus' Manaog",
+      "assignee_slack_mention": "@Mark 'Morpheus' Manaog",
+      "assigned_date": "2026-04-13",
+      "due_date": "2026-04-14",
+      "message_ts": "1776108180.619019",
+      "source_message": "@Mark 'Morpheus' Manaog please update the landing page that a lead gen (broker lift system) clie",
+      "assigneeId": "U023F61R16F",
+      "messageTs": "1776108180.619019",
+      "completed": true,
+      "completedAt": "2026-04-20T20:12:45.231Z",
+      "firstSeenAt": "2026-04-20T20:12:45.231Z"
     }
   },
   "scheduled": {
@@ -6177,6 +6219,438 @@
       "task": "send invoices on freshdesk",
       "assignee": "Christle 'Knows All' Ochigue",
       "reminderDate": "2026-05-14"
+    },
+    "515341ba5ba7b9883a255dbc5f3268ed|nag|2026-04-20": {
+      "scheduledAt": "2026-04-20T20:12:45.235Z",
+      "type": "nag",
+      "task": "review document",
+      "skipped": true
+    },
+    "515341ba5ba7b9883a255dbc5f3268ed|nag|2026-04-21": {
+      "scheduledAt": "2026-04-20T20:12:46.112Z",
+      "type": "nag",
+      "task": "review document",
+      "assignee": "Brandon 'The One' Robertson",
+      "reminderDate": "2026-04-21"
+    },
+    "515341ba5ba7b9883a255dbc5f3268ed|due|2026-04-22": {
+      "scheduledAt": "2026-04-20T20:12:46.875Z",
+      "type": "due",
+      "task": "review document",
+      "assignee": "Brandon 'The One' Robertson",
+      "reminderDate": "2026-04-22"
+    },
+    "515341ba5ba7b9883a255dbc5f3268ed|overdue|2026-04-23": {
+      "scheduledAt": "2026-04-20T20:12:47.632Z",
+      "type": "overdue",
+      "task": "review document",
+      "assignee": "Brandon 'The One' Robertson",
+      "reminderDate": "2026-04-23"
+    },
+    "515341ba5ba7b9883a255dbc5f3268ed|overdue|2026-04-24": {
+      "scheduledAt": "2026-04-20T20:12:48.416Z",
+      "type": "overdue",
+      "task": "review document",
+      "assignee": "Brandon 'The One' Robertson",
+      "reminderDate": "2026-04-24"
+    },
+    "515341ba5ba7b9883a255dbc5f3268ed|overdue|2026-04-25": {
+      "scheduledAt": "2026-04-20T20:12:49.175Z",
+      "type": "overdue",
+      "task": "review document",
+      "assignee": "Brandon 'The One' Robertson",
+      "reminderDate": "2026-04-25"
+    },
+    "515341ba5ba7b9883a255dbc5f3268ed|overdue|2026-04-26": {
+      "scheduledAt": "2026-04-20T20:12:49.944Z",
+      "type": "overdue",
+      "task": "review document",
+      "assignee": "Brandon 'The One' Robertson",
+      "reminderDate": "2026-04-26"
+    },
+    "515341ba5ba7b9883a255dbc5f3268ed|overdue|2026-04-27": {
+      "scheduledAt": "2026-04-20T20:12:50.705Z",
+      "type": "overdue",
+      "task": "review document",
+      "assignee": "Brandon 'The One' Robertson",
+      "reminderDate": "2026-04-27"
+    },
+    "515341ba5ba7b9883a255dbc5f3268ed|overdue|2026-04-28": {
+      "scheduledAt": "2026-04-20T20:12:51.457Z",
+      "type": "overdue",
+      "task": "review document",
+      "assignee": "Brandon 'The One' Robertson",
+      "reminderDate": "2026-04-28"
+    },
+    "515341ba5ba7b9883a255dbc5f3268ed|overdue|2026-04-29": {
+      "scheduledAt": "2026-04-20T20:12:52.215Z",
+      "type": "overdue",
+      "task": "review document",
+      "assignee": "Brandon 'The One' Robertson",
+      "reminderDate": "2026-04-29"
+    },
+    "515341ba5ba7b9883a255dbc5f3268ed|overdue|2026-04-30": {
+      "scheduledAt": "2026-04-20T20:12:52.980Z",
+      "type": "overdue",
+      "task": "review document",
+      "assignee": "Brandon 'The One' Robertson",
+      "reminderDate": "2026-04-30"
+    },
+    "515341ba5ba7b9883a255dbc5f3268ed|overdue|2026-05-01": {
+      "scheduledAt": "2026-04-20T20:12:53.731Z",
+      "type": "overdue",
+      "task": "review document",
+      "assignee": "Brandon 'The One' Robertson",
+      "reminderDate": "2026-05-01"
+    },
+    "515341ba5ba7b9883a255dbc5f3268ed|overdue|2026-05-02": {
+      "scheduledAt": "2026-04-20T20:12:54.488Z",
+      "type": "overdue",
+      "task": "review document",
+      "assignee": "Brandon 'The One' Robertson",
+      "reminderDate": "2026-05-02"
+    },
+    "515341ba5ba7b9883a255dbc5f3268ed|overdue|2026-05-03": {
+      "scheduledAt": "2026-04-20T20:12:55.258Z",
+      "type": "overdue",
+      "task": "review document",
+      "assignee": "Brandon 'The One' Robertson",
+      "reminderDate": "2026-05-03"
+    },
+    "515341ba5ba7b9883a255dbc5f3268ed|overdue|2026-05-04": {
+      "scheduledAt": "2026-04-20T20:12:56.018Z",
+      "type": "overdue",
+      "task": "review document",
+      "assignee": "Brandon 'The One' Robertson",
+      "reminderDate": "2026-05-04"
+    },
+    "515341ba5ba7b9883a255dbc5f3268ed|overdue|2026-05-05": {
+      "scheduledAt": "2026-04-20T20:12:56.774Z",
+      "type": "overdue",
+      "task": "review document",
+      "assignee": "Brandon 'The One' Robertson",
+      "reminderDate": "2026-05-05"
+    },
+    "515341ba5ba7b9883a255dbc5f3268ed|overdue|2026-05-06": {
+      "scheduledAt": "2026-04-20T20:12:57.679Z",
+      "type": "overdue",
+      "task": "review document",
+      "assignee": "Brandon 'The One' Robertson",
+      "reminderDate": "2026-05-06"
+    },
+    "515341ba5ba7b9883a255dbc5f3268ed|overdue|2026-05-07": {
+      "scheduledAt": "2026-04-20T20:12:58.438Z",
+      "type": "overdue",
+      "task": "review document",
+      "assignee": "Brandon 'The One' Robertson",
+      "reminderDate": "2026-05-07"
+    },
+    "515341ba5ba7b9883a255dbc5f3268ed|overdue|2026-05-08": {
+      "scheduledAt": "2026-04-20T20:12:59.509Z",
+      "type": "overdue",
+      "task": "review document",
+      "assignee": "Brandon 'The One' Robertson",
+      "reminderDate": "2026-05-08"
+    },
+    "515341ba5ba7b9883a255dbc5f3268ed|overdue|2026-05-09": {
+      "scheduledAt": "2026-04-20T20:13:00.282Z",
+      "type": "overdue",
+      "task": "review document",
+      "assignee": "Brandon 'The One' Robertson",
+      "reminderDate": "2026-05-09"
+    },
+    "515341ba5ba7b9883a255dbc5f3268ed|overdue|2026-05-10": {
+      "scheduledAt": "2026-04-20T20:13:01.035Z",
+      "type": "overdue",
+      "task": "review document",
+      "assignee": "Brandon 'The One' Robertson",
+      "reminderDate": "2026-05-10"
+    },
+    "515341ba5ba7b9883a255dbc5f3268ed|overdue|2026-05-11": {
+      "scheduledAt": "2026-04-20T20:13:01.799Z",
+      "type": "overdue",
+      "task": "review document",
+      "assignee": "Brandon 'The One' Robertson",
+      "reminderDate": "2026-05-11"
+    },
+    "515341ba5ba7b9883a255dbc5f3268ed|overdue|2026-05-12": {
+      "scheduledAt": "2026-04-20T20:13:02.578Z",
+      "type": "overdue",
+      "task": "review document",
+      "assignee": "Brandon 'The One' Robertson",
+      "reminderDate": "2026-05-12"
+    },
+    "515341ba5ba7b9883a255dbc5f3268ed|overdue|2026-05-13": {
+      "scheduledAt": "2026-04-20T20:13:03.341Z",
+      "type": "overdue",
+      "task": "review document",
+      "assignee": "Brandon 'The One' Robertson",
+      "reminderDate": "2026-05-13"
+    },
+    "515341ba5ba7b9883a255dbc5f3268ed|overdue|2026-05-14": {
+      "scheduledAt": "2026-04-20T20:13:04.174Z",
+      "type": "overdue",
+      "task": "review document",
+      "assignee": "Brandon 'The One' Robertson",
+      "reminderDate": "2026-05-14"
+    },
+    "515341ba5ba7b9883a255dbc5f3268ed|overdue|2026-05-15": {
+      "scheduledAt": "2026-04-20T20:13:04.931Z",
+      "type": "overdue",
+      "task": "review document",
+      "assignee": "Brandon 'The One' Robertson",
+      "reminderDate": "2026-05-15"
+    },
+    "515341ba5ba7b9883a255dbc5f3268ed|overdue|2026-05-16": {
+      "scheduledAt": "2026-04-20T20:13:05.708Z",
+      "type": "overdue",
+      "task": "review document",
+      "assignee": "Brandon 'The One' Robertson",
+      "reminderDate": "2026-05-16"
+    },
+    "515341ba5ba7b9883a255dbc5f3268ed|overdue|2026-05-17": {
+      "scheduledAt": "2026-04-20T20:13:06.467Z",
+      "type": "overdue",
+      "task": "review document",
+      "assignee": "Brandon 'The One' Robertson",
+      "reminderDate": "2026-05-17"
+    },
+    "515341ba5ba7b9883a255dbc5f3268ed|overdue|2026-05-18": {
+      "scheduledAt": "2026-04-20T20:13:07.235Z",
+      "type": "overdue",
+      "task": "review document",
+      "assignee": "Brandon 'The One' Robertson",
+      "reminderDate": "2026-05-18"
+    },
+    "515341ba5ba7b9883a255dbc5f3268ed|overdue|2026-05-19": {
+      "scheduledAt": "2026-04-20T20:13:07.996Z",
+      "type": "overdue",
+      "task": "review document",
+      "assignee": "Brandon 'The One' Robertson",
+      "reminderDate": "2026-05-19"
+    },
+    "515341ba5ba7b9883a255dbc5f3268ed|overdue|2026-05-20": {
+      "scheduledAt": "2026-04-20T20:13:08.753Z",
+      "type": "overdue",
+      "task": "review document",
+      "assignee": "Brandon 'The One' Robertson",
+      "reminderDate": "2026-05-20"
+    },
+    "515341ba5ba7b9883a255dbc5f3268ed|overdue|2026-05-21": {
+      "scheduledAt": "2026-04-20T20:13:10.247Z",
+      "type": "overdue",
+      "task": "review document",
+      "assignee": "Brandon 'The One' Robertson",
+      "reminderDate": "2026-05-21"
+    },
+    "515341ba5ba7b9883a255dbc5f3268ed|overdue|2026-05-22": {
+      "scheduledAt": "2026-04-20T20:13:11.009Z",
+      "type": "overdue",
+      "task": "review document",
+      "assignee": "Brandon 'The One' Robertson",
+      "reminderDate": "2026-05-22"
+    },
+    "86aa9b15c142a20ed111124576e1037f|overdue|2026-04-20": {
+      "scheduledAt": "2026-04-20T20:13:11.009Z",
+      "type": "overdue",
+      "task": "make sure a strategy call has been booked for early next week",
+      "skipped": true
+    },
+    "86aa9b15c142a20ed111124576e1037f|overdue|2026-04-21": {
+      "scheduledAt": "2026-04-20T20:13:11.910Z",
+      "type": "overdue",
+      "task": "make sure a strategy call has been booked for early next week",
+      "assignee": "Meg 'The Sage' Scheffler",
+      "reminderDate": "2026-04-21"
+    },
+    "86aa9b15c142a20ed111124576e1037f|overdue|2026-04-22": {
+      "scheduledAt": "2026-04-20T20:13:12.812Z",
+      "type": "overdue",
+      "task": "make sure a strategy call has been booked for early next week",
+      "assignee": "Meg 'The Sage' Scheffler",
+      "reminderDate": "2026-04-22"
+    },
+    "86aa9b15c142a20ed111124576e1037f|overdue|2026-04-23": {
+      "scheduledAt": "2026-04-20T20:13:13.717Z",
+      "type": "overdue",
+      "task": "make sure a strategy call has been booked for early next week",
+      "assignee": "Meg 'The Sage' Scheffler",
+      "reminderDate": "2026-04-23"
+    },
+    "86aa9b15c142a20ed111124576e1037f|overdue|2026-04-24": {
+      "scheduledAt": "2026-04-20T20:13:14.610Z",
+      "type": "overdue",
+      "task": "make sure a strategy call has been booked for early next week",
+      "assignee": "Meg 'The Sage' Scheffler",
+      "reminderDate": "2026-04-24"
+    },
+    "86aa9b15c142a20ed111124576e1037f|overdue|2026-04-25": {
+      "scheduledAt": "2026-04-20T20:13:15.490Z",
+      "type": "overdue",
+      "task": "make sure a strategy call has been booked for early next week",
+      "assignee": "Meg 'The Sage' Scheffler",
+      "reminderDate": "2026-04-25"
+    },
+    "86aa9b15c142a20ed111124576e1037f|overdue|2026-04-26": {
+      "scheduledAt": "2026-04-20T20:13:16.399Z",
+      "type": "overdue",
+      "task": "make sure a strategy call has been booked for early next week",
+      "assignee": "Meg 'The Sage' Scheffler",
+      "reminderDate": "2026-04-26"
+    },
+    "86aa9b15c142a20ed111124576e1037f|overdue|2026-04-27": {
+      "scheduledAt": "2026-04-20T20:13:17.280Z",
+      "type": "overdue",
+      "task": "make sure a strategy call has been booked for early next week",
+      "assignee": "Meg 'The Sage' Scheffler",
+      "reminderDate": "2026-04-27"
+    },
+    "86aa9b15c142a20ed111124576e1037f|overdue|2026-04-28": {
+      "scheduledAt": "2026-04-20T20:13:18.155Z",
+      "type": "overdue",
+      "task": "make sure a strategy call has been booked for early next week",
+      "assignee": "Meg 'The Sage' Scheffler",
+      "reminderDate": "2026-04-28"
+    },
+    "86aa9b15c142a20ed111124576e1037f|overdue|2026-04-29": {
+      "scheduledAt": "2026-04-20T20:13:19.046Z",
+      "type": "overdue",
+      "task": "make sure a strategy call has been booked for early next week",
+      "assignee": "Meg 'The Sage' Scheffler",
+      "reminderDate": "2026-04-29"
+    },
+    "86aa9b15c142a20ed111124576e1037f|overdue|2026-04-30": {
+      "scheduledAt": "2026-04-20T20:13:19.942Z",
+      "type": "overdue",
+      "task": "make sure a strategy call has been booked for early next week",
+      "assignee": "Meg 'The Sage' Scheffler",
+      "reminderDate": "2026-04-30"
+    },
+    "86aa9b15c142a20ed111124576e1037f|overdue|2026-05-01": {
+      "scheduledAt": "2026-04-20T20:13:20.844Z",
+      "type": "overdue",
+      "task": "make sure a strategy call has been booked for early next week",
+      "assignee": "Meg 'The Sage' Scheffler",
+      "reminderDate": "2026-05-01"
+    },
+    "86aa9b15c142a20ed111124576e1037f|overdue|2026-05-02": {
+      "scheduledAt": "2026-04-20T20:13:21.744Z",
+      "type": "overdue",
+      "task": "make sure a strategy call has been booked for early next week",
+      "assignee": "Meg 'The Sage' Scheffler",
+      "reminderDate": "2026-05-02"
+    },
+    "86aa9b15c142a20ed111124576e1037f|overdue|2026-05-03": {
+      "scheduledAt": "2026-04-20T20:13:22.641Z",
+      "type": "overdue",
+      "task": "make sure a strategy call has been booked for early next week",
+      "assignee": "Meg 'The Sage' Scheffler",
+      "reminderDate": "2026-05-03"
+    },
+    "86aa9b15c142a20ed111124576e1037f|overdue|2026-05-04": {
+      "scheduledAt": "2026-04-20T20:13:23.524Z",
+      "type": "overdue",
+      "task": "make sure a strategy call has been booked for early next week",
+      "assignee": "Meg 'The Sage' Scheffler",
+      "reminderDate": "2026-05-04"
+    },
+    "86aa9b15c142a20ed111124576e1037f|overdue|2026-05-05": {
+      "scheduledAt": "2026-04-20T20:13:24.470Z",
+      "type": "overdue",
+      "task": "make sure a strategy call has been booked for early next week",
+      "assignee": "Meg 'The Sage' Scheffler",
+      "reminderDate": "2026-05-05"
+    },
+    "86aa9b15c142a20ed111124576e1037f|overdue|2026-05-06": {
+      "scheduledAt": "2026-04-20T20:13:25.372Z",
+      "type": "overdue",
+      "task": "make sure a strategy call has been booked for early next week",
+      "assignee": "Meg 'The Sage' Scheffler",
+      "reminderDate": "2026-05-06"
+    },
+    "86aa9b15c142a20ed111124576e1037f|overdue|2026-05-07": {
+      "scheduledAt": "2026-04-20T20:13:26.294Z",
+      "type": "overdue",
+      "task": "make sure a strategy call has been booked for early next week",
+      "assignee": "Meg 'The Sage' Scheffler",
+      "reminderDate": "2026-05-07"
+    },
+    "86aa9b15c142a20ed111124576e1037f|overdue|2026-05-08": {
+      "scheduledAt": "2026-04-20T20:13:27.180Z",
+      "type": "overdue",
+      "task": "make sure a strategy call has been booked for early next week",
+      "assignee": "Meg 'The Sage' Scheffler",
+      "reminderDate": "2026-05-08"
+    },
+    "86aa9b15c142a20ed111124576e1037f|overdue|2026-05-09": {
+      "scheduledAt": "2026-04-20T20:13:28.068Z",
+      "type": "overdue",
+      "task": "make sure a strategy call has been booked for early next week",
+      "assignee": "Meg 'The Sage' Scheffler",
+      "reminderDate": "2026-05-09"
+    },
+    "86aa9b15c142a20ed111124576e1037f|overdue|2026-05-10": {
+      "scheduledAt": "2026-04-20T20:13:28.959Z",
+      "type": "overdue",
+      "task": "make sure a strategy call has been booked for early next week",
+      "assignee": "Meg 'The Sage' Scheffler",
+      "reminderDate": "2026-05-10"
+    },
+    "86aa9b15c142a20ed111124576e1037f|overdue|2026-05-11": {
+      "scheduledAt": "2026-04-20T20:13:29.851Z",
+      "type": "overdue",
+      "task": "make sure a strategy call has been booked for early next week",
+      "assignee": "Meg 'The Sage' Scheffler",
+      "reminderDate": "2026-05-11"
+    },
+    "86aa9b15c142a20ed111124576e1037f|overdue|2026-05-12": {
+      "scheduledAt": "2026-04-20T20:13:30.857Z",
+      "type": "overdue",
+      "task": "make sure a strategy call has been booked for early next week",
+      "assignee": "Meg 'The Sage' Scheffler",
+      "reminderDate": "2026-05-12"
+    },
+    "86aa9b15c142a20ed111124576e1037f|overdue|2026-05-13": {
+      "scheduledAt": "2026-04-20T20:13:31.766Z",
+      "type": "overdue",
+      "task": "make sure a strategy call has been booked for early next week",
+      "assignee": "Meg 'The Sage' Scheffler",
+      "reminderDate": "2026-05-13"
+    },
+    "86aa9b15c142a20ed111124576e1037f|overdue|2026-05-14": {
+      "scheduledAt": "2026-04-20T20:13:32.644Z",
+      "type": "overdue",
+      "task": "make sure a strategy call has been booked for early next week",
+      "assignee": "Meg 'The Sage' Scheffler",
+      "reminderDate": "2026-05-14"
+    },
+    "86aa9b15c142a20ed111124576e1037f|overdue|2026-05-15": {
+      "scheduledAt": "2026-04-20T20:13:33.531Z",
+      "type": "overdue",
+      "task": "make sure a strategy call has been booked for early next week",
+      "assignee": "Meg 'The Sage' Scheffler",
+      "reminderDate": "2026-05-15"
+    },
+    "86aa9b15c142a20ed111124576e1037f|overdue|2026-05-16": {
+      "scheduledAt": "2026-04-20T20:13:34.432Z",
+      "type": "overdue",
+      "task": "make sure a strategy call has been booked for early next week",
+      "assignee": "Meg 'The Sage' Scheffler",
+      "reminderDate": "2026-05-16"
+    },
+    "86aa9b15c142a20ed111124576e1037f|overdue|2026-05-17": {
+      "scheduledAt": "2026-04-20T20:13:35.307Z",
+      "type": "overdue",
+      "task": "make sure a strategy call has been booked for early next week",
+      "assignee": "Meg 'The Sage' Scheffler",
+      "reminderDate": "2026-05-17"
+    },
+    "86aa9b15c142a20ed111124576e1037f|overdue|2026-05-18": {
+      "scheduledAt": "2026-04-20T20:13:36.207Z",
+      "type": "overdue",
+      "task": "make sure a strategy call has been booked for early next week",
+      "assignee": "Meg 'The Sage' Scheffler",
+      "reminderDate": "2026-05-18"
     }
   },
   "scheduledMessageIds": {
@@ -15007,8 +15481,604 @@
         "channel": "C08R493ESAJ",
         "messageId": "Q0ATNH72KB9"
       }
+    ],
+    "515341ba5ba7b9883a255dbc5f3268ed": [
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0AUHQ5KT0R"
+      },
+      {
+        "channel": "C05HV4SQD6G",
+        "messageId": "Q0AU2RAPJH4"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0ATPDTP5V5"
+      },
+      {
+        "channel": "C05HV4SQD6G",
+        "messageId": "Q0AU2RB430E"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0AU4T5A9MG"
+      },
+      {
+        "channel": "C05HV4SQD6G",
+        "messageId": "Q0ATYFXC5HR"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0AUHQ6PXUZ"
+      },
+      {
+        "channel": "C05HV4SQD6G",
+        "messageId": "Q0AU4T5AQ4A"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0AU1EZFUUV"
+      },
+      {
+        "channel": "C05HV4SQD6G",
+        "messageId": "Q0AUHQ64VPB"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0AUHQ6DYG1"
+      },
+      {
+        "channel": "C05HV4SQD6G",
+        "messageId": "Q0AUHQ6H997"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0AUHQ692GH"
+      },
+      {
+        "channel": "C05HV4SQD6G",
+        "messageId": "Q0ATYFXTUHH"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0AU1F0A57X"
+      },
+      {
+        "channel": "C05HV4SQD6G",
+        "messageId": "Q0ATPDU606B"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0AUHQ67YC9"
+      },
+      {
+        "channel": "C05HV4SQD6G",
+        "messageId": "Q0ATPDUH7TR"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0AU8F4A1AQ"
+      },
+      {
+        "channel": "C05HV4SQD6G",
+        "messageId": "Q0AU1F0LPTP"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0AU1F0QU7P"
+      },
+      {
+        "channel": "C05HV4SQD6G",
+        "messageId": "Q0AU1EZULG5"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0AU8F4KR44"
+      },
+      {
+        "channel": "C05HV4SQD6G",
+        "messageId": "Q0AUHQ7GVK3"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0ATPDT9E0P"
+      },
+      {
+        "channel": "C05HV4SQD6G",
+        "messageId": "Q0ATYFXTKBM"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0AUZ5NKNC8"
+      },
+      {
+        "channel": "C05HV4SQD6G",
+        "messageId": "Q0AUZ5N6XK2"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0AU4T5M2NN"
+      },
+      {
+        "channel": "C05HV4SQD6G",
+        "messageId": "Q0AU4T63F6W"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0AU8F50Y8L"
+      },
+      {
+        "channel": "C05HV4SQD6G",
+        "messageId": "Q0ATYFZEPS7"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0ATPDU9T1V"
+      },
+      {
+        "channel": "C05HV4SQD6G",
+        "messageId": "Q0ATYFZ0W8K"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0AUZ5PJ0N4"
+      },
+      {
+        "channel": "C05HV4SQD6G",
+        "messageId": "Q0AUZ5NNQMN"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0AUHQ75RQR"
+      },
+      {
+        "channel": "C05HV4SQD6G",
+        "messageId": "Q0AU4T6MPEW"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0AU1F12SMB"
+      },
+      {
+        "channel": "C05HV4SQD6G",
+        "messageId": "Q0AU4T69JSE"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0ATPDV5QEB"
+      },
+      {
+        "channel": "C05HV4SQD6G",
+        "messageId": "Q0AU2RD0EJ2"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0AUZ5PCTCY"
+      },
+      {
+        "channel": "C05HV4SQD6G",
+        "messageId": "Q0ATYFYU76X"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0AUHQ8263T"
+      },
+      {
+        "channel": "C05HV4SQD6G",
+        "messageId": "Q0AU8F5CC2G"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0AU2RBJ7NJ"
+      },
+      {
+        "channel": "C05HV4SQD6G",
+        "messageId": "Q0AU1F1B6RK"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0ATYFYUZEF"
+      },
+      {
+        "channel": "C05HV4SQD6G",
+        "messageId": "Q0AU2RCM6NA"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0ATYFXMVDZ"
+      },
+      {
+        "channel": "C05HV4SQD6G",
+        "messageId": "Q0AUZ5PF94Y"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0AU8F64BC4"
+      },
+      {
+        "channel": "C05HV4SQD6G",
+        "messageId": "Q0AU1F1MJQM"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0AUZ5P1MEC"
+      },
+      {
+        "channel": "C05HV4SQD6G",
+        "messageId": "Q0ATYFZ407M"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0AU8F68G8L"
+      },
+      {
+        "channel": "C05HV4SQD6G",
+        "messageId": "Q0AUZ5PPLFJ"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0ATYFZHC0K"
+      },
+      {
+        "channel": "C05HV4SQD6G",
+        "messageId": "Q0AU2RD7W4E"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0AU1F2502Z"
+      },
+      {
+        "channel": "C05HV4SQD6G",
+        "messageId": "Q0AU1F1MM61"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0ATPDVTZST"
+      },
+      {
+        "channel": "C05HV4SQD6G",
+        "messageId": "Q0AUZ5Q2Y2U"
+      }
+    ],
+    "86aa9b15c142a20ed111124576e1037f": [
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0AU2RDQ7E2"
+      },
+      {
+        "channel": "U05FE9QNFSQ",
+        "messageId": "Q0ATPDW6JS3"
+      },
+      {
+        "channel": "C05HL1VGA22",
+        "messageId": "Q0AUHQ88VUH"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0ATYFZ7T43"
+      },
+      {
+        "channel": "U05FE9QNFSQ",
+        "messageId": "Q0ATYFZ3PMH"
+      },
+      {
+        "channel": "C05HL1VGA22",
+        "messageId": "Q0ATPDW9DT9"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0AUZ5Q8W8G"
+      },
+      {
+        "channel": "U05FE9QNFSQ",
+        "messageId": "Q0AUHQ92K41"
+      },
+      {
+        "channel": "C05HL1VGA22",
+        "messageId": "Q0AUHQ8HHMF"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0AU1F2MGMB"
+      },
+      {
+        "channel": "U05FE9QNFSQ",
+        "messageId": "Q0AU1F30H7F"
+      },
+      {
+        "channel": "C05HL1VGA22",
+        "messageId": "Q0AUHQ99273"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0AUZ5QR3EC"
+      },
+      {
+        "channel": "U05FE9QNFSQ",
+        "messageId": "Q0AU4T85V26"
+      },
+      {
+        "channel": "C05HL1VGA22",
+        "messageId": "Q0AUZ5QLFQQ"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0AUHQ99SV7"
+      },
+      {
+        "channel": "U05FE9QNFSQ",
+        "messageId": "Q0ATYG0AM43"
+      },
+      {
+        "channel": "C05HL1VGA22",
+        "messageId": "Q0AU1F2BQ77"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0AU2RDJMV4"
+      },
+      {
+        "channel": "U05FE9QNFSQ",
+        "messageId": "Q0AU8F7FQJG"
+      },
+      {
+        "channel": "C05HL1VGA22",
+        "messageId": "Q0AU2RE6GQN"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0ATPDWTY2K"
+      },
+      {
+        "channel": "U05FE9QNFSQ",
+        "messageId": "Q0ATYG0B9TM"
+      },
+      {
+        "channel": "C05HL1VGA22",
+        "messageId": "Q0AUZ5QU7CY"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0AU2REGRE2"
+      },
+      {
+        "channel": "U05FE9QNFSQ",
+        "messageId": "Q0AUZ5QC21W"
+      },
+      {
+        "channel": "C05HL1VGA22",
+        "messageId": "Q0ATYG0LUSX"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0AUHQ9KBFB"
+      },
+      {
+        "channel": "U05FE9QNFSQ",
+        "messageId": "Q0ATYG08S59"
+      },
+      {
+        "channel": "C05HL1VGA22",
+        "messageId": "Q0AU2RE9PHC"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0AUZ5R4BNC"
+      },
+      {
+        "channel": "U05FE9QNFSQ",
+        "messageId": "Q0AUZ5R5M5E"
+      },
+      {
+        "channel": "C05HL1VGA22",
+        "messageId": "Q0AUHQ98E1X"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0AU8F7FQAY"
+      },
+      {
+        "channel": "U05FE9QNFSQ",
+        "messageId": "Q0AUHQ9GADP"
+      },
+      {
+        "channel": "C05HL1VGA22",
+        "messageId": "Q0AU4T86T6W"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0AU4T8JVPU"
+      },
+      {
+        "channel": "U05FE9QNFSQ",
+        "messageId": "Q0AU8F83V28"
+      },
+      {
+        "channel": "C05HL1VGA22",
+        "messageId": "Q0AU4T861B4"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0ATYG0DAGK"
+      },
+      {
+        "channel": "U05FE9QNFSQ",
+        "messageId": "Q0AU1F30R2R"
+      },
+      {
+        "channel": "C05HL1VGA22",
+        "messageId": "Q0AU2REHVK8"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0AUZ5RJF40"
+      },
+      {
+        "channel": "U05FE9QNFSQ",
+        "messageId": "Q0AU1F3GW21"
+      },
+      {
+        "channel": "C05HL1VGA22",
+        "messageId": "Q0AUHQA4P97"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0AUZ5R58V6"
+      },
+      {
+        "channel": "U05FE9QNFSQ",
+        "messageId": "Q0AU8F83PGU"
+      },
+      {
+        "channel": "C05HL1VGA22",
+        "messageId": "Q0AUZ5RGHH6"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0ATPDXHB7Z"
+      },
+      {
+        "channel": "U05FE9QNFSQ",
+        "messageId": "Q0ATPDXU6VD"
+      },
+      {
+        "channel": "C05HL1VGA22",
+        "messageId": "Q0AUHQALF1P"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0AU2RFMY9L"
+      },
+      {
+        "channel": "U05FE9QNFSQ",
+        "messageId": "Q0AUHQA7PR7"
+      },
+      {
+        "channel": "C05HL1VGA22",
+        "messageId": "Q0AUZ5RKLFJ"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0ATPDY5G15"
+      },
+      {
+        "channel": "U05FE9QNFSQ",
+        "messageId": "Q0AU4T9A28J"
+      },
+      {
+        "channel": "C05HL1VGA22",
+        "messageId": "Q0AU4T8Q92N"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0AUZ5RU53J"
+      },
+      {
+        "channel": "U05FE9QNFSQ",
+        "messageId": "Q0AU4T8QASW"
+      },
+      {
+        "channel": "C05HL1VGA22",
+        "messageId": "Q0AU4T96BH8"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0ATPDY1X5M"
+      },
+      {
+        "channel": "U05FE9QNFSQ",
+        "messageId": "Q0ATPDXRPL7"
+      },
+      {
+        "channel": "C05HL1VGA22",
+        "messageId": "Q0AUHQAKHH7"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0ATYG1NC59"
+      },
+      {
+        "channel": "U05FE9QNFSQ",
+        "messageId": "Q0AU8F8GPV2"
+      },
+      {
+        "channel": "C05HL1VGA22",
+        "messageId": "Q0AU1F3MRBP"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0AU4TA50KU"
+      },
+      {
+        "channel": "U05FE9QNFSQ",
+        "messageId": "Q0AU4T9621Y"
+      },
+      {
+        "channel": "C05HL1VGA22",
+        "messageId": "Q0AU8F8GL84"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0AU4T9R9T4"
+      },
+      {
+        "channel": "U05FE9QNFSQ",
+        "messageId": "Q0AUZ5T70GG"
+      },
+      {
+        "channel": "C05HL1VGA22",
+        "messageId": "Q0AU1F4F76Z"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0AU4T9F2EN"
+      },
+      {
+        "channel": "U05FE9QNFSQ",
+        "messageId": "Q0AU2RFDPGW"
+      },
+      {
+        "channel": "C05HL1VGA22",
+        "messageId": "Q0ATPDYSSJK"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0AUHQAKYPK"
+      },
+      {
+        "channel": "U05FE9QNFSQ",
+        "messageId": "Q0AU4T9HTA6"
+      },
+      {
+        "channel": "C05HL1VGA22",
+        "messageId": "Q0ATPDYNE6T"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0AUZ5STS8G"
+      },
+      {
+        "channel": "U05FE9QNFSQ",
+        "messageId": "Q0AU2RFEBKQ"
+      },
+      {
+        "channel": "C05HL1VGA22",
+        "messageId": "Q0AUZ5SQARW"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0ATYG258NP"
+      },
+      {
+        "channel": "U05FE9QNFSQ",
+        "messageId": "Q0ATYG28QD9"
+      },
+      {
+        "channel": "C05HL1VGA22",
+        "messageId": "Q0AU2RGFW06"
+      }
     ]
   },
   "lastWeeklySummaryDate": null,
-  "lastRun": "2026-04-20T18:04:26.672Z"
+  "lastRun": "2026-04-20T20:13:36.208Z"
 }
