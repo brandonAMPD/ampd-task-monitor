@@ -839,6 +839,34 @@
       "completed": true,
       "completedAt": "2026-04-22T18:05:59.013Z",
       "firstSeenAt": "2026-04-22T18:05:59.013Z"
+    },
+    "8c2f627670526e279c6e4f986decfe87": {
+      "task": "handle the github authentication request in this note",
+      "assignee_name": "Mark 'Morpheus' Manaog",
+      "assignee_slack_mention": "@Mark 'Morpheus' Manaog",
+      "assigned_date": "2026-04-16",
+      "due_date": "2026-04-17",
+      "message_ts": "1776356458.044439",
+      "source_message": "Brandon 'The One' Robertson: @Mark 'Morpheus' Manaog pleaes handle the github authentication reques",
+      "assigneeId": "U023F61R16F",
+      "messageTs": "1776356458.044439",
+      "completed": true,
+      "completedAt": "2026-04-22T21:12:17.363Z",
+      "firstSeenAt": "2026-04-22T21:12:17.363Z"
+    },
+    "bdb8a7bcffec5d5495ad60bc9641c0b0": {
+      "task": "turn on adroll retargeting using the most current images",
+      "assignee_name": "Joma 'Magic Fingers' Cris Cantalejo",
+      "assignee_slack_mention": "@Joma 'Magic Fingers' Cris Cantalejo",
+      "assigned_date": "2026-04-13",
+      "due_date": "2026-04-20",
+      "message_ts": "1776093594.754979",
+      "source_message": "@Joma 'Magic Fingers' Cris Cantalejo please turn on adroll retargeting using the most current",
+      "assigneeId": "U03KVJD9927",
+      "messageTs": "1776093594.754979",
+      "completed": true,
+      "completedAt": "2026-04-22T21:12:17.515Z",
+      "firstSeenAt": "2026-04-22T21:12:17.515Z"
     }
   },
   "scheduled": {
@@ -16629,5 +16657,5 @@
     ]
   },
   "lastWeeklySummaryDate": null,
-  "lastRun": "2026-04-22T18:06:32.691Z"
+  "lastRun": "2026-04-22T21:12:17.531Z"
 }
