@@ -769,6 +769,20 @@
       "completed": false,
       "completedAt": null,
       "firstSeenAt": "2026-04-21T20:38:26.514Z"
+    },
+    "43998873aba3ac9fb104f202b40c6a0a": {
+      "task": "Book strategy call for channel",
+      "assignee_name": "Meg 'The Sage' Scheffler",
+      "assignee_slack_mention": "@Meg 'The Sage' Scheffler",
+      "assigned_date": "2026-04-15",
+      "due_date": "2026-04-18",
+      "message_ts": "1776292607.753149",
+      "source_message": "@Meg 'The Sage' Scheffler make sure a strategy call has been booked for <#C0ANHJ6V5NZ> ideally",
+      "assigneeId": "U05FE9QNFSQ",
+      "messageTs": "1776292607.753149",
+      "completed": true,
+      "completedAt": "2026-04-22T06:01:49.300Z",
+      "firstSeenAt": "2026-04-22T06:01:49.300Z"
     }
   },
   "scheduled": {
@@ -17680,5 +17694,5 @@
     ]
   },
   "lastWeeklySummaryDate": null,
-  "lastRun": "2026-04-21T20:38:57.038Z"
+  "lastRun": "2026-04-22T06:01:49.420Z"
 }
