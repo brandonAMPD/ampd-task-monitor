@@ -895,6 +895,34 @@
       "completed": true,
       "completedAt": "2026-04-23T18:13:37.882Z",
       "firstSeenAt": "2026-04-23T18:13:37.882Z"
+    },
+    "37e18cd77a8c99d3e6b7147ca63ab6d8": {
+      "task": "make the updates to the lenderbase jotform forms mentioned",
+      "assignee_name": "Mark 'Morpheus' Manaog",
+      "assignee_slack_mention": "@Mark 'Morpheus' Manaog",
+      "assigned_date": "2026-04-23",
+      "due_date": "2026-04-28",
+      "message_ts": "1776974944.525239",
+      "source_message": "@Mark 'Morpheus' Manaog make the updates to the lenderbase jotform forms mentioned here <https://fo",
+      "assigneeId": "U023F61R16F",
+      "messageTs": "1776974944.525239",
+      "completed": false,
+      "completedAt": null,
+      "firstSeenAt": "2026-04-23T21:10:16.372Z"
+    },
+    "e78e85fa624e813ee7d64a4f93e35c67": {
+      "task": "make sure a strategy call has been booked",
+      "assignee_name": "Meg 'The Sage' Scheffler",
+      "assignee_slack_mention": "@Meg 'The Sage' Scheffler",
+      "assigned_date": "2026-04-15",
+      "due_date": "2026-04-18",
+      "message_ts": "1776292607.753149",
+      "source_message": "@Meg 'The Sage' Scheffler make sure a strategy call has been booked for <#C0ANHJ6V5NZ> ideally",
+      "assigneeId": "U05FE9QNFSQ",
+      "messageTs": "1776292607.753149",
+      "completed": true,
+      "completedAt": "2026-04-23T21:10:16.495Z",
+      "firstSeenAt": "2026-04-23T21:10:16.495Z"
     }
   },
   "scheduled": {
@@ -8744,6 +8772,244 @@
       "task": "make sure the jotform ai bots are on the funnels and feeding contacts into GHL for McCown",
       "assignee": "Mark 'Morpheus' Manaog",
       "reminderDate": "2026-05-28"
+    },
+    "37e18cd77a8c99d3e6b7147ca63ab6d8|midpoint|2026-04-25": {
+      "scheduledAt": "2026-04-23T21:10:17.384Z",
+      "type": "midpoint",
+      "task": "make the updates to the lenderbase jotform forms mentioned",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-04-25"
+    },
+    "37e18cd77a8c99d3e6b7147ca63ab6d8|nag|2026-04-26": {
+      "scheduledAt": "2026-04-23T21:10:18.147Z",
+      "type": "nag",
+      "task": "make the updates to the lenderbase jotform forms mentioned",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-04-26"
+    },
+    "37e18cd77a8c99d3e6b7147ca63ab6d8|nag|2026-04-27": {
+      "scheduledAt": "2026-04-23T21:10:18.946Z",
+      "type": "nag",
+      "task": "make the updates to the lenderbase jotform forms mentioned",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-04-27"
+    },
+    "37e18cd77a8c99d3e6b7147ca63ab6d8|due|2026-04-28": {
+      "scheduledAt": "2026-04-23T21:10:19.757Z",
+      "type": "due",
+      "task": "make the updates to the lenderbase jotform forms mentioned",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-04-28"
+    },
+    "37e18cd77a8c99d3e6b7147ca63ab6d8|overdue|2026-04-29": {
+      "scheduledAt": "2026-04-23T21:10:20.544Z",
+      "type": "overdue",
+      "task": "make the updates to the lenderbase jotform forms mentioned",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-04-29"
+    },
+    "37e18cd77a8c99d3e6b7147ca63ab6d8|overdue|2026-04-30": {
+      "scheduledAt": "2026-04-23T21:10:21.296Z",
+      "type": "overdue",
+      "task": "make the updates to the lenderbase jotform forms mentioned",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-04-30"
+    },
+    "37e18cd77a8c99d3e6b7147ca63ab6d8|overdue|2026-05-01": {
+      "scheduledAt": "2026-04-23T21:10:22.081Z",
+      "type": "overdue",
+      "task": "make the updates to the lenderbase jotform forms mentioned",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-05-01"
+    },
+    "37e18cd77a8c99d3e6b7147ca63ab6d8|overdue|2026-05-02": {
+      "scheduledAt": "2026-04-23T21:10:22.836Z",
+      "type": "overdue",
+      "task": "make the updates to the lenderbase jotform forms mentioned",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-05-02"
+    },
+    "37e18cd77a8c99d3e6b7147ca63ab6d8|overdue|2026-05-03": {
+      "scheduledAt": "2026-04-23T21:10:23.619Z",
+      "type": "overdue",
+      "task": "make the updates to the lenderbase jotform forms mentioned",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-05-03"
+    },
+    "37e18cd77a8c99d3e6b7147ca63ab6d8|overdue|2026-05-04": {
+      "scheduledAt": "2026-04-23T21:10:24.405Z",
+      "type": "overdue",
+      "task": "make the updates to the lenderbase jotform forms mentioned",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-05-04"
+    },
+    "37e18cd77a8c99d3e6b7147ca63ab6d8|overdue|2026-05-05": {
+      "scheduledAt": "2026-04-23T21:10:25.208Z",
+      "type": "overdue",
+      "task": "make the updates to the lenderbase jotform forms mentioned",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-05-05"
+    },
+    "37e18cd77a8c99d3e6b7147ca63ab6d8|overdue|2026-05-06": {
+      "scheduledAt": "2026-04-23T21:10:25.947Z",
+      "type": "overdue",
+      "task": "make the updates to the lenderbase jotform forms mentioned",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-05-06"
+    },
+    "37e18cd77a8c99d3e6b7147ca63ab6d8|overdue|2026-05-07": {
+      "scheduledAt": "2026-04-23T21:10:26.701Z",
+      "type": "overdue",
+      "task": "make the updates to the lenderbase jotform forms mentioned",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-05-07"
+    },
+    "37e18cd77a8c99d3e6b7147ca63ab6d8|overdue|2026-05-08": {
+      "scheduledAt": "2026-04-23T21:10:27.439Z",
+      "type": "overdue",
+      "task": "make the updates to the lenderbase jotform forms mentioned",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-05-08"
+    },
+    "37e18cd77a8c99d3e6b7147ca63ab6d8|overdue|2026-05-09": {
+      "scheduledAt": "2026-04-23T21:10:28.195Z",
+      "type": "overdue",
+      "task": "make the updates to the lenderbase jotform forms mentioned",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-05-09"
+    },
+    "37e18cd77a8c99d3e6b7147ca63ab6d8|overdue|2026-05-10": {
+      "scheduledAt": "2026-04-23T21:10:28.970Z",
+      "type": "overdue",
+      "task": "make the updates to the lenderbase jotform forms mentioned",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-05-10"
+    },
+    "37e18cd77a8c99d3e6b7147ca63ab6d8|overdue|2026-05-11": {
+      "scheduledAt": "2026-04-23T21:10:29.744Z",
+      "type": "overdue",
+      "task": "make the updates to the lenderbase jotform forms mentioned",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-05-11"
+    },
+    "37e18cd77a8c99d3e6b7147ca63ab6d8|overdue|2026-05-12": {
+      "scheduledAt": "2026-04-23T21:10:30.544Z",
+      "type": "overdue",
+      "task": "make the updates to the lenderbase jotform forms mentioned",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-05-12"
+    },
+    "37e18cd77a8c99d3e6b7147ca63ab6d8|overdue|2026-05-13": {
+      "scheduledAt": "2026-04-23T21:10:31.294Z",
+      "type": "overdue",
+      "task": "make the updates to the lenderbase jotform forms mentioned",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-05-13"
+    },
+    "37e18cd77a8c99d3e6b7147ca63ab6d8|overdue|2026-05-14": {
+      "scheduledAt": "2026-04-23T21:10:32.127Z",
+      "type": "overdue",
+      "task": "make the updates to the lenderbase jotform forms mentioned",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-05-14"
+    },
+    "37e18cd77a8c99d3e6b7147ca63ab6d8|overdue|2026-05-15": {
+      "scheduledAt": "2026-04-23T21:10:33.001Z",
+      "type": "overdue",
+      "task": "make the updates to the lenderbase jotform forms mentioned",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-05-15"
+    },
+    "37e18cd77a8c99d3e6b7147ca63ab6d8|overdue|2026-05-16": {
+      "scheduledAt": "2026-04-23T21:10:33.761Z",
+      "type": "overdue",
+      "task": "make the updates to the lenderbase jotform forms mentioned",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-05-16"
+    },
+    "37e18cd77a8c99d3e6b7147ca63ab6d8|overdue|2026-05-17": {
+      "scheduledAt": "2026-04-23T21:10:34.506Z",
+      "type": "overdue",
+      "task": "make the updates to the lenderbase jotform forms mentioned",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-05-17"
+    },
+    "37e18cd77a8c99d3e6b7147ca63ab6d8|overdue|2026-05-18": {
+      "scheduledAt": "2026-04-23T21:10:35.279Z",
+      "type": "overdue",
+      "task": "make the updates to the lenderbase jotform forms mentioned",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-05-18"
+    },
+    "37e18cd77a8c99d3e6b7147ca63ab6d8|overdue|2026-05-19": {
+      "scheduledAt": "2026-04-23T21:10:36.073Z",
+      "type": "overdue",
+      "task": "make the updates to the lenderbase jotform forms mentioned",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-05-19"
+    },
+    "37e18cd77a8c99d3e6b7147ca63ab6d8|overdue|2026-05-20": {
+      "scheduledAt": "2026-04-23T21:10:36.838Z",
+      "type": "overdue",
+      "task": "make the updates to the lenderbase jotform forms mentioned",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-05-20"
+    },
+    "37e18cd77a8c99d3e6b7147ca63ab6d8|overdue|2026-05-21": {
+      "scheduledAt": "2026-04-23T21:10:37.604Z",
+      "type": "overdue",
+      "task": "make the updates to the lenderbase jotform forms mentioned",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-05-21"
+    },
+    "37e18cd77a8c99d3e6b7147ca63ab6d8|overdue|2026-05-22": {
+      "scheduledAt": "2026-04-23T21:10:38.361Z",
+      "type": "overdue",
+      "task": "make the updates to the lenderbase jotform forms mentioned",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-05-22"
+    },
+    "37e18cd77a8c99d3e6b7147ca63ab6d8|overdue|2026-05-23": {
+      "scheduledAt": "2026-04-23T21:10:39.137Z",
+      "type": "overdue",
+      "task": "make the updates to the lenderbase jotform forms mentioned",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-05-23"
+    },
+    "37e18cd77a8c99d3e6b7147ca63ab6d8|overdue|2026-05-24": {
+      "scheduledAt": "2026-04-23T21:10:39.914Z",
+      "type": "overdue",
+      "task": "make the updates to the lenderbase jotform forms mentioned",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-05-24"
+    },
+    "37e18cd77a8c99d3e6b7147ca63ab6d8|overdue|2026-05-25": {
+      "scheduledAt": "2026-04-23T21:10:40.666Z",
+      "type": "overdue",
+      "task": "make the updates to the lenderbase jotform forms mentioned",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-05-25"
+    },
+    "37e18cd77a8c99d3e6b7147ca63ab6d8|overdue|2026-05-26": {
+      "scheduledAt": "2026-04-23T21:10:41.426Z",
+      "type": "overdue",
+      "task": "make the updates to the lenderbase jotform forms mentioned",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-05-26"
+    },
+    "37e18cd77a8c99d3e6b7147ca63ab6d8|overdue|2026-05-27": {
+      "scheduledAt": "2026-04-23T21:10:42.178Z",
+      "type": "overdue",
+      "task": "make the updates to the lenderbase jotform forms mentioned",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-05-27"
+    },
+    "37e18cd77a8c99d3e6b7147ca63ab6d8|overdue|2026-05-28": {
+      "scheduledAt": "2026-04-23T21:10:42.979Z",
+      "type": "overdue",
+      "task": "make the updates to the lenderbase jotform forms mentioned",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-05-28"
     }
   },
   "scheduledMessageIds": {
@@ -12912,8 +13178,418 @@
         "channel": "C05JGF817H6",
         "messageId": "Q0AUMPD45MY"
       }
+    ],
+    "37e18cd77a8c99d3e6b7147ca63ab6d8": [
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0AUGLBQFB9"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0AUY4A5U90"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0AUW2FKXTQ"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0AUW2FJQS2"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0AUW2FA85U"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0AUW2G6F46"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0AUGLC191V"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0B0CCA7ZDW"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0AUW2GJ60N"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0AUUMRF2PP"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0AUY4A3XFU"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0AURNM242F"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0AUW2GLFFY"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0AUY4APUTC"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0B0CCAP5CG"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0AURNMMBEX"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0AUUMPLVNH"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0AUUMQDP0V"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0AVB1DEM5X"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0AUUMP4LSH"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0AVB1EEW9F"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0AUGLC1LAK"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0AUGLCBQ9M"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0B0CC9QE00"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0AVB1EPN01"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0AUGLCHS3Z"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0AUUMPFBHB"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0AUW2GCG78"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0AV1MUUABE"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0AUY4BDHD0"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0AURNN50SX"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0AUGLCNGTH"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0B0CCB7RUY"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0AUGLCRF4P"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0B0CCAGH5E"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0B0CCAMTL0"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0AUY4BQSTC"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0B0CCANE64"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0AUGLCS0H5"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0AURNNG1HR"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0AUUMQ7HT7"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0AV1MTMPNY"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0AURNP4S6P"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0B0CCAV5Q8"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0AVB1D654Z"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0AURNN4SQ3"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0AUW2GRXNJ"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0AV1MVER7E"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0AV1MVMEKE"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0B0CCBB5L0"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0AUGLDMCET"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0AURNPFBA7"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0AUGLDDRBR"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0AUUMQGP3P"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0AUUMRJU4V"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0AURNPDF19"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0B0CCB15LG"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0AURNPBZNF"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0AURNNCRT5"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0AVB1F7LTT"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0AURNKGFGT"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0AUY4CN082"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0AUUMQUASZ"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0AUGLDGR8X"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0AURNPF8D9"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0AURNPDXFV"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0AURNPHEEP"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0AUW2HB9L6"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0AUW2J2T46"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0AUGLD1S6T"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0AV1MW07SQ"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0AUUMRE877"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0AV1MVPA04"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0AUW2HT3N2"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0B0CCBL2CQ"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0AUW2HP5U6"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0AUW2HSX6J"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0AUGLCQASK"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0AV1MV7ZFE"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0AUY4CDYP4"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0AUUMRHEMT"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0AVB1F0E01"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0AUUMS4PJR"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0AUUMS6D37"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0AUUMS3961"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0AUY4C0SAE"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0B0CCC3NQY"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0AV1MXBW9J"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0AVB1G2FCH"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0AVB1G3KUH"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B0CCCMH24"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0AUY4D7FU2"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0AV1MWN80L"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0AV1MVHDGC"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0AUW2JTB46"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0AVB1FTLQ1"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0AUUMS2CSH"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0AUY4CMUDQ"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0B0CCC8CAC"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B0CCD2ZME"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0AUUMS6PB7"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0B0CCD70FJ"
+      }
     ]
   },
   "lastWeeklySummaryDate": null,
-  "lastRun": "2026-04-23T18:13:37.910Z"
+  "lastRun": "2026-04-23T21:10:42.980Z"
 }
