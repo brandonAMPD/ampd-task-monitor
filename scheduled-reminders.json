@@ -867,6 +867,20 @@
       "completed": true,
       "completedAt": "2026-04-22T21:12:17.515Z",
       "firstSeenAt": "2026-04-22T21:12:17.515Z"
+    },
+    "7380db7afb69b69686cf4a946225f7b6": {
+      "task": "check on client tech concern from freshdesk ticket",
+      "assignee_name": "Mark 'Morpheus' Manaog",
+      "assignee_slack_mention": "@Mark 'Morpheus' Manaog",
+      "assigned_date": "2026-04-13",
+      "due_date": "2026-04-13",
+      "message_ts": "1776109872.053879",
+      "source_message": "@Mark 'Morpheus' Manaog Please check on their tech concern: <https://dovetailmktg.freshdesk.c",
+      "assigneeId": "U023F61R16F",
+      "messageTs": "1776109872.053879",
+      "completed": true,
+      "completedAt": "2026-04-23T10:55:47.297Z",
+      "firstSeenAt": "2026-04-23T10:55:47.297Z"
     }
   },
   "scheduled": {
@@ -16657,5 +16671,5 @@
     ]
   },
   "lastWeeklySummaryDate": null,
-  "lastRun": "2026-04-23T06:01:46.244Z"
+  "lastRun": "2026-04-23T10:55:47.315Z"
 }
