@@ -951,6 +951,20 @@
       "completed": true,
       "completedAt": "2026-04-24T06:01:42.804Z",
       "firstSeenAt": "2026-04-24T06:01:42.804Z"
+    },
+    "eeafbaf45aa67c0a20b160c19adbe4f3": {
+      "task": "finish a full working funnel minus CRM automations and give to jimmy",
+      "assignee_name": "Mark 'Morpheus' Manaog",
+      "assignee_slack_mention": "@Mark 'Morpheus' Manaog",
+      "assigned_date": "2026-04-15",
+      "due_date": "2026-04-25",
+      "message_ts": "1776274346.349429",
+      "source_message": "Brandon 'The One' Robertson: @Mark 'Morpheus' Manaog once Chrissy has created the brand/logo, plea",
+      "assigneeId": "U023F61R16F",
+      "messageTs": "1776274346.349429",
+      "completed": false,
+      "completedAt": null,
+      "firstSeenAt": "2026-04-24T10:52:35.020Z"
     }
   },
   "scheduled": {
@@ -9038,6 +9052,230 @@
       "task": "make the updates to the lenderbase jotform forms mentioned",
       "assignee": "Mark 'Morpheus' Manaog",
       "reminderDate": "2026-05-28"
+    },
+    "eeafbaf45aa67c0a20b160c19adbe4f3|nag|2026-04-24": {
+      "scheduledAt": "2026-04-24T10:52:35.749Z",
+      "type": "nag",
+      "task": "finish a full working funnel minus CRM automations and give to jimmy",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-04-24"
+    },
+    "eeafbaf45aa67c0a20b160c19adbe4f3|due|2026-04-25": {
+      "scheduledAt": "2026-04-24T10:52:36.475Z",
+      "type": "due",
+      "task": "finish a full working funnel minus CRM automations and give to jimmy",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-04-25"
+    },
+    "eeafbaf45aa67c0a20b160c19adbe4f3|overdue|2026-04-26": {
+      "scheduledAt": "2026-04-24T10:52:37.149Z",
+      "type": "overdue",
+      "task": "finish a full working funnel minus CRM automations and give to jimmy",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-04-26"
+    },
+    "eeafbaf45aa67c0a20b160c19adbe4f3|overdue|2026-04-27": {
+      "scheduledAt": "2026-04-24T10:52:37.905Z",
+      "type": "overdue",
+      "task": "finish a full working funnel minus CRM automations and give to jimmy",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-04-27"
+    },
+    "eeafbaf45aa67c0a20b160c19adbe4f3|overdue|2026-04-28": {
+      "scheduledAt": "2026-04-24T10:52:38.614Z",
+      "type": "overdue",
+      "task": "finish a full working funnel minus CRM automations and give to jimmy",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-04-28"
+    },
+    "eeafbaf45aa67c0a20b160c19adbe4f3|overdue|2026-04-29": {
+      "scheduledAt": "2026-04-24T10:52:39.298Z",
+      "type": "overdue",
+      "task": "finish a full working funnel minus CRM automations and give to jimmy",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-04-29"
+    },
+    "eeafbaf45aa67c0a20b160c19adbe4f3|overdue|2026-04-30": {
+      "scheduledAt": "2026-04-24T10:52:40.004Z",
+      "type": "overdue",
+      "task": "finish a full working funnel minus CRM automations and give to jimmy",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-04-30"
+    },
+    "eeafbaf45aa67c0a20b160c19adbe4f3|overdue|2026-05-01": {
+      "scheduledAt": "2026-04-24T10:52:40.701Z",
+      "type": "overdue",
+      "task": "finish a full working funnel minus CRM automations and give to jimmy",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-05-01"
+    },
+    "eeafbaf45aa67c0a20b160c19adbe4f3|overdue|2026-05-02": {
+      "scheduledAt": "2026-04-24T10:52:41.371Z",
+      "type": "overdue",
+      "task": "finish a full working funnel minus CRM automations and give to jimmy",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-05-02"
+    },
+    "eeafbaf45aa67c0a20b160c19adbe4f3|overdue|2026-05-03": {
+      "scheduledAt": "2026-04-24T10:52:42.092Z",
+      "type": "overdue",
+      "task": "finish a full working funnel minus CRM automations and give to jimmy",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-05-03"
+    },
+    "eeafbaf45aa67c0a20b160c19adbe4f3|overdue|2026-05-04": {
+      "scheduledAt": "2026-04-24T10:52:42.772Z",
+      "type": "overdue",
+      "task": "finish a full working funnel minus CRM automations and give to jimmy",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-05-04"
+    },
+    "eeafbaf45aa67c0a20b160c19adbe4f3|overdue|2026-05-05": {
+      "scheduledAt": "2026-04-24T10:52:43.459Z",
+      "type": "overdue",
+      "task": "finish a full working funnel minus CRM automations and give to jimmy",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-05-05"
+    },
+    "eeafbaf45aa67c0a20b160c19adbe4f3|overdue|2026-05-06": {
+      "scheduledAt": "2026-04-24T10:52:44.194Z",
+      "type": "overdue",
+      "task": "finish a full working funnel minus CRM automations and give to jimmy",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-05-06"
+    },
+    "eeafbaf45aa67c0a20b160c19adbe4f3|overdue|2026-05-07": {
+      "scheduledAt": "2026-04-24T10:52:44.890Z",
+      "type": "overdue",
+      "task": "finish a full working funnel minus CRM automations and give to jimmy",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-05-07"
+    },
+    "eeafbaf45aa67c0a20b160c19adbe4f3|overdue|2026-05-08": {
+      "scheduledAt": "2026-04-24T10:52:45.623Z",
+      "type": "overdue",
+      "task": "finish a full working funnel minus CRM automations and give to jimmy",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-05-08"
+    },
+    "eeafbaf45aa67c0a20b160c19adbe4f3|overdue|2026-05-09": {
+      "scheduledAt": "2026-04-24T10:52:46.342Z",
+      "type": "overdue",
+      "task": "finish a full working funnel minus CRM automations and give to jimmy",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-05-09"
+    },
+    "eeafbaf45aa67c0a20b160c19adbe4f3|overdue|2026-05-10": {
+      "scheduledAt": "2026-04-24T10:52:47.066Z",
+      "type": "overdue",
+      "task": "finish a full working funnel minus CRM automations and give to jimmy",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-05-10"
+    },
+    "eeafbaf45aa67c0a20b160c19adbe4f3|overdue|2026-05-11": {
+      "scheduledAt": "2026-04-24T10:52:47.774Z",
+      "type": "overdue",
+      "task": "finish a full working funnel minus CRM automations and give to jimmy",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-05-11"
+    },
+    "eeafbaf45aa67c0a20b160c19adbe4f3|overdue|2026-05-12": {
+      "scheduledAt": "2026-04-24T10:52:48.471Z",
+      "type": "overdue",
+      "task": "finish a full working funnel minus CRM automations and give to jimmy",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-05-12"
+    },
+    "eeafbaf45aa67c0a20b160c19adbe4f3|overdue|2026-05-13": {
+      "scheduledAt": "2026-04-24T10:52:49.153Z",
+      "type": "overdue",
+      "task": "finish a full working funnel minus CRM automations and give to jimmy",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-05-13"
+    },
+    "eeafbaf45aa67c0a20b160c19adbe4f3|overdue|2026-05-14": {
+      "scheduledAt": "2026-04-24T10:52:49.854Z",
+      "type": "overdue",
+      "task": "finish a full working funnel minus CRM automations and give to jimmy",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-05-14"
+    },
+    "eeafbaf45aa67c0a20b160c19adbe4f3|overdue|2026-05-15": {
+      "scheduledAt": "2026-04-24T10:52:50.528Z",
+      "type": "overdue",
+      "task": "finish a full working funnel minus CRM automations and give to jimmy",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-05-15"
+    },
+    "eeafbaf45aa67c0a20b160c19adbe4f3|overdue|2026-05-16": {
+      "scheduledAt": "2026-04-24T10:52:51.210Z",
+      "type": "overdue",
+      "task": "finish a full working funnel minus CRM automations and give to jimmy",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-05-16"
+    },
+    "eeafbaf45aa67c0a20b160c19adbe4f3|overdue|2026-05-17": {
+      "scheduledAt": "2026-04-24T10:52:51.906Z",
+      "type": "overdue",
+      "task": "finish a full working funnel minus CRM automations and give to jimmy",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-05-17"
+    },
+    "eeafbaf45aa67c0a20b160c19adbe4f3|overdue|2026-05-18": {
+      "scheduledAt": "2026-04-24T10:52:52.605Z",
+      "type": "overdue",
+      "task": "finish a full working funnel minus CRM automations and give to jimmy",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-05-18"
+    },
+    "eeafbaf45aa67c0a20b160c19adbe4f3|overdue|2026-05-19": {
+      "scheduledAt": "2026-04-24T10:52:53.331Z",
+      "type": "overdue",
+      "task": "finish a full working funnel minus CRM automations and give to jimmy",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-05-19"
+    },
+    "eeafbaf45aa67c0a20b160c19adbe4f3|overdue|2026-05-20": {
+      "scheduledAt": "2026-04-24T10:52:54.011Z",
+      "type": "overdue",
+      "task": "finish a full working funnel minus CRM automations and give to jimmy",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-05-20"
+    },
+    "eeafbaf45aa67c0a20b160c19adbe4f3|overdue|2026-05-21": {
+      "scheduledAt": "2026-04-24T10:52:54.743Z",
+      "type": "overdue",
+      "task": "finish a full working funnel minus CRM automations and give to jimmy",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-05-21"
+    },
+    "eeafbaf45aa67c0a20b160c19adbe4f3|overdue|2026-05-22": {
+      "scheduledAt": "2026-04-24T10:52:55.463Z",
+      "type": "overdue",
+      "task": "finish a full working funnel minus CRM automations and give to jimmy",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-05-22"
+    },
+    "eeafbaf45aa67c0a20b160c19adbe4f3|overdue|2026-05-23": {
+      "scheduledAt": "2026-04-24T10:52:56.251Z",
+      "type": "overdue",
+      "task": "finish a full working funnel minus CRM automations and give to jimmy",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-05-23"
+    },
+    "eeafbaf45aa67c0a20b160c19adbe4f3|overdue|2026-05-24": {
+      "scheduledAt": "2026-04-24T10:52:56.962Z",
+      "type": "overdue",
+      "task": "finish a full working funnel minus CRM automations and give to jimmy",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-05-24"
+    },
+    "eeafbaf45aa67c0a20b160c19adbe4f3|overdue|2026-05-25": {
+      "scheduledAt": "2026-04-24T10:52:57.655Z",
+      "type": "overdue",
+      "task": "finish a full working funnel minus CRM automations and give to jimmy",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-05-25"
     }
   },
   "scheduledMessageIds": {
@@ -13616,8 +13854,394 @@
         "channel": "C05JGF817H6",
         "messageId": "Q0B0CCD70FJ"
       }
+    ],
+    "eeafbaf45aa67c0a20b160c19adbe4f3": [
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0AULQDPS3H"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0AV06J7FF0"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0AUYRRCVHT"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0AUVSP6WUT"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0AV5RUJZ1S"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0AV06J8HL6"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B0GGBNMLG"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0AV5RUS96G"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0AV06J42EA"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0AV5RUGVL4"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0AULQE02MD"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0AV5RU6LCU"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0AV5RUBHCL"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0AV28D63V0"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0AUVSPFT2P"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0AUYRRMAF7"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0AV06JFER4"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0AULQE48JK"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0AV5RUM35J"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0AV5RUQ44C"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0AV28D2D3L"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B015GG11P"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0AUVSR2UD9"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0AUVSR4J9H"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0AV5RUNSBE"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0AULQEC615"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0AUYRRR43X"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B015G7Y3B"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0B0GGCDNPJ"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0B015G5PPB"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B0GGCR1PS"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0AUYRRNHM3"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0AULQE55MM"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0AV28DC8H0"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0AUVSPS3UK"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0B015GBF6D"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B015G92KT"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0AUYRS7GER"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0AUYRQAMK7"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0AV06JHGBY"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0AULQEDFT9"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0AV28DVA5Q"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0AULQE1N07"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0AUYRSLLKF"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0AUYRS8J13"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0AV5RVBABE"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0AUVSR2ZBM"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0AV06K0R9U"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0AUVSQL9QT"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0AV06JM9UN"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0AUVSQVCQ3"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0AV5RV6TJ8"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0B0GGD0W6L"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0B015GNYDP"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B0GGCJNG0"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0AULQEQW4X"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0AV5RV4GUU"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B015GR3QR"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0B0GGDAC9E"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0AV28DRV4J"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0AV28DJJPL"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0AUYRSU1U5"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0AUYRT8V1B"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0AUVSR98FM"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0AV5RVHJBW"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0AUYRTB3BP"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0AUVSQLEHH"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0AV06KAY2J"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0AULQFH3AB"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0AV5RVC7T6"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0AV06K82B0"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0AV28DH81G"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0AV5RVHJLC"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0AUVSRDQCB"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0B015H7K7B"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B015HDXS5"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0AUYRTSNJ1"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0AUVSRT6AF"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0AV28E0PL2"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0AV06K9WQN"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0AULQF1JCX"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0AUVSRB82F"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0AUYRT68R3"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0B0GGDHREC"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0AULQFESQP"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0B015J3F97"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0AULQFDQ4X"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0AULQFGZGX"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0AUYRTHBMK"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0B0GGD6YAC"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0AUYRTE75K"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0B015HHN73"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0AUYRTK9T7"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0AV5RVEPL4"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0AULQFQZPH"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0AUVSRQQ5R"
+      }
     ]
   },
   "lastWeeklySummaryDate": null,
-  "lastRun": "2026-04-24T06:01:42.829Z"
+  "lastRun": "2026-04-24T10:52:57.656Z"
 }
