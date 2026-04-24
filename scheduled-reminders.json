@@ -923,6 +923,34 @@
       "completed": true,
       "completedAt": "2026-04-23T21:10:16.495Z",
       "firstSeenAt": "2026-04-23T21:10:16.495Z"
+    },
+    "3f4b33405658d4d6d9a912aacb2495d4": {
+      "task": "review the calendar settings for all of our ampd calendars",
+      "assignee_name": "Josh 'The Ninja' Morales",
+      "assignee_slack_mention": "@Josh 'The Ninja' Morales",
+      "assigned_date": "2026-04-16",
+      "due_date": "2026-04-21",
+      "message_ts": "1776352364.383739",
+      "source_message": "@Josh 'The Ninja' Morales please review the calendar settings for all of our ampd calendars o",
+      "assigneeId": "U07FVUF09T7",
+      "messageTs": "1776352364.383739",
+      "completed": true,
+      "completedAt": "2026-04-24T06:01:42.718Z",
+      "firstSeenAt": "2026-04-24T06:01:42.718Z"
+    },
+    "0901e282b0d486a509e26f56d0820288": {
+      "task": "set-up round robin with additional rotation for Eric V",
+      "assignee_name": "Mark 'Morpheus' Manaog",
+      "assignee_slack_mention": "@Mark 'Morpheus' Manaog",
+      "assigned_date": "2026-04-13",
+      "due_date": "2026-04-15",
+      "message_ts": "1776108398.093159",
+      "source_message": "@Mark 'Morpheus' Manaog Task: Can we set-up his round robin that he gets another additional rota",
+      "assigneeId": "U023F61R16F",
+      "messageTs": "1776108398.093159",
+      "completed": true,
+      "completedAt": "2026-04-24T06:01:42.804Z",
+      "firstSeenAt": "2026-04-24T06:01:42.804Z"
     }
   },
   "scheduled": {
@@ -13591,5 +13619,5 @@
     ]
   },
   "lastWeeklySummaryDate": null,
-  "lastRun": "2026-04-23T21:10:42.980Z"
+  "lastRun": "2026-04-24T06:01:42.829Z"
 }
