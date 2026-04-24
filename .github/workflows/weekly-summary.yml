@@ -1,0 +1,47 @@
+name: Weekly Friday Summary
+
+on:
+  workflow_dispatch:
+    # Triggered exclusively by cron-job.org every Friday at 9 AM EST
+    # cron-job.org crontab: 0 14 * * 5  (14:00 UTC = 9:00 AM EST, Fridays only)
+
+env:
+  FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
+
+jobs:
+  weekly-summary:
+    runs-on: ubuntu-latest
+
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4.2.2
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v4.4.0
+        with:
+          node-version: '22'
+
+      - name: Install dependencies
+        run: npm install
+
+      - name: Run weekly summary
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          SLACK_BOT_TOKEN: ${{ secrets.SLACK_BOT_TOKEN }}
+          SLACK_CHANNEL_ID: ${{ secrets.SLACK_CHANNEL_ID }}
+          SLACK_MANAGER_ID: ${{ secrets.SLACK_MANAGER_ID }}
+          LOOKBACK_DAYS: '14'
+          FORCE_WEEKLY_SUMMARY: 'true'
+        run: node scan.js
+
+      - name: Save state
+        if: always()
+        run: |
+          git config user.name "Task Monitor Bot"
+          git config user.email "actions@github.com"
+          git add scheduled-reminders.json || true
+          git diff --staged --quiet || git commit -m "chore: update state after weekly summary [skip ci]"
+          git push || true
