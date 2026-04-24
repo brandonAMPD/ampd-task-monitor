@@ -1049,6 +1049,76 @@
       "completed": true,
       "completedAt": "2026-04-24T18:02:27.643Z",
       "firstSeenAt": "2026-04-24T18:02:27.643Z"
+    },
+    "0f3ae55fcf8bdc75f23f964b6321ac6e": {
+      "task": "build and deploy the Jimmy booking Bot in ampd using framework",
+      "assignee_name": "Josh 'The Ninja' Morales",
+      "assignee_slack_mention": "@Josh 'The Ninja' Morales",
+      "assigned_date": "2026-04-24",
+      "due_date": "2026-05-02",
+      "message_ts": "1777059094.619059",
+      "source_message": "@Josh 'The Ninja' Morales please try to build and deploy the Jimmy booking Bot in ampd using this",
+      "assigneeId": "U07FVUF09T7",
+      "messageTs": "1777059094.619059",
+      "completed": false,
+      "completedAt": null,
+      "firstSeenAt": "2026-04-24T20:11:09.765Z"
+    },
+    "8a4b334a7e2e7ddf129cfb3eee3729ec": {
+      "task": "create way to project and measure revenue from CRM subscriptions",
+      "assignee_name": "Meg 'The Sage' Scheffler",
+      "assignee_slack_mention": "@Meg 'The Sage' Scheffler",
+      "assigned_date": "2026-04-24",
+      "due_date": "2026-05-02",
+      "message_ts": "1777043747.633959",
+      "source_message": "@Meg 'The Sage' Scheffler try to create a way to project and measure revenue from CRM subscripti",
+      "assigneeId": "U05FE9QNFSQ",
+      "messageTs": "1777043747.633959",
+      "completed": false,
+      "completedAt": null,
+      "firstSeenAt": "2026-04-24T20:11:09.816Z"
+    },
+    "9f084c983c2593d4659809600912fe2f": {
+      "task": "fix Eric Lovett's leadsheet data",
+      "assignee_name": "Christle 'Knows All' Ochigue",
+      "assignee_slack_mention": "@Christle 'Knows All' Ochigue",
+      "assigned_date": "2026-04-13",
+      "due_date": "2026-04-20",
+      "message_ts": "1776094285.826509",
+      "source_message": "Brandon 'The One' Robertson: @Christle 'Knows All' Ochigue please fix Eric Lovett's leadsheet ",
+      "assigneeId": "UMCPG3D8A",
+      "messageTs": "1776094285.826509",
+      "completed": true,
+      "completedAt": "2026-04-24T20:11:09.896Z",
+      "firstSeenAt": "2026-04-24T20:11:09.896Z"
+    },
+    "aaec06d7529a837cf35ec7062ddfd7c0": {
+      "task": "turn on adroll retargeting with current images for non-conversions last 90 days",
+      "assignee_name": "Joma 'Magic Fingers' Cris Cantalejo",
+      "assignee_slack_mention": "@Joma 'Magic Fingers' Cris Cantalejo",
+      "assigned_date": "2026-04-13",
+      "due_date": "2026-04-20",
+      "message_ts": "1776093594.754979",
+      "source_message": "Brandon 'The One' Robertson: @Joma 'Magic Fingers' Cris Cantalejo please turn on adroll retarg",
+      "assigneeId": "U03KVJD9927",
+      "messageTs": "1776093594.754979",
+      "completed": true,
+      "completedAt": "2026-04-24T20:11:09.959Z",
+      "firstSeenAt": "2026-04-24T20:11:09.959Z"
+    },
+    "1683aa0fff228a9a46744759f9d91c10": {
+      "task": "[description]",
+      "assignee_name": "person",
+      "assignee_slack_mention": "@person",
+      "assigned_date": "2026-04-13",
+      "due_date": null,
+      "message_ts": "1776061873.015779",
+      "source_message": "Mark 'Morpheus' Manaog: @person | Task: [description] | Due: [date]",
+      "assigneeId": null,
+      "messageTs": "1776061873.015779",
+      "completed": false,
+      "completedAt": null,
+      "firstSeenAt": "2026-04-24T20:11:10.017Z"
     }
   },
   "scheduled": {
@@ -10074,6 +10144,482 @@
       "task": "ensure jotform ai bots on McCown and Nicholson funnels feed into GHL",
       "assignee": "Mark 'Morpheus' Manaog",
       "reminderDate": "2026-05-28"
+    },
+    "0f3ae55fcf8bdc75f23f964b6321ac6e|midpoint|2026-04-28": {
+      "scheduledAt": "2026-04-24T20:11:10.877Z",
+      "type": "midpoint",
+      "task": "build and deploy the Jimmy booking Bot in ampd using framework",
+      "assignee": "Josh 'The Ninja' Morales",
+      "reminderDate": "2026-04-28"
+    },
+    "0f3ae55fcf8bdc75f23f964b6321ac6e|nag|2026-04-30": {
+      "scheduledAt": "2026-04-24T20:11:11.624Z",
+      "type": "nag",
+      "task": "build and deploy the Jimmy booking Bot in ampd using framework",
+      "assignee": "Josh 'The Ninja' Morales",
+      "reminderDate": "2026-04-30"
+    },
+    "0f3ae55fcf8bdc75f23f964b6321ac6e|nag|2026-05-01": {
+      "scheduledAt": "2026-04-24T20:11:12.300Z",
+      "type": "nag",
+      "task": "build and deploy the Jimmy booking Bot in ampd using framework",
+      "assignee": "Josh 'The Ninja' Morales",
+      "reminderDate": "2026-05-01"
+    },
+    "0f3ae55fcf8bdc75f23f964b6321ac6e|due|2026-05-02": {
+      "scheduledAt": "2026-04-24T20:11:13.033Z",
+      "type": "due",
+      "task": "build and deploy the Jimmy booking Bot in ampd using framework",
+      "assignee": "Josh 'The Ninja' Morales",
+      "reminderDate": "2026-05-02"
+    },
+    "0f3ae55fcf8bdc75f23f964b6321ac6e|overdue|2026-05-03": {
+      "scheduledAt": "2026-04-24T20:11:13.782Z",
+      "type": "overdue",
+      "task": "build and deploy the Jimmy booking Bot in ampd using framework",
+      "assignee": "Josh 'The Ninja' Morales",
+      "reminderDate": "2026-05-03"
+    },
+    "0f3ae55fcf8bdc75f23f964b6321ac6e|overdue|2026-05-04": {
+      "scheduledAt": "2026-04-24T20:11:14.479Z",
+      "type": "overdue",
+      "task": "build and deploy the Jimmy booking Bot in ampd using framework",
+      "assignee": "Josh 'The Ninja' Morales",
+      "reminderDate": "2026-05-04"
+    },
+    "0f3ae55fcf8bdc75f23f964b6321ac6e|overdue|2026-05-05": {
+      "scheduledAt": "2026-04-24T20:11:15.180Z",
+      "type": "overdue",
+      "task": "build and deploy the Jimmy booking Bot in ampd using framework",
+      "assignee": "Josh 'The Ninja' Morales",
+      "reminderDate": "2026-05-05"
+    },
+    "0f3ae55fcf8bdc75f23f964b6321ac6e|overdue|2026-05-06": {
+      "scheduledAt": "2026-04-24T20:11:15.865Z",
+      "type": "overdue",
+      "task": "build and deploy the Jimmy booking Bot in ampd using framework",
+      "assignee": "Josh 'The Ninja' Morales",
+      "reminderDate": "2026-05-06"
+    },
+    "0f3ae55fcf8bdc75f23f964b6321ac6e|overdue|2026-05-07": {
+      "scheduledAt": "2026-04-24T20:11:16.580Z",
+      "type": "overdue",
+      "task": "build and deploy the Jimmy booking Bot in ampd using framework",
+      "assignee": "Josh 'The Ninja' Morales",
+      "reminderDate": "2026-05-07"
+    },
+    "0f3ae55fcf8bdc75f23f964b6321ac6e|overdue|2026-05-08": {
+      "scheduledAt": "2026-04-24T20:11:17.276Z",
+      "type": "overdue",
+      "task": "build and deploy the Jimmy booking Bot in ampd using framework",
+      "assignee": "Josh 'The Ninja' Morales",
+      "reminderDate": "2026-05-08"
+    },
+    "0f3ae55fcf8bdc75f23f964b6321ac6e|overdue|2026-05-09": {
+      "scheduledAt": "2026-04-24T20:11:17.945Z",
+      "type": "overdue",
+      "task": "build and deploy the Jimmy booking Bot in ampd using framework",
+      "assignee": "Josh 'The Ninja' Morales",
+      "reminderDate": "2026-05-09"
+    },
+    "0f3ae55fcf8bdc75f23f964b6321ac6e|overdue|2026-05-10": {
+      "scheduledAt": "2026-04-24T20:11:18.617Z",
+      "type": "overdue",
+      "task": "build and deploy the Jimmy booking Bot in ampd using framework",
+      "assignee": "Josh 'The Ninja' Morales",
+      "reminderDate": "2026-05-10"
+    },
+    "0f3ae55fcf8bdc75f23f964b6321ac6e|overdue|2026-05-11": {
+      "scheduledAt": "2026-04-24T20:11:19.325Z",
+      "type": "overdue",
+      "task": "build and deploy the Jimmy booking Bot in ampd using framework",
+      "assignee": "Josh 'The Ninja' Morales",
+      "reminderDate": "2026-05-11"
+    },
+    "0f3ae55fcf8bdc75f23f964b6321ac6e|overdue|2026-05-12": {
+      "scheduledAt": "2026-04-24T20:11:20.024Z",
+      "type": "overdue",
+      "task": "build and deploy the Jimmy booking Bot in ampd using framework",
+      "assignee": "Josh 'The Ninja' Morales",
+      "reminderDate": "2026-05-12"
+    },
+    "0f3ae55fcf8bdc75f23f964b6321ac6e|overdue|2026-05-13": {
+      "scheduledAt": "2026-04-24T20:11:20.713Z",
+      "type": "overdue",
+      "task": "build and deploy the Jimmy booking Bot in ampd using framework",
+      "assignee": "Josh 'The Ninja' Morales",
+      "reminderDate": "2026-05-13"
+    },
+    "0f3ae55fcf8bdc75f23f964b6321ac6e|overdue|2026-05-14": {
+      "scheduledAt": "2026-04-24T20:11:21.410Z",
+      "type": "overdue",
+      "task": "build and deploy the Jimmy booking Bot in ampd using framework",
+      "assignee": "Josh 'The Ninja' Morales",
+      "reminderDate": "2026-05-14"
+    },
+    "0f3ae55fcf8bdc75f23f964b6321ac6e|overdue|2026-05-15": {
+      "scheduledAt": "2026-04-24T20:11:22.136Z",
+      "type": "overdue",
+      "task": "build and deploy the Jimmy booking Bot in ampd using framework",
+      "assignee": "Josh 'The Ninja' Morales",
+      "reminderDate": "2026-05-15"
+    },
+    "0f3ae55fcf8bdc75f23f964b6321ac6e|overdue|2026-05-16": {
+      "scheduledAt": "2026-04-24T20:11:22.812Z",
+      "type": "overdue",
+      "task": "build and deploy the Jimmy booking Bot in ampd using framework",
+      "assignee": "Josh 'The Ninja' Morales",
+      "reminderDate": "2026-05-16"
+    },
+    "0f3ae55fcf8bdc75f23f964b6321ac6e|overdue|2026-05-17": {
+      "scheduledAt": "2026-04-24T20:11:23.513Z",
+      "type": "overdue",
+      "task": "build and deploy the Jimmy booking Bot in ampd using framework",
+      "assignee": "Josh 'The Ninja' Morales",
+      "reminderDate": "2026-05-17"
+    },
+    "0f3ae55fcf8bdc75f23f964b6321ac6e|overdue|2026-05-18": {
+      "scheduledAt": "2026-04-24T20:11:24.211Z",
+      "type": "overdue",
+      "task": "build and deploy the Jimmy booking Bot in ampd using framework",
+      "assignee": "Josh 'The Ninja' Morales",
+      "reminderDate": "2026-05-18"
+    },
+    "0f3ae55fcf8bdc75f23f964b6321ac6e|overdue|2026-05-19": {
+      "scheduledAt": "2026-04-24T20:11:24.909Z",
+      "type": "overdue",
+      "task": "build and deploy the Jimmy booking Bot in ampd using framework",
+      "assignee": "Josh 'The Ninja' Morales",
+      "reminderDate": "2026-05-19"
+    },
+    "0f3ae55fcf8bdc75f23f964b6321ac6e|overdue|2026-05-20": {
+      "scheduledAt": "2026-04-24T20:11:25.570Z",
+      "type": "overdue",
+      "task": "build and deploy the Jimmy booking Bot in ampd using framework",
+      "assignee": "Josh 'The Ninja' Morales",
+      "reminderDate": "2026-05-20"
+    },
+    "0f3ae55fcf8bdc75f23f964b6321ac6e|overdue|2026-05-21": {
+      "scheduledAt": "2026-04-24T20:11:26.241Z",
+      "type": "overdue",
+      "task": "build and deploy the Jimmy booking Bot in ampd using framework",
+      "assignee": "Josh 'The Ninja' Morales",
+      "reminderDate": "2026-05-21"
+    },
+    "0f3ae55fcf8bdc75f23f964b6321ac6e|overdue|2026-05-22": {
+      "scheduledAt": "2026-04-24T20:11:26.946Z",
+      "type": "overdue",
+      "task": "build and deploy the Jimmy booking Bot in ampd using framework",
+      "assignee": "Josh 'The Ninja' Morales",
+      "reminderDate": "2026-05-22"
+    },
+    "0f3ae55fcf8bdc75f23f964b6321ac6e|overdue|2026-05-23": {
+      "scheduledAt": "2026-04-24T20:11:27.710Z",
+      "type": "overdue",
+      "task": "build and deploy the Jimmy booking Bot in ampd using framework",
+      "assignee": "Josh 'The Ninja' Morales",
+      "reminderDate": "2026-05-23"
+    },
+    "0f3ae55fcf8bdc75f23f964b6321ac6e|overdue|2026-05-24": {
+      "scheduledAt": "2026-04-24T20:11:28.383Z",
+      "type": "overdue",
+      "task": "build and deploy the Jimmy booking Bot in ampd using framework",
+      "assignee": "Josh 'The Ninja' Morales",
+      "reminderDate": "2026-05-24"
+    },
+    "0f3ae55fcf8bdc75f23f964b6321ac6e|overdue|2026-05-25": {
+      "scheduledAt": "2026-04-24T20:11:29.064Z",
+      "type": "overdue",
+      "task": "build and deploy the Jimmy booking Bot in ampd using framework",
+      "assignee": "Josh 'The Ninja' Morales",
+      "reminderDate": "2026-05-25"
+    },
+    "0f3ae55fcf8bdc75f23f964b6321ac6e|overdue|2026-05-26": {
+      "scheduledAt": "2026-04-24T20:11:29.768Z",
+      "type": "overdue",
+      "task": "build and deploy the Jimmy booking Bot in ampd using framework",
+      "assignee": "Josh 'The Ninja' Morales",
+      "reminderDate": "2026-05-26"
+    },
+    "0f3ae55fcf8bdc75f23f964b6321ac6e|overdue|2026-05-27": {
+      "scheduledAt": "2026-04-24T20:11:30.466Z",
+      "type": "overdue",
+      "task": "build and deploy the Jimmy booking Bot in ampd using framework",
+      "assignee": "Josh 'The Ninja' Morales",
+      "reminderDate": "2026-05-27"
+    },
+    "0f3ae55fcf8bdc75f23f964b6321ac6e|overdue|2026-05-28": {
+      "scheduledAt": "2026-04-24T20:11:31.261Z",
+      "type": "overdue",
+      "task": "build and deploy the Jimmy booking Bot in ampd using framework",
+      "assignee": "Josh 'The Ninja' Morales",
+      "reminderDate": "2026-05-28"
+    },
+    "0f3ae55fcf8bdc75f23f964b6321ac6e|overdue|2026-05-29": {
+      "scheduledAt": "2026-04-24T20:11:31.923Z",
+      "type": "overdue",
+      "task": "build and deploy the Jimmy booking Bot in ampd using framework",
+      "assignee": "Josh 'The Ninja' Morales",
+      "reminderDate": "2026-05-29"
+    },
+    "0f3ae55fcf8bdc75f23f964b6321ac6e|overdue|2026-05-30": {
+      "scheduledAt": "2026-04-24T20:11:32.667Z",
+      "type": "overdue",
+      "task": "build and deploy the Jimmy booking Bot in ampd using framework",
+      "assignee": "Josh 'The Ninja' Morales",
+      "reminderDate": "2026-05-30"
+    },
+    "0f3ae55fcf8bdc75f23f964b6321ac6e|overdue|2026-05-31": {
+      "scheduledAt": "2026-04-24T20:11:33.355Z",
+      "type": "overdue",
+      "task": "build and deploy the Jimmy booking Bot in ampd using framework",
+      "assignee": "Josh 'The Ninja' Morales",
+      "reminderDate": "2026-05-31"
+    },
+    "0f3ae55fcf8bdc75f23f964b6321ac6e|overdue|2026-06-01": {
+      "scheduledAt": "2026-04-24T20:11:34.191Z",
+      "type": "overdue",
+      "task": "build and deploy the Jimmy booking Bot in ampd using framework",
+      "assignee": "Josh 'The Ninja' Morales",
+      "reminderDate": "2026-06-01"
+    },
+    "8a4b334a7e2e7ddf129cfb3eee3729ec|midpoint|2026-04-28": {
+      "scheduledAt": "2026-04-24T20:11:34.872Z",
+      "type": "midpoint",
+      "task": "create way to project and measure revenue from CRM subscriptions",
+      "assignee": "Meg 'The Sage' Scheffler",
+      "reminderDate": "2026-04-28"
+    },
+    "8a4b334a7e2e7ddf129cfb3eee3729ec|nag|2026-04-30": {
+      "scheduledAt": "2026-04-24T20:11:35.562Z",
+      "type": "nag",
+      "task": "create way to project and measure revenue from CRM subscriptions",
+      "assignee": "Meg 'The Sage' Scheffler",
+      "reminderDate": "2026-04-30"
+    },
+    "8a4b334a7e2e7ddf129cfb3eee3729ec|nag|2026-05-01": {
+      "scheduledAt": "2026-04-24T20:11:36.245Z",
+      "type": "nag",
+      "task": "create way to project and measure revenue from CRM subscriptions",
+      "assignee": "Meg 'The Sage' Scheffler",
+      "reminderDate": "2026-05-01"
+    },
+    "8a4b334a7e2e7ddf129cfb3eee3729ec|due|2026-05-02": {
+      "scheduledAt": "2026-04-24T20:11:37.005Z",
+      "type": "due",
+      "task": "create way to project and measure revenue from CRM subscriptions",
+      "assignee": "Meg 'The Sage' Scheffler",
+      "reminderDate": "2026-05-02"
+    },
+    "8a4b334a7e2e7ddf129cfb3eee3729ec|overdue|2026-05-03": {
+      "scheduledAt": "2026-04-24T20:11:37.791Z",
+      "type": "overdue",
+      "task": "create way to project and measure revenue from CRM subscriptions",
+      "assignee": "Meg 'The Sage' Scheffler",
+      "reminderDate": "2026-05-03"
+    },
+    "8a4b334a7e2e7ddf129cfb3eee3729ec|overdue|2026-05-04": {
+      "scheduledAt": "2026-04-24T20:11:38.463Z",
+      "type": "overdue",
+      "task": "create way to project and measure revenue from CRM subscriptions",
+      "assignee": "Meg 'The Sage' Scheffler",
+      "reminderDate": "2026-05-04"
+    },
+    "8a4b334a7e2e7ddf129cfb3eee3729ec|overdue|2026-05-05": {
+      "scheduledAt": "2026-04-24T20:11:39.138Z",
+      "type": "overdue",
+      "task": "create way to project and measure revenue from CRM subscriptions",
+      "assignee": "Meg 'The Sage' Scheffler",
+      "reminderDate": "2026-05-05"
+    },
+    "8a4b334a7e2e7ddf129cfb3eee3729ec|overdue|2026-05-06": {
+      "scheduledAt": "2026-04-24T20:11:39.867Z",
+      "type": "overdue",
+      "task": "create way to project and measure revenue from CRM subscriptions",
+      "assignee": "Meg 'The Sage' Scheffler",
+      "reminderDate": "2026-05-06"
+    },
+    "8a4b334a7e2e7ddf129cfb3eee3729ec|overdue|2026-05-07": {
+      "scheduledAt": "2026-04-24T20:11:40.549Z",
+      "type": "overdue",
+      "task": "create way to project and measure revenue from CRM subscriptions",
+      "assignee": "Meg 'The Sage' Scheffler",
+      "reminderDate": "2026-05-07"
+    },
+    "8a4b334a7e2e7ddf129cfb3eee3729ec|overdue|2026-05-08": {
+      "scheduledAt": "2026-04-24T20:11:41.268Z",
+      "type": "overdue",
+      "task": "create way to project and measure revenue from CRM subscriptions",
+      "assignee": "Meg 'The Sage' Scheffler",
+      "reminderDate": "2026-05-08"
+    },
+    "8a4b334a7e2e7ddf129cfb3eee3729ec|overdue|2026-05-09": {
+      "scheduledAt": "2026-04-24T20:11:42.001Z",
+      "type": "overdue",
+      "task": "create way to project and measure revenue from CRM subscriptions",
+      "assignee": "Meg 'The Sage' Scheffler",
+      "reminderDate": "2026-05-09"
+    },
+    "8a4b334a7e2e7ddf129cfb3eee3729ec|overdue|2026-05-10": {
+      "scheduledAt": "2026-04-24T20:11:42.719Z",
+      "type": "overdue",
+      "task": "create way to project and measure revenue from CRM subscriptions",
+      "assignee": "Meg 'The Sage' Scheffler",
+      "reminderDate": "2026-05-10"
+    },
+    "8a4b334a7e2e7ddf129cfb3eee3729ec|overdue|2026-05-11": {
+      "scheduledAt": "2026-04-24T20:11:43.445Z",
+      "type": "overdue",
+      "task": "create way to project and measure revenue from CRM subscriptions",
+      "assignee": "Meg 'The Sage' Scheffler",
+      "reminderDate": "2026-05-11"
+    },
+    "8a4b334a7e2e7ddf129cfb3eee3729ec|overdue|2026-05-12": {
+      "scheduledAt": "2026-04-24T20:11:44.137Z",
+      "type": "overdue",
+      "task": "create way to project and measure revenue from CRM subscriptions",
+      "assignee": "Meg 'The Sage' Scheffler",
+      "reminderDate": "2026-05-12"
+    },
+    "8a4b334a7e2e7ddf129cfb3eee3729ec|overdue|2026-05-13": {
+      "scheduledAt": "2026-04-24T20:11:44.811Z",
+      "type": "overdue",
+      "task": "create way to project and measure revenue from CRM subscriptions",
+      "assignee": "Meg 'The Sage' Scheffler",
+      "reminderDate": "2026-05-13"
+    },
+    "8a4b334a7e2e7ddf129cfb3eee3729ec|overdue|2026-05-14": {
+      "scheduledAt": "2026-04-24T20:11:45.481Z",
+      "type": "overdue",
+      "task": "create way to project and measure revenue from CRM subscriptions",
+      "assignee": "Meg 'The Sage' Scheffler",
+      "reminderDate": "2026-05-14"
+    },
+    "8a4b334a7e2e7ddf129cfb3eee3729ec|overdue|2026-05-15": {
+      "scheduledAt": "2026-04-24T20:11:46.148Z",
+      "type": "overdue",
+      "task": "create way to project and measure revenue from CRM subscriptions",
+      "assignee": "Meg 'The Sage' Scheffler",
+      "reminderDate": "2026-05-15"
+    },
+    "8a4b334a7e2e7ddf129cfb3eee3729ec|overdue|2026-05-16": {
+      "scheduledAt": "2026-04-24T20:11:46.823Z",
+      "type": "overdue",
+      "task": "create way to project and measure revenue from CRM subscriptions",
+      "assignee": "Meg 'The Sage' Scheffler",
+      "reminderDate": "2026-05-16"
+    },
+    "8a4b334a7e2e7ddf129cfb3eee3729ec|overdue|2026-05-17": {
+      "scheduledAt": "2026-04-24T20:11:47.493Z",
+      "type": "overdue",
+      "task": "create way to project and measure revenue from CRM subscriptions",
+      "assignee": "Meg 'The Sage' Scheffler",
+      "reminderDate": "2026-05-17"
+    },
+    "8a4b334a7e2e7ddf129cfb3eee3729ec|overdue|2026-05-18": {
+      "scheduledAt": "2026-04-24T20:11:48.165Z",
+      "type": "overdue",
+      "task": "create way to project and measure revenue from CRM subscriptions",
+      "assignee": "Meg 'The Sage' Scheffler",
+      "reminderDate": "2026-05-18"
+    },
+    "8a4b334a7e2e7ddf129cfb3eee3729ec|overdue|2026-05-19": {
+      "scheduledAt": "2026-04-24T20:11:48.832Z",
+      "type": "overdue",
+      "task": "create way to project and measure revenue from CRM subscriptions",
+      "assignee": "Meg 'The Sage' Scheffler",
+      "reminderDate": "2026-05-19"
+    },
+    "8a4b334a7e2e7ddf129cfb3eee3729ec|overdue|2026-05-20": {
+      "scheduledAt": "2026-04-24T20:11:49.514Z",
+      "type": "overdue",
+      "task": "create way to project and measure revenue from CRM subscriptions",
+      "assignee": "Meg 'The Sage' Scheffler",
+      "reminderDate": "2026-05-20"
+    },
+    "8a4b334a7e2e7ddf129cfb3eee3729ec|overdue|2026-05-21": {
+      "scheduledAt": "2026-04-24T20:11:50.266Z",
+      "type": "overdue",
+      "task": "create way to project and measure revenue from CRM subscriptions",
+      "assignee": "Meg 'The Sage' Scheffler",
+      "reminderDate": "2026-05-21"
+    },
+    "8a4b334a7e2e7ddf129cfb3eee3729ec|overdue|2026-05-22": {
+      "scheduledAt": "2026-04-24T20:11:50.976Z",
+      "type": "overdue",
+      "task": "create way to project and measure revenue from CRM subscriptions",
+      "assignee": "Meg 'The Sage' Scheffler",
+      "reminderDate": "2026-05-22"
+    },
+    "8a4b334a7e2e7ddf129cfb3eee3729ec|overdue|2026-05-23": {
+      "scheduledAt": "2026-04-24T20:11:51.635Z",
+      "type": "overdue",
+      "task": "create way to project and measure revenue from CRM subscriptions",
+      "assignee": "Meg 'The Sage' Scheffler",
+      "reminderDate": "2026-05-23"
+    },
+    "8a4b334a7e2e7ddf129cfb3eee3729ec|overdue|2026-05-24": {
+      "scheduledAt": "2026-04-24T20:11:52.304Z",
+      "type": "overdue",
+      "task": "create way to project and measure revenue from CRM subscriptions",
+      "assignee": "Meg 'The Sage' Scheffler",
+      "reminderDate": "2026-05-24"
+    },
+    "8a4b334a7e2e7ddf129cfb3eee3729ec|overdue|2026-05-25": {
+      "scheduledAt": "2026-04-24T20:11:52.987Z",
+      "type": "overdue",
+      "task": "create way to project and measure revenue from CRM subscriptions",
+      "assignee": "Meg 'The Sage' Scheffler",
+      "reminderDate": "2026-05-25"
+    },
+    "8a4b334a7e2e7ddf129cfb3eee3729ec|overdue|2026-05-26": {
+      "scheduledAt": "2026-04-24T20:11:53.668Z",
+      "type": "overdue",
+      "task": "create way to project and measure revenue from CRM subscriptions",
+      "assignee": "Meg 'The Sage' Scheffler",
+      "reminderDate": "2026-05-26"
+    },
+    "8a4b334a7e2e7ddf129cfb3eee3729ec|overdue|2026-05-27": {
+      "scheduledAt": "2026-04-24T20:11:54.364Z",
+      "type": "overdue",
+      "task": "create way to project and measure revenue from CRM subscriptions",
+      "assignee": "Meg 'The Sage' Scheffler",
+      "reminderDate": "2026-05-27"
+    },
+    "8a4b334a7e2e7ddf129cfb3eee3729ec|overdue|2026-05-28": {
+      "scheduledAt": "2026-04-24T20:11:55.073Z",
+      "type": "overdue",
+      "task": "create way to project and measure revenue from CRM subscriptions",
+      "assignee": "Meg 'The Sage' Scheffler",
+      "reminderDate": "2026-05-28"
+    },
+    "8a4b334a7e2e7ddf129cfb3eee3729ec|overdue|2026-05-29": {
+      "scheduledAt": "2026-04-24T20:11:55.800Z",
+      "type": "overdue",
+      "task": "create way to project and measure revenue from CRM subscriptions",
+      "assignee": "Meg 'The Sage' Scheffler",
+      "reminderDate": "2026-05-29"
+    },
+    "8a4b334a7e2e7ddf129cfb3eee3729ec|overdue|2026-05-30": {
+      "scheduledAt": "2026-04-24T20:11:56.505Z",
+      "type": "overdue",
+      "task": "create way to project and measure revenue from CRM subscriptions",
+      "assignee": "Meg 'The Sage' Scheffler",
+      "reminderDate": "2026-05-30"
+    },
+    "8a4b334a7e2e7ddf129cfb3eee3729ec|overdue|2026-05-31": {
+      "scheduledAt": "2026-04-24T20:11:57.250Z",
+      "type": "overdue",
+      "task": "create way to project and measure revenue from CRM subscriptions",
+      "assignee": "Meg 'The Sage' Scheffler",
+      "reminderDate": "2026-05-31"
+    },
+    "8a4b334a7e2e7ddf129cfb3eee3729ec|overdue|2026-06-01": {
+      "scheduledAt": "2026-04-24T20:11:57.978Z",
+      "type": "overdue",
+      "task": "create way to project and measure revenue from CRM subscriptions",
+      "assignee": "Meg 'The Sage' Scheffler",
+      "reminderDate": "2026-06-01"
     }
   },
   "scheduledMessageIds": {
@@ -15722,8 +16268,828 @@
         "channel": "C05JGF817H6",
         "messageId": "Q0B0KLSNP5E"
       }
+    ],
+    "0f3ae55fcf8bdc75f23f964b6321ac6e": [
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0AV9RDBYCC"
+      },
+      {
+        "channel": "U07FVUF09T7",
+        "messageId": "Q0B0LFZPMQ8"
+      },
+      {
+        "channel": "C093VPK55NF",
+        "messageId": "Q0AUZS94UTV"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0AV67XQ2TU"
+      },
+      {
+        "channel": "U07FVUF09T7",
+        "messageId": "Q0AUZS8SBGB"
+      },
+      {
+        "channel": "C093VPK55NF",
+        "messageId": "Q0AUQPSREP9"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0AV2RECNRK"
+      },
+      {
+        "channel": "U07FVUF09T7",
+        "messageId": "Q0AV9RDRZ9S"
+      },
+      {
+        "channel": "C093VPK55NF",
+        "messageId": "Q0AUZS9GJE7"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B0LG1630Q"
+      },
+      {
+        "channel": "U07FVUF09T7",
+        "messageId": "Q0AV67YNM34"
+      },
+      {
+        "channel": "C093VPK55NF",
+        "messageId": "Q0AV2RDHTV3"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B0553UMNV"
+      },
+      {
+        "channel": "U07FVUF09T7",
+        "messageId": "Q0AUZS9H7K5"
+      },
+      {
+        "channel": "C093VPK55NF",
+        "messageId": "Q0AUZS9NTB5"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0AV2RE7685"
+      },
+      {
+        "channel": "U07FVUF09T7",
+        "messageId": "Q0B054ZUCFK"
+      },
+      {
+        "channel": "C093VPK55NF",
+        "messageId": "Q0AV2RD296H"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0AUQPV1CHM"
+      },
+      {
+        "channel": "U07FVUF09T7",
+        "messageId": "Q0B0LG0HX6U"
+      },
+      {
+        "channel": "C093VPK55NF",
+        "messageId": "Q0AV9REUUMS"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0AV2REAF53"
+      },
+      {
+        "channel": "U07FVUF09T7",
+        "messageId": "Q0AUZSA4FHR"
+      },
+      {
+        "channel": "C093VPK55NF",
+        "messageId": "Q0AV9RE6AMA"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0AV467157G"
+      },
+      {
+        "channel": "U07FVUF09T7",
+        "messageId": "Q0AV9RETKAQ"
+      },
+      {
+        "channel": "C093VPK55NF",
+        "messageId": "Q0B0554PM17"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0AUQPUU4SK"
+      },
+      {
+        "channel": "U07FVUF09T7",
+        "messageId": "Q0B0LG0MYTS"
+      },
+      {
+        "channel": "C093VPK55NF",
+        "messageId": "Q0AUQPV0ZLP"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0AV467DUNA"
+      },
+      {
+        "channel": "U07FVUF09T7",
+        "messageId": "Q0AV9RA58G4"
+      },
+      {
+        "channel": "C093VPK55NF",
+        "messageId": "Q0AV4677HQW"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0AUQPUS4VD"
+      },
+      {
+        "channel": "U07FVUF09T7",
+        "messageId": "Q0AUQPVDS79"
+      },
+      {
+        "channel": "C093VPK55NF",
+        "messageId": "Q0B0554S17B"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0AUZS9KDTM"
+      },
+      {
+        "channel": "U07FVUF09T7",
+        "messageId": "Q0AV680FK18"
+      },
+      {
+        "channel": "C093VPK55NF",
+        "messageId": "Q0AUZS9FSBV"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0AV6800N82"
+      },
+      {
+        "channel": "U07FVUF09T7",
+        "messageId": "Q0AV2REFM0D"
+      },
+      {
+        "channel": "C093VPK55NF",
+        "messageId": "Q0B0554QWRF"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B0LG1LBHN"
+      },
+      {
+        "channel": "U07FVUF09T7",
+        "messageId": "Q0AV2RF985B"
+      },
+      {
+        "channel": "C093VPK55NF",
+        "messageId": "Q0B05557B17"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0AUZSA0XEX"
+      },
+      {
+        "channel": "U07FVUF09T7",
+        "messageId": "Q0AV46766RL"
+      },
+      {
+        "channel": "C093VPK55NF",
+        "messageId": "Q0AV9RF010C"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0AV2RFJDHT"
+      },
+      {
+        "channel": "U07FVUF09T7",
+        "messageId": "Q0AUQPVQ8RM"
+      },
+      {
+        "channel": "C093VPK55NF",
+        "messageId": "Q0AUQPVRGRM"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B05536DFB"
+      },
+      {
+        "channel": "U07FVUF09T7",
+        "messageId": "Q0AV2RF702Z"
+      },
+      {
+        "channel": "C093VPK55NF",
+        "messageId": "Q0AV2REN87P"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0AV9RF2TL4"
+      },
+      {
+        "channel": "U07FVUF09T7",
+        "messageId": "Q0AV467JTGW"
+      },
+      {
+        "channel": "C093VPK55NF",
+        "messageId": "Q0AUQPVQ97H"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B0554890R"
+      },
+      {
+        "channel": "U07FVUF09T7",
+        "messageId": "Q0AUQPVHF0F"
+      },
+      {
+        "channel": "C093VPK55NF",
+        "messageId": "Q0AV467830E"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0AV9RFH8DS"
+      },
+      {
+        "channel": "U07FVUF09T7",
+        "messageId": "Q0AUZSA8TJP"
+      },
+      {
+        "channel": "C093VPK55NF",
+        "messageId": "Q0AV467RUMC"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0AUQPVU1RD"
+      },
+      {
+        "channel": "U07FVUF09T7",
+        "messageId": "Q0AV680BKFC"
+      },
+      {
+        "channel": "C093VPK55NF",
+        "messageId": "Q0AV9RDFN12"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B0LG1LC64"
+      },
+      {
+        "channel": "U07FVUF09T7",
+        "messageId": "Q0B0555DPMF"
+      },
+      {
+        "channel": "C093VPK55NF",
+        "messageId": "Q0AV680V9U2"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0AUQPVS69M"
+      },
+      {
+        "channel": "U07FVUF09T7",
+        "messageId": "Q0B0LG1AQPJ"
+      },
+      {
+        "channel": "C093VPK55NF",
+        "messageId": "Q0AUZSAKK7D"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B0LG1LMGQ"
+      },
+      {
+        "channel": "U07FVUF09T7",
+        "messageId": "Q0AV680EMTL"
+      },
+      {
+        "channel": "C093VPK55NF",
+        "messageId": "Q0AV67W9QKU"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B0555LN57"
+      },
+      {
+        "channel": "U07FVUF09T7",
+        "messageId": "Q0AV468433Q"
+      },
+      {
+        "channel": "C093VPK55NF",
+        "messageId": "Q0AUQPVPBHV"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0AV9RG53RS"
+      },
+      {
+        "channel": "U07FVUF09T7",
+        "messageId": "Q0B0LG20PH6"
+      },
+      {
+        "channel": "C093VPK55NF",
+        "messageId": "Q0B0LG254SC"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0AUZSBDKT5"
+      },
+      {
+        "channel": "U07FVUF09T7",
+        "messageId": "Q0AV2RFP2VB"
+      },
+      {
+        "channel": "C093VPK55NF",
+        "messageId": "Q0AUZSAJJ8K"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0AUZS6AV5Z"
+      },
+      {
+        "channel": "U07FVUF09T7",
+        "messageId": "Q0B0LG27VS4"
+      },
+      {
+        "channel": "C093VPK55NF",
+        "messageId": "Q0AUQPWDURM"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B0LFYHCV6"
+      },
+      {
+        "channel": "U07FVUF09T7",
+        "messageId": "Q0AV2RFGZ8D"
+      },
+      {
+        "channel": "C093VPK55NF",
+        "messageId": "Q0AV9RFPWP6"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0AUZSB8AEP"
+      },
+      {
+        "channel": "U07FVUF09T7",
+        "messageId": "Q0AUQPWA6R5"
+      },
+      {
+        "channel": "C093VPK55NF",
+        "messageId": "Q0AV2RG2F29"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0AV2RFN5T7"
+      },
+      {
+        "channel": "U07FVUF09T7",
+        "messageId": "Q0AUZSBMGTV"
+      },
+      {
+        "channel": "C093VPK55NF",
+        "messageId": "Q0B0LG1EL9W"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0AV680TD50"
+      },
+      {
+        "channel": "U07FVUF09T7",
+        "messageId": "Q0AUQPW1S7R"
+      },
+      {
+        "channel": "C093VPK55NF",
+        "messageId": "Q0B0556LJE5"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B0LG27P7S"
+      },
+      {
+        "channel": "U07FVUF09T7",
+        "messageId": "Q0AV68163L2"
+      },
+      {
+        "channel": "C093VPK55NF",
+        "messageId": "Q0B0LG28JBS"
+      }
+    ],
+    "8a4b334a7e2e7ddf129cfb3eee3729ec": [
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0AV681EZ26"
+      },
+      {
+        "channel": "U05FE9QNFSQ",
+        "messageId": "Q0AUZSC0J4B"
+      },
+      {
+        "channel": "C05HL1VGA22",
+        "messageId": "Q0B05566T33"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0AV46931K8"
+      },
+      {
+        "channel": "U05FE9QNFSQ",
+        "messageId": "Q0B05560TED"
+      },
+      {
+        "channel": "C05HL1VGA22",
+        "messageId": "Q0B0LG29QRW"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0AUQPX7Y79"
+      },
+      {
+        "channel": "U05FE9QNFSQ",
+        "messageId": "Q0B0556ESKT"
+      },
+      {
+        "channel": "C05HL1VGA22",
+        "messageId": "Q0AV469ABN2"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B0LG2H0RE"
+      },
+      {
+        "channel": "U05FE9QNFSQ",
+        "messageId": "Q0AV468Q63G"
+      },
+      {
+        "channel": "C05HL1VGA22",
+        "messageId": "Q0B0LG313A4"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0AV4690D0E"
+      },
+      {
+        "channel": "U05FE9QNFSQ",
+        "messageId": "Q0AUZSBU48K"
+      },
+      {
+        "channel": "C05HL1VGA22",
+        "messageId": "Q0AUQPXCY5D"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B0555FKGR"
+      },
+      {
+        "channel": "U05FE9QNFSQ",
+        "messageId": "Q0B0556ES4R"
+      },
+      {
+        "channel": "C05HL1VGA22",
+        "messageId": "Q0AV468DE3G"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0AV469GEJJ"
+      },
+      {
+        "channel": "U05FE9QNFSQ",
+        "messageId": "Q0AV681UYKU"
+      },
+      {
+        "channel": "C05HL1VGA22",
+        "messageId": "Q0AV9RGLK6Y"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0AUZSC92DR"
+      },
+      {
+        "channel": "U05FE9QNFSQ",
+        "messageId": "Q0AUZSBKWGK"
+      },
+      {
+        "channel": "C05HL1VGA22",
+        "messageId": "Q0B0557K525"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0AV682D610"
+      },
+      {
+        "channel": "U05FE9QNFSQ",
+        "messageId": "Q0AV6822TDY"
+      },
+      {
+        "channel": "C05HL1VGA22",
+        "messageId": "Q0AV9RH5QDS"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0AV6825HLJ"
+      },
+      {
+        "channel": "U05FE9QNFSQ",
+        "messageId": "Q0AUQPX466B"
+      },
+      {
+        "channel": "C05HL1VGA22",
+        "messageId": "Q0AUZSCQLLB"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0AV9RHBR9A"
+      },
+      {
+        "channel": "U05FE9QNFSQ",
+        "messageId": "Q0B0557DV9P"
+      },
+      {
+        "channel": "C05HL1VGA22",
+        "messageId": "Q0AV2RH8WF7"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0AUQPX9KQX"
+      },
+      {
+        "channel": "U05FE9QNFSQ",
+        "messageId": "Q0B0LG32B5W"
+      },
+      {
+        "channel": "C05HL1VGA22",
+        "messageId": "Q0B05576W5P"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0AUQPXBN7R"
+      },
+      {
+        "channel": "U05FE9QNFSQ",
+        "messageId": "Q0AUQPXKZV5"
+      },
+      {
+        "channel": "C05HL1VGA22",
+        "messageId": "Q0AUZSBSV8T"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0AUQPX6QG7"
+      },
+      {
+        "channel": "U05FE9QNFSQ",
+        "messageId": "Q0AV46950HL"
+      },
+      {
+        "channel": "C05HL1VGA22",
+        "messageId": "Q0AV469PKPY"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0AUZSCBP43"
+      },
+      {
+        "channel": "U05FE9QNFSQ",
+        "messageId": "Q0AV9RHH66Q"
+      },
+      {
+        "channel": "C05HL1VGA22",
+        "messageId": "Q0B0558DM2M"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B05580A01"
+      },
+      {
+        "channel": "U05FE9QNFSQ",
+        "messageId": "Q0AUZSCSD3M"
+      },
+      {
+        "channel": "C05HL1VGA22",
+        "messageId": "Q0B0LG34UN4"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0AV46A26H4"
+      },
+      {
+        "channel": "U05FE9QNFSQ",
+        "messageId": "Q0B05578R09"
+      },
+      {
+        "channel": "C05HL1VGA22",
+        "messageId": "Q0B05577RS5"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0AV2RHGYPP"
+      },
+      {
+        "channel": "U05FE9QNFSQ",
+        "messageId": "Q0AUZSC5YHZ"
+      },
+      {
+        "channel": "C05HL1VGA22",
+        "messageId": "Q0AV681PNHY"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0AV2RJ2EGM"
+      },
+      {
+        "channel": "U05FE9QNFSQ",
+        "messageId": "Q0B0LG3GUEL"
+      },
+      {
+        "channel": "C05HL1VGA22",
+        "messageId": "Q0AUQPYAJCF"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0AV2RGU6G5"
+      },
+      {
+        "channel": "U05FE9QNFSQ",
+        "messageId": "Q0B0LG47T4G"
+      },
+      {
+        "channel": "C05HL1VGA22",
+        "messageId": "Q0AV9RHRCTE"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B05588Y81"
+      },
+      {
+        "channel": "U05FE9QNFSQ",
+        "messageId": "Q0AUQPXUR2T"
+      },
+      {
+        "channel": "C05HL1VGA22",
+        "messageId": "Q0B0LG3SXLG"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0AUQPXENQ7"
+      },
+      {
+        "channel": "U05FE9QNFSQ",
+        "messageId": "Q0B0557GD25"
+      },
+      {
+        "channel": "C05HL1VGA22",
+        "messageId": "Q0AV46AG8DC"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0AV9RJB936"
+      },
+      {
+        "channel": "U05FE9QNFSQ",
+        "messageId": "Q0AV465Q8UE"
+      },
+      {
+        "channel": "C05HL1VGA22",
+        "messageId": "Q0AV6834YD8"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B0LG3MQ72"
+      },
+      {
+        "channel": "U05FE9QNFSQ",
+        "messageId": "Q0AUQPY14KZ"
+      },
+      {
+        "channel": "C05HL1VGA22",
+        "messageId": "Q0B0LG4C3KJ"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0AV46A9TDL"
+      },
+      {
+        "channel": "U05FE9QNFSQ",
+        "messageId": "Q0AV6822L66"
+      },
+      {
+        "channel": "C05HL1VGA22",
+        "messageId": "Q0B0LG48W3A"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0AUQPXLVNK"
+      },
+      {
+        "channel": "U05FE9QNFSQ",
+        "messageId": "Q0AV2RJB5EH"
+      },
+      {
+        "channel": "C05HL1VGA22",
+        "messageId": "Q0AV2RHHGRK"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0AV683HHKL"
+      },
+      {
+        "channel": "U05FE9QNFSQ",
+        "messageId": "Q0B0553QCBB"
+      },
+      {
+        "channel": "C05HL1VGA22",
+        "messageId": "Q0AV2RDQ83F"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0AV9RHNT0C"
+      },
+      {
+        "channel": "U05FE9QNFSQ",
+        "messageId": "Q0AUQPY9M0X"
+      },
+      {
+        "channel": "C05HL1VGA22",
+        "messageId": "Q0B0LG59V96"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0AV9RBHSTW"
+      },
+      {
+        "channel": "U05FE9QNFSQ",
+        "messageId": "Q0AV469HWMU"
+      },
+      {
+        "channel": "C05HL1VGA22",
+        "messageId": "Q0AV9RE75SQ"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0AV2RJ9V61"
+      },
+      {
+        "channel": "U05FE9QNFSQ",
+        "messageId": "Q0AUQPYFH7H"
+      },
+      {
+        "channel": "C05HL1VGA22",
+        "messageId": "Q0AV46AK5HC"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0AUZSE6VD1"
+      },
+      {
+        "channel": "U05FE9QNFSQ",
+        "messageId": "Q0B0558JKB3"
+      },
+      {
+        "channel": "C05HL1VGA22",
+        "messageId": "Q0AUZSDLD2P"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0AV2RJJ5JR"
+      },
+      {
+        "channel": "U05FE9QNFSQ",
+        "messageId": "Q0AUZSD6UHZ"
+      },
+      {
+        "channel": "C05HL1VGA22",
+        "messageId": "Q0AV2RHRHS9"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0AV46BRENA"
+      },
+      {
+        "channel": "U05FE9QNFSQ",
+        "messageId": "Q0B055871DX"
+      },
+      {
+        "channel": "C05HL1VGA22",
+        "messageId": "Q0B05536DG9"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0AV68396AW"
+      },
+      {
+        "channel": "U05FE9QNFSQ",
+        "messageId": "Q0AV6831W9G"
+      },
+      {
+        "channel": "C05HL1VGA22",
+        "messageId": "Q0AUQPU51B9"
+      }
     ]
   },
   "lastWeeklySummaryDate": "2026-W17",
-  "lastRun": "2026-04-24T18:03:58.943Z"
+  "lastRun": "2026-04-24T20:11:57.978Z"
 }
