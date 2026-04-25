@@ -1147,6 +1147,34 @@
       "completed": true,
       "completedAt": "2026-04-25T06:02:41.414Z",
       "firstSeenAt": "2026-04-25T06:02:41.414Z"
+    },
+    "def71bc338f08fb302df799a6fdb52b4": {
+      "task": "update AMPD workflows - stage move not workflow move, fix needs to book/reschedule workflows",
+      "assignee_name": "Josh 'The Ninja' Morales",
+      "assignee_slack_mention": "@Josh 'The Ninja' Morales",
+      "assigned_date": "2026-04-25",
+      "due_date": "2026-04-30",
+      "message_ts": "1777141886.840759",
+      "source_message": "@Josh 'The Ninja' Morales please make sure our workflows for AMPD are properly updated so that there",
+      "assigneeId": "U07FVUF09T7",
+      "messageTs": "1777141886.840759",
+      "completed": false,
+      "completedAt": null,
+      "firstSeenAt": "2026-04-25T19:58:23.287Z"
+    },
+    "1ebdca30b5d17f5b4b0ddefad46745db": {
+      "task": "help design dashboard for ampd crm primary pipeline, complete by 4/22/26",
+      "assignee_name": "Eddie 'Rockstar' Monarrez",
+      "assignee_slack_mention": "@Eddie 'Rockstar' Monarrez",
+      "assigned_date": "2026-04-14",
+      "due_date": "2026-04-22",
+      "message_ts": "1776188666.939779",
+      "source_message": "Brandon 'The One' Robertson: @Eddie 'Rockstar' Monarrez please help design a dashboard for am",
+      "assigneeId": "U02LFUG2WLR",
+      "messageTs": "1776188666.939779",
+      "completed": false,
+      "completedAt": null,
+      "firstSeenAt": "2026-04-25T19:58:23.360Z"
     }
   },
   "scheduled": {
@@ -10879,6 +10907,439 @@
       "task": "review the potential issue for end of workflows tied to ampd stages mentioned in this link",
       "assignee": "Josh 'The Ninja' Morales",
       "reminderDate": "2026-05-28"
+    },
+    "def71bc338f08fb302df799a6fdb52b4|midpoint|2026-04-27": {
+      "scheduledAt": "2026-04-25T19:58:24.086Z",
+      "type": "midpoint",
+      "task": "update AMPD workflows - stage move not workflow move, fix needs to book/reschedule workflows",
+      "assignee": "Josh 'The Ninja' Morales",
+      "reminderDate": "2026-04-27"
+    },
+    "def71bc338f08fb302df799a6fdb52b4|nag|2026-04-28": {
+      "scheduledAt": "2026-04-25T19:58:24.778Z",
+      "type": "nag",
+      "task": "update AMPD workflows - stage move not workflow move, fix needs to book/reschedule workflows",
+      "assignee": "Josh 'The Ninja' Morales",
+      "reminderDate": "2026-04-28"
+    },
+    "def71bc338f08fb302df799a6fdb52b4|nag|2026-04-29": {
+      "scheduledAt": "2026-04-25T19:58:25.486Z",
+      "type": "nag",
+      "task": "update AMPD workflows - stage move not workflow move, fix needs to book/reschedule workflows",
+      "assignee": "Josh 'The Ninja' Morales",
+      "reminderDate": "2026-04-29"
+    },
+    "def71bc338f08fb302df799a6fdb52b4|due|2026-04-30": {
+      "scheduledAt": "2026-04-25T19:58:26.182Z",
+      "type": "due",
+      "task": "update AMPD workflows - stage move not workflow move, fix needs to book/reschedule workflows",
+      "assignee": "Josh 'The Ninja' Morales",
+      "reminderDate": "2026-04-30"
+    },
+    "def71bc338f08fb302df799a6fdb52b4|overdue|2026-05-01": {
+      "scheduledAt": "2026-04-25T19:58:26.894Z",
+      "type": "overdue",
+      "task": "update AMPD workflows - stage move not workflow move, fix needs to book/reschedule workflows",
+      "assignee": "Josh 'The Ninja' Morales",
+      "reminderDate": "2026-05-01"
+    },
+    "def71bc338f08fb302df799a6fdb52b4|overdue|2026-05-02": {
+      "scheduledAt": "2026-04-25T19:58:27.588Z",
+      "type": "overdue",
+      "task": "update AMPD workflows - stage move not workflow move, fix needs to book/reschedule workflows",
+      "assignee": "Josh 'The Ninja' Morales",
+      "reminderDate": "2026-05-02"
+    },
+    "def71bc338f08fb302df799a6fdb52b4|overdue|2026-05-03": {
+      "scheduledAt": "2026-04-25T19:58:28.286Z",
+      "type": "overdue",
+      "task": "update AMPD workflows - stage move not workflow move, fix needs to book/reschedule workflows",
+      "assignee": "Josh 'The Ninja' Morales",
+      "reminderDate": "2026-05-03"
+    },
+    "def71bc338f08fb302df799a6fdb52b4|overdue|2026-05-04": {
+      "scheduledAt": "2026-04-25T19:58:28.982Z",
+      "type": "overdue",
+      "task": "update AMPD workflows - stage move not workflow move, fix needs to book/reschedule workflows",
+      "assignee": "Josh 'The Ninja' Morales",
+      "reminderDate": "2026-05-04"
+    },
+    "def71bc338f08fb302df799a6fdb52b4|overdue|2026-05-05": {
+      "scheduledAt": "2026-04-25T19:58:29.665Z",
+      "type": "overdue",
+      "task": "update AMPD workflows - stage move not workflow move, fix needs to book/reschedule workflows",
+      "assignee": "Josh 'The Ninja' Morales",
+      "reminderDate": "2026-05-05"
+    },
+    "def71bc338f08fb302df799a6fdb52b4|overdue|2026-05-06": {
+      "scheduledAt": "2026-04-25T19:58:30.352Z",
+      "type": "overdue",
+      "task": "update AMPD workflows - stage move not workflow move, fix needs to book/reschedule workflows",
+      "assignee": "Josh 'The Ninja' Morales",
+      "reminderDate": "2026-05-06"
+    },
+    "def71bc338f08fb302df799a6fdb52b4|overdue|2026-05-07": {
+      "scheduledAt": "2026-04-25T19:58:31.058Z",
+      "type": "overdue",
+      "task": "update AMPD workflows - stage move not workflow move, fix needs to book/reschedule workflows",
+      "assignee": "Josh 'The Ninja' Morales",
+      "reminderDate": "2026-05-07"
+    },
+    "def71bc338f08fb302df799a6fdb52b4|overdue|2026-05-08": {
+      "scheduledAt": "2026-04-25T19:58:31.742Z",
+      "type": "overdue",
+      "task": "update AMPD workflows - stage move not workflow move, fix needs to book/reschedule workflows",
+      "assignee": "Josh 'The Ninja' Morales",
+      "reminderDate": "2026-05-08"
+    },
+    "def71bc338f08fb302df799a6fdb52b4|overdue|2026-05-09": {
+      "scheduledAt": "2026-04-25T19:58:32.440Z",
+      "type": "overdue",
+      "task": "update AMPD workflows - stage move not workflow move, fix needs to book/reschedule workflows",
+      "assignee": "Josh 'The Ninja' Morales",
+      "reminderDate": "2026-05-09"
+    },
+    "def71bc338f08fb302df799a6fdb52b4|overdue|2026-05-10": {
+      "scheduledAt": "2026-04-25T19:58:33.134Z",
+      "type": "overdue",
+      "task": "update AMPD workflows - stage move not workflow move, fix needs to book/reschedule workflows",
+      "assignee": "Josh 'The Ninja' Morales",
+      "reminderDate": "2026-05-10"
+    },
+    "def71bc338f08fb302df799a6fdb52b4|overdue|2026-05-11": {
+      "scheduledAt": "2026-04-25T19:58:33.832Z",
+      "type": "overdue",
+      "task": "update AMPD workflows - stage move not workflow move, fix needs to book/reschedule workflows",
+      "assignee": "Josh 'The Ninja' Morales",
+      "reminderDate": "2026-05-11"
+    },
+    "def71bc338f08fb302df799a6fdb52b4|overdue|2026-05-12": {
+      "scheduledAt": "2026-04-25T19:58:34.525Z",
+      "type": "overdue",
+      "task": "update AMPD workflows - stage move not workflow move, fix needs to book/reschedule workflows",
+      "assignee": "Josh 'The Ninja' Morales",
+      "reminderDate": "2026-05-12"
+    },
+    "def71bc338f08fb302df799a6fdb52b4|overdue|2026-05-13": {
+      "scheduledAt": "2026-04-25T19:58:35.293Z",
+      "type": "overdue",
+      "task": "update AMPD workflows - stage move not workflow move, fix needs to book/reschedule workflows",
+      "assignee": "Josh 'The Ninja' Morales",
+      "reminderDate": "2026-05-13"
+    },
+    "def71bc338f08fb302df799a6fdb52b4|overdue|2026-05-14": {
+      "scheduledAt": "2026-04-25T19:58:35.986Z",
+      "type": "overdue",
+      "task": "update AMPD workflows - stage move not workflow move, fix needs to book/reschedule workflows",
+      "assignee": "Josh 'The Ninja' Morales",
+      "reminderDate": "2026-05-14"
+    },
+    "def71bc338f08fb302df799a6fdb52b4|overdue|2026-05-15": {
+      "scheduledAt": "2026-04-25T19:58:36.686Z",
+      "type": "overdue",
+      "task": "update AMPD workflows - stage move not workflow move, fix needs to book/reschedule workflows",
+      "assignee": "Josh 'The Ninja' Morales",
+      "reminderDate": "2026-05-15"
+    },
+    "def71bc338f08fb302df799a6fdb52b4|overdue|2026-05-16": {
+      "scheduledAt": "2026-04-25T19:58:37.376Z",
+      "type": "overdue",
+      "task": "update AMPD workflows - stage move not workflow move, fix needs to book/reschedule workflows",
+      "assignee": "Josh 'The Ninja' Morales",
+      "reminderDate": "2026-05-16"
+    },
+    "def71bc338f08fb302df799a6fdb52b4|overdue|2026-05-17": {
+      "scheduledAt": "2026-04-25T19:58:38.078Z",
+      "type": "overdue",
+      "task": "update AMPD workflows - stage move not workflow move, fix needs to book/reschedule workflows",
+      "assignee": "Josh 'The Ninja' Morales",
+      "reminderDate": "2026-05-17"
+    },
+    "def71bc338f08fb302df799a6fdb52b4|overdue|2026-05-18": {
+      "scheduledAt": "2026-04-25T19:58:38.774Z",
+      "type": "overdue",
+      "task": "update AMPD workflows - stage move not workflow move, fix needs to book/reschedule workflows",
+      "assignee": "Josh 'The Ninja' Morales",
+      "reminderDate": "2026-05-18"
+    },
+    "def71bc338f08fb302df799a6fdb52b4|overdue|2026-05-19": {
+      "scheduledAt": "2026-04-25T19:58:39.481Z",
+      "type": "overdue",
+      "task": "update AMPD workflows - stage move not workflow move, fix needs to book/reschedule workflows",
+      "assignee": "Josh 'The Ninja' Morales",
+      "reminderDate": "2026-05-19"
+    },
+    "def71bc338f08fb302df799a6fdb52b4|overdue|2026-05-20": {
+      "scheduledAt": "2026-04-25T19:58:40.168Z",
+      "type": "overdue",
+      "task": "update AMPD workflows - stage move not workflow move, fix needs to book/reschedule workflows",
+      "assignee": "Josh 'The Ninja' Morales",
+      "reminderDate": "2026-05-20"
+    },
+    "def71bc338f08fb302df799a6fdb52b4|overdue|2026-05-21": {
+      "scheduledAt": "2026-04-25T19:58:40.861Z",
+      "type": "overdue",
+      "task": "update AMPD workflows - stage move not workflow move, fix needs to book/reschedule workflows",
+      "assignee": "Josh 'The Ninja' Morales",
+      "reminderDate": "2026-05-21"
+    },
+    "def71bc338f08fb302df799a6fdb52b4|overdue|2026-05-22": {
+      "scheduledAt": "2026-04-25T19:58:41.568Z",
+      "type": "overdue",
+      "task": "update AMPD workflows - stage move not workflow move, fix needs to book/reschedule workflows",
+      "assignee": "Josh 'The Ninja' Morales",
+      "reminderDate": "2026-05-22"
+    },
+    "def71bc338f08fb302df799a6fdb52b4|overdue|2026-05-23": {
+      "scheduledAt": "2026-04-25T19:58:42.266Z",
+      "type": "overdue",
+      "task": "update AMPD workflows - stage move not workflow move, fix needs to book/reschedule workflows",
+      "assignee": "Josh 'The Ninja' Morales",
+      "reminderDate": "2026-05-23"
+    },
+    "def71bc338f08fb302df799a6fdb52b4|overdue|2026-05-24": {
+      "scheduledAt": "2026-04-25T19:58:42.969Z",
+      "type": "overdue",
+      "task": "update AMPD workflows - stage move not workflow move, fix needs to book/reschedule workflows",
+      "assignee": "Josh 'The Ninja' Morales",
+      "reminderDate": "2026-05-24"
+    },
+    "def71bc338f08fb302df799a6fdb52b4|overdue|2026-05-25": {
+      "scheduledAt": "2026-04-25T19:58:43.667Z",
+      "type": "overdue",
+      "task": "update AMPD workflows - stage move not workflow move, fix needs to book/reschedule workflows",
+      "assignee": "Josh 'The Ninja' Morales",
+      "reminderDate": "2026-05-25"
+    },
+    "def71bc338f08fb302df799a6fdb52b4|overdue|2026-05-26": {
+      "scheduledAt": "2026-04-25T19:58:45.115Z",
+      "type": "overdue",
+      "task": "update AMPD workflows - stage move not workflow move, fix needs to book/reschedule workflows",
+      "assignee": "Josh 'The Ninja' Morales",
+      "reminderDate": "2026-05-26"
+    },
+    "def71bc338f08fb302df799a6fdb52b4|overdue|2026-05-27": {
+      "scheduledAt": "2026-04-25T19:58:45.816Z",
+      "type": "overdue",
+      "task": "update AMPD workflows - stage move not workflow move, fix needs to book/reschedule workflows",
+      "assignee": "Josh 'The Ninja' Morales",
+      "reminderDate": "2026-05-27"
+    },
+    "def71bc338f08fb302df799a6fdb52b4|overdue|2026-05-28": {
+      "scheduledAt": "2026-04-25T19:58:46.553Z",
+      "type": "overdue",
+      "task": "update AMPD workflows - stage move not workflow move, fix needs to book/reschedule workflows",
+      "assignee": "Josh 'The Ninja' Morales",
+      "reminderDate": "2026-05-28"
+    },
+    "def71bc338f08fb302df799a6fdb52b4|overdue|2026-05-29": {
+      "scheduledAt": "2026-04-25T19:58:47.249Z",
+      "type": "overdue",
+      "task": "update AMPD workflows - stage move not workflow move, fix needs to book/reschedule workflows",
+      "assignee": "Josh 'The Ninja' Morales",
+      "reminderDate": "2026-05-29"
+    },
+    "def71bc338f08fb302df799a6fdb52b4|overdue|2026-05-30": {
+      "scheduledAt": "2026-04-25T19:58:47.940Z",
+      "type": "overdue",
+      "task": "update AMPD workflows - stage move not workflow move, fix needs to book/reschedule workflows",
+      "assignee": "Josh 'The Ninja' Morales",
+      "reminderDate": "2026-05-30"
+    },
+    "1ebdca30b5d17f5b4b0ddefad46745db|overdue|2026-04-25": {
+      "scheduledAt": "2026-04-25T19:58:47.940Z",
+      "type": "overdue",
+      "task": "help design dashboard for ampd crm primary pipeline, complete by 4/22/26",
+      "skipped": true
+    },
+    "1ebdca30b5d17f5b4b0ddefad46745db|overdue|2026-04-26": {
+      "scheduledAt": "2026-04-25T19:58:48.645Z",
+      "type": "overdue",
+      "task": "help design dashboard for ampd crm primary pipeline, complete by 4/22/26",
+      "assignee": "Eddie 'Rockstar' Monarrez",
+      "reminderDate": "2026-04-26"
+    },
+    "1ebdca30b5d17f5b4b0ddefad46745db|overdue|2026-04-27": {
+      "scheduledAt": "2026-04-25T19:58:49.332Z",
+      "type": "overdue",
+      "task": "help design dashboard for ampd crm primary pipeline, complete by 4/22/26",
+      "assignee": "Eddie 'Rockstar' Monarrez",
+      "reminderDate": "2026-04-27"
+    },
+    "1ebdca30b5d17f5b4b0ddefad46745db|overdue|2026-04-28": {
+      "scheduledAt": "2026-04-25T19:58:50.053Z",
+      "type": "overdue",
+      "task": "help design dashboard for ampd crm primary pipeline, complete by 4/22/26",
+      "assignee": "Eddie 'Rockstar' Monarrez",
+      "reminderDate": "2026-04-28"
+    },
+    "1ebdca30b5d17f5b4b0ddefad46745db|overdue|2026-04-29": {
+      "scheduledAt": "2026-04-25T19:58:50.736Z",
+      "type": "overdue",
+      "task": "help design dashboard for ampd crm primary pipeline, complete by 4/22/26",
+      "assignee": "Eddie 'Rockstar' Monarrez",
+      "reminderDate": "2026-04-29"
+    },
+    "1ebdca30b5d17f5b4b0ddefad46745db|overdue|2026-04-30": {
+      "scheduledAt": "2026-04-25T19:58:51.431Z",
+      "type": "overdue",
+      "task": "help design dashboard for ampd crm primary pipeline, complete by 4/22/26",
+      "assignee": "Eddie 'Rockstar' Monarrez",
+      "reminderDate": "2026-04-30"
+    },
+    "1ebdca30b5d17f5b4b0ddefad46745db|overdue|2026-05-01": {
+      "scheduledAt": "2026-04-25T19:58:52.135Z",
+      "type": "overdue",
+      "task": "help design dashboard for ampd crm primary pipeline, complete by 4/22/26",
+      "assignee": "Eddie 'Rockstar' Monarrez",
+      "reminderDate": "2026-05-01"
+    },
+    "1ebdca30b5d17f5b4b0ddefad46745db|overdue|2026-05-02": {
+      "scheduledAt": "2026-04-25T19:58:52.867Z",
+      "type": "overdue",
+      "task": "help design dashboard for ampd crm primary pipeline, complete by 4/22/26",
+      "assignee": "Eddie 'Rockstar' Monarrez",
+      "reminderDate": "2026-05-02"
+    },
+    "1ebdca30b5d17f5b4b0ddefad46745db|overdue|2026-05-03": {
+      "scheduledAt": "2026-04-25T19:58:53.550Z",
+      "type": "overdue",
+      "task": "help design dashboard for ampd crm primary pipeline, complete by 4/22/26",
+      "assignee": "Eddie 'Rockstar' Monarrez",
+      "reminderDate": "2026-05-03"
+    },
+    "1ebdca30b5d17f5b4b0ddefad46745db|overdue|2026-05-04": {
+      "scheduledAt": "2026-04-25T19:58:54.238Z",
+      "type": "overdue",
+      "task": "help design dashboard for ampd crm primary pipeline, complete by 4/22/26",
+      "assignee": "Eddie 'Rockstar' Monarrez",
+      "reminderDate": "2026-05-04"
+    },
+    "1ebdca30b5d17f5b4b0ddefad46745db|overdue|2026-05-05": {
+      "scheduledAt": "2026-04-25T19:58:54.933Z",
+      "type": "overdue",
+      "task": "help design dashboard for ampd crm primary pipeline, complete by 4/22/26",
+      "assignee": "Eddie 'Rockstar' Monarrez",
+      "reminderDate": "2026-05-05"
+    },
+    "1ebdca30b5d17f5b4b0ddefad46745db|overdue|2026-05-06": {
+      "scheduledAt": "2026-04-25T19:58:55.655Z",
+      "type": "overdue",
+      "task": "help design dashboard for ampd crm primary pipeline, complete by 4/22/26",
+      "assignee": "Eddie 'Rockstar' Monarrez",
+      "reminderDate": "2026-05-06"
+    },
+    "1ebdca30b5d17f5b4b0ddefad46745db|overdue|2026-05-07": {
+      "scheduledAt": "2026-04-25T19:58:56.355Z",
+      "type": "overdue",
+      "task": "help design dashboard for ampd crm primary pipeline, complete by 4/22/26",
+      "assignee": "Eddie 'Rockstar' Monarrez",
+      "reminderDate": "2026-05-07"
+    },
+    "1ebdca30b5d17f5b4b0ddefad46745db|overdue|2026-05-08": {
+      "scheduledAt": "2026-04-25T19:58:57.040Z",
+      "type": "overdue",
+      "task": "help design dashboard for ampd crm primary pipeline, complete by 4/22/26",
+      "assignee": "Eddie 'Rockstar' Monarrez",
+      "reminderDate": "2026-05-08"
+    },
+    "1ebdca30b5d17f5b4b0ddefad46745db|overdue|2026-05-09": {
+      "scheduledAt": "2026-04-25T19:58:57.726Z",
+      "type": "overdue",
+      "task": "help design dashboard for ampd crm primary pipeline, complete by 4/22/26",
+      "assignee": "Eddie 'Rockstar' Monarrez",
+      "reminderDate": "2026-05-09"
+    },
+    "1ebdca30b5d17f5b4b0ddefad46745db|overdue|2026-05-10": {
+      "scheduledAt": "2026-04-25T19:58:58.461Z",
+      "type": "overdue",
+      "task": "help design dashboard for ampd crm primary pipeline, complete by 4/22/26",
+      "assignee": "Eddie 'Rockstar' Monarrez",
+      "reminderDate": "2026-05-10"
+    },
+    "1ebdca30b5d17f5b4b0ddefad46745db|overdue|2026-05-11": {
+      "scheduledAt": "2026-04-25T19:58:59.153Z",
+      "type": "overdue",
+      "task": "help design dashboard for ampd crm primary pipeline, complete by 4/22/26",
+      "assignee": "Eddie 'Rockstar' Monarrez",
+      "reminderDate": "2026-05-11"
+    },
+    "1ebdca30b5d17f5b4b0ddefad46745db|overdue|2026-05-12": {
+      "scheduledAt": "2026-04-25T19:58:59.844Z",
+      "type": "overdue",
+      "task": "help design dashboard for ampd crm primary pipeline, complete by 4/22/26",
+      "assignee": "Eddie 'Rockstar' Monarrez",
+      "reminderDate": "2026-05-12"
+    },
+    "1ebdca30b5d17f5b4b0ddefad46745db|overdue|2026-05-13": {
+      "scheduledAt": "2026-04-25T19:59:00.544Z",
+      "type": "overdue",
+      "task": "help design dashboard for ampd crm primary pipeline, complete by 4/22/26",
+      "assignee": "Eddie 'Rockstar' Monarrez",
+      "reminderDate": "2026-05-13"
+    },
+    "1ebdca30b5d17f5b4b0ddefad46745db|overdue|2026-05-14": {
+      "scheduledAt": "2026-04-25T19:59:01.243Z",
+      "type": "overdue",
+      "task": "help design dashboard for ampd crm primary pipeline, complete by 4/22/26",
+      "assignee": "Eddie 'Rockstar' Monarrez",
+      "reminderDate": "2026-05-14"
+    },
+    "1ebdca30b5d17f5b4b0ddefad46745db|overdue|2026-05-15": {
+      "scheduledAt": "2026-04-25T19:59:01.964Z",
+      "type": "overdue",
+      "task": "help design dashboard for ampd crm primary pipeline, complete by 4/22/26",
+      "assignee": "Eddie 'Rockstar' Monarrez",
+      "reminderDate": "2026-05-15"
+    },
+    "1ebdca30b5d17f5b4b0ddefad46745db|overdue|2026-05-16": {
+      "scheduledAt": "2026-04-25T19:59:02.654Z",
+      "type": "overdue",
+      "task": "help design dashboard for ampd crm primary pipeline, complete by 4/22/26",
+      "assignee": "Eddie 'Rockstar' Monarrez",
+      "reminderDate": "2026-05-16"
+    },
+    "1ebdca30b5d17f5b4b0ddefad46745db|overdue|2026-05-17": {
+      "scheduledAt": "2026-04-25T19:59:03.342Z",
+      "type": "overdue",
+      "task": "help design dashboard for ampd crm primary pipeline, complete by 4/22/26",
+      "assignee": "Eddie 'Rockstar' Monarrez",
+      "reminderDate": "2026-05-17"
+    },
+    "1ebdca30b5d17f5b4b0ddefad46745db|overdue|2026-05-18": {
+      "scheduledAt": "2026-04-25T19:59:04.030Z",
+      "type": "overdue",
+      "task": "help design dashboard for ampd crm primary pipeline, complete by 4/22/26",
+      "assignee": "Eddie 'Rockstar' Monarrez",
+      "reminderDate": "2026-05-18"
+    },
+    "1ebdca30b5d17f5b4b0ddefad46745db|overdue|2026-05-19": {
+      "scheduledAt": "2026-04-25T19:59:04.736Z",
+      "type": "overdue",
+      "task": "help design dashboard for ampd crm primary pipeline, complete by 4/22/26",
+      "assignee": "Eddie 'Rockstar' Monarrez",
+      "reminderDate": "2026-05-19"
+    },
+    "1ebdca30b5d17f5b4b0ddefad46745db|overdue|2026-05-20": {
+      "scheduledAt": "2026-04-25T19:59:05.425Z",
+      "type": "overdue",
+      "task": "help design dashboard for ampd crm primary pipeline, complete by 4/22/26",
+      "assignee": "Eddie 'Rockstar' Monarrez",
+      "reminderDate": "2026-05-20"
+    },
+    "1ebdca30b5d17f5b4b0ddefad46745db|overdue|2026-05-21": {
+      "scheduledAt": "2026-04-25T19:59:06.152Z",
+      "type": "overdue",
+      "task": "help design dashboard for ampd crm primary pipeline, complete by 4/22/26",
+      "assignee": "Eddie 'Rockstar' Monarrez",
+      "reminderDate": "2026-05-21"
+    },
+    "1ebdca30b5d17f5b4b0ddefad46745db|overdue|2026-05-22": {
+      "scheduledAt": "2026-04-25T19:59:06.840Z",
+      "type": "overdue",
+      "task": "help design dashboard for ampd crm primary pipeline, complete by 4/22/26",
+      "assignee": "Eddie 'Rockstar' Monarrez",
+      "reminderDate": "2026-05-22"
     }
   },
   "scheduledMessageIds": {
@@ -16925,8 +17386,744 @@
         "channel": "C093VPK55NF",
         "messageId": "Q0AV61BNM9U"
       }
+    ],
+    "def71bc338f08fb302df799a6fdb52b4": [
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0AV7R8KKML"
+      },
+      {
+        "channel": "U07FVUF09T7",
+        "messageId": "Q0AVDF21GKW"
+      },
+      {
+        "channel": "C093VPK55NF",
+        "messageId": "Q0AV3FX8QRZ"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0AVDF1U4RJ"
+      },
+      {
+        "channel": "U07FVUF09T7",
+        "messageId": "Q0AV9T0L2E6"
+      },
+      {
+        "channel": "C093VPK55NF",
+        "messageId": "Q0AUUDFPRU7"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0AVDF2331S"
+      },
+      {
+        "channel": "U07FVUF09T7",
+        "messageId": "Q0AV6F24JE9"
+      },
+      {
+        "channel": "C093VPK55NF",
+        "messageId": "Q0AVDF1V43W"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B08Q5Q6F3"
+      },
+      {
+        "channel": "U07FVUF09T7",
+        "messageId": "Q0AV9T0709G"
+      },
+      {
+        "channel": "C093VPK55NF",
+        "messageId": "Q0AV7R825TQ"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0AV3FX69KM"
+      },
+      {
+        "channel": "U07FVUF09T7",
+        "messageId": "Q0AV7R8M92A"
+      },
+      {
+        "channel": "C093VPK55NF",
+        "messageId": "Q0AUUDGBFF1"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B08Q6CRA5"
+      },
+      {
+        "channel": "U07FVUF09T7",
+        "messageId": "Q0B0Q5N8KLY"
+      },
+      {
+        "channel": "C093VPK55NF",
+        "messageId": "Q0B08Q5FHPB"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0AVDF1NAE8"
+      },
+      {
+        "channel": "U07FVUF09T7",
+        "messageId": "Q0AUUDG4KQX"
+      },
+      {
+        "channel": "C093VPK55NF",
+        "messageId": "Q0AUUDG9D0X"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B08Q68HT3"
+      },
+      {
+        "channel": "U07FVUF09T7",
+        "messageId": "Q0B0Q5N3996"
+      },
+      {
+        "channel": "C093VPK55NF",
+        "messageId": "Q0AVDF1LUMA"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0AV6F21LN9"
+      },
+      {
+        "channel": "U07FVUF09T7",
+        "messageId": "Q0AVDF1RKRA"
+      },
+      {
+        "channel": "C093VPK55NF",
+        "messageId": "Q0AV6F1SC93"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0AVDF2QC3E"
+      },
+      {
+        "channel": "U07FVUF09T7",
+        "messageId": "Q0AV6F2NAKX"
+      },
+      {
+        "channel": "C093VPK55NF",
+        "messageId": "Q0AV6F1GSHK"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0AV9T1BM26"
+      },
+      {
+        "channel": "U07FVUF09T7",
+        "messageId": "Q0AV9T16Y6N"
+      },
+      {
+        "channel": "C093VPK55NF",
+        "messageId": "Q0B0Q5N6R40"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0AV9T0HXK4"
+      },
+      {
+        "channel": "U07FVUF09T7",
+        "messageId": "Q0AV6F24C85"
+      },
+      {
+        "channel": "C093VPK55NF",
+        "messageId": "Q0AV3FXCH7V"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0AVDF28ZHA"
+      },
+      {
+        "channel": "U07FVUF09T7",
+        "messageId": "Q0B08Q5AVGR"
+      },
+      {
+        "channel": "C093VPK55NF",
+        "messageId": "Q0AV9T0PLAE"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0AV6F1LH2R"
+      },
+      {
+        "channel": "U07FVUF09T7",
+        "messageId": "Q0AV6F1P46R"
+      },
+      {
+        "channel": "C093VPK55NF",
+        "messageId": "Q0AV7R8E5JA"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0AUUDG8TE3"
+      },
+      {
+        "channel": "U07FVUF09T7",
+        "messageId": "Q0B08Q684G1"
+      },
+      {
+        "channel": "C093VPK55NF",
+        "messageId": "Q0AV9T176KU"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0AV3FXKC2F"
+      },
+      {
+        "channel": "U07FVUF09T7",
+        "messageId": "Q0B0Q5NRGP2"
+      },
+      {
+        "channel": "C093VPK55NF",
+        "messageId": "Q0AV7R8HG9L"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0AV9T0A7SN"
+      },
+      {
+        "channel": "U07FVUF09T7",
+        "messageId": "Q0AV6F29605"
+      },
+      {
+        "channel": "C093VPK55NF",
+        "messageId": "Q0AVDETDH52"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B0Q5N718Q"
+      },
+      {
+        "channel": "U07FVUF09T7",
+        "messageId": "Q0AVDF2HL3W"
+      },
+      {
+        "channel": "C093VPK55NF",
+        "messageId": "Q0B08Q6BY5P"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0AVDF2DZ2Q"
+      },
+      {
+        "channel": "U07FVUF09T7",
+        "messageId": "Q0AV7R8PM54"
+      },
+      {
+        "channel": "C093VPK55NF",
+        "messageId": "Q0AV7R8LU86"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0AUUDGFAQ7"
+      },
+      {
+        "channel": "U07FVUF09T7",
+        "messageId": "Q0AV3FXCNCT"
+      },
+      {
+        "channel": "C093VPK55NF",
+        "messageId": "Q0B0Q5NCEE4"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0AV3FWUTU3"
+      },
+      {
+        "channel": "U07FVUF09T7",
+        "messageId": "Q0B0Q5N1DEC"
+      },
+      {
+        "channel": "C093VPK55NF",
+        "messageId": "Q0AV3FXPAAF"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0AV3FXDQ91"
+      },
+      {
+        "channel": "U07FVUF09T7",
+        "messageId": "Q0AV6F32S5T"
+      },
+      {
+        "channel": "C093VPK55NF",
+        "messageId": "Q0AUUDGLSGP"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B08Q6JPCZ"
+      },
+      {
+        "channel": "U07FVUF09T7",
+        "messageId": "Q0AUUDH0KV5"
+      },
+      {
+        "channel": "C093VPK55NF",
+        "messageId": "Q0B0Q5NMNTA"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0AVDF2T96G"
+      },
+      {
+        "channel": "U07FVUF09T7",
+        "messageId": "Q0AV7R86CEA"
+      },
+      {
+        "channel": "C093VPK55NF",
+        "messageId": "Q0AVDF1JJ3E"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0AV9T1HALS"
+      },
+      {
+        "channel": "U07FVUF09T7",
+        "messageId": "Q0AV7R97W6S"
+      },
+      {
+        "channel": "C093VPK55NF",
+        "messageId": "Q0B0Q5NGAF2"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0AVDF33ZS8"
+      },
+      {
+        "channel": "U07FVUF09T7",
+        "messageId": "Q0AV9T15ASE"
+      },
+      {
+        "channel": "C093VPK55NF",
+        "messageId": "Q0AV7R9AZDL"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0AV9T1BBFU"
+      },
+      {
+        "channel": "U07FVUF09T7",
+        "messageId": "Q0AV3FXFGKV"
+      },
+      {
+        "channel": "C093VPK55NF",
+        "messageId": "Q0AV7R94V62"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B08Q6NH4Z"
+      },
+      {
+        "channel": "U07FVUF09T7",
+        "messageId": "Q0AUUDH4MSB"
+      },
+      {
+        "channel": "C093VPK55NF",
+        "messageId": "Q0AV7R8MBD4"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0AUUDGUMHV"
+      },
+      {
+        "channel": "U07FVUF09T7",
+        "messageId": "Q0AUUDH743H"
+      },
+      {
+        "channel": "C093VPK55NF",
+        "messageId": "Q0AV6F2QBK7"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0AVDF30XT6"
+      },
+      {
+        "channel": "U07FVUF09T7",
+        "messageId": "Q0AVDF2L0QL"
+      },
+      {
+        "channel": "C093VPK55NF",
+        "messageId": "Q0AV6F31ZEZ"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0AV6F2ND7X"
+      },
+      {
+        "channel": "U07FVUF09T7",
+        "messageId": "Q0AV6F3521K"
+      },
+      {
+        "channel": "C093VPK55NF",
+        "messageId": "Q0B0Q5N9BH6"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0AVDF20X1A"
+      },
+      {
+        "channel": "U07FVUF09T7",
+        "messageId": "Q0AUUDG92GP"
+      },
+      {
+        "channel": "C093VPK55NF",
+        "messageId": "Q0AV6F21PGD"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B08Q61A4R"
+      },
+      {
+        "channel": "U07FVUF09T7",
+        "messageId": "Q0B0Q5NACBS"
+      },
+      {
+        "channel": "C093VPK55NF",
+        "messageId": "Q0AV9T2CHD0"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0AUUDGL79D"
+      },
+      {
+        "channel": "U07FVUF09T7",
+        "messageId": "Q0AV7R95AB0"
+      },
+      {
+        "channel": "C093VPK55NF",
+        "messageId": "Q0AUUDHBK8F"
+      }
+    ],
+    "1ebdca30b5d17f5b4b0ddefad46745db": [
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B0Q5P1K16"
+      },
+      {
+        "channel": "U02LFUG2WLR",
+        "messageId": "Q0B0Q5NN2L8"
+      },
+      {
+        "channel": "C05HPPDCSS1",
+        "messageId": "Q0B0Q5NJLGY"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0AUUDGLGJK"
+      },
+      {
+        "channel": "U02LFUG2WLR",
+        "messageId": "Q0B08Q6MFA5"
+      },
+      {
+        "channel": "C05HPPDCSS1",
+        "messageId": "Q0AUUDG79B9"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B0Q5PF3CG"
+      },
+      {
+        "channel": "U02LFUG2WLR",
+        "messageId": "Q0AV3FY2DEF"
+      },
+      {
+        "channel": "C05HPPDCSS1",
+        "messageId": "Q0B08Q6ERU1"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B0Q5NLFS4"
+      },
+      {
+        "channel": "U02LFUG2WLR",
+        "messageId": "Q0AV3FXCCP5"
+      },
+      {
+        "channel": "C05HPPDCSS1",
+        "messageId": "Q0AV3FY02E7"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B08Q799MX"
+      },
+      {
+        "channel": "U02LFUG2WLR",
+        "messageId": "Q0AV3FY1YRH"
+      },
+      {
+        "channel": "C05HPPDCSS1",
+        "messageId": "Q0AV6F2CYJH"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0AVDF30U2G"
+      },
+      {
+        "channel": "U02LFUG2WLR",
+        "messageId": "Q0AV7R91AUE"
+      },
+      {
+        "channel": "C05HPPDCSS1",
+        "messageId": "Q0AV9T2668J"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0AVDF35Z1A"
+      },
+      {
+        "channel": "U02LFUG2WLR",
+        "messageId": "Q0AV6F2P6HK"
+      },
+      {
+        "channel": "C05HPPDCSS1",
+        "messageId": "Q0AUUD6HK6K"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0AV7R90ANS"
+      },
+      {
+        "channel": "U02LFUG2WLR",
+        "messageId": "Q0AV6F3E0DB"
+      },
+      {
+        "channel": "C05HPPDCSS1",
+        "messageId": "Q0B0Q5N83J4"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0AUUDFUVKR"
+      },
+      {
+        "channel": "U02LFUG2WLR",
+        "messageId": "Q0AV9T1MN90"
+      },
+      {
+        "channel": "C05HPPDCSS1",
+        "messageId": "Q0B08Q6PKQ9"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0AV3FYBL4T"
+      },
+      {
+        "channel": "U02LFUG2WLR",
+        "messageId": "Q0AV7R9GCNA"
+      },
+      {
+        "channel": "C05HPPDCSS1",
+        "messageId": "Q0AV6F2USTF"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0AV6F2VAA1"
+      },
+      {
+        "channel": "U02LFUG2WLR",
+        "messageId": "Q0AV7R8UH46"
+      },
+      {
+        "channel": "C05HPPDCSS1",
+        "messageId": "Q0B0Q5NSZTJ"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0AVDF3K7NY"
+      },
+      {
+        "channel": "U02LFUG2WLR",
+        "messageId": "Q0AV3FY7CGK"
+      },
+      {
+        "channel": "C05HPPDCSS1",
+        "messageId": "Q0AUUDH4WTZ"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0AV9T2057C"
+      },
+      {
+        "channel": "U02LFUG2WLR",
+        "messageId": "Q0AUUDGTLP9"
+      },
+      {
+        "channel": "C05HPPDCSS1",
+        "messageId": "Q0B0Q5NSASU"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0AVDF2VD36"
+      },
+      {
+        "channel": "U02LFUG2WLR",
+        "messageId": "Q0AV9T1KBMY"
+      },
+      {
+        "channel": "C05HPPDCSS1",
+        "messageId": "Q0AV7R9KL9L"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0AUUDH7415"
+      },
+      {
+        "channel": "U02LFUG2WLR",
+        "messageId": "Q0AV6F2NPEZ"
+      },
+      {
+        "channel": "C05HPPDCSS1",
+        "messageId": "Q0AV7R9A6DC"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0AV9T1FWM8"
+      },
+      {
+        "channel": "U02LFUG2WLR",
+        "messageId": "Q0AV3FY6VJP"
+      },
+      {
+        "channel": "C05HPPDCSS1",
+        "messageId": "Q0AVDF32B36"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B08PZ8X09"
+      },
+      {
+        "channel": "U02LFUG2WLR",
+        "messageId": "Q0AV9T1NJ4S"
+      },
+      {
+        "channel": "C05HPPDCSS1",
+        "messageId": "Q0AV9T25LN6"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B0Q5PD9KJ"
+      },
+      {
+        "channel": "U02LFUG2WLR",
+        "messageId": "Q0AV7R9NJQN"
+      },
+      {
+        "channel": "C05HPPDCSS1",
+        "messageId": "Q0AUUDH1UNT"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0AV7R9F9TQ"
+      },
+      {
+        "channel": "U02LFUG2WLR",
+        "messageId": "Q0AV6F3965T"
+      },
+      {
+        "channel": "C05HPPDCSS1",
+        "messageId": "Q0AVDF39P8C"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B0Q5NLAF2"
+      },
+      {
+        "channel": "U02LFUG2WLR",
+        "messageId": "Q0AV3FY8XFD"
+      },
+      {
+        "channel": "C05HPPDCSS1",
+        "messageId": "Q0AV3FYPGHZ"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B0Q5PLJ4Q"
+      },
+      {
+        "channel": "U02LFUG2WLR",
+        "messageId": "Q0AUUDH5NJ3"
+      },
+      {
+        "channel": "C05HPPDCSS1",
+        "messageId": "Q0B0Q5PCGCQ"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0AV6F2DU5T"
+      },
+      {
+        "channel": "U02LFUG2WLR",
+        "messageId": "Q0AV7R9LY06"
+      },
+      {
+        "channel": "C05HPPDCSS1",
+        "messageId": "Q0B08Q66WLR"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0AVDF3PADA"
+      },
+      {
+        "channel": "U02LFUG2WLR",
+        "messageId": "Q0B08Q6CFU1"
+      },
+      {
+        "channel": "C05HPPDCSS1",
+        "messageId": "Q0AUUD8UVAT"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B08Q70LN5"
+      },
+      {
+        "channel": "U02LFUG2WLR",
+        "messageId": "Q0AV3FYLP35"
+      },
+      {
+        "channel": "C05HPPDCSS1",
+        "messageId": "Q0B0Q5PGSQG"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0AVDF38W4U"
+      },
+      {
+        "channel": "U02LFUG2WLR",
+        "messageId": "Q0B0Q5NSGD6"
+      },
+      {
+        "channel": "C05HPPDCSS1",
+        "messageId": "Q0AV6F37R53"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0AV3FYEW9H"
+      },
+      {
+        "channel": "U02LFUG2WLR",
+        "messageId": "Q0AV9T207B4"
+      },
+      {
+        "channel": "C05HPPDCSS1",
+        "messageId": "Q0AVDF3AE9J"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0AV3FYDYHZ"
+      },
+      {
+        "channel": "U02LFUG2WLR",
+        "messageId": "Q0AVDF48W9J"
+      },
+      {
+        "channel": "C05HPPDCSS1",
+        "messageId": "Q0AVDF3C4JG"
+      }
     ]
   },
   "lastWeeklySummaryDate": "2026-W17",
-  "lastRun": "2026-04-25T18:01:49.313Z"
+  "lastRun": "2026-04-25T19:59:06.841Z"
 }
