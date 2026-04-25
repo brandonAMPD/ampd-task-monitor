@@ -976,8 +976,8 @@
       "source_message": "@Meg 'The Sage' Scheffler try to create a way to project and measure revenue from CRM subscriptio",
       "assigneeId": "U05FE9QNFSQ",
       "messageTs": "1777043747.633959",
-      "completed": false,
-      "completedAt": null,
+      "completed": true,
+      "completedAt": "2026-04-25T06:00:56.215Z",
       "firstSeenAt": "2026-04-24T18:02:26.903Z"
     },
     "5b065dac7a280daceac087f3f7a39366": {
@@ -1074,8 +1074,8 @@
       "source_message": "@Meg 'The Sage' Scheffler try to create a way to project and measure revenue from CRM subscripti",
       "assigneeId": "U05FE9QNFSQ",
       "messageTs": "1777043747.633959",
-      "completed": false,
-      "completedAt": null,
+      "completed": true,
+      "completedAt": "2026-04-25T06:01:23.060Z",
       "firstSeenAt": "2026-04-24T20:11:09.816Z"
     },
     "9f084c983c2593d4659809600912fe2f": {
@@ -1119,6 +1119,34 @@
       "completed": false,
       "completedAt": null,
       "firstSeenAt": "2026-04-24T20:11:10.017Z"
+    },
+    "5f5397c6d40aba6fe7668fd1c4a7b258": {
+      "task": "review the potential issue for end of workflows tied to ampd stages mentioned in this link",
+      "assignee_name": "Josh 'The Ninja' Morales",
+      "assignee_slack_mention": "@Josh 'The Ninja' Morales",
+      "assigned_date": "2026-04-24",
+      "due_date": "2026-04-28",
+      "message_ts": "1777064038.662689",
+      "source_message": "@Josh 'The Ninja' Morales please review the potential issue for end of workflows tied to ampd s",
+      "assigneeId": "U07FVUF09T7",
+      "messageTs": "1777064038.662689",
+      "completed": false,
+      "completedAt": null,
+      "firstSeenAt": "2026-04-25T06:02:41.343Z"
+    },
+    "59fe486259ea157ec5a564e98606f7a7": {
+      "task": "try to create a way to project and measure revenue from CRM subscriptions and include that in bi-weekly revenue reporting tasks if possible",
+      "assignee_name": "Meg 'The Sage' Scheffler",
+      "assignee_slack_mention": "@Meg 'The Sage' Scheffler",
+      "assigned_date": "2026-04-24",
+      "due_date": "2026-05-02",
+      "message_ts": "1777043747.633959",
+      "source_message": "@Meg 'The Sage' Scheffler try to create a way to project and measure revenue from CRM subscri",
+      "assigneeId": "U05FE9QNFSQ",
+      "messageTs": "1777043747.633959",
+      "completed": true,
+      "completedAt": "2026-04-25T06:02:41.414Z",
+      "firstSeenAt": "2026-04-25T06:02:41.414Z"
     }
   },
   "scheduled": {
@@ -10620,6 +10648,237 @@
       "task": "create way to project and measure revenue from CRM subscriptions",
       "assignee": "Meg 'The Sage' Scheffler",
       "reminderDate": "2026-06-01"
+    },
+    "5f5397c6d40aba6fe7668fd1c4a7b258|midpoint|2026-04-26": {
+      "scheduledAt": "2026-04-25T06:02:42.137Z",
+      "type": "midpoint",
+      "task": "review the potential issue for end of workflows tied to ampd stages mentioned in this link",
+      "assignee": "Josh 'The Ninja' Morales",
+      "reminderDate": "2026-04-26"
+    },
+    "5f5397c6d40aba6fe7668fd1c4a7b258|nag|2026-04-27": {
+      "scheduledAt": "2026-04-25T06:02:42.887Z",
+      "type": "nag",
+      "task": "review the potential issue for end of workflows tied to ampd stages mentioned in this link",
+      "assignee": "Josh 'The Ninja' Morales",
+      "reminderDate": "2026-04-27"
+    },
+    "5f5397c6d40aba6fe7668fd1c4a7b258|due|2026-04-28": {
+      "scheduledAt": "2026-04-25T06:02:43.620Z",
+      "type": "due",
+      "task": "review the potential issue for end of workflows tied to ampd stages mentioned in this link",
+      "assignee": "Josh 'The Ninja' Morales",
+      "reminderDate": "2026-04-28"
+    },
+    "5f5397c6d40aba6fe7668fd1c4a7b258|overdue|2026-04-29": {
+      "scheduledAt": "2026-04-25T06:02:44.335Z",
+      "type": "overdue",
+      "task": "review the potential issue for end of workflows tied to ampd stages mentioned in this link",
+      "assignee": "Josh 'The Ninja' Morales",
+      "reminderDate": "2026-04-29"
+    },
+    "5f5397c6d40aba6fe7668fd1c4a7b258|overdue|2026-04-30": {
+      "scheduledAt": "2026-04-25T06:02:45.061Z",
+      "type": "overdue",
+      "task": "review the potential issue for end of workflows tied to ampd stages mentioned in this link",
+      "assignee": "Josh 'The Ninja' Morales",
+      "reminderDate": "2026-04-30"
+    },
+    "5f5397c6d40aba6fe7668fd1c4a7b258|overdue|2026-05-01": {
+      "scheduledAt": "2026-04-25T06:02:45.813Z",
+      "type": "overdue",
+      "task": "review the potential issue for end of workflows tied to ampd stages mentioned in this link",
+      "assignee": "Josh 'The Ninja' Morales",
+      "reminderDate": "2026-05-01"
+    },
+    "5f5397c6d40aba6fe7668fd1c4a7b258|overdue|2026-05-02": {
+      "scheduledAt": "2026-04-25T06:02:46.523Z",
+      "type": "overdue",
+      "task": "review the potential issue for end of workflows tied to ampd stages mentioned in this link",
+      "assignee": "Josh 'The Ninja' Morales",
+      "reminderDate": "2026-05-02"
+    },
+    "5f5397c6d40aba6fe7668fd1c4a7b258|overdue|2026-05-03": {
+      "scheduledAt": "2026-04-25T06:02:47.230Z",
+      "type": "overdue",
+      "task": "review the potential issue for end of workflows tied to ampd stages mentioned in this link",
+      "assignee": "Josh 'The Ninja' Morales",
+      "reminderDate": "2026-05-03"
+    },
+    "5f5397c6d40aba6fe7668fd1c4a7b258|overdue|2026-05-04": {
+      "scheduledAt": "2026-04-25T06:02:47.954Z",
+      "type": "overdue",
+      "task": "review the potential issue for end of workflows tied to ampd stages mentioned in this link",
+      "assignee": "Josh 'The Ninja' Morales",
+      "reminderDate": "2026-05-04"
+    },
+    "5f5397c6d40aba6fe7668fd1c4a7b258|overdue|2026-05-05": {
+      "scheduledAt": "2026-04-25T06:02:48.687Z",
+      "type": "overdue",
+      "task": "review the potential issue for end of workflows tied to ampd stages mentioned in this link",
+      "assignee": "Josh 'The Ninja' Morales",
+      "reminderDate": "2026-05-05"
+    },
+    "5f5397c6d40aba6fe7668fd1c4a7b258|overdue|2026-05-06": {
+      "scheduledAt": "2026-04-25T06:02:49.397Z",
+      "type": "overdue",
+      "task": "review the potential issue for end of workflows tied to ampd stages mentioned in this link",
+      "assignee": "Josh 'The Ninja' Morales",
+      "reminderDate": "2026-05-06"
+    },
+    "5f5397c6d40aba6fe7668fd1c4a7b258|overdue|2026-05-07": {
+      "scheduledAt": "2026-04-25T06:02:50.101Z",
+      "type": "overdue",
+      "task": "review the potential issue for end of workflows tied to ampd stages mentioned in this link",
+      "assignee": "Josh 'The Ninja' Morales",
+      "reminderDate": "2026-05-07"
+    },
+    "5f5397c6d40aba6fe7668fd1c4a7b258|overdue|2026-05-08": {
+      "scheduledAt": "2026-04-25T06:02:50.812Z",
+      "type": "overdue",
+      "task": "review the potential issue for end of workflows tied to ampd stages mentioned in this link",
+      "assignee": "Josh 'The Ninja' Morales",
+      "reminderDate": "2026-05-08"
+    },
+    "5f5397c6d40aba6fe7668fd1c4a7b258|overdue|2026-05-09": {
+      "scheduledAt": "2026-04-25T06:02:51.509Z",
+      "type": "overdue",
+      "task": "review the potential issue for end of workflows tied to ampd stages mentioned in this link",
+      "assignee": "Josh 'The Ninja' Morales",
+      "reminderDate": "2026-05-09"
+    },
+    "5f5397c6d40aba6fe7668fd1c4a7b258|overdue|2026-05-10": {
+      "scheduledAt": "2026-04-25T06:02:52.235Z",
+      "type": "overdue",
+      "task": "review the potential issue for end of workflows tied to ampd stages mentioned in this link",
+      "assignee": "Josh 'The Ninja' Morales",
+      "reminderDate": "2026-05-10"
+    },
+    "5f5397c6d40aba6fe7668fd1c4a7b258|overdue|2026-05-11": {
+      "scheduledAt": "2026-04-25T06:02:52.937Z",
+      "type": "overdue",
+      "task": "review the potential issue for end of workflows tied to ampd stages mentioned in this link",
+      "assignee": "Josh 'The Ninja' Morales",
+      "reminderDate": "2026-05-11"
+    },
+    "5f5397c6d40aba6fe7668fd1c4a7b258|overdue|2026-05-12": {
+      "scheduledAt": "2026-04-25T06:02:53.650Z",
+      "type": "overdue",
+      "task": "review the potential issue for end of workflows tied to ampd stages mentioned in this link",
+      "assignee": "Josh 'The Ninja' Morales",
+      "reminderDate": "2026-05-12"
+    },
+    "5f5397c6d40aba6fe7668fd1c4a7b258|overdue|2026-05-13": {
+      "scheduledAt": "2026-04-25T06:02:54.379Z",
+      "type": "overdue",
+      "task": "review the potential issue for end of workflows tied to ampd stages mentioned in this link",
+      "assignee": "Josh 'The Ninja' Morales",
+      "reminderDate": "2026-05-13"
+    },
+    "5f5397c6d40aba6fe7668fd1c4a7b258|overdue|2026-05-14": {
+      "scheduledAt": "2026-04-25T06:02:55.308Z",
+      "type": "overdue",
+      "task": "review the potential issue for end of workflows tied to ampd stages mentioned in this link",
+      "assignee": "Josh 'The Ninja' Morales",
+      "reminderDate": "2026-05-14"
+    },
+    "5f5397c6d40aba6fe7668fd1c4a7b258|overdue|2026-05-15": {
+      "scheduledAt": "2026-04-25T06:02:56.068Z",
+      "type": "overdue",
+      "task": "review the potential issue for end of workflows tied to ampd stages mentioned in this link",
+      "assignee": "Josh 'The Ninja' Morales",
+      "reminderDate": "2026-05-15"
+    },
+    "5f5397c6d40aba6fe7668fd1c4a7b258|overdue|2026-05-16": {
+      "scheduledAt": "2026-04-25T06:02:56.806Z",
+      "type": "overdue",
+      "task": "review the potential issue for end of workflows tied to ampd stages mentioned in this link",
+      "assignee": "Josh 'The Ninja' Morales",
+      "reminderDate": "2026-05-16"
+    },
+    "5f5397c6d40aba6fe7668fd1c4a7b258|overdue|2026-05-17": {
+      "scheduledAt": "2026-04-25T06:02:57.517Z",
+      "type": "overdue",
+      "task": "review the potential issue for end of workflows tied to ampd stages mentioned in this link",
+      "assignee": "Josh 'The Ninja' Morales",
+      "reminderDate": "2026-05-17"
+    },
+    "5f5397c6d40aba6fe7668fd1c4a7b258|overdue|2026-05-18": {
+      "scheduledAt": "2026-04-25T06:02:58.235Z",
+      "type": "overdue",
+      "task": "review the potential issue for end of workflows tied to ampd stages mentioned in this link",
+      "assignee": "Josh 'The Ninja' Morales",
+      "reminderDate": "2026-05-18"
+    },
+    "5f5397c6d40aba6fe7668fd1c4a7b258|overdue|2026-05-19": {
+      "scheduledAt": "2026-04-25T06:02:58.962Z",
+      "type": "overdue",
+      "task": "review the potential issue for end of workflows tied to ampd stages mentioned in this link",
+      "assignee": "Josh 'The Ninja' Morales",
+      "reminderDate": "2026-05-19"
+    },
+    "5f5397c6d40aba6fe7668fd1c4a7b258|overdue|2026-05-20": {
+      "scheduledAt": "2026-04-25T06:02:59.677Z",
+      "type": "overdue",
+      "task": "review the potential issue for end of workflows tied to ampd stages mentioned in this link",
+      "assignee": "Josh 'The Ninja' Morales",
+      "reminderDate": "2026-05-20"
+    },
+    "5f5397c6d40aba6fe7668fd1c4a7b258|overdue|2026-05-21": {
+      "scheduledAt": "2026-04-25T06:03:00.388Z",
+      "type": "overdue",
+      "task": "review the potential issue for end of workflows tied to ampd stages mentioned in this link",
+      "assignee": "Josh 'The Ninja' Morales",
+      "reminderDate": "2026-05-21"
+    },
+    "5f5397c6d40aba6fe7668fd1c4a7b258|overdue|2026-05-22": {
+      "scheduledAt": "2026-04-25T06:03:01.096Z",
+      "type": "overdue",
+      "task": "review the potential issue for end of workflows tied to ampd stages mentioned in this link",
+      "assignee": "Josh 'The Ninja' Morales",
+      "reminderDate": "2026-05-22"
+    },
+    "5f5397c6d40aba6fe7668fd1c4a7b258|overdue|2026-05-23": {
+      "scheduledAt": "2026-04-25T06:03:01.802Z",
+      "type": "overdue",
+      "task": "review the potential issue for end of workflows tied to ampd stages mentioned in this link",
+      "assignee": "Josh 'The Ninja' Morales",
+      "reminderDate": "2026-05-23"
+    },
+    "5f5397c6d40aba6fe7668fd1c4a7b258|overdue|2026-05-24": {
+      "scheduledAt": "2026-04-25T06:03:02.534Z",
+      "type": "overdue",
+      "task": "review the potential issue for end of workflows tied to ampd stages mentioned in this link",
+      "assignee": "Josh 'The Ninja' Morales",
+      "reminderDate": "2026-05-24"
+    },
+    "5f5397c6d40aba6fe7668fd1c4a7b258|overdue|2026-05-25": {
+      "scheduledAt": "2026-04-25T06:03:03.264Z",
+      "type": "overdue",
+      "task": "review the potential issue for end of workflows tied to ampd stages mentioned in this link",
+      "assignee": "Josh 'The Ninja' Morales",
+      "reminderDate": "2026-05-25"
+    },
+    "5f5397c6d40aba6fe7668fd1c4a7b258|overdue|2026-05-26": {
+      "scheduledAt": "2026-04-25T06:03:03.996Z",
+      "type": "overdue",
+      "task": "review the potential issue for end of workflows tied to ampd stages mentioned in this link",
+      "assignee": "Josh 'The Ninja' Morales",
+      "reminderDate": "2026-05-26"
+    },
+    "5f5397c6d40aba6fe7668fd1c4a7b258|overdue|2026-05-27": {
+      "scheduledAt": "2026-04-25T06:03:04.698Z",
+      "type": "overdue",
+      "task": "review the potential issue for end of workflows tied to ampd stages mentioned in this link",
+      "assignee": "Josh 'The Ninja' Morales",
+      "reminderDate": "2026-05-27"
+    },
+    "5f5397c6d40aba6fe7668fd1c4a7b258|overdue|2026-05-28": {
+      "scheduledAt": "2026-04-25T06:03:05.424Z",
+      "type": "overdue",
+      "task": "review the potential issue for end of workflows tied to ampd stages mentioned in this link",
+      "assignee": "Josh 'The Ninja' Morales",
+      "reminderDate": "2026-05-28"
     }
   },
   "scheduledMessageIds": {
@@ -15175,416 +15434,6 @@
         "messageId": "Q0AUVSRQQ5R"
       }
     ],
-    "6a5fd53e23cf3cac40398409224cd2d6": [
-      {
-        "channel": "UMS39RAGP",
-        "messageId": "Q0AUZ1ADVT5"
-      },
-      {
-        "channel": "U05FE9QNFSQ",
-        "messageId": "Q0AV3AM750E"
-      },
-      {
-        "channel": "C05HL1VGA22",
-        "messageId": "Q0AUZ1A0VUK"
-      },
-      {
-        "channel": "UMS39RAGP",
-        "messageId": "Q0AV5CE1XPU"
-      },
-      {
-        "channel": "U05FE9QNFSQ",
-        "messageId": "Q0AV90ESKCL"
-      },
-      {
-        "channel": "C05HL1VGA22",
-        "messageId": "Q0B049K8H2M"
-      },
-      {
-        "channel": "UMS39RAGP",
-        "messageId": "Q0AUPU9DRB9"
-      },
-      {
-        "channel": "U05FE9QNFSQ",
-        "messageId": "Q0AUZ1A6L03"
-      },
-      {
-        "channel": "C05HL1VGA22",
-        "messageId": "Q0B049KGQF3"
-      },
-      {
-        "channel": "UMS39RAGP",
-        "messageId": "Q0B049KHL5P"
-      },
-      {
-        "channel": "U05FE9QNFSQ",
-        "messageId": "Q0AUZ1ANYLT"
-      },
-      {
-        "channel": "C05HL1VGA22",
-        "messageId": "Q0AV5CDJM18"
-      },
-      {
-        "channel": "UMS39RAGP",
-        "messageId": "Q0B0KLGLNKS"
-      },
-      {
-        "channel": "U05FE9QNFSQ",
-        "messageId": "Q0AV3AMHTK8"
-      },
-      {
-        "channel": "C05HL1VGA22",
-        "messageId": "Q0AUPU9MU4F"
-      },
-      {
-        "channel": "UMS39RAGP",
-        "messageId": "Q0AV20FD80M"
-      },
-      {
-        "channel": "U05FE9QNFSQ",
-        "messageId": "Q0AV90FRB7W"
-      },
-      {
-        "channel": "C05HL1VGA22",
-        "messageId": "Q0AUPUANJB1"
-      },
-      {
-        "channel": "UMS39RAGP",
-        "messageId": "Q0B0KLG4ENL"
-      },
-      {
-        "channel": "U05FE9QNFSQ",
-        "messageId": "Q0AV90G3PU4"
-      },
-      {
-        "channel": "C05HL1VGA22",
-        "messageId": "Q0AV3ANPLH4"
-      },
-      {
-        "channel": "UMS39RAGP",
-        "messageId": "Q0AUPUA6GQP"
-      },
-      {
-        "channel": "U05FE9QNFSQ",
-        "messageId": "Q0AUZ1AUV1R"
-      },
-      {
-        "channel": "C05HL1VGA22",
-        "messageId": "Q0AV20G85HT"
-      },
-      {
-        "channel": "UMS39RAGP",
-        "messageId": "Q0B049L0RC1"
-      },
-      {
-        "channel": "U05FE9QNFSQ",
-        "messageId": "Q0AV20G2C3X"
-      },
-      {
-        "channel": "C05HL1VGA22",
-        "messageId": "Q0AUZ1AHK2P"
-      },
-      {
-        "channel": "UMS39RAGP",
-        "messageId": "Q0B049KG32M"
-      },
-      {
-        "channel": "U05FE9QNFSQ",
-        "messageId": "Q0AV5CEDF6E"
-      },
-      {
-        "channel": "C05HL1VGA22",
-        "messageId": "Q0AV20G0RE1"
-      },
-      {
-        "channel": "UMS39RAGP",
-        "messageId": "Q0AV90G1VHA"
-      },
-      {
-        "channel": "U05FE9QNFSQ",
-        "messageId": "Q0AUZ1BGJ83"
-      },
-      {
-        "channel": "C05HL1VGA22",
-        "messageId": "Q0AV3ANCBGE"
-      },
-      {
-        "channel": "UMS39RAGP",
-        "messageId": "Q0AV90H26J0"
-      },
-      {
-        "channel": "U05FE9QNFSQ",
-        "messageId": "Q0AV5CERENN"
-      },
-      {
-        "channel": "C05HL1VGA22",
-        "messageId": "Q0AV5CF76R0"
-      },
-      {
-        "channel": "UMS39RAGP",
-        "messageId": "Q0AUZ1C4M8B"
-      },
-      {
-        "channel": "U05FE9QNFSQ",
-        "messageId": "Q0B049L2YP3"
-      },
-      {
-        "channel": "C05HL1VGA22",
-        "messageId": "Q0AUZ1BE0BD"
-      },
-      {
-        "channel": "UMS39RAGP",
-        "messageId": "Q0AV20H3LUD"
-      },
-      {
-        "channel": "U05FE9QNFSQ",
-        "messageId": "Q0AUZ1BT09H"
-      },
-      {
-        "channel": "C05HL1VGA22",
-        "messageId": "Q0AV20GBQ21"
-      },
-      {
-        "channel": "UMS39RAGP",
-        "messageId": "Q0AV5CG86LS"
-      },
-      {
-        "channel": "U05FE9QNFSQ",
-        "messageId": "Q0AV3AP6BTQ"
-      },
-      {
-        "channel": "C05HL1VGA22",
-        "messageId": "Q0AV3ANLF3Q"
-      },
-      {
-        "channel": "UMS39RAGP",
-        "messageId": "Q0AUZ1CHHDZ"
-      },
-      {
-        "channel": "U05FE9QNFSQ",
-        "messageId": "Q0AUPUANXNK"
-      },
-      {
-        "channel": "C05HL1VGA22",
-        "messageId": "Q0AV20H8HQV"
-      },
-      {
-        "channel": "UMS39RAGP",
-        "messageId": "Q0AV90F7V44"
-      },
-      {
-        "channel": "U05FE9QNFSQ",
-        "messageId": "Q0AUZ1BNNN7"
-      },
-      {
-        "channel": "C05HL1VGA22",
-        "messageId": "Q0AUZ1CBETV"
-      },
-      {
-        "channel": "UMS39RAGP",
-        "messageId": "Q0AUZ1BRM2P"
-      },
-      {
-        "channel": "U05FE9QNFSQ",
-        "messageId": "Q0AV3APPNQN"
-      },
-      {
-        "channel": "C05HL1VGA22",
-        "messageId": "Q0AV90H0XEY"
-      },
-      {
-        "channel": "UMS39RAGP",
-        "messageId": "Q0AV3AP0Q3G"
-      },
-      {
-        "channel": "U05FE9QNFSQ",
-        "messageId": "Q0AV5CFDVEW"
-      },
-      {
-        "channel": "C05HL1VGA22",
-        "messageId": "Q0B049LRKJM"
-      },
-      {
-        "channel": "UMS39RAGP",
-        "messageId": "Q0AUZ1CP1B5"
-      },
-      {
-        "channel": "U05FE9QNFSQ",
-        "messageId": "Q0AV3AQ3XHU"
-      },
-      {
-        "channel": "C05HL1VGA22",
-        "messageId": "Q0AV5CG7ASE"
-      },
-      {
-        "channel": "UMS39RAGP",
-        "messageId": "Q0AV20J9GS1"
-      },
-      {
-        "channel": "U05FE9QNFSQ",
-        "messageId": "Q0AV90HH812"
-      },
-      {
-        "channel": "C05HL1VGA22",
-        "messageId": "Q0AUPUBV2F9"
-      },
-      {
-        "channel": "UMS39RAGP",
-        "messageId": "Q0AV5CGJJHG"
-      },
-      {
-        "channel": "U05FE9QNFSQ",
-        "messageId": "Q0AV20GNF7X"
-      },
-      {
-        "channel": "C05HL1VGA22",
-        "messageId": "Q0B0KLJ27LG"
-      },
-      {
-        "channel": "UMS39RAGP",
-        "messageId": "Q0AV5CGSWTC"
-      },
-      {
-        "channel": "U05FE9QNFSQ",
-        "messageId": "Q0AUZ1D6A1Z"
-      },
-      {
-        "channel": "C05HL1VGA22",
-        "messageId": "Q0B0KLHJHT2"
-      },
-      {
-        "channel": "UMS39RAGP",
-        "messageId": "Q0B0KLJ07DW"
-      },
-      {
-        "channel": "U05FE9QNFSQ",
-        "messageId": "Q0B049MT9FT"
-      },
-      {
-        "channel": "C05HL1VGA22",
-        "messageId": "Q0AV20HJ10D"
-      },
-      {
-        "channel": "UMS39RAGP",
-        "messageId": "Q0AV3APFCS2"
-      },
-      {
-        "channel": "U05FE9QNFSQ",
-        "messageId": "Q0AUPUCFT1V"
-      },
-      {
-        "channel": "C05HL1VGA22",
-        "messageId": "Q0B049N1S9X"
-      },
-      {
-        "channel": "UMS39RAGP",
-        "messageId": "Q0AV90HS2P6"
-      },
-      {
-        "channel": "U05FE9QNFSQ",
-        "messageId": "Q0AV20J6C8M"
-      },
-      {
-        "channel": "C05HL1VGA22",
-        "messageId": "Q0AUPUC58R5"
-      },
-      {
-        "channel": "UMS39RAGP",
-        "messageId": "Q0AUZ1DBXKM"
-      },
-      {
-        "channel": "U05FE9QNFSQ",
-        "messageId": "Q0AUZ1DSQ3D"
-      },
-      {
-        "channel": "C05HL1VGA22",
-        "messageId": "Q0B049NA8QH"
-      },
-      {
-        "channel": "UMS39RAGP",
-        "messageId": "Q0B049NKWE5"
-      },
-      {
-        "channel": "U05FE9QNFSQ",
-        "messageId": "Q0AV3AQTBJS"
-      },
-      {
-        "channel": "C05HL1VGA22",
-        "messageId": "Q0B049N6CBB"
-      },
-      {
-        "channel": "UMS39RAGP",
-        "messageId": "Q0AV3AQ8ZC6"
-      },
-      {
-        "channel": "U05FE9QNFSQ",
-        "messageId": "Q0B0KLJTSGY"
-      },
-      {
-        "channel": "C05HL1VGA22",
-        "messageId": "Q0AV90JE8J0"
-      },
-      {
-        "channel": "UMS39RAGP",
-        "messageId": "Q0B049N0P0R"
-      },
-      {
-        "channel": "U05FE9QNFSQ",
-        "messageId": "Q0AUZ1DSP5Z"
-      },
-      {
-        "channel": "C05HL1VGA22",
-        "messageId": "Q0AV5CGN5NW"
-      },
-      {
-        "channel": "UMS39RAGP",
-        "messageId": "Q0AUPUCJZ71"
-      },
-      {
-        "channel": "U05FE9QNFSQ",
-        "messageId": "Q0AV20JAM7X"
-      },
-      {
-        "channel": "C05HL1VGA22",
-        "messageId": "Q0AV5CJF77U"
-      },
-      {
-        "channel": "UMS39RAGP",
-        "messageId": "Q0AUZ1E0F6F"
-      },
-      {
-        "channel": "U05FE9QNFSQ",
-        "messageId": "Q0AV90K2YCC"
-      },
-      {
-        "channel": "C05HL1VGA22",
-        "messageId": "Q0AV3ARN2TG"
-      },
-      {
-        "channel": "UMS39RAGP",
-        "messageId": "Q0AUZ1DN8CT"
-      },
-      {
-        "channel": "U05FE9QNFSQ",
-        "messageId": "Q0AV20JN1V3"
-      },
-      {
-        "channel": "C05HL1VGA22",
-        "messageId": "Q0AV20JM813"
-      },
-      {
-        "channel": "UMS39RAGP",
-        "messageId": "Q0AV3AR2938"
-      },
-      {
-        "channel": "U05FE9QNFSQ",
-        "messageId": "Q0AV3ARB0B0"
-      },
-      {
-        "channel": "C05HL1VGA22",
-        "messageId": "Q0AV5CJ2BDG"
-      }
-    ],
     "5b065dac7a280daceac087f3f7a39366": [
       {
         "channel": "UMS39RAGP",
@@ -16679,417 +16528,405 @@
         "messageId": "Q0B0LG28JBS"
       }
     ],
-    "8a4b334a7e2e7ddf129cfb3eee3729ec": [
+    "5f5397c6d40aba6fe7668fd1c4a7b258": [
       {
         "channel": "UMS39RAGP",
-        "messageId": "Q0AV681EZ26"
+        "messageId": "Q0B0NB5AAGY"
       },
       {
-        "channel": "U05FE9QNFSQ",
-        "messageId": "Q0AUZSC0J4B"
+        "channel": "U07FVUF09T7",
+        "messageId": "Q0AUSJME5QF"
       },
       {
-        "channel": "C05HL1VGA22",
-        "messageId": "Q0B05566T33"
-      },
-      {
-        "channel": "UMS39RAGP",
-        "messageId": "Q0AV46931K8"
-      },
-      {
-        "channel": "U05FE9QNFSQ",
-        "messageId": "Q0B05560TED"
-      },
-      {
-        "channel": "C05HL1VGA22",
-        "messageId": "Q0B0LG29QRW"
+        "channel": "C093VPK55NF",
+        "messageId": "Q0AV61B6ZTQ"
       },
       {
         "channel": "UMS39RAGP",
-        "messageId": "Q0AUQPX7Y79"
+        "messageId": "Q0AVBLJSZU4"
       },
       {
-        "channel": "U05FE9QNFSQ",
-        "messageId": "Q0B0556ESKT"
+        "channel": "U07FVUF09T7",
+        "messageId": "Q0AV1ME9TB5"
       },
       {
-        "channel": "C05HL1VGA22",
-        "messageId": "Q0AV469ABN2"
-      },
-      {
-        "channel": "UMS39RAGP",
-        "messageId": "Q0B0LG2H0RE"
-      },
-      {
-        "channel": "U05FE9QNFSQ",
-        "messageId": "Q0AV468Q63G"
-      },
-      {
-        "channel": "C05HL1VGA22",
-        "messageId": "Q0B0LG313A4"
+        "channel": "C093VPK55NF",
+        "messageId": "Q0AV1MEHN67"
       },
       {
         "channel": "UMS39RAGP",
-        "messageId": "Q0AV4690D0E"
+        "messageId": "Q0AV82S2ZGS"
       },
       {
-        "channel": "U05FE9QNFSQ",
-        "messageId": "Q0AUZSBU48K"
+        "channel": "U07FVUF09T7",
+        "messageId": "Q0B07084NCR"
       },
       {
-        "channel": "C05HL1VGA22",
-        "messageId": "Q0AUQPXCY5D"
-      },
-      {
-        "channel": "UMS39RAGP",
-        "messageId": "Q0B0555FKGR"
-      },
-      {
-        "channel": "U05FE9QNFSQ",
-        "messageId": "Q0B0556ES4R"
-      },
-      {
-        "channel": "C05HL1VGA22",
-        "messageId": "Q0AV468DE3G"
+        "channel": "C093VPK55NF",
+        "messageId": "Q0AV4LK0RBP"
       },
       {
         "channel": "UMS39RAGP",
-        "messageId": "Q0AV469GEJJ"
+        "messageId": "Q0AV4LJPCUD"
       },
       {
-        "channel": "U05FE9QNFSQ",
-        "messageId": "Q0AV681UYKU"
+        "channel": "U07FVUF09T7",
+        "messageId": "Q0AV61B0PCN"
       },
       {
-        "channel": "C05HL1VGA22",
-        "messageId": "Q0AV9RGLK6Y"
-      },
-      {
-        "channel": "UMS39RAGP",
-        "messageId": "Q0AUZSC92DR"
-      },
-      {
-        "channel": "U05FE9QNFSQ",
-        "messageId": "Q0AUZSBKWGK"
-      },
-      {
-        "channel": "C05HL1VGA22",
-        "messageId": "Q0B0557K525"
+        "channel": "C093VPK55NF",
+        "messageId": "Q0AVBLKD2UU"
       },
       {
         "channel": "UMS39RAGP",
-        "messageId": "Q0AV682D610"
+        "messageId": "Q0AUSJZ5PC7"
       },
       {
-        "channel": "U05FE9QNFSQ",
-        "messageId": "Q0AV6822TDY"
+        "channel": "U07FVUF09T7",
+        "messageId": "Q0AV1MDRY59"
       },
       {
-        "channel": "C05HL1VGA22",
-        "messageId": "Q0AV9RH5QDS"
-      },
-      {
-        "channel": "UMS39RAGP",
-        "messageId": "Q0AV6825HLJ"
-      },
-      {
-        "channel": "U05FE9QNFSQ",
-        "messageId": "Q0AUQPX466B"
-      },
-      {
-        "channel": "C05HL1VGA22",
-        "messageId": "Q0AUZSCQLLB"
+        "channel": "C093VPK55NF",
+        "messageId": "Q0B0NB5682C"
       },
       {
         "channel": "UMS39RAGP",
-        "messageId": "Q0AV9RHBR9A"
+        "messageId": "Q0AV833QSGJ"
       },
       {
-        "channel": "U05FE9QNFSQ",
-        "messageId": "Q0B0557DV9P"
+        "channel": "U07FVUF09T7",
+        "messageId": "Q0B070886JD"
       },
       {
-        "channel": "C05HL1VGA22",
-        "messageId": "Q0AV2RH8WF7"
-      },
-      {
-        "channel": "UMS39RAGP",
-        "messageId": "Q0AUQPX9KQX"
-      },
-      {
-        "channel": "U05FE9QNFSQ",
-        "messageId": "Q0B0LG32B5W"
-      },
-      {
-        "channel": "C05HL1VGA22",
-        "messageId": "Q0B05576W5P"
+        "channel": "C093VPK55NF",
+        "messageId": "Q0AV61B10FQ"
       },
       {
         "channel": "UMS39RAGP",
-        "messageId": "Q0AUQPXBN7R"
+        "messageId": "Q0B0708R5KK"
       },
       {
-        "channel": "U05FE9QNFSQ",
-        "messageId": "Q0AUQPXKZV5"
+        "channel": "U07FVUF09T7",
+        "messageId": "Q0AV1MDQBTM"
       },
       {
-        "channel": "C05HL1VGA22",
-        "messageId": "Q0AUZSBSV8T"
-      },
-      {
-        "channel": "UMS39RAGP",
-        "messageId": "Q0AUQPX6QG7"
-      },
-      {
-        "channel": "U05FE9QNFSQ",
-        "messageId": "Q0AV46950HL"
-      },
-      {
-        "channel": "C05HL1VGA22",
-        "messageId": "Q0AV469PKPY"
+        "channel": "C093VPK55NF",
+        "messageId": "Q0B0NB4S09E"
       },
       {
         "channel": "UMS39RAGP",
-        "messageId": "Q0AUZSCBP43"
+        "messageId": "Q0AUSJYUXQX"
       },
       {
-        "channel": "U05FE9QNFSQ",
-        "messageId": "Q0AV9RHH66Q"
+        "channel": "U07FVUF09T7",
+        "messageId": "Q0B0709CQQ1"
       },
       {
-        "channel": "C05HL1VGA22",
-        "messageId": "Q0B0558DM2M"
-      },
-      {
-        "channel": "UMS39RAGP",
-        "messageId": "Q0B05580A01"
-      },
-      {
-        "channel": "U05FE9QNFSQ",
-        "messageId": "Q0AUZSCSD3M"
-      },
-      {
-        "channel": "C05HL1VGA22",
-        "messageId": "Q0B0LG34UN4"
+        "channel": "C093VPK55NF",
+        "messageId": "Q0AVBLKCUBE"
       },
       {
         "channel": "UMS39RAGP",
-        "messageId": "Q0AV46A26H4"
+        "messageId": "Q0AV833Q5EE"
       },
       {
-        "channel": "U05FE9QNFSQ",
-        "messageId": "Q0B05578R09"
+        "channel": "U07FVUF09T7",
+        "messageId": "Q0AV8345CBU"
       },
       {
-        "channel": "C05HL1VGA22",
-        "messageId": "Q0B05577RS5"
-      },
-      {
-        "channel": "UMS39RAGP",
-        "messageId": "Q0AV2RHGYPP"
-      },
-      {
-        "channel": "U05FE9QNFSQ",
-        "messageId": "Q0AUZSC5YHZ"
-      },
-      {
-        "channel": "C05HL1VGA22",
-        "messageId": "Q0AV681PNHY"
+        "channel": "C093VPK55NF",
+        "messageId": "Q0AV1MDJSCB"
       },
       {
         "channel": "UMS39RAGP",
-        "messageId": "Q0AV2RJ2EGM"
+        "messageId": "Q0AV61BB6T0"
       },
       {
-        "channel": "U05FE9QNFSQ",
-        "messageId": "Q0B0LG3GUEL"
+        "channel": "U07FVUF09T7",
+        "messageId": "Q0B0NB5P6MN"
       },
       {
-        "channel": "C05HL1VGA22",
-        "messageId": "Q0AUQPYAJCF"
-      },
-      {
-        "channel": "UMS39RAGP",
-        "messageId": "Q0AV2RGU6G5"
-      },
-      {
-        "channel": "U05FE9QNFSQ",
-        "messageId": "Q0B0LG47T4G"
-      },
-      {
-        "channel": "C05HL1VGA22",
-        "messageId": "Q0AV9RHRCTE"
+        "channel": "C093VPK55NF",
+        "messageId": "Q0AVBLK67AQ"
       },
       {
         "channel": "UMS39RAGP",
-        "messageId": "Q0B05588Y81"
+        "messageId": "Q0B070918RF"
       },
       {
-        "channel": "U05FE9QNFSQ",
-        "messageId": "Q0AUQPXUR2T"
+        "channel": "U07FVUF09T7",
+        "messageId": "Q0AUSJZBFF1"
       },
       {
-        "channel": "C05HL1VGA22",
-        "messageId": "Q0B0LG3SXLG"
-      },
-      {
-        "channel": "UMS39RAGP",
-        "messageId": "Q0AUQPXENQ7"
-      },
-      {
-        "channel": "U05FE9QNFSQ",
-        "messageId": "Q0B0557GD25"
-      },
-      {
-        "channel": "C05HL1VGA22",
-        "messageId": "Q0AV46AG8DC"
+        "channel": "C093VPK55NF",
+        "messageId": "Q0B07091NBB"
       },
       {
         "channel": "UMS39RAGP",
-        "messageId": "Q0AV9RJB936"
+        "messageId": "Q0AVBLK6N04"
       },
       {
-        "channel": "U05FE9QNFSQ",
-        "messageId": "Q0AV465Q8UE"
+        "channel": "U07FVUF09T7",
+        "messageId": "Q0B0708RKJ5"
       },
       {
-        "channel": "C05HL1VGA22",
-        "messageId": "Q0AV6834YD8"
-      },
-      {
-        "channel": "UMS39RAGP",
-        "messageId": "Q0B0LG3MQ72"
-      },
-      {
-        "channel": "U05FE9QNFSQ",
-        "messageId": "Q0AUQPY14KZ"
-      },
-      {
-        "channel": "C05HL1VGA22",
-        "messageId": "Q0B0LG4C3KJ"
+        "channel": "C093VPK55NF",
+        "messageId": "Q0B07098Z7B"
       },
       {
         "channel": "UMS39RAGP",
-        "messageId": "Q0AV46A9TDL"
+        "messageId": "Q0AUSJZMFDM"
       },
       {
-        "channel": "U05FE9QNFSQ",
-        "messageId": "Q0AV6822L66"
+        "channel": "U07FVUF09T7",
+        "messageId": "Q0AV834E066"
       },
       {
-        "channel": "C05HL1VGA22",
-        "messageId": "Q0B0LG48W3A"
-      },
-      {
-        "channel": "UMS39RAGP",
-        "messageId": "Q0AUQPXLVNK"
-      },
-      {
-        "channel": "U05FE9QNFSQ",
-        "messageId": "Q0AV2RJB5EH"
-      },
-      {
-        "channel": "C05HL1VGA22",
-        "messageId": "Q0AV2RHHGRK"
+        "channel": "C093VPK55NF",
+        "messageId": "Q0AV8341N3C"
       },
       {
         "channel": "UMS39RAGP",
-        "messageId": "Q0AV683HHKL"
+        "messageId": "Q0AV61BGFAA"
       },
       {
-        "channel": "U05FE9QNFSQ",
-        "messageId": "Q0B0553QCBB"
+        "channel": "U07FVUF09T7",
+        "messageId": "Q0AV4LKHN4D"
       },
       {
-        "channel": "C05HL1VGA22",
-        "messageId": "Q0AV2RDQ83F"
-      },
-      {
-        "channel": "UMS39RAGP",
-        "messageId": "Q0AV9RHNT0C"
-      },
-      {
-        "channel": "U05FE9QNFSQ",
-        "messageId": "Q0AUQPY9M0X"
-      },
-      {
-        "channel": "C05HL1VGA22",
-        "messageId": "Q0B0LG59V96"
+        "channel": "C093VPK55NF",
+        "messageId": "Q0AV61BM03Y"
       },
       {
         "channel": "UMS39RAGP",
-        "messageId": "Q0AV9RBHSTW"
+        "messageId": "Q0AV6123LES"
       },
       {
-        "channel": "U05FE9QNFSQ",
-        "messageId": "Q0AV469HWMU"
+        "channel": "U07FVUF09T7",
+        "messageId": "Q0B0708UUBT"
       },
       {
-        "channel": "C05HL1VGA22",
-        "messageId": "Q0AV9RE75SQ"
-      },
-      {
-        "channel": "UMS39RAGP",
-        "messageId": "Q0AV2RJ9V61"
-      },
-      {
-        "channel": "U05FE9QNFSQ",
-        "messageId": "Q0AUQPYFH7H"
-      },
-      {
-        "channel": "C05HL1VGA22",
-        "messageId": "Q0AV46AK5HC"
+        "channel": "C093VPK55NF",
+        "messageId": "Q0AUSJZ6H71"
       },
       {
         "channel": "UMS39RAGP",
-        "messageId": "Q0AUZSE6VD1"
+        "messageId": "Q0AV1MDRASX"
       },
       {
-        "channel": "U05FE9QNFSQ",
-        "messageId": "Q0B0558JKB3"
+        "channel": "U07FVUF09T7",
+        "messageId": "Q0AV83460M8"
       },
       {
-        "channel": "C05HL1VGA22",
-        "messageId": "Q0AUZSDLD2P"
-      },
-      {
-        "channel": "UMS39RAGP",
-        "messageId": "Q0AV2RJJ5JR"
-      },
-      {
-        "channel": "U05FE9QNFSQ",
-        "messageId": "Q0AUZSD6UHZ"
-      },
-      {
-        "channel": "C05HL1VGA22",
-        "messageId": "Q0AV2RHRHS9"
+        "channel": "C093VPK55NF",
+        "messageId": "Q0B0NB54XUY"
       },
       {
         "channel": "UMS39RAGP",
-        "messageId": "Q0AV46BRENA"
+        "messageId": "Q0AV4LKHE4V"
       },
       {
-        "channel": "U05FE9QNFSQ",
-        "messageId": "Q0B055871DX"
+        "channel": "U07FVUF09T7",
+        "messageId": "Q0AV61CD4BY"
       },
       {
-        "channel": "C05HL1VGA22",
-        "messageId": "Q0B05536DG9"
+        "channel": "C093VPK55NF",
+        "messageId": "Q0AUSJZMWLX"
       },
       {
         "channel": "UMS39RAGP",
-        "messageId": "Q0AV68396AW"
+        "messageId": "Q0B0NB58MAL"
       },
       {
-        "channel": "U05FE9QNFSQ",
-        "messageId": "Q0AV6831W9G"
+        "channel": "U07FVUF09T7",
+        "messageId": "Q0AV61AN0ES"
       },
       {
-        "channel": "C05HL1VGA22",
-        "messageId": "Q0AUQPU51B9"
+        "channel": "C093VPK55NF",
+        "messageId": "Q0AUSK006G7"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B0NB5HC0Y"
+      },
+      {
+        "channel": "U07FVUF09T7",
+        "messageId": "Q0B07095SAV"
+      },
+      {
+        "channel": "C093VPK55NF",
+        "messageId": "Q0B0700GLE5"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0AV82TMT26"
+      },
+      {
+        "channel": "U07FVUF09T7",
+        "messageId": "Q0AUSJZDXN3"
+      },
+      {
+        "channel": "C093VPK55NF",
+        "messageId": "Q0AV1ME7GHZ"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0AV1ME8BT5"
+      },
+      {
+        "channel": "U07FVUF09T7",
+        "messageId": "Q0B0NB5Q6PJ"
+      },
+      {
+        "channel": "C093VPK55NF",
+        "messageId": "Q0AV834M3PU"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0AUSK0525V"
+      },
+      {
+        "channel": "U07FVUF09T7",
+        "messageId": "Q0B0709TD25"
+      },
+      {
+        "channel": "C093VPK55NF",
+        "messageId": "Q0B0NB5BB24"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0AV4LKL5GV"
+      },
+      {
+        "channel": "U07FVUF09T7",
+        "messageId": "Q0B0709K4DP"
+      },
+      {
+        "channel": "C093VPK55NF",
+        "messageId": "Q0AV4LL3MA9"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B0NB65H2L"
+      },
+      {
+        "channel": "U07FVUF09T7",
+        "messageId": "Q0AV61BP46A"
+      },
+      {
+        "channel": "C093VPK55NF",
+        "messageId": "Q0AUSJZAN95"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0AVBLKGQHJ"
+      },
+      {
+        "channel": "U07FVUF09T7",
+        "messageId": "Q0AV834BBFU"
+      },
+      {
+        "channel": "C093VPK55NF",
+        "messageId": "Q0AUSK01JJ3"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0AV4LKJLE9"
+      },
+      {
+        "channel": "U07FVUF09T7",
+        "messageId": "Q0B0NB4QH7S"
+      },
+      {
+        "channel": "C093VPK55NF",
+        "messageId": "Q0AVBLL50MA"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0AVBLKTHN0"
+      },
+      {
+        "channel": "U07FVUF09T7",
+        "messageId": "Q0AV61BDDNJ"
+      },
+      {
+        "channel": "C093VPK55NF",
+        "messageId": "Q0B0709GE7K"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B070AM22D"
+      },
+      {
+        "channel": "U07FVUF09T7",
+        "messageId": "Q0AV1MEAYSF"
+      },
+      {
+        "channel": "C093VPK55NF",
+        "messageId": "Q0AVBLJTJ5S"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B0709V1H7"
+      },
+      {
+        "channel": "U07FVUF09T7",
+        "messageId": "Q0B0NB5JN0G"
+      },
+      {
+        "channel": "C093VPK55NF",
+        "messageId": "Q0B070A724R"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0AUSK07B1V"
+      },
+      {
+        "channel": "U07FVUF09T7",
+        "messageId": "Q0AV61BQB9C"
+      },
+      {
+        "channel": "C093VPK55NF",
+        "messageId": "Q0B0NB5CG0Y"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B0709LNP3"
+      },
+      {
+        "channel": "U07FVUF09T7",
+        "messageId": "Q0AVBLKPCN8"
+      },
+      {
+        "channel": "C093VPK55NF",
+        "messageId": "Q0B0709RLEM"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0AUSJZV63H"
+      },
+      {
+        "channel": "U07FVUF09T7",
+        "messageId": "Q0B0NB6CLJC"
+      },
+      {
+        "channel": "C093VPK55NF",
+        "messageId": "Q0AV834NZSN"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0AV4LLEKEZ"
+      },
+      {
+        "channel": "U07FVUF09T7",
+        "messageId": "Q0AVBLKGCAY"
+      },
+      {
+        "channel": "C093VPK55NF",
+        "messageId": "Q0AV61BNM9U"
       }
     ]
   },
   "lastWeeklySummaryDate": "2026-W17",
-  "lastRun": "2026-04-24T20:11:57.978Z"
+  "lastRun": "2026-04-25T06:03:05.424Z"
 }
