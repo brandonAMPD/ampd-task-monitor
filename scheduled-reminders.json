@@ -1175,6 +1175,34 @@
       "completed": false,
       "completedAt": null,
       "firstSeenAt": "2026-04-25T19:58:23.360Z"
+    },
+    "485fc0b564ab2a057d1de5371a5b0215": {
+      "task": "update AMPD workflows for stage move, replace/turn on needs to book again & reschedule workflows",
+      "assignee_name": "Josh 'The Ninja' Morales",
+      "assignee_slack_mention": "@Josh 'The Ninja' Morales",
+      "assigned_date": "2026-04-25",
+      "due_date": "2026-04-30",
+      "message_ts": "1777141886.840759",
+      "source_message": "@Josh 'The Ninja' Morales please make sure our workflows for AMPD are properly updated so th",
+      "assigneeId": "U07FVUF09T7",
+      "messageTs": "1777141886.840759",
+      "completed": false,
+      "completedAt": null,
+      "firstSeenAt": "2026-04-26T06:01:53.519Z"
+    },
+    "9c067116c2c2a90dc2846ac5702198b0": {
+      "task": "review Google doc by Wednesday",
+      "assignee_name": "Brandon 'The One' Robertson",
+      "assignee_slack_mention": "@Brandon 'The One' Robertson",
+      "assigned_date": "2026-04-16",
+      "due_date": "2026-04-22",
+      "message_ts": "1776360425.014549",
+      "source_message": "Eddie 'Rockstar' Monarrez: @Brandon 'The One' Robertson, can you review <https://docs.google.com/doc",
+      "assigneeId": "UMS39RAGP",
+      "messageTs": "1776360425.014549",
+      "completed": true,
+      "completedAt": "2026-04-26T06:01:53.611Z",
+      "firstSeenAt": "2026-04-26T06:01:53.611Z"
     }
   },
   "scheduled": {
@@ -11340,6 +11368,244 @@
       "task": "help design dashboard for ampd crm primary pipeline, complete by 4/22/26",
       "assignee": "Eddie 'Rockstar' Monarrez",
       "reminderDate": "2026-05-22"
+    },
+    "485fc0b564ab2a057d1de5371a5b0215|midpoint|2026-04-27": {
+      "scheduledAt": "2026-04-26T06:01:54.350Z",
+      "type": "midpoint",
+      "task": "update AMPD workflows for stage move, replace/turn on needs to book again & reschedule workflows",
+      "assignee": "Josh 'The Ninja' Morales",
+      "reminderDate": "2026-04-27"
+    },
+    "485fc0b564ab2a057d1de5371a5b0215|nag|2026-04-28": {
+      "scheduledAt": "2026-04-26T06:01:55.059Z",
+      "type": "nag",
+      "task": "update AMPD workflows for stage move, replace/turn on needs to book again & reschedule workflows",
+      "assignee": "Josh 'The Ninja' Morales",
+      "reminderDate": "2026-04-28"
+    },
+    "485fc0b564ab2a057d1de5371a5b0215|nag|2026-04-29": {
+      "scheduledAt": "2026-04-26T06:01:55.774Z",
+      "type": "nag",
+      "task": "update AMPD workflows for stage move, replace/turn on needs to book again & reschedule workflows",
+      "assignee": "Josh 'The Ninja' Morales",
+      "reminderDate": "2026-04-29"
+    },
+    "485fc0b564ab2a057d1de5371a5b0215|due|2026-04-30": {
+      "scheduledAt": "2026-04-26T06:01:56.502Z",
+      "type": "due",
+      "task": "update AMPD workflows for stage move, replace/turn on needs to book again & reschedule workflows",
+      "assignee": "Josh 'The Ninja' Morales",
+      "reminderDate": "2026-04-30"
+    },
+    "485fc0b564ab2a057d1de5371a5b0215|overdue|2026-05-01": {
+      "scheduledAt": "2026-04-26T06:01:57.230Z",
+      "type": "overdue",
+      "task": "update AMPD workflows for stage move, replace/turn on needs to book again & reschedule workflows",
+      "assignee": "Josh 'The Ninja' Morales",
+      "reminderDate": "2026-05-01"
+    },
+    "485fc0b564ab2a057d1de5371a5b0215|overdue|2026-05-02": {
+      "scheduledAt": "2026-04-26T06:01:57.961Z",
+      "type": "overdue",
+      "task": "update AMPD workflows for stage move, replace/turn on needs to book again & reschedule workflows",
+      "assignee": "Josh 'The Ninja' Morales",
+      "reminderDate": "2026-05-02"
+    },
+    "485fc0b564ab2a057d1de5371a5b0215|overdue|2026-05-03": {
+      "scheduledAt": "2026-04-26T06:01:58.674Z",
+      "type": "overdue",
+      "task": "update AMPD workflows for stage move, replace/turn on needs to book again & reschedule workflows",
+      "assignee": "Josh 'The Ninja' Morales",
+      "reminderDate": "2026-05-03"
+    },
+    "485fc0b564ab2a057d1de5371a5b0215|overdue|2026-05-04": {
+      "scheduledAt": "2026-04-26T06:01:59.394Z",
+      "type": "overdue",
+      "task": "update AMPD workflows for stage move, replace/turn on needs to book again & reschedule workflows",
+      "assignee": "Josh 'The Ninja' Morales",
+      "reminderDate": "2026-05-04"
+    },
+    "485fc0b564ab2a057d1de5371a5b0215|overdue|2026-05-05": {
+      "scheduledAt": "2026-04-26T06:02:00.136Z",
+      "type": "overdue",
+      "task": "update AMPD workflows for stage move, replace/turn on needs to book again & reschedule workflows",
+      "assignee": "Josh 'The Ninja' Morales",
+      "reminderDate": "2026-05-05"
+    },
+    "485fc0b564ab2a057d1de5371a5b0215|overdue|2026-05-06": {
+      "scheduledAt": "2026-04-26T06:02:00.881Z",
+      "type": "overdue",
+      "task": "update AMPD workflows for stage move, replace/turn on needs to book again & reschedule workflows",
+      "assignee": "Josh 'The Ninja' Morales",
+      "reminderDate": "2026-05-06"
+    },
+    "485fc0b564ab2a057d1de5371a5b0215|overdue|2026-05-07": {
+      "scheduledAt": "2026-04-26T06:02:01.623Z",
+      "type": "overdue",
+      "task": "update AMPD workflows for stage move, replace/turn on needs to book again & reschedule workflows",
+      "assignee": "Josh 'The Ninja' Morales",
+      "reminderDate": "2026-05-07"
+    },
+    "485fc0b564ab2a057d1de5371a5b0215|overdue|2026-05-08": {
+      "scheduledAt": "2026-04-26T06:02:02.343Z",
+      "type": "overdue",
+      "task": "update AMPD workflows for stage move, replace/turn on needs to book again & reschedule workflows",
+      "assignee": "Josh 'The Ninja' Morales",
+      "reminderDate": "2026-05-08"
+    },
+    "485fc0b564ab2a057d1de5371a5b0215|overdue|2026-05-09": {
+      "scheduledAt": "2026-04-26T06:02:03.049Z",
+      "type": "overdue",
+      "task": "update AMPD workflows for stage move, replace/turn on needs to book again & reschedule workflows",
+      "assignee": "Josh 'The Ninja' Morales",
+      "reminderDate": "2026-05-09"
+    },
+    "485fc0b564ab2a057d1de5371a5b0215|overdue|2026-05-10": {
+      "scheduledAt": "2026-04-26T06:02:03.775Z",
+      "type": "overdue",
+      "task": "update AMPD workflows for stage move, replace/turn on needs to book again & reschedule workflows",
+      "assignee": "Josh 'The Ninja' Morales",
+      "reminderDate": "2026-05-10"
+    },
+    "485fc0b564ab2a057d1de5371a5b0215|overdue|2026-05-11": {
+      "scheduledAt": "2026-04-26T06:02:04.496Z",
+      "type": "overdue",
+      "task": "update AMPD workflows for stage move, replace/turn on needs to book again & reschedule workflows",
+      "assignee": "Josh 'The Ninja' Morales",
+      "reminderDate": "2026-05-11"
+    },
+    "485fc0b564ab2a057d1de5371a5b0215|overdue|2026-05-12": {
+      "scheduledAt": "2026-04-26T06:02:05.203Z",
+      "type": "overdue",
+      "task": "update AMPD workflows for stage move, replace/turn on needs to book again & reschedule workflows",
+      "assignee": "Josh 'The Ninja' Morales",
+      "reminderDate": "2026-05-12"
+    },
+    "485fc0b564ab2a057d1de5371a5b0215|overdue|2026-05-13": {
+      "scheduledAt": "2026-04-26T06:02:05.923Z",
+      "type": "overdue",
+      "task": "update AMPD workflows for stage move, replace/turn on needs to book again & reschedule workflows",
+      "assignee": "Josh 'The Ninja' Morales",
+      "reminderDate": "2026-05-13"
+    },
+    "485fc0b564ab2a057d1de5371a5b0215|overdue|2026-05-14": {
+      "scheduledAt": "2026-04-26T06:02:06.633Z",
+      "type": "overdue",
+      "task": "update AMPD workflows for stage move, replace/turn on needs to book again & reschedule workflows",
+      "assignee": "Josh 'The Ninja' Morales",
+      "reminderDate": "2026-05-14"
+    },
+    "485fc0b564ab2a057d1de5371a5b0215|overdue|2026-05-15": {
+      "scheduledAt": "2026-04-26T06:02:07.362Z",
+      "type": "overdue",
+      "task": "update AMPD workflows for stage move, replace/turn on needs to book again & reschedule workflows",
+      "assignee": "Josh 'The Ninja' Morales",
+      "reminderDate": "2026-05-15"
+    },
+    "485fc0b564ab2a057d1de5371a5b0215|overdue|2026-05-16": {
+      "scheduledAt": "2026-04-26T06:02:08.068Z",
+      "type": "overdue",
+      "task": "update AMPD workflows for stage move, replace/turn on needs to book again & reschedule workflows",
+      "assignee": "Josh 'The Ninja' Morales",
+      "reminderDate": "2026-05-16"
+    },
+    "485fc0b564ab2a057d1de5371a5b0215|overdue|2026-05-17": {
+      "scheduledAt": "2026-04-26T06:02:08.794Z",
+      "type": "overdue",
+      "task": "update AMPD workflows for stage move, replace/turn on needs to book again & reschedule workflows",
+      "assignee": "Josh 'The Ninja' Morales",
+      "reminderDate": "2026-05-17"
+    },
+    "485fc0b564ab2a057d1de5371a5b0215|overdue|2026-05-18": {
+      "scheduledAt": "2026-04-26T06:02:09.492Z",
+      "type": "overdue",
+      "task": "update AMPD workflows for stage move, replace/turn on needs to book again & reschedule workflows",
+      "assignee": "Josh 'The Ninja' Morales",
+      "reminderDate": "2026-05-18"
+    },
+    "485fc0b564ab2a057d1de5371a5b0215|overdue|2026-05-19": {
+      "scheduledAt": "2026-04-26T06:02:10.246Z",
+      "type": "overdue",
+      "task": "update AMPD workflows for stage move, replace/turn on needs to book again & reschedule workflows",
+      "assignee": "Josh 'The Ninja' Morales",
+      "reminderDate": "2026-05-19"
+    },
+    "485fc0b564ab2a057d1de5371a5b0215|overdue|2026-05-20": {
+      "scheduledAt": "2026-04-26T06:02:10.981Z",
+      "type": "overdue",
+      "task": "update AMPD workflows for stage move, replace/turn on needs to book again & reschedule workflows",
+      "assignee": "Josh 'The Ninja' Morales",
+      "reminderDate": "2026-05-20"
+    },
+    "485fc0b564ab2a057d1de5371a5b0215|overdue|2026-05-21": {
+      "scheduledAt": "2026-04-26T06:02:11.719Z",
+      "type": "overdue",
+      "task": "update AMPD workflows for stage move, replace/turn on needs to book again & reschedule workflows",
+      "assignee": "Josh 'The Ninja' Morales",
+      "reminderDate": "2026-05-21"
+    },
+    "485fc0b564ab2a057d1de5371a5b0215|overdue|2026-05-22": {
+      "scheduledAt": "2026-04-26T06:02:12.440Z",
+      "type": "overdue",
+      "task": "update AMPD workflows for stage move, replace/turn on needs to book again & reschedule workflows",
+      "assignee": "Josh 'The Ninja' Morales",
+      "reminderDate": "2026-05-22"
+    },
+    "485fc0b564ab2a057d1de5371a5b0215|overdue|2026-05-23": {
+      "scheduledAt": "2026-04-26T06:02:13.149Z",
+      "type": "overdue",
+      "task": "update AMPD workflows for stage move, replace/turn on needs to book again & reschedule workflows",
+      "assignee": "Josh 'The Ninja' Morales",
+      "reminderDate": "2026-05-23"
+    },
+    "485fc0b564ab2a057d1de5371a5b0215|overdue|2026-05-24": {
+      "scheduledAt": "2026-04-26T06:02:13.880Z",
+      "type": "overdue",
+      "task": "update AMPD workflows for stage move, replace/turn on needs to book again & reschedule workflows",
+      "assignee": "Josh 'The Ninja' Morales",
+      "reminderDate": "2026-05-24"
+    },
+    "485fc0b564ab2a057d1de5371a5b0215|overdue|2026-05-25": {
+      "scheduledAt": "2026-04-26T06:02:14.593Z",
+      "type": "overdue",
+      "task": "update AMPD workflows for stage move, replace/turn on needs to book again & reschedule workflows",
+      "assignee": "Josh 'The Ninja' Morales",
+      "reminderDate": "2026-05-25"
+    },
+    "485fc0b564ab2a057d1de5371a5b0215|overdue|2026-05-26": {
+      "scheduledAt": "2026-04-26T06:02:15.300Z",
+      "type": "overdue",
+      "task": "update AMPD workflows for stage move, replace/turn on needs to book again & reschedule workflows",
+      "assignee": "Josh 'The Ninja' Morales",
+      "reminderDate": "2026-05-26"
+    },
+    "485fc0b564ab2a057d1de5371a5b0215|overdue|2026-05-27": {
+      "scheduledAt": "2026-04-26T06:02:16.031Z",
+      "type": "overdue",
+      "task": "update AMPD workflows for stage move, replace/turn on needs to book again & reschedule workflows",
+      "assignee": "Josh 'The Ninja' Morales",
+      "reminderDate": "2026-05-27"
+    },
+    "485fc0b564ab2a057d1de5371a5b0215|overdue|2026-05-28": {
+      "scheduledAt": "2026-04-26T06:02:16.750Z",
+      "type": "overdue",
+      "task": "update AMPD workflows for stage move, replace/turn on needs to book again & reschedule workflows",
+      "assignee": "Josh 'The Ninja' Morales",
+      "reminderDate": "2026-05-28"
+    },
+    "485fc0b564ab2a057d1de5371a5b0215|overdue|2026-05-29": {
+      "scheduledAt": "2026-04-26T06:02:17.465Z",
+      "type": "overdue",
+      "task": "update AMPD workflows for stage move, replace/turn on needs to book again & reschedule workflows",
+      "assignee": "Josh 'The Ninja' Morales",
+      "reminderDate": "2026-05-29"
+    },
+    "485fc0b564ab2a057d1de5371a5b0215|overdue|2026-05-30": {
+      "scheduledAt": "2026-04-26T06:02:18.166Z",
+      "type": "overdue",
+      "task": "update AMPD workflows for stage move, replace/turn on needs to book again & reschedule workflows",
+      "assignee": "Josh 'The Ninja' Morales",
+      "reminderDate": "2026-05-30"
     }
   },
   "scheduledMessageIds": {
@@ -18122,8 +18388,418 @@
         "channel": "C05HPPDCSS1",
         "messageId": "Q0AVDF3C4JG"
       }
+    ],
+    "485fc0b564ab2a057d1de5371a5b0215": [
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B0RAVN76U"
+      },
+      {
+        "channel": "U07FVUF09T7",
+        "messageId": "Q0AUVJR0563"
+      },
+      {
+        "channel": "C093VPK55NF",
+        "messageId": "Q0AV4M56G2F"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0AV4M5QD8B"
+      },
+      {
+        "channel": "U07FVUF09T7",
+        "messageId": "Q0AV4M5L9EX"
+      },
+      {
+        "channel": "C093VPK55NF",
+        "messageId": "Q0AVB2VGNM8"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0AV7LAT7RB"
+      },
+      {
+        "channel": "U07FVUF09T7",
+        "messageId": "Q0AUVJQ9GLF"
+      },
+      {
+        "channel": "C093VPK55NF",
+        "messageId": "Q0AV9138NH4"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B0A00BZED"
+      },
+      {
+        "channel": "U07FVUF09T7",
+        "messageId": "Q0AUVJPET2B"
+      },
+      {
+        "channel": "C093VPK55NF",
+        "messageId": "Q0AVB2V4GHY"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0AV9127FPG"
+      },
+      {
+        "channel": "U07FVUF09T7",
+        "messageId": "Q0AUVJQC2LX"
+      },
+      {
+        "channel": "C093VPK55NF",
+        "messageId": "Q0B00LAEALU"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0AUVJQP7HD"
+      },
+      {
+        "channel": "U07FVUF09T7",
+        "messageId": "Q0AVB2V6CMQ"
+      },
+      {
+        "channel": "C093VPK55NF",
+        "messageId": "Q0B00LC309J"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0AV4M6PEMR"
+      },
+      {
+        "channel": "U07FVUF09T7",
+        "messageId": "Q0B0A00SFED"
+      },
+      {
+        "channel": "C093VPK55NF",
+        "messageId": "Q0AUVJRCWR5"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0AV912MU94"
+      },
+      {
+        "channel": "U07FVUF09T7",
+        "messageId": "Q0B00LBBAKE"
+      },
+      {
+        "channel": "C093VPK55NF",
+        "messageId": "Q0B0RAVF9NU"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B00LBJ58C"
+      },
+      {
+        "channel": "U07FVUF09T7",
+        "messageId": "Q0AUVJRAES3"
+      },
+      {
+        "channel": "C093VPK55NF",
+        "messageId": "Q0AV7LASRC5"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0AV914AEBY"
+      },
+      {
+        "channel": "U07FVUF09T7",
+        "messageId": "Q0B00LAHKUL"
+      },
+      {
+        "channel": "C093VPK55NF",
+        "messageId": "Q0AV7LBKYUV"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B0A01DQ3T"
+      },
+      {
+        "channel": "U07FVUF09T7",
+        "messageId": "Q0B00LB2UTE"
+      },
+      {
+        "channel": "C093VPK55NF",
+        "messageId": "Q0AVB2VFQ2W"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0AUVJRDF39"
+      },
+      {
+        "channel": "U07FVUF09T7",
+        "messageId": "Q0AUVJR7HU7"
+      },
+      {
+        "channel": "C093VPK55NF",
+        "messageId": "Q0AV4M506MR"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B09VDJAU9"
+      },
+      {
+        "channel": "U07FVUF09T7",
+        "messageId": "Q0B00LAB8KE"
+      },
+      {
+        "channel": "C093VPK55NF",
+        "messageId": "Q0B0RAXENEL"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0AV4M5LH8B"
+      },
+      {
+        "channel": "U07FVUF09T7",
+        "messageId": "Q0AVB2VR02W"
+      },
+      {
+        "channel": "C093VPK55NF",
+        "messageId": "Q0B0A009V25"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0AUVJRMATH"
+      },
+      {
+        "channel": "U07FVUF09T7",
+        "messageId": "Q0AUVJRHWF9"
+      },
+      {
+        "channel": "C093VPK55NF",
+        "messageId": "Q0B0A017CDP"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B00LB62DA"
+      },
+      {
+        "channel": "U07FVUF09T7",
+        "messageId": "Q0AV7LB7FGD"
+      },
+      {
+        "channel": "C093VPK55NF",
+        "messageId": "Q0B0A015RFT"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0AV4M6N35H"
+      },
+      {
+        "channel": "U07FVUF09T7",
+        "messageId": "Q0AV9146L06"
+      },
+      {
+        "channel": "C093VPK55NF",
+        "messageId": "Q0AV7LBC0LD"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0AV4M5Q2HZ"
+      },
+      {
+        "channel": "U07FVUF09T7",
+        "messageId": "Q0AV4M60D9R"
+      },
+      {
+        "channel": "C093VPK55NF",
+        "messageId": "Q0AV7LB515K"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0AUVJR72Q7"
+      },
+      {
+        "channel": "U07FVUF09T7",
+        "messageId": "Q0AVB2VDCKU"
+      },
+      {
+        "channel": "C093VPK55NF",
+        "messageId": "Q0B00LBRYLU"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0AV7LATFQD"
+      },
+      {
+        "channel": "U07FVUF09T7",
+        "messageId": "Q0AV7LAPYG5"
+      },
+      {
+        "channel": "C093VPK55NF",
+        "messageId": "Q0B00LBFG3W"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0AUVJR32DV"
+      },
+      {
+        "channel": "U07FVUF09T7",
+        "messageId": "Q0AV7LBU0SZ"
+      },
+      {
+        "channel": "C093VPK55NF",
+        "messageId": "Q0AUVJR6UFR"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0AUVJR1VE3"
+      },
+      {
+        "channel": "U07FVUF09T7",
+        "messageId": "Q0B0RAWMH96"
+      },
+      {
+        "channel": "C093VPK55NF",
+        "messageId": "Q0AV9134D2S"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0AV4LVQK4K"
+      },
+      {
+        "channel": "U07FVUF09T7",
+        "messageId": "Q0B0RAWANTA"
+      },
+      {
+        "channel": "C093VPK55NF",
+        "messageId": "Q0AVB2VAB34"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0AUVJQ5J07"
+      },
+      {
+        "channel": "U07FVUF09T7",
+        "messageId": "Q0AV913F614"
+      },
+      {
+        "channel": "C093VPK55NF",
+        "messageId": "Q0B0RAXJKQQ"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0AVB2W3FMG"
+      },
+      {
+        "channel": "U07FVUF09T7",
+        "messageId": "Q0AV4M5EDMH"
+      },
+      {
+        "channel": "C093VPK55NF",
+        "messageId": "Q0AVB2W2J82"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0AV4M5LCDR"
+      },
+      {
+        "channel": "U07FVUF09T7",
+        "messageId": "Q0B0A0128F3"
+      },
+      {
+        "channel": "C093VPK55NF",
+        "messageId": "Q0B0A01117T"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0AV4M6R2JF"
+      },
+      {
+        "channel": "U07FVUF09T7",
+        "messageId": "Q0AUVJR7QPR"
+      },
+      {
+        "channel": "C093VPK55NF",
+        "messageId": "Q0AVB2W0QE6"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0AV913F3B8"
+      },
+      {
+        "channel": "U07FVUF09T7",
+        "messageId": "Q0B0RAXMM5W"
+      },
+      {
+        "channel": "C093VPK55NF",
+        "messageId": "Q0B0A00QSQZ"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B0A0059J5"
+      },
+      {
+        "channel": "U07FVUF09T7",
+        "messageId": "Q0AUVJR65N3"
+      },
+      {
+        "channel": "C093VPK55NF",
+        "messageId": "Q0B0RAX5XB2"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0AV4M700BV"
+      },
+      {
+        "channel": "U07FVUF09T7",
+        "messageId": "Q0B0A00KUV7"
+      },
+      {
+        "channel": "C093VPK55NF",
+        "messageId": "Q0AV913K2H4"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B0RAXND32"
+      },
+      {
+        "channel": "U07FVUF09T7",
+        "messageId": "Q0AV4M6C7QB"
+      },
+      {
+        "channel": "C093VPK55NF",
+        "messageId": "Q0B0RAXQE3S"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0AV7LBTQ5T"
+      },
+      {
+        "channel": "U07FVUF09T7",
+        "messageId": "Q0AVB2W8ARG"
+      },
+      {
+        "channel": "C093VPK55NF",
+        "messageId": "Q0B0RAY5FBJ"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0AVB2WLVPC"
+      },
+      {
+        "channel": "U07FVUF09T7",
+        "messageId": "Q0AVB2W0HU2"
+      },
+      {
+        "channel": "C093VPK55NF",
+        "messageId": "Q0AUVJS1RMM"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0AUVJRM6UF"
+      },
+      {
+        "channel": "U07FVUF09T7",
+        "messageId": "Q0AV9132NT0"
+      },
+      {
+        "channel": "C093VPK55NF",
+        "messageId": "Q0AV9140ECE"
+      }
     ]
   },
   "lastWeeklySummaryDate": "2026-W17",
-  "lastRun": "2026-04-25T19:59:06.841Z"
+  "lastRun": "2026-04-26T06:02:18.167Z"
 }
