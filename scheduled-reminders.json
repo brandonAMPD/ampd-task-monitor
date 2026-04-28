@@ -1371,6 +1371,20 @@
       "completed": true,
       "completedAt": "2026-04-27T21:38:09.570Z",
       "firstSeenAt": "2026-04-27T21:38:09.571Z"
+    },
+    "feac4160ae689a9d8ab142a40e75abf1": {
+      "task": "update AMPD workflows properly so there is stage move at end, not move to workflow",
+      "assignee_name": "Josh 'The Ninja' Morales",
+      "assignee_slack_mention": "@Josh 'The Ninja' Morales",
+      "assigned_date": "2026-04-25",
+      "due_date": "2026-05-07",
+      "message_ts": "1777141886.840759",
+      "source_message": "@Josh 'The Ninja' Morales please make sure our workflows for AMPD are properly updated so t",
+      "assigneeId": "U07FVUF09T7",
+      "messageTs": "1777141886.840759",
+      "completed": false,
+      "completedAt": null,
+      "firstSeenAt": "2026-04-28T06:02:00.521Z"
     }
   },
   "scheduled": {
@@ -14348,6 +14362,244 @@
       "task": "create a campaign to get PMP free call registrants on the phone for a quick chat",
       "assignee": "Brandon 'The One' Robertson",
       "reminderDate": "2026-05-28"
+    },
+    "feac4160ae689a9d8ab142a40e75abf1|midpoint|2026-05-01": {
+      "scheduledAt": "2026-04-28T06:02:01.515Z",
+      "type": "midpoint",
+      "task": "update AMPD workflows properly so there is stage move at end, not move to workflow",
+      "assignee": "Josh 'The Ninja' Morales",
+      "reminderDate": "2026-05-01"
+    },
+    "feac4160ae689a9d8ab142a40e75abf1|nag|2026-05-05": {
+      "scheduledAt": "2026-04-28T06:02:02.530Z",
+      "type": "nag",
+      "task": "update AMPD workflows properly so there is stage move at end, not move to workflow",
+      "assignee": "Josh 'The Ninja' Morales",
+      "reminderDate": "2026-05-05"
+    },
+    "feac4160ae689a9d8ab142a40e75abf1|nag|2026-05-06": {
+      "scheduledAt": "2026-04-28T06:02:03.439Z",
+      "type": "nag",
+      "task": "update AMPD workflows properly so there is stage move at end, not move to workflow",
+      "assignee": "Josh 'The Ninja' Morales",
+      "reminderDate": "2026-05-06"
+    },
+    "feac4160ae689a9d8ab142a40e75abf1|due|2026-05-07": {
+      "scheduledAt": "2026-04-28T06:02:05.031Z",
+      "type": "due",
+      "task": "update AMPD workflows properly so there is stage move at end, not move to workflow",
+      "assignee": "Josh 'The Ninja' Morales",
+      "reminderDate": "2026-05-07"
+    },
+    "feac4160ae689a9d8ab142a40e75abf1|overdue|2026-05-08": {
+      "scheduledAt": "2026-04-28T06:02:06.469Z",
+      "type": "overdue",
+      "task": "update AMPD workflows properly so there is stage move at end, not move to workflow",
+      "assignee": "Josh 'The Ninja' Morales",
+      "reminderDate": "2026-05-08"
+    },
+    "feac4160ae689a9d8ab142a40e75abf1|overdue|2026-05-09": {
+      "scheduledAt": "2026-04-28T06:02:07.368Z",
+      "type": "overdue",
+      "task": "update AMPD workflows properly so there is stage move at end, not move to workflow",
+      "assignee": "Josh 'The Ninja' Morales",
+      "reminderDate": "2026-05-09"
+    },
+    "feac4160ae689a9d8ab142a40e75abf1|overdue|2026-05-10": {
+      "scheduledAt": "2026-04-28T06:02:08.310Z",
+      "type": "overdue",
+      "task": "update AMPD workflows properly so there is stage move at end, not move to workflow",
+      "assignee": "Josh 'The Ninja' Morales",
+      "reminderDate": "2026-05-10"
+    },
+    "feac4160ae689a9d8ab142a40e75abf1|overdue|2026-05-11": {
+      "scheduledAt": "2026-04-28T06:02:09.227Z",
+      "type": "overdue",
+      "task": "update AMPD workflows properly so there is stage move at end, not move to workflow",
+      "assignee": "Josh 'The Ninja' Morales",
+      "reminderDate": "2026-05-11"
+    },
+    "feac4160ae689a9d8ab142a40e75abf1|overdue|2026-05-12": {
+      "scheduledAt": "2026-04-28T06:02:10.234Z",
+      "type": "overdue",
+      "task": "update AMPD workflows properly so there is stage move at end, not move to workflow",
+      "assignee": "Josh 'The Ninja' Morales",
+      "reminderDate": "2026-05-12"
+    },
+    "feac4160ae689a9d8ab142a40e75abf1|overdue|2026-05-13": {
+      "scheduledAt": "2026-04-28T06:02:11.455Z",
+      "type": "overdue",
+      "task": "update AMPD workflows properly so there is stage move at end, not move to workflow",
+      "assignee": "Josh 'The Ninja' Morales",
+      "reminderDate": "2026-05-13"
+    },
+    "feac4160ae689a9d8ab142a40e75abf1|overdue|2026-05-14": {
+      "scheduledAt": "2026-04-28T06:02:12.468Z",
+      "type": "overdue",
+      "task": "update AMPD workflows properly so there is stage move at end, not move to workflow",
+      "assignee": "Josh 'The Ninja' Morales",
+      "reminderDate": "2026-05-14"
+    },
+    "feac4160ae689a9d8ab142a40e75abf1|overdue|2026-05-15": {
+      "scheduledAt": "2026-04-28T06:02:13.411Z",
+      "type": "overdue",
+      "task": "update AMPD workflows properly so there is stage move at end, not move to workflow",
+      "assignee": "Josh 'The Ninja' Morales",
+      "reminderDate": "2026-05-15"
+    },
+    "feac4160ae689a9d8ab142a40e75abf1|overdue|2026-05-16": {
+      "scheduledAt": "2026-04-28T06:02:14.340Z",
+      "type": "overdue",
+      "task": "update AMPD workflows properly so there is stage move at end, not move to workflow",
+      "assignee": "Josh 'The Ninja' Morales",
+      "reminderDate": "2026-05-16"
+    },
+    "feac4160ae689a9d8ab142a40e75abf1|overdue|2026-05-17": {
+      "scheduledAt": "2026-04-28T06:02:15.427Z",
+      "type": "overdue",
+      "task": "update AMPD workflows properly so there is stage move at end, not move to workflow",
+      "assignee": "Josh 'The Ninja' Morales",
+      "reminderDate": "2026-05-17"
+    },
+    "feac4160ae689a9d8ab142a40e75abf1|overdue|2026-05-18": {
+      "scheduledAt": "2026-04-28T06:02:16.377Z",
+      "type": "overdue",
+      "task": "update AMPD workflows properly so there is stage move at end, not move to workflow",
+      "assignee": "Josh 'The Ninja' Morales",
+      "reminderDate": "2026-05-18"
+    },
+    "feac4160ae689a9d8ab142a40e75abf1|overdue|2026-05-19": {
+      "scheduledAt": "2026-04-28T06:02:17.346Z",
+      "type": "overdue",
+      "task": "update AMPD workflows properly so there is stage move at end, not move to workflow",
+      "assignee": "Josh 'The Ninja' Morales",
+      "reminderDate": "2026-05-19"
+    },
+    "feac4160ae689a9d8ab142a40e75abf1|overdue|2026-05-20": {
+      "scheduledAt": "2026-04-28T06:02:18.278Z",
+      "type": "overdue",
+      "task": "update AMPD workflows properly so there is stage move at end, not move to workflow",
+      "assignee": "Josh 'The Ninja' Morales",
+      "reminderDate": "2026-05-20"
+    },
+    "feac4160ae689a9d8ab142a40e75abf1|overdue|2026-05-21": {
+      "scheduledAt": "2026-04-28T06:02:19.226Z",
+      "type": "overdue",
+      "task": "update AMPD workflows properly so there is stage move at end, not move to workflow",
+      "assignee": "Josh 'The Ninja' Morales",
+      "reminderDate": "2026-05-21"
+    },
+    "feac4160ae689a9d8ab142a40e75abf1|overdue|2026-05-22": {
+      "scheduledAt": "2026-04-28T06:02:20.742Z",
+      "type": "overdue",
+      "task": "update AMPD workflows properly so there is stage move at end, not move to workflow",
+      "assignee": "Josh 'The Ninja' Morales",
+      "reminderDate": "2026-05-22"
+    },
+    "feac4160ae689a9d8ab142a40e75abf1|overdue|2026-05-23": {
+      "scheduledAt": "2026-04-28T06:02:21.744Z",
+      "type": "overdue",
+      "task": "update AMPD workflows properly so there is stage move at end, not move to workflow",
+      "assignee": "Josh 'The Ninja' Morales",
+      "reminderDate": "2026-05-23"
+    },
+    "feac4160ae689a9d8ab142a40e75abf1|overdue|2026-05-24": {
+      "scheduledAt": "2026-04-28T06:02:22.677Z",
+      "type": "overdue",
+      "task": "update AMPD workflows properly so there is stage move at end, not move to workflow",
+      "assignee": "Josh 'The Ninja' Morales",
+      "reminderDate": "2026-05-24"
+    },
+    "feac4160ae689a9d8ab142a40e75abf1|overdue|2026-05-25": {
+      "scheduledAt": "2026-04-28T06:02:23.646Z",
+      "type": "overdue",
+      "task": "update AMPD workflows properly so there is stage move at end, not move to workflow",
+      "assignee": "Josh 'The Ninja' Morales",
+      "reminderDate": "2026-05-25"
+    },
+    "feac4160ae689a9d8ab142a40e75abf1|overdue|2026-05-26": {
+      "scheduledAt": "2026-04-28T06:02:24.586Z",
+      "type": "overdue",
+      "task": "update AMPD workflows properly so there is stage move at end, not move to workflow",
+      "assignee": "Josh 'The Ninja' Morales",
+      "reminderDate": "2026-05-26"
+    },
+    "feac4160ae689a9d8ab142a40e75abf1|overdue|2026-05-27": {
+      "scheduledAt": "2026-04-28T06:02:25.602Z",
+      "type": "overdue",
+      "task": "update AMPD workflows properly so there is stage move at end, not move to workflow",
+      "assignee": "Josh 'The Ninja' Morales",
+      "reminderDate": "2026-05-27"
+    },
+    "feac4160ae689a9d8ab142a40e75abf1|overdue|2026-05-28": {
+      "scheduledAt": "2026-04-28T06:02:26.544Z",
+      "type": "overdue",
+      "task": "update AMPD workflows properly so there is stage move at end, not move to workflow",
+      "assignee": "Josh 'The Ninja' Morales",
+      "reminderDate": "2026-05-28"
+    },
+    "feac4160ae689a9d8ab142a40e75abf1|overdue|2026-05-29": {
+      "scheduledAt": "2026-04-28T06:02:27.457Z",
+      "type": "overdue",
+      "task": "update AMPD workflows properly so there is stage move at end, not move to workflow",
+      "assignee": "Josh 'The Ninja' Morales",
+      "reminderDate": "2026-05-29"
+    },
+    "feac4160ae689a9d8ab142a40e75abf1|overdue|2026-05-30": {
+      "scheduledAt": "2026-04-28T06:02:28.414Z",
+      "type": "overdue",
+      "task": "update AMPD workflows properly so there is stage move at end, not move to workflow",
+      "assignee": "Josh 'The Ninja' Morales",
+      "reminderDate": "2026-05-30"
+    },
+    "feac4160ae689a9d8ab142a40e75abf1|overdue|2026-05-31": {
+      "scheduledAt": "2026-04-28T06:02:29.391Z",
+      "type": "overdue",
+      "task": "update AMPD workflows properly so there is stage move at end, not move to workflow",
+      "assignee": "Josh 'The Ninja' Morales",
+      "reminderDate": "2026-05-31"
+    },
+    "feac4160ae689a9d8ab142a40e75abf1|overdue|2026-06-01": {
+      "scheduledAt": "2026-04-28T06:02:30.367Z",
+      "type": "overdue",
+      "task": "update AMPD workflows properly so there is stage move at end, not move to workflow",
+      "assignee": "Josh 'The Ninja' Morales",
+      "reminderDate": "2026-06-01"
+    },
+    "feac4160ae689a9d8ab142a40e75abf1|overdue|2026-06-02": {
+      "scheduledAt": "2026-04-28T06:02:31.307Z",
+      "type": "overdue",
+      "task": "update AMPD workflows properly so there is stage move at end, not move to workflow",
+      "assignee": "Josh 'The Ninja' Morales",
+      "reminderDate": "2026-06-02"
+    },
+    "feac4160ae689a9d8ab142a40e75abf1|overdue|2026-06-03": {
+      "scheduledAt": "2026-04-28T06:02:32.283Z",
+      "type": "overdue",
+      "task": "update AMPD workflows properly so there is stage move at end, not move to workflow",
+      "assignee": "Josh 'The Ninja' Morales",
+      "reminderDate": "2026-06-03"
+    },
+    "feac4160ae689a9d8ab142a40e75abf1|overdue|2026-06-04": {
+      "scheduledAt": "2026-04-28T06:02:33.238Z",
+      "type": "overdue",
+      "task": "update AMPD workflows properly so there is stage move at end, not move to workflow",
+      "assignee": "Josh 'The Ninja' Morales",
+      "reminderDate": "2026-06-04"
+    },
+    "feac4160ae689a9d8ab142a40e75abf1|overdue|2026-06-05": {
+      "scheduledAt": "2026-04-28T06:02:34.427Z",
+      "type": "overdue",
+      "task": "update AMPD workflows properly so there is stage move at end, not move to workflow",
+      "assignee": "Josh 'The Ninja' Morales",
+      "reminderDate": "2026-06-05"
+    },
+    "feac4160ae689a9d8ab142a40e75abf1|overdue|2026-06-06": {
+      "scheduledAt": "2026-04-28T06:02:35.344Z",
+      "type": "overdue",
+      "task": "update AMPD workflows properly so there is stage move at end, not move to workflow",
+      "assignee": "Josh 'The Ninja' Morales",
+      "reminderDate": "2026-06-06"
     }
   },
   "scheduledMessageIds": {
@@ -23988,8 +24240,418 @@
         "channel": "C05HV4SQD6G",
         "messageId": "Q0B0ATYHZ9A"
       }
+    ],
+    "feac4160ae689a9d8ab142a40e75abf1": [
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B0364Q0UB"
+      },
+      {
+        "channel": "U07FVUF09T7",
+        "messageId": "Q0B0D58MVJ8"
+      },
+      {
+        "channel": "C093VPK55NF",
+        "messageId": "Q0B0D58FMDJ"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B09HBTRA6"
+      },
+      {
+        "channel": "U07FVUF09T7",
+        "messageId": "Q0B09H7RRBL"
+      },
+      {
+        "channel": "C093VPK55NF",
+        "messageId": "Q0B13RE9XFA"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0AV83T6SUX"
+      },
+      {
+        "channel": "U07FVUF09T7",
+        "messageId": "Q0AV83T9LHM"
+      },
+      {
+        "channel": "C093VPK55NF",
+        "messageId": "Q0B09HCJ4EN"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B065CRN05"
+      },
+      {
+        "channel": "U07FVUF09T7",
+        "messageId": "Q0B09HCNC9G"
+      },
+      {
+        "channel": "C093VPK55NF",
+        "messageId": "Q0B07FG5SLE"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B0364EUQ3"
+      },
+      {
+        "channel": "U07FVUF09T7",
+        "messageId": "Q0B0NEBL24R"
+      },
+      {
+        "channel": "C093VPK55NF",
+        "messageId": "Q0AV83TF2JK"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B13RF5PB2"
+      },
+      {
+        "channel": "U07FVUF09T7",
+        "messageId": "Q0B13RFHU1W"
+      },
+      {
+        "channel": "C093VPK55NF",
+        "messageId": "Q0B0D59GF0C"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B07FGJALW"
+      },
+      {
+        "channel": "U07FVUF09T7",
+        "messageId": "Q0B0D59JXS8"
+      },
+      {
+        "channel": "C093VPK55NF",
+        "messageId": "Q0B07FGH3JS"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0AV83U3SNB"
+      },
+      {
+        "channel": "U07FVUF09T7",
+        "messageId": "Q0B09HCTX0S"
+      },
+      {
+        "channel": "C093VPK55NF",
+        "messageId": "Q0B07FGKV5L"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B065DNWRK"
+      },
+      {
+        "channel": "U07FVUF09T7",
+        "messageId": "Q0B0D59B7NG"
+      },
+      {
+        "channel": "C093VPK55NF",
+        "messageId": "Q0B13RF9Z4Y"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0AV83PC04X"
+      },
+      {
+        "channel": "U07FVUF09T7",
+        "messageId": "Q0B13RFG5L0"
+      },
+      {
+        "channel": "C093VPK55NF",
+        "messageId": "Q0B09HCSE6N"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B065DNKNZ"
+      },
+      {
+        "channel": "U07FVUF09T7",
+        "messageId": "Q0B065DUB29"
+      },
+      {
+        "channel": "C093VPK55NF",
+        "messageId": "Q0AV83U8SHM"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B13RG3XK2"
+      },
+      {
+        "channel": "U07FVUF09T7",
+        "messageId": "Q0B09HD1TDY"
+      },
+      {
+        "channel": "C093VPK55NF",
+        "messageId": "Q0B0D5A8K7E"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B07FHGJP8"
+      },
+      {
+        "channel": "U07FVUF09T7",
+        "messageId": "Q0B13RFTKL0"
+      },
+      {
+        "channel": "C093VPK55NF",
+        "messageId": "Q0B13RG291N"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B0NECKT97"
+      },
+      {
+        "channel": "U07FVUF09T7",
+        "messageId": "Q0B07FD8PRC"
+      },
+      {
+        "channel": "C093VPK55NF",
+        "messageId": "Q0AV83UAY87"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B07FHEBHC"
+      },
+      {
+        "channel": "U07FVUF09T7",
+        "messageId": "Q0B0366EUAF"
+      },
+      {
+        "channel": "C093VPK55NF",
+        "messageId": "Q0AV83UQUTH"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B065E1J77"
+      },
+      {
+        "channel": "U07FVUF09T7",
+        "messageId": "Q0B0NECDC3B"
+      },
+      {
+        "channel": "C093VPK55NF",
+        "messageId": "Q0AV83U8A5D"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0AV83V16MV"
+      },
+      {
+        "channel": "U07FVUF09T7",
+        "messageId": "Q0B065E9GQM"
+      },
+      {
+        "channel": "C093VPK55NF",
+        "messageId": "Q0B0D5B3AMS"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B07FHPM3Q"
+      },
+      {
+        "channel": "U07FVUF09T7",
+        "messageId": "Q0AV83R2ZHD"
+      },
+      {
+        "channel": "C093VPK55NF",
+        "messageId": "Q0B03666DD1"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B0D5A4FNG"
+      },
+      {
+        "channel": "U07FVUF09T7",
+        "messageId": "Q0B0365UJNP"
+      },
+      {
+        "channel": "C093VPK55NF",
+        "messageId": "Q0B0D5AFFM2"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B09HDRVDG"
+      },
+      {
+        "channel": "U07FVUF09T7",
+        "messageId": "Q0B07FHNKCN"
+      },
+      {
+        "channel": "C093VPK55NF",
+        "messageId": "Q0B065DRB8V"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B13RGSA4Q"
+      },
+      {
+        "channel": "U07FVUF09T7",
+        "messageId": "Q0B13RC40QG"
+      },
+      {
+        "channel": "C093VPK55NF",
+        "messageId": "Q0B09HDTXK4"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B07FJ8R0E"
+      },
+      {
+        "channel": "U07FVUF09T7",
+        "messageId": "Q0B13RH284Q"
+      },
+      {
+        "channel": "C093VPK55NF",
+        "messageId": "Q0AV83V90ET"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B0NED4117"
+      },
+      {
+        "channel": "U07FVUF09T7",
+        "messageId": "Q0AV83TK0TZ"
+      },
+      {
+        "channel": "C093VPK55NF",
+        "messageId": "Q0B0366HTD1"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B0362J44T"
+      },
+      {
+        "channel": "U07FVUF09T7",
+        "messageId": "Q0B13RGSUGG"
+      },
+      {
+        "channel": "C093VPK55NF",
+        "messageId": "Q0B09HEDUUA"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B07FJDDHC"
+      },
+      {
+        "channel": "U07FVUF09T7",
+        "messageId": "Q0B09HE5PFU"
+      },
+      {
+        "channel": "C093VPK55NF",
+        "messageId": "Q0AV83VQ6R5"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B0366K3V1"
+      },
+      {
+        "channel": "U07FVUF09T7",
+        "messageId": "Q0B09HEM03U"
+      },
+      {
+        "channel": "C093VPK55NF",
+        "messageId": "Q0B065ESH53"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B0D5B6QAG"
+      },
+      {
+        "channel": "U07FVUF09T7",
+        "messageId": "Q0B13RH2LTA"
+      },
+      {
+        "channel": "C093VPK55NF",
+        "messageId": "Q0B0367CNN7"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B09HDRN1G"
+      },
+      {
+        "channel": "U07FVUF09T7",
+        "messageId": "Q0AV83W6FPZ"
+      },
+      {
+        "channel": "C093VPK55NF",
+        "messageId": "Q0B0NEE3TU1"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B09HEQ11Q"
+      },
+      {
+        "channel": "U07FVUF09T7",
+        "messageId": "Q0B0D5B8EAY"
+      },
+      {
+        "channel": "C093VPK55NF",
+        "messageId": "Q0B0D5BCJUU"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B07FJGM46"
+      },
+      {
+        "channel": "U07FVUF09T7",
+        "messageId": "Q0B0D58SJJ0"
+      },
+      {
+        "channel": "C093VPK55NF",
+        "messageId": "Q0B065FJ893"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B065ETF5K"
+      },
+      {
+        "channel": "U07FVUF09T7",
+        "messageId": "Q0B0D5BSPEG"
+      },
+      {
+        "channel": "C093VPK55NF",
+        "messageId": "Q0B0D5BMDEY"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B09HEPF8A"
+      },
+      {
+        "channel": "U07FVUF09T7",
+        "messageId": "Q0B13RJ3KL0"
+      },
+      {
+        "channel": "C093VPK55NF",
+        "messageId": "Q0B09HFBM3L"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B0367C9C3"
+      },
+      {
+        "channel": "U07FVUF09T7",
+        "messageId": "Q0B065F5SN9"
+      },
+      {
+        "channel": "C093VPK55NF",
+        "messageId": "Q0B13RHHXR6"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B09HF2V6E"
+      },
+      {
+        "channel": "U07FVUF09T7",
+        "messageId": "Q0B0NEEBU2D"
+      },
+      {
+        "channel": "C093VPK55NF",
+        "messageId": "Q0B07FKRP8E"
+      }
     ]
   },
   "lastWeeklySummaryDate": "2026-W17",
-  "lastRun": "2026-04-27T21:39:14.986Z"
+  "lastRun": "2026-04-28T06:02:35.344Z"
 }
