@@ -1609,6 +1609,20 @@
       "completed": true,
       "completedAt": "2026-04-29T21:43:34.565Z",
       "firstSeenAt": "2026-04-29T21:43:34.565Z"
+    },
+    "92a26789c122b8eb8bfad46b63d453ba": {
+      "task": "add me to Paul Lenskold's channel so I can see his bullet points",
+      "assignee_name": "someone",
+      "assignee_slack_mention": null,
+      "assigned_date": "2026-04-27",
+      "due_date": null,
+      "message_ts": "1777322725.773739",
+      "source_message": "Chrissy 'Queen Bee' Robertson: <!channel> Can someone add me to Paul Lenskold's channel so I can",
+      "assigneeId": null,
+      "messageTs": "1777322725.773739",
+      "completed": false,
+      "completedAt": null,
+      "firstSeenAt": "2026-04-30T11:55:49.601Z"
     }
   },
   "scheduled": {
@@ -16228,6 +16242,13 @@
       "task": "decide on recording/sales assistant software for Google Meet",
       "assignee": "Brandon 'The One' Robertson",
       "reminderDate": "2026-06-01"
+    },
+    "92a26789c122b8eb8bfad46b63d453ba|followup|2026-05-04": {
+      "scheduledAt": "2026-04-30T11:55:50.424Z",
+      "type": "followup",
+      "task": "add me to Paul Lenskold's channel so I can see his bullet points",
+      "assignee": "someone",
+      "reminderDate": "2026-05-04"
     }
   },
   "scheduledMessageIds": {
@@ -24776,8 +24797,14 @@
         "channel": "C05HV4SQD6G",
         "messageId": "Q0B0P5F2A3Y"
       }
+    ],
+    "92a26789c122b8eb8bfad46b63d453ba": [
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B0P882VLK"
+      }
     ]
   },
   "lastWeeklySummaryDate": "2026-W17",
-  "lastRun": "2026-04-30T06:01:43.739Z"
+  "lastRun": "2026-04-30T11:55:50.424Z"
 }
