@@ -1763,6 +1763,20 @@
       "completed": false,
       "completedAt": null,
       "firstSeenAt": "2026-04-30T21:38:39.514Z"
+    },
+    "994cdddd318a2821234ebcc300f426be": {
+      "task": "double check workflow edits make sense",
+      "assignee_name": "Eddie 'Rockstar' Monarrez",
+      "assignee_slack_mention": "@Eddie 'Rockstar' Monarrez",
+      "assigned_date": "2026-04-28",
+      "due_date": null,
+      "message_ts": "1777409405.585089",
+      "source_message": "@Brandon 'The One' Robertson ok, I think I edited them accordingly. @Eddie 'Rockstar' Monarrez doub",
+      "assigneeId": "U02LFUG2WLR",
+      "messageTs": "1777409405.585089",
+      "completed": false,
+      "completedAt": null,
+      "firstSeenAt": "2026-05-01T06:01:48.719Z"
     }
   },
   "scheduled": {
@@ -27911,9 +27925,27 @@
       {
         "channel": "C08R493ESAJ",
         "messageId": "Q0B0Y7TTXCN"
+      },
+      {
+        "channel": "UMCPG3D8A",
+        "messageId": "Q0B0YSH9DJ9"
+      },
+      {
+        "channel": "C08R493ESAJ",
+        "messageId": "Q0B0YSH6H7X"
+      }
+    ],
+    "994cdddd318a2821234ebcc300f426be": [
+      {
+        "channel": "U02LFUG2WLR",
+        "messageId": "Q0B0YSHH953"
+      },
+      {
+        "channel": "C05HPPDCSS1",
+        "messageId": "Q0B15S85UNQ"
       }
     ]
   },
   "lastWeeklySummaryDate": "2026-W17",
-  "lastRun": "2026-04-30T21:41:36.209Z"
+  "lastRun": "2026-05-01T06:01:50.583Z"
 }
