@@ -1777,6 +1777,62 @@
       "completed": false,
       "completedAt": null,
       "firstSeenAt": "2026-05-01T06:01:48.719Z"
+    },
+    "8ca51f041f14cfb9948758cf697c542c": {
+      "task": "review the issue on website - images/icons not showing up, resolve by next tuesday",
+      "assignee_name": "Mark 'Morpheus' Manaog",
+      "assignee_slack_mention": "@Mark 'Morpheus' Manaog",
+      "assigned_date": "2026-04-30",
+      "due_date": "2026-05-06",
+      "message_ts": "1777581159.844739",
+      "source_message": "@Mark 'Morpheus' Manaog please review the issue on <https://ampdworks.com/results/> on our website -",
+      "assigneeId": "U023F61R16F",
+      "messageTs": "1777581159.844739",
+      "completed": false,
+      "completedAt": null,
+      "firstSeenAt": "2026-05-01T10:55:08.904Z"
+    },
+    "952c233ddf813d464ef1a795f628c505": {
+      "task": "double check workflows make sense after Josh's edits",
+      "assignee_name": "Eddie 'Rockstar' Monarrez",
+      "assignee_slack_mention": "@Eddie 'Rockstar' Monarrez",
+      "assigned_date": "2026-04-28",
+      "due_date": null,
+      "message_ts": "1777409405.585089",
+      "source_message": "@Brandon 'The One' Robertson ok, I think I edited them accordingly. @Eddie 'Rockstar' Monarrez d",
+      "assigneeId": "U02LFUG2WLR",
+      "messageTs": "1777409405.585089",
+      "completed": false,
+      "completedAt": null,
+      "firstSeenAt": "2026-05-01T10:55:09.100Z"
+    },
+    "6f4bd0892c1093167349dd28a0457e12": {
+      "task": "delete all subaccount call recordings not in internal companies by this wednesday",
+      "assignee_name": "Christle 'Knows All' Ochigue",
+      "assignee_slack_mention": "@Christle 'Knows All' Ochigue",
+      "assigned_date": "2026-04-27",
+      "due_date": "2026-04-30",
+      "message_ts": "1777319022.215069",
+      "source_message": "@Christle 'Knows All' Ochigue delete all subaccount call recordings not associated with an i",
+      "assigneeId": "UMCPG3D8A",
+      "messageTs": "1777319022.215069",
+      "completed": false,
+      "completedAt": null,
+      "firstSeenAt": "2026-05-01T10:55:09.321Z"
+    },
+    "ddd8b4aa0370eafac5e3a684e433ccd5": {
+      "task": "make sure workflows for AMPD are properly updated with stage moves and workflow fixes",
+      "assignee_name": "Josh 'The Ninja' Morales",
+      "assignee_slack_mention": "@Josh 'The Ninja' Morales",
+      "assigned_date": "2026-04-25",
+      "due_date": "2026-05-07",
+      "message_ts": "1777141886.840759",
+      "source_message": "@Josh 'The Ninja' Morales please make sure our workflows for AMPD are properly updated so t",
+      "assigneeId": "U07FVUF09T7",
+      "messageTs": "1777141886.840759",
+      "completed": true,
+      "completedAt": "2026-05-01T10:55:09.619Z",
+      "firstSeenAt": "2026-05-01T10:55:09.619Z"
     }
   },
   "scheduled": {
@@ -17814,6 +17870,426 @@
       "task": "delete subaccount call recordings not associated with internal company and close accounts",
       "assignee": "Christle 'Knows All' Ochigue",
       "reminderDate": "2026-05-30"
+    },
+    "8ca51f041f14cfb9948758cf697c542c|midpoint|2026-05-03": {
+      "scheduledAt": "2026-05-01T10:55:12.775Z",
+      "type": "midpoint",
+      "task": "review the issue on website - images/icons not showing up, resolve by next tuesday",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-05-03"
+    },
+    "8ca51f041f14cfb9948758cf697c542c|nag|2026-05-04": {
+      "scheduledAt": "2026-05-01T10:55:13.848Z",
+      "type": "nag",
+      "task": "review the issue on website - images/icons not showing up, resolve by next tuesday",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-05-04"
+    },
+    "8ca51f041f14cfb9948758cf697c542c|due|2026-05-06": {
+      "scheduledAt": "2026-05-01T10:55:15.812Z",
+      "type": "due",
+      "task": "review the issue on website - images/icons not showing up, resolve by next tuesday",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-05-06"
+    },
+    "8ca51f041f14cfb9948758cf697c542c|overdue|2026-05-07": {
+      "scheduledAt": "2026-05-01T10:55:16.853Z",
+      "type": "overdue",
+      "task": "review the issue on website - images/icons not showing up, resolve by next tuesday",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-05-07"
+    },
+    "8ca51f041f14cfb9948758cf697c542c|overdue|2026-05-08": {
+      "scheduledAt": "2026-05-01T10:55:17.921Z",
+      "type": "overdue",
+      "task": "review the issue on website - images/icons not showing up, resolve by next tuesday",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-05-08"
+    },
+    "8ca51f041f14cfb9948758cf697c542c|overdue|2026-05-09": {
+      "scheduledAt": "2026-05-01T10:55:18.920Z",
+      "type": "overdue",
+      "task": "review the issue on website - images/icons not showing up, resolve by next tuesday",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-05-09"
+    },
+    "8ca51f041f14cfb9948758cf697c542c|overdue|2026-05-10": {
+      "scheduledAt": "2026-05-01T10:55:19.929Z",
+      "type": "overdue",
+      "task": "review the issue on website - images/icons not showing up, resolve by next tuesday",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-05-10"
+    },
+    "8ca51f041f14cfb9948758cf697c542c|overdue|2026-05-11": {
+      "scheduledAt": "2026-05-01T10:55:20.809Z",
+      "type": "overdue",
+      "task": "review the issue on website - images/icons not showing up, resolve by next tuesday",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-05-11"
+    },
+    "8ca51f041f14cfb9948758cf697c542c|overdue|2026-05-12": {
+      "scheduledAt": "2026-05-01T10:55:21.819Z",
+      "type": "overdue",
+      "task": "review the issue on website - images/icons not showing up, resolve by next tuesday",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-05-12"
+    },
+    "8ca51f041f14cfb9948758cf697c542c|overdue|2026-05-13": {
+      "scheduledAt": "2026-05-01T10:55:22.873Z",
+      "type": "overdue",
+      "task": "review the issue on website - images/icons not showing up, resolve by next tuesday",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-05-13"
+    },
+    "8ca51f041f14cfb9948758cf697c542c|overdue|2026-05-14": {
+      "scheduledAt": "2026-05-01T10:55:23.954Z",
+      "type": "overdue",
+      "task": "review the issue on website - images/icons not showing up, resolve by next tuesday",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-05-14"
+    },
+    "8ca51f041f14cfb9948758cf697c542c|overdue|2026-05-15": {
+      "scheduledAt": "2026-05-01T10:55:24.976Z",
+      "type": "overdue",
+      "task": "review the issue on website - images/icons not showing up, resolve by next tuesday",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-05-15"
+    },
+    "8ca51f041f14cfb9948758cf697c542c|overdue|2026-05-16": {
+      "scheduledAt": "2026-05-01T10:55:25.985Z",
+      "type": "overdue",
+      "task": "review the issue on website - images/icons not showing up, resolve by next tuesday",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-05-16"
+    },
+    "8ca51f041f14cfb9948758cf697c542c|overdue|2026-05-17": {
+      "scheduledAt": "2026-05-01T10:55:26.985Z",
+      "type": "overdue",
+      "task": "review the issue on website - images/icons not showing up, resolve by next tuesday",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-05-17"
+    },
+    "8ca51f041f14cfb9948758cf697c542c|overdue|2026-05-18": {
+      "scheduledAt": "2026-05-01T10:55:28.057Z",
+      "type": "overdue",
+      "task": "review the issue on website - images/icons not showing up, resolve by next tuesday",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-05-18"
+    },
+    "8ca51f041f14cfb9948758cf697c542c|overdue|2026-05-19": {
+      "scheduledAt": "2026-05-01T10:55:29.067Z",
+      "type": "overdue",
+      "task": "review the issue on website - images/icons not showing up, resolve by next tuesday",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-05-19"
+    },
+    "8ca51f041f14cfb9948758cf697c542c|overdue|2026-05-20": {
+      "scheduledAt": "2026-05-01T10:55:30.142Z",
+      "type": "overdue",
+      "task": "review the issue on website - images/icons not showing up, resolve by next tuesday",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-05-20"
+    },
+    "8ca51f041f14cfb9948758cf697c542c|overdue|2026-05-21": {
+      "scheduledAt": "2026-05-01T10:55:31.234Z",
+      "type": "overdue",
+      "task": "review the issue on website - images/icons not showing up, resolve by next tuesday",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-05-21"
+    },
+    "8ca51f041f14cfb9948758cf697c542c|overdue|2026-05-22": {
+      "scheduledAt": "2026-05-01T10:55:32.317Z",
+      "type": "overdue",
+      "task": "review the issue on website - images/icons not showing up, resolve by next tuesday",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-05-22"
+    },
+    "8ca51f041f14cfb9948758cf697c542c|overdue|2026-05-23": {
+      "scheduledAt": "2026-05-01T10:55:33.387Z",
+      "type": "overdue",
+      "task": "review the issue on website - images/icons not showing up, resolve by next tuesday",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-05-23"
+    },
+    "8ca51f041f14cfb9948758cf697c542c|overdue|2026-05-24": {
+      "scheduledAt": "2026-05-01T10:55:34.452Z",
+      "type": "overdue",
+      "task": "review the issue on website - images/icons not showing up, resolve by next tuesday",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-05-24"
+    },
+    "8ca51f041f14cfb9948758cf697c542c|overdue|2026-05-25": {
+      "scheduledAt": "2026-05-01T10:55:35.531Z",
+      "type": "overdue",
+      "task": "review the issue on website - images/icons not showing up, resolve by next tuesday",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-05-25"
+    },
+    "8ca51f041f14cfb9948758cf697c542c|overdue|2026-05-26": {
+      "scheduledAt": "2026-05-01T10:55:36.661Z",
+      "type": "overdue",
+      "task": "review the issue on website - images/icons not showing up, resolve by next tuesday",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-05-26"
+    },
+    "8ca51f041f14cfb9948758cf697c542c|overdue|2026-05-27": {
+      "scheduledAt": "2026-05-01T10:55:37.721Z",
+      "type": "overdue",
+      "task": "review the issue on website - images/icons not showing up, resolve by next tuesday",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-05-27"
+    },
+    "8ca51f041f14cfb9948758cf697c542c|overdue|2026-05-28": {
+      "scheduledAt": "2026-05-01T10:55:38.805Z",
+      "type": "overdue",
+      "task": "review the issue on website - images/icons not showing up, resolve by next tuesday",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-05-28"
+    },
+    "8ca51f041f14cfb9948758cf697c542c|overdue|2026-05-29": {
+      "scheduledAt": "2026-05-01T10:55:39.859Z",
+      "type": "overdue",
+      "task": "review the issue on website - images/icons not showing up, resolve by next tuesday",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-05-29"
+    },
+    "8ca51f041f14cfb9948758cf697c542c|overdue|2026-05-30": {
+      "scheduledAt": "2026-05-01T10:55:40.928Z",
+      "type": "overdue",
+      "task": "review the issue on website - images/icons not showing up, resolve by next tuesday",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-05-30"
+    },
+    "8ca51f041f14cfb9948758cf697c542c|overdue|2026-05-31": {
+      "scheduledAt": "2026-05-01T10:55:42.014Z",
+      "type": "overdue",
+      "task": "review the issue on website - images/icons not showing up, resolve by next tuesday",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-05-31"
+    },
+    "8ca51f041f14cfb9948758cf697c542c|overdue|2026-06-01": {
+      "scheduledAt": "2026-05-01T10:55:43.071Z",
+      "type": "overdue",
+      "task": "review the issue on website - images/icons not showing up, resolve by next tuesday",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-06-01"
+    },
+    "8ca51f041f14cfb9948758cf697c542c|overdue|2026-06-02": {
+      "scheduledAt": "2026-05-01T10:55:44.141Z",
+      "type": "overdue",
+      "task": "review the issue on website - images/icons not showing up, resolve by next tuesday",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-06-02"
+    },
+    "8ca51f041f14cfb9948758cf697c542c|overdue|2026-06-03": {
+      "scheduledAt": "2026-05-01T10:55:45.211Z",
+      "type": "overdue",
+      "task": "review the issue on website - images/icons not showing up, resolve by next tuesday",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-06-03"
+    },
+    "8ca51f041f14cfb9948758cf697c542c|overdue|2026-06-04": {
+      "scheduledAt": "2026-05-01T10:55:46.277Z",
+      "type": "overdue",
+      "task": "review the issue on website - images/icons not showing up, resolve by next tuesday",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-06-04"
+    },
+    "8ca51f041f14cfb9948758cf697c542c|overdue|2026-06-05": {
+      "scheduledAt": "2026-05-01T10:55:47.335Z",
+      "type": "overdue",
+      "task": "review the issue on website - images/icons not showing up, resolve by next tuesday",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-06-05"
+    },
+    "6f4bd0892c1093167349dd28a0457e12|overdue|2026-05-01": {
+      "scheduledAt": "2026-05-01T10:55:49.483Z",
+      "type": "overdue",
+      "task": "delete all subaccount call recordings not in internal companies by this wednesday",
+      "assignee": "Christle 'Knows All' Ochigue",
+      "reminderDate": "2026-05-01"
+    },
+    "6f4bd0892c1093167349dd28a0457e12|overdue|2026-05-02": {
+      "scheduledAt": "2026-05-01T10:55:50.574Z",
+      "type": "overdue",
+      "task": "delete all subaccount call recordings not in internal companies by this wednesday",
+      "assignee": "Christle 'Knows All' Ochigue",
+      "reminderDate": "2026-05-02"
+    },
+    "6f4bd0892c1093167349dd28a0457e12|overdue|2026-05-03": {
+      "scheduledAt": "2026-05-01T10:55:51.639Z",
+      "type": "overdue",
+      "task": "delete all subaccount call recordings not in internal companies by this wednesday",
+      "assignee": "Christle 'Knows All' Ochigue",
+      "reminderDate": "2026-05-03"
+    },
+    "6f4bd0892c1093167349dd28a0457e12|overdue|2026-05-06": {
+      "scheduledAt": "2026-05-01T10:55:54.862Z",
+      "type": "overdue",
+      "task": "delete all subaccount call recordings not in internal companies by this wednesday",
+      "assignee": "Christle 'Knows All' Ochigue",
+      "reminderDate": "2026-05-06"
+    },
+    "6f4bd0892c1093167349dd28a0457e12|overdue|2026-05-08": {
+      "scheduledAt": "2026-05-01T10:55:57.013Z",
+      "type": "overdue",
+      "task": "delete all subaccount call recordings not in internal companies by this wednesday",
+      "assignee": "Christle 'Knows All' Ochigue",
+      "reminderDate": "2026-05-08"
+    },
+    "6f4bd0892c1093167349dd28a0457e12|overdue|2026-05-09": {
+      "scheduledAt": "2026-05-01T10:55:58.083Z",
+      "type": "overdue",
+      "task": "delete all subaccount call recordings not in internal companies by this wednesday",
+      "assignee": "Christle 'Knows All' Ochigue",
+      "reminderDate": "2026-05-09"
+    },
+    "6f4bd0892c1093167349dd28a0457e12|overdue|2026-05-10": {
+      "scheduledAt": "2026-05-01T10:55:59.137Z",
+      "type": "overdue",
+      "task": "delete all subaccount call recordings not in internal companies by this wednesday",
+      "assignee": "Christle 'Knows All' Ochigue",
+      "reminderDate": "2026-05-10"
+    },
+    "6f4bd0892c1093167349dd28a0457e12|overdue|2026-05-11": {
+      "scheduledAt": "2026-05-01T10:56:00.212Z",
+      "type": "overdue",
+      "task": "delete all subaccount call recordings not in internal companies by this wednesday",
+      "assignee": "Christle 'Knows All' Ochigue",
+      "reminderDate": "2026-05-11"
+    },
+    "6f4bd0892c1093167349dd28a0457e12|overdue|2026-05-12": {
+      "scheduledAt": "2026-05-01T10:56:01.295Z",
+      "type": "overdue",
+      "task": "delete all subaccount call recordings not in internal companies by this wednesday",
+      "assignee": "Christle 'Knows All' Ochigue",
+      "reminderDate": "2026-05-12"
+    },
+    "6f4bd0892c1093167349dd28a0457e12|overdue|2026-05-13": {
+      "scheduledAt": "2026-05-01T10:56:02.366Z",
+      "type": "overdue",
+      "task": "delete all subaccount call recordings not in internal companies by this wednesday",
+      "assignee": "Christle 'Knows All' Ochigue",
+      "reminderDate": "2026-05-13"
+    },
+    "6f4bd0892c1093167349dd28a0457e12|overdue|2026-05-14": {
+      "scheduledAt": "2026-05-01T10:56:03.613Z",
+      "type": "overdue",
+      "task": "delete all subaccount call recordings not in internal companies by this wednesday",
+      "assignee": "Christle 'Knows All' Ochigue",
+      "reminderDate": "2026-05-14"
+    },
+    "6f4bd0892c1093167349dd28a0457e12|overdue|2026-05-15": {
+      "scheduledAt": "2026-05-01T10:56:04.685Z",
+      "type": "overdue",
+      "task": "delete all subaccount call recordings not in internal companies by this wednesday",
+      "assignee": "Christle 'Knows All' Ochigue",
+      "reminderDate": "2026-05-15"
+    },
+    "6f4bd0892c1093167349dd28a0457e12|overdue|2026-05-16": {
+      "scheduledAt": "2026-05-01T10:56:05.748Z",
+      "type": "overdue",
+      "task": "delete all subaccount call recordings not in internal companies by this wednesday",
+      "assignee": "Christle 'Knows All' Ochigue",
+      "reminderDate": "2026-05-16"
+    },
+    "6f4bd0892c1093167349dd28a0457e12|overdue|2026-05-17": {
+      "scheduledAt": "2026-05-01T10:56:06.834Z",
+      "type": "overdue",
+      "task": "delete all subaccount call recordings not in internal companies by this wednesday",
+      "assignee": "Christle 'Knows All' Ochigue",
+      "reminderDate": "2026-05-17"
+    },
+    "6f4bd0892c1093167349dd28a0457e12|overdue|2026-05-18": {
+      "scheduledAt": "2026-05-01T10:56:07.899Z",
+      "type": "overdue",
+      "task": "delete all subaccount call recordings not in internal companies by this wednesday",
+      "assignee": "Christle 'Knows All' Ochigue",
+      "reminderDate": "2026-05-18"
+    },
+    "6f4bd0892c1093167349dd28a0457e12|overdue|2026-05-19": {
+      "scheduledAt": "2026-05-01T10:56:08.958Z",
+      "type": "overdue",
+      "task": "delete all subaccount call recordings not in internal companies by this wednesday",
+      "assignee": "Christle 'Knows All' Ochigue",
+      "reminderDate": "2026-05-19"
+    },
+    "6f4bd0892c1093167349dd28a0457e12|overdue|2026-05-20": {
+      "scheduledAt": "2026-05-01T10:56:10.018Z",
+      "type": "overdue",
+      "task": "delete all subaccount call recordings not in internal companies by this wednesday",
+      "assignee": "Christle 'Knows All' Ochigue",
+      "reminderDate": "2026-05-20"
+    },
+    "6f4bd0892c1093167349dd28a0457e12|overdue|2026-05-21": {
+      "scheduledAt": "2026-05-01T10:56:11.084Z",
+      "type": "overdue",
+      "task": "delete all subaccount call recordings not in internal companies by this wednesday",
+      "assignee": "Christle 'Knows All' Ochigue",
+      "reminderDate": "2026-05-21"
+    },
+    "6f4bd0892c1093167349dd28a0457e12|overdue|2026-05-22": {
+      "scheduledAt": "2026-05-01T10:56:12.156Z",
+      "type": "overdue",
+      "task": "delete all subaccount call recordings not in internal companies by this wednesday",
+      "assignee": "Christle 'Knows All' Ochigue",
+      "reminderDate": "2026-05-22"
+    },
+    "6f4bd0892c1093167349dd28a0457e12|overdue|2026-05-23": {
+      "scheduledAt": "2026-05-01T10:56:13.225Z",
+      "type": "overdue",
+      "task": "delete all subaccount call recordings not in internal companies by this wednesday",
+      "assignee": "Christle 'Knows All' Ochigue",
+      "reminderDate": "2026-05-23"
+    },
+    "6f4bd0892c1093167349dd28a0457e12|overdue|2026-05-24": {
+      "scheduledAt": "2026-05-01T10:56:14.313Z",
+      "type": "overdue",
+      "task": "delete all subaccount call recordings not in internal companies by this wednesday",
+      "assignee": "Christle 'Knows All' Ochigue",
+      "reminderDate": "2026-05-24"
+    },
+    "6f4bd0892c1093167349dd28a0457e12|overdue|2026-05-25": {
+      "scheduledAt": "2026-05-01T10:56:15.427Z",
+      "type": "overdue",
+      "task": "delete all subaccount call recordings not in internal companies by this wednesday",
+      "assignee": "Christle 'Knows All' Ochigue",
+      "reminderDate": "2026-05-25"
+    },
+    "6f4bd0892c1093167349dd28a0457e12|overdue|2026-05-26": {
+      "scheduledAt": "2026-05-01T10:56:16.493Z",
+      "type": "overdue",
+      "task": "delete all subaccount call recordings not in internal companies by this wednesday",
+      "assignee": "Christle 'Knows All' Ochigue",
+      "reminderDate": "2026-05-26"
+    },
+    "6f4bd0892c1093167349dd28a0457e12|overdue|2026-05-27": {
+      "scheduledAt": "2026-05-01T10:56:17.558Z",
+      "type": "overdue",
+      "task": "delete all subaccount call recordings not in internal companies by this wednesday",
+      "assignee": "Christle 'Knows All' Ochigue",
+      "reminderDate": "2026-05-27"
+    },
+    "6f4bd0892c1093167349dd28a0457e12|overdue|2026-05-28": {
+      "scheduledAt": "2026-05-01T10:56:18.629Z",
+      "type": "overdue",
+      "task": "delete all subaccount call recordings not in internal companies by this wednesday",
+      "assignee": "Christle 'Knows All' Ochigue",
+      "reminderDate": "2026-05-28"
+    },
+    "6f4bd0892c1093167349dd28a0457e12|overdue|2026-05-29": {
+      "scheduledAt": "2026-05-01T10:56:19.702Z",
+      "type": "overdue",
+      "task": "delete all subaccount call recordings not in internal companies by this wednesday",
+      "assignee": "Christle 'Knows All' Ochigue",
+      "reminderDate": "2026-05-29"
+    },
+    "6f4bd0892c1093167349dd28a0457e12|overdue|2026-05-30": {
+      "scheduledAt": "2026-05-01T10:56:20.758Z",
+      "type": "overdue",
+      "task": "delete all subaccount call recordings not in internal companies by this wednesday",
+      "assignee": "Christle 'Knows All' Ochigue",
+      "reminderDate": "2026-05-30"
     }
   },
   "scheduledMessageIds": {
@@ -27933,6 +28409,14 @@
       {
         "channel": "C08R493ESAJ",
         "messageId": "Q0B0YSH6H7X"
+      },
+      {
+        "channel": "UMCPG3D8A",
+        "messageId": "Q0B0MUWG0RM"
+      },
+      {
+        "channel": "C08R493ESAJ",
+        "messageId": "Q0B1XM8S2BS"
       }
     ],
     "994cdddd318a2821234ebcc300f426be": [
@@ -27943,9 +28427,783 @@
       {
         "channel": "C05HPPDCSS1",
         "messageId": "Q0B15S85UNQ"
+      },
+      {
+        "channel": "U02LFUG2WLR",
+        "messageId": "Q0B10127HGV"
+      },
+      {
+        "channel": "C05HPPDCSS1",
+        "messageId": "Q0B11B7N64E"
+      }
+    ],
+    "8ca51f041f14cfb9948758cf697c542c": [
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B0X1SCXB5"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0B0MUVCXMM"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0B1XM9B73J"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B0X1RUK0T"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0B1XM9027J"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0B0X1RLD8B"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0B1713EDD2"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0B1XM9JPDE"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B0X1SK34K"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0B0MUX1VNK"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0B0X1S4B6F"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B1XM9MYNL"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0B1G9W1LEM"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0B1712E136"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B1G9WQTND"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0B1012UTFF"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0B0X1SB1A7"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B1713CXJQ"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0B0MUWPE3Z"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0B1713K7KN"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B1XM9LWGG"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0B101372BX"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0B1013UYDT"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B1712NTC4"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0B1XMAACPJ"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0B1XM90R2L"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B1G9WGWL9"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0B1013DN0M"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0B1XM9A18Q"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B13D39R18"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0B17136812"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0B13D31Q02"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B17133DBN"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0B1XMBMY80"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0B17138E6Q"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B13D3HD0A"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0B1G9WRUM7"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0B1XMB0B6U"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B13D3AXEE"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0B1013L82Z"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0B1XM9M10Q"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B1XMA5XQ8"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0B1713KCCC"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0B0X1TNSBD"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B11B93XML"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0B1G9XL29X"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0B1713DKL4"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B10139PT7"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0B13D30SMQ"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0B11B9KQTY"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B0MUXTE9M"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0B1G9XB3K3"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0B11B8R570"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B13D2KP1Q"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0B0MUWT2KH"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0B1XM90XFA"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B11B8RVGE"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0B11B9B3EJ"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0B1014KZ6H"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B13D2ESUA"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0B1G9Y9WEM"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0B1G9XAS65"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B1G9Y0Q8H"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0B1014LNRK"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0B0X1SMBA7"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B171375DJ"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0B0MUXRPRD"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0B11B9TU3Y"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B1013TEJZ"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0B171438CC"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0B1014PJMT"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B1714F2QL"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0B0MUX8JCX"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0B13D4HJ4A"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B0MUXMPSB"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0B10142M4M"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0B1G9Y2S1X"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B13D3KNP4"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0B13D4N8F4"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0B11B9QZU6"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B0MUX47FH"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0B1010TYF7"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0B1G9YAYPK"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B0X1UJNSF"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0B1G9Y8NUR"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0B10154H1T"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B0MUXQ3FZ"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0B0X1TAUCT"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0B0X1TKKK5"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B10148SNR"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0B1014P8ER"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0B11BA4294"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B13D3V62W"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0B0MUY93PZ"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0B1014PN93"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B13D395MY"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0B0X1U0VHR"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0B1XMB4RME"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B10143S3F"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0B13D3T61Y"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0B0MUYL1QX"
+      }
+    ],
+    "952c233ddf813d464ef1a795f628c505": [
+      {
+        "channel": "U02LFUG2WLR",
+        "messageId": "Q0B1G9XNF41"
+      },
+      {
+        "channel": "C05HPPDCSS1",
+        "messageId": "Q0B0X1TSVQT"
+      }
+    ],
+    "6f4bd0892c1093167349dd28a0457e12": [
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B1XMBFCE4"
+      },
+      {
+        "channel": "UMCPG3D8A",
+        "messageId": "Q0B0X1U92UT"
+      },
+      {
+        "channel": "C08R493ESAJ",
+        "messageId": "Q0B1XMBCX8Q"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B1G9YHPPB"
+      },
+      {
+        "channel": "UMCPG3D8A",
+        "messageId": "Q0B11B9QH70"
+      },
+      {
+        "channel": "C08R493ESAJ",
+        "messageId": "Q0B13D4SDAN"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B0MUYLSF9"
+      },
+      {
+        "channel": "UMCPG3D8A",
+        "messageId": "Q0B1714F26Q"
+      },
+      {
+        "channel": "C08R493ESAJ",
+        "messageId": "Q0B0MUY6RC7"
+      },
+      {
+        "channel": "UMCPG3D8A",
+        "messageId": "Q0B1G9ZMASD"
+      },
+      {
+        "channel": "C08R493ESAJ",
+        "messageId": "Q0B1715BW68"
+      },
+      {
+        "channel": "UMCPG3D8A",
+        "messageId": "Q0B1XMBCC1E"
+      },
+      {
+        "channel": "C08R493ESAJ",
+        "messageId": "Q0B1714Q35J"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B0MUY55MM"
+      },
+      {
+        "channel": "UMCPG3D8A",
+        "messageId": "Q0B1XMBBLBS"
+      },
+      {
+        "channel": "C08R493ESAJ",
+        "messageId": "Q0B1G9YEKCH"
+      },
+      {
+        "channel": "UMCPG3D8A",
+        "messageId": "Q0B1XMBM0LQ"
+      },
+      {
+        "channel": "C08R493ESAJ",
+        "messageId": "Q0B1715MX7W"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B0X1UEYPM"
+      },
+      {
+        "channel": "UMCPG3D8A",
+        "messageId": "Q0B1G9Z1DA5"
+      },
+      {
+        "channel": "C08R493ESAJ",
+        "messageId": "Q0B11BBEY78"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B17159VSQ"
+      },
+      {
+        "channel": "UMCPG3D8A",
+        "messageId": "Q0B0MUY2VB9"
+      },
+      {
+        "channel": "C08R493ESAJ",
+        "messageId": "Q0B13D4E7DY"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B171504EQ"
+      },
+      {
+        "channel": "UMCPG3D8A",
+        "messageId": "Q0B0MUYLBJB"
+      },
+      {
+        "channel": "C08R493ESAJ",
+        "messageId": "Q0B13D5K1FC"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B1714KX9S"
+      },
+      {
+        "channel": "UMCPG3D8A",
+        "messageId": "Q0B1G9YJXNV"
+      },
+      {
+        "channel": "C08R493ESAJ",
+        "messageId": "Q0B1015NP0D"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B1015FS0M"
+      },
+      {
+        "channel": "UMCPG3D8A",
+        "messageId": "Q0B17157RD2"
+      },
+      {
+        "channel": "C08R493ESAJ",
+        "messageId": "Q0B10157HA9"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B1G9Z962D"
+      },
+      {
+        "channel": "UMCPG3D8A",
+        "messageId": "Q0B1015TP0D"
+      },
+      {
+        "channel": "C08R493ESAJ",
+        "messageId": "Q0B0MUZCSRM"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B11BC76AJ"
+      },
+      {
+        "channel": "UMCPG3D8A",
+        "messageId": "Q0B1715H8P6"
+      },
+      {
+        "channel": "C08R493ESAJ",
+        "messageId": "Q0B1XMBN8JU"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B0X1UKF8B"
+      },
+      {
+        "channel": "UMCPG3D8A",
+        "messageId": "Q0B11BBUWQN"
+      },
+      {
+        "channel": "C08R493ESAJ",
+        "messageId": "Q0B1XMC0QSU"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B1015P3B7"
+      },
+      {
+        "channel": "UMCPG3D8A",
+        "messageId": "Q0B1XMBLLDN"
+      },
+      {
+        "channel": "C08R493ESAJ",
+        "messageId": "Q0B0X1UDMSP"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B13D5J1AN"
+      },
+      {
+        "channel": "UMCPG3D8A",
+        "messageId": "Q0B0MUZA99D"
+      },
+      {
+        "channel": "C08R493ESAJ",
+        "messageId": "Q0B1715D2F6"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B1XMCE4GY"
+      },
+      {
+        "channel": "UMCPG3D8A",
+        "messageId": "Q0B1XMAD9T2"
+      },
+      {
+        "channel": "C08R493ESAJ",
+        "messageId": "Q0B13D543QA"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B0MUZKWJ3"
+      },
+      {
+        "channel": "UMCPG3D8A",
+        "messageId": "Q0B11BAV41L"
+      },
+      {
+        "channel": "C08R493ESAJ",
+        "messageId": "Q0B0MUYSSK1"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B11BASGHL"
+      },
+      {
+        "channel": "UMCPG3D8A",
+        "messageId": "Q0B13D5G8UA"
+      },
+      {
+        "channel": "C08R493ESAJ",
+        "messageId": "Q0B0MUZPSKZ"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B13D4TC1G"
+      },
+      {
+        "channel": "UMCPG3D8A",
+        "messageId": "Q0B1G9ZJ99P"
+      },
+      {
+        "channel": "C08R493ESAJ",
+        "messageId": "Q0B13D5RZRQ"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B0X1V6P9R"
+      },
+      {
+        "channel": "UMCPG3D8A",
+        "messageId": "Q0B0MV0CMM5"
+      },
+      {
+        "channel": "C08R493ESAJ",
+        "messageId": "Q0B0MUZM58F"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B1716E6MA"
+      },
+      {
+        "channel": "UMCPG3D8A",
+        "messageId": "Q0B1XMDBW9E"
+      },
+      {
+        "channel": "C08R493ESAJ",
+        "messageId": "Q0B11BBG9E2"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B17160QSY"
+      },
+      {
+        "channel": "UMCPG3D8A",
+        "messageId": "Q0B1715RELU"
+      },
+      {
+        "channel": "C08R493ESAJ",
+        "messageId": "Q0B13D650NN"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B11BC5YNA"
+      },
+      {
+        "channel": "UMCPG3D8A",
+        "messageId": "Q0B1716B0HJ"
+      },
+      {
+        "channel": "C08R493ESAJ",
+        "messageId": "Q0B11BCGQKG"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B1GA09XUZ"
+      },
+      {
+        "channel": "UMCPG3D8A",
+        "messageId": "Q0B17167TJQ"
+      },
+      {
+        "channel": "C08R493ESAJ",
+        "messageId": "Q0B0X1VCHH9"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B0MUZDTP1"
+      },
+      {
+        "channel": "UMCPG3D8A",
+        "messageId": "Q0B0X1V0RLK"
+      },
+      {
+        "channel": "C08R493ESAJ",
+        "messageId": "Q0B11BC7RB8"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B0MV086CF"
+      },
+      {
+        "channel": "UMCPG3D8A",
+        "messageId": "Q0B0MV09GKH"
+      },
+      {
+        "channel": "C08R493ESAJ",
+        "messageId": "Q0B11BCEC30"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B1XMDDGSC"
+      },
+      {
+        "channel": "UMCPG3D8A",
+        "messageId": "Q0B1014BPAR"
+      },
+      {
+        "channel": "C08R493ESAJ",
+        "messageId": "Q0B1G9ZMB3K"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B1XMCD2C8"
+      },
+      {
+        "channel": "UMCPG3D8A",
+        "messageId": "Q0B171661LL"
+      },
+      {
+        "channel": "C08R493ESAJ",
+        "messageId": "Q0B0MV06JLF"
       }
     ]
   },
   "lastWeeklySummaryDate": "2026-W17",
-  "lastRun": "2026-05-01T06:01:50.583Z"
+  "lastRun": "2026-05-01T10:56:20.758Z"
 }
