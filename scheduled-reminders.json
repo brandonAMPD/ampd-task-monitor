@@ -1973,6 +1973,20 @@
       "completed": false,
       "completedAt": null,
       "firstSeenAt": "2026-05-02T18:01:50.463Z"
+    },
+    "09f8fee24d4718b7ad657437194193d8": {
+      "task": "build GHL chatbot for ampd website and landing pages",
+      "assignee_name": "Mark 'Morpheus' Manaog",
+      "assignee_slack_mention": "@Mark 'Morpheus' Manaog",
+      "assigned_date": "2026-04-30",
+      "due_date": null,
+      "message_ts": "1777562445.100809",
+      "source_message": "@Mark 'Morpheus' Manaog once you've figured out the chat bot funcationality with GHL start bui",
+      "assigneeId": "U023F61R16F",
+      "messageTs": "1777562445.100809",
+      "completed": false,
+      "completedAt": null,
+      "firstSeenAt": "2026-05-02T20:05:10.427Z"
     }
   },
   "scheduled": {
@@ -29543,6 +29557,14 @@
       {
         "channel": "C08R493ESAJ",
         "messageId": "Q0B17T2GWAJ"
+      },
+      {
+        "channel": "UMCPG3D8A",
+        "messageId": "Q0B24F70GNL"
+      },
+      {
+        "channel": "C08R493ESAJ",
+        "messageId": "Q0B16QEPX3P"
       }
     ],
     "994cdddd318a2821234ebcc300f426be": [
@@ -29609,6 +29631,14 @@
       {
         "channel": "C05HPPDCSS1",
         "messageId": "Q0B13HKUGNP"
+      },
+      {
+        "channel": "U02LFUG2WLR",
+        "messageId": "Q0B16QF287P"
+      },
+      {
+        "channel": "C05HPPDCSS1",
+        "messageId": "Q0B16QERW4D"
       }
     ],
     "8ca51f041f14cfb9948758cf697c542c": [
@@ -30063,6 +30093,14 @@
       {
         "channel": "C05JGF817H6",
         "messageId": "Q0B1DGWH2TW"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0B13QWMAHZ"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0B24F7GWRE"
       }
     ],
     "952c233ddf813d464ef1a795f628c505": [
@@ -30121,6 +30159,14 @@
       {
         "channel": "C05HPPDCSS1",
         "messageId": "Q0B19UW0SHG"
+      },
+      {
+        "channel": "U02LFUG2WLR",
+        "messageId": "Q0B1A7010KU"
+      },
+      {
+        "channel": "C05HPPDCSS1",
+        "messageId": "Q0B24F6PV1N"
       }
     ],
     "6f4bd0892c1093167349dd28a0457e12": [
@@ -30615,6 +30661,30 @@
       {
         "channel": "C08R493ESAJ",
         "messageId": "Q0B19UWDXU2"
+      },
+      {
+        "channel": "UMCPG3D8A",
+        "messageId": "Q0B16QFFNTX"
+      },
+      {
+        "channel": "C08R493ESAJ",
+        "messageId": "Q0B1A70BGHY"
+      },
+      {
+        "channel": "UMCPG3D8A",
+        "messageId": "Q0B24F7RSDN"
+      },
+      {
+        "channel": "C08R493ESAJ",
+        "messageId": "Q0B24F720TS"
+      },
+      {
+        "channel": "UMCPG3D8A",
+        "messageId": "Q0B1DQERSEQ"
+      },
+      {
+        "channel": "C08R493ESAJ",
+        "messageId": "Q0B16QENX0V"
       }
     ],
     "8162e0a4c12c84ae61fd350e2422185f": [
@@ -31097,6 +31167,30 @@
       {
         "channel": "C05JGF817H6",
         "messageId": "Q0B1NRMAFCZ"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0B0UNUQK6K"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0B24F72CSC"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0B16QEP553"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0B0UNTPT1V"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0B18576H5L"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0B1P3RVBFB"
       }
     ],
     "e1a796d92e4e9fce48379316f9017775": [
@@ -31579,6 +31673,78 @@
       {
         "channel": "C05HV4SQD6G",
         "messageId": "Q0B17T3GZP0"
+      },
+      {
+        "channel": "C05HV4SQD6G",
+        "messageId": "Q0B0UNU9D3R"
+      },
+      {
+        "channel": "C05HV4SQD6G",
+        "messageId": "Q0B16QFE31T"
+      },
+      {
+        "channel": "C05HV4SQD6G",
+        "messageId": "Q0B16QENN5B"
+      },
+      {
+        "channel": "C05HV4SQD6G",
+        "messageId": "Q0B1856UKL6"
+      },
+      {
+        "channel": "C05HV4SQD6G",
+        "messageId": "Q0B1A70JSG2"
+      },
+      {
+        "channel": "C05HV4SQD6G",
+        "messageId": "Q0B24F7514G"
+      },
+      {
+        "channel": "C05HV4SQD6G",
+        "messageId": "Q0B1P3S0GMP"
+      },
+      {
+        "channel": "C05HV4SQD6G",
+        "messageId": "Q0B1DQEJ62Y"
+      },
+      {
+        "channel": "C05HV4SQD6G",
+        "messageId": "Q0B13R4B6UB"
+      },
+      {
+        "channel": "C05HV4SQD6G",
+        "messageId": "Q0B16QFF96Z"
+      },
+      {
+        "channel": "C05HV4SQD6G",
+        "messageId": "Q0B0UNUPQ4X"
+      },
+      {
+        "channel": "C05HV4SQD6G",
+        "messageId": "Q0B0UNU150X"
+      },
+      {
+        "channel": "C05HV4SQD6G",
+        "messageId": "Q0B1P3S4KBK"
+      },
+      {
+        "channel": "C05HV4SQD6G",
+        "messageId": "Q0B1P3SCMLZ"
+      },
+      {
+        "channel": "C05HV4SQD6G",
+        "messageId": "Q0B1A71HGSE"
+      },
+      {
+        "channel": "C05HV4SQD6G",
+        "messageId": "Q0B13R53ZFV"
+      },
+      {
+        "channel": "C05HV4SQD6G",
+        "messageId": "Q0B1P3SA3GR"
+      },
+      {
+        "channel": "C05HV4SQD6G",
+        "messageId": "Q0B1P3SG42V"
       }
     ],
     "893c1f3e72bca21cbca6d00b5914e064": [
@@ -32057,6 +32223,74 @@
       {
         "channel": "C05HV4SQD6G",
         "messageId": "Q0B19UYET50"
+      },
+      {
+        "channel": "C05HV4SQD6G",
+        "messageId": "Q0B1P3SCM7B"
+      },
+      {
+        "channel": "C05HV4SQD6G",
+        "messageId": "Q0B1A70SDFU"
+      },
+      {
+        "channel": "C05HV4SQD6G",
+        "messageId": "Q0B1DQEU7UL"
+      },
+      {
+        "channel": "C05HV4SQD6G",
+        "messageId": "Q0B185737GE"
+      },
+      {
+        "channel": "C05HV4SQD6G",
+        "messageId": "Q0B24F83XGQ"
+      },
+      {
+        "channel": "C05HV4SQD6G",
+        "messageId": "Q0B24F7V7DE"
+      },
+      {
+        "channel": "C05HV4SQD6G",
+        "messageId": "Q0B16QEV7PF"
+      },
+      {
+        "channel": "C05HV4SQD6G",
+        "messageId": "Q0B18572GK0"
+      },
+      {
+        "channel": "C05HV4SQD6G",
+        "messageId": "Q0B13R459FV"
+      },
+      {
+        "channel": "C05HV4SQD6G",
+        "messageId": "Q0B1DQFA5PW"
+      },
+      {
+        "channel": "C05HV4SQD6G",
+        "messageId": "Q0B24F854PJ"
+      },
+      {
+        "channel": "C05HV4SQD6G",
+        "messageId": "Q0B0UNV6CG7"
+      },
+      {
+        "channel": "C05HV4SQD6G",
+        "messageId": "Q0B0UNV3G8P"
+      },
+      {
+        "channel": "C05HV4SQD6G",
+        "messageId": "Q0B0UNV6QKZ"
+      },
+      {
+        "channel": "C05HV4SQD6G",
+        "messageId": "Q0B1P3SFE2D"
+      },
+      {
+        "channel": "C05HV4SQD6G",
+        "messageId": "Q0B24F89GJU"
+      },
+      {
+        "channel": "C05HV4SQD6G",
+        "messageId": "Q0B1DQFLFAQ"
       }
     ],
     "83e0a1bf03ffe8261ee7ee425cf345c5": [
@@ -32559,6 +32793,82 @@
       {
         "channel": "C05HV4SQD6G",
         "messageId": "Q0B13HME211"
+      },
+      {
+        "channel": "C05HV4SQD6G",
+        "messageId": "Q0B13R4KHV1"
+      },
+      {
+        "channel": "C05HV4SQD6G",
+        "messageId": "Q0B1DQFQSCU"
+      },
+      {
+        "channel": "C05HV4SQD6G",
+        "messageId": "Q0B24F81D7A"
+      },
+      {
+        "channel": "C05HV4SQD6G",
+        "messageId": "Q0B24F7TXQ8"
+      },
+      {
+        "channel": "C05HV4SQD6G",
+        "messageId": "Q0B1P3SNZT3"
+      },
+      {
+        "channel": "C05HV4SQD6G",
+        "messageId": "Q0B13QVBW67"
+      },
+      {
+        "channel": "C05HV4SQD6G",
+        "messageId": "Q0B1A717UQJ"
+      },
+      {
+        "channel": "C05HV4SQD6G",
+        "messageId": "Q0B0UNV5V8X"
+      },
+      {
+        "channel": "C05HV4SQD6G",
+        "messageId": "Q0B13R597EF"
+      },
+      {
+        "channel": "C05HV4SQD6G",
+        "messageId": "Q0B1857D6LW"
+      },
+      {
+        "channel": "C05HV4SQD6G",
+        "messageId": "Q0B0UNV28BZ"
+      },
+      {
+        "channel": "C05HV4SQD6G",
+        "messageId": "Q0B1A70V3FC"
+      },
+      {
+        "channel": "C05HV4SQD6G",
+        "messageId": "Q0B1P3TBFLH"
+      },
+      {
+        "channel": "C05HV4SQD6G",
+        "messageId": "Q0B1P3T3KNV"
+      },
+      {
+        "channel": "C05HV4SQD6G",
+        "messageId": "Q0B1DQFJZGU"
+      },
+      {
+        "channel": "C05HV4SQD6G",
+        "messageId": "Q0B16QG0M4M"
+      },
+      {
+        "channel": "C05HV4SQD6G",
+        "messageId": "Q0B0UNV1F9D"
+      },
+      {
+        "channel": "C05HV4SQD6G",
+        "messageId": "Q0B1DQFRNS0"
+      },
+      {
+        "channel": "C05HV4SQD6G",
+        "messageId": "Q0B24F8196C"
       }
     ],
     "1bb769d146c468901946ce7ab946a638": [
@@ -33357,6 +33667,166 @@
       {
         "channel": "C05JGF817H6",
         "messageId": "Q0B1NRRD7L1"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0B1A71RGTC"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0B184YMPU6"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0B24F8UP96"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0B16QG1LH3"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0B16QGDW93"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0B13R5BNLT"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0B16QFQ7E1"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0B1P3TPQ49"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0B1A71QZ5Y"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0B0UNVDAH5"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0B13R58W6P"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0B13R5ESAF"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0B0UNUSY6B"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0B1858SWT0"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0B18588CTY"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0B1A725AF4"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0B13R574EP"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0B16QFT19T"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0B24F8CFHN"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0B18581TAS"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0B1DQG7GCU"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0B16QGDDEZ"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0B13R5U60K"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0B16QGJZV3"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0B24F8FHCG"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0B1P3TME57"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0B1P3TDTHP"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0B1P3TM6V7"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0B0UNWJVHD"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0B13R5NL4T"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0B0UNWB9F1"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0B1DQG6QGL"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0B13QUSF5H"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0B24F8UG3A"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0B16QGRXUM"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0B0UNVKGRM"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0B16QGLKRB"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0B1A71ETNE"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0B1P3TU91P"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0B1P3U309X"
       }
     ],
     "fb28496c08edff5f19cd107adcf83273": [
@@ -33631,6 +34101,82 @@
       {
         "channel": "C05HV4SQD6G",
         "messageId": "Q0B19V0FSR0"
+      },
+      {
+        "channel": "C05HV4SQD6G",
+        "messageId": "Q0B16QGRXJR"
+      },
+      {
+        "channel": "C05HV4SQD6G",
+        "messageId": "Q0B16QH8G13"
+      },
+      {
+        "channel": "C05HV4SQD6G",
+        "messageId": "Q0B1A72C4MQ"
+      },
+      {
+        "channel": "C05HV4SQD6G",
+        "messageId": "Q0B1P3TDKUH"
+      },
+      {
+        "channel": "C05HV4SQD6G",
+        "messageId": "Q0B1857R6PQ"
+      },
+      {
+        "channel": "C05HV4SQD6G",
+        "messageId": "Q0B0UNW0HP1"
+      },
+      {
+        "channel": "C05HV4SQD6G",
+        "messageId": "Q0B1DQGN75J"
+      },
+      {
+        "channel": "C05HV4SQD6G",
+        "messageId": "Q0B16QGKK0D"
+      },
+      {
+        "channel": "C05HV4SQD6G",
+        "messageId": "Q0B0UNVLJ15"
+      },
+      {
+        "channel": "C05HV4SQD6G",
+        "messageId": "Q0B13R69H5H"
+      },
+      {
+        "channel": "C05HV4SQD6G",
+        "messageId": "Q0B1P3U6W7K"
+      },
+      {
+        "channel": "C05HV4SQD6G",
+        "messageId": "Q0B1858MMNJ"
+      },
+      {
+        "channel": "C05HV4SQD6G",
+        "messageId": "Q0B16QH3FFF"
+      },
+      {
+        "channel": "C05HV4SQD6G",
+        "messageId": "Q0B18593TL6"
+      },
+      {
+        "channel": "C05HV4SQD6G",
+        "messageId": "Q0B24FA8L0Y"
+      },
+      {
+        "channel": "C05HV4SQD6G",
+        "messageId": "Q0B1A73BHJN"
+      },
+      {
+        "channel": "C05HV4SQD6G",
+        "messageId": "Q0B1P3UHAKT"
+      },
+      {
+        "channel": "C05HV4SQD6G",
+        "messageId": "Q0B24F9PEM6"
+      },
+      {
+        "channel": "C05HV4SQD6G",
+        "messageId": "Q0B1A72S3U2"
       }
     ],
     "6ac1829bd0c8367538d4761e37e19bb0": [
@@ -34129,6 +34675,182 @@
       {
         "channel": "C05JGF817H6",
         "messageId": "Q0B17T6291U"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0B1P3TR8AD"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0B16QH7205"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0B18599E14"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0B1A72UWP4"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0B1859R0TG"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0B1858L630"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0B1P3TNZJ5"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0B1DQGTR7E"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0B16QHRNAZ"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0B24F9D4D6"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0B24F9SZ2L"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0B1P3UMC3B"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0B1A73TB34"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0B13R6H935"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0B1DQH5SMS"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0B1DQHESKE"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0B0UNW53KR"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0B13R61Q83"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0B24F9RVKJ"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0B1A72LJUS"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0B13R6MX8B"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0B1P3US56V"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0B13R6GL2X"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0B16QHHSFP"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0B24F9CQ3A"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0B24FAAKNC"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0B16QH6HFF"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0B1DQHU3N0"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0B1859D87Q"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0B1859FZAA"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0B1P3LM17T"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0B1P3FHMAM"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0B24FANHRN"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0B1DQJETNY"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0B0UNX6VUP"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0B0UNXG8G7"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0B16QJ2CA1"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0B1859LRRC"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0B16QJAXQD"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0B1859M9JA"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0B0UNWR4T1"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0B1859RXC6"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0B16QJMH1B"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0B0UNWNUFR"
       }
     ],
     "fbcde3b88378b282ea6a19ecb2a025fd": [
@@ -34571,6 +35293,190 @@
       {
         "channel": "C08R493ESAJ",
         "messageId": "Q0B247USA1W"
+      },
+      {
+        "channel": "UMCPG3D8A",
+        "messageId": "Q0B16QJ8L2H"
+      },
+      {
+        "channel": "C08R493ESAJ",
+        "messageId": "Q0B1P3VK1MF"
+      },
+      {
+        "channel": "UMCPG3D8A",
+        "messageId": "Q0B16QJ5AUV"
+      },
+      {
+        "channel": "C08R493ESAJ",
+        "messageId": "Q0B1P3VAA49"
+      },
+      {
+        "channel": "UMCPG3D8A",
+        "messageId": "Q0B1DQHV1A8"
+      },
+      {
+        "channel": "C08R493ESAJ",
+        "messageId": "Q0B13R76WBD"
+      },
+      {
+        "channel": "UMCPG3D8A",
+        "messageId": "Q0B1859J48N"
+      },
+      {
+        "channel": "C08R493ESAJ",
+        "messageId": "Q0B24FAAYBA"
+      },
+      {
+        "channel": "UMCPG3D8A",
+        "messageId": "Q0B0UNX8GCX"
+      },
+      {
+        "channel": "C08R493ESAJ",
+        "messageId": "Q0B13R81VJ7"
+      },
+      {
+        "channel": "UMCPG3D8A",
+        "messageId": "Q0B13R76319"
+      },
+      {
+        "channel": "C08R493ESAJ",
+        "messageId": "Q0B1DQH5GGL"
+      },
+      {
+        "channel": "UMCPG3D8A",
+        "messageId": "Q0B24FAN5LG"
+      },
+      {
+        "channel": "C08R493ESAJ",
+        "messageId": "Q0B24FB24FJ"
+      },
+      {
+        "channel": "UMCPG3D8A",
+        "messageId": "Q0B0UNZ36Q7"
+      },
+      {
+        "channel": "C08R493ESAJ",
+        "messageId": "Q0B1A73DC2W"
+      },
+      {
+        "channel": "UMCPG3D8A",
+        "messageId": "Q0B16QK2A05"
+      },
+      {
+        "channel": "C08R493ESAJ",
+        "messageId": "Q0B1859UQDC"
+      },
+      {
+        "channel": "UMCPG3D8A",
+        "messageId": "Q0B13R86H8T"
+      },
+      {
+        "channel": "C08R493ESAJ",
+        "messageId": "Q0B185A7RSS"
+      },
+      {
+        "channel": "UMCPG3D8A",
+        "messageId": "Q0B1850JY6S"
+      },
+      {
+        "channel": "C08R493ESAJ",
+        "messageId": "Q0B1A74ELRG"
+      },
+      {
+        "channel": "UMCPG3D8A",
+        "messageId": "Q0B185BDV1C"
+      },
+      {
+        "channel": "C08R493ESAJ",
+        "messageId": "Q0B0UNY3NUF"
+      },
+      {
+        "channel": "UMCPG3D8A",
+        "messageId": "Q0B24FB9WL8"
+      },
+      {
+        "channel": "C08R493ESAJ",
+        "messageId": "Q0B0UNY99HD"
+      },
+      {
+        "channel": "UMCPG3D8A",
+        "messageId": "Q0B1A75CCGJ"
+      },
+      {
+        "channel": "C08R493ESAJ",
+        "messageId": "Q0B1A74MXUJ"
+      },
+      {
+        "channel": "UMCPG3D8A",
+        "messageId": "Q0B24FBNFB2"
+      },
+      {
+        "channel": "C08R493ESAJ",
+        "messageId": "Q0B185BCDB8"
+      },
+      {
+        "channel": "UMCPG3D8A",
+        "messageId": "Q0B13R8D7KM"
+      },
+      {
+        "channel": "C08R493ESAJ",
+        "messageId": "Q0B1A750KNE"
+      },
+      {
+        "channel": "UMCPG3D8A",
+        "messageId": "Q0B16QJP71B"
+      },
+      {
+        "channel": "C08R493ESAJ",
+        "messageId": "Q0B185AHUSJ"
+      },
+      {
+        "channel": "UMCPG3D8A",
+        "messageId": "Q0B0UNYG3AB"
+      },
+      {
+        "channel": "C08R493ESAJ",
+        "messageId": "Q0B13R88BHR"
+      },
+      {
+        "channel": "UMCPG3D8A",
+        "messageId": "Q0B185AUQ9L"
+      },
+      {
+        "channel": "C08R493ESAJ",
+        "messageId": "Q0B16QKF43F"
+      },
+      {
+        "channel": "UMCPG3D8A",
+        "messageId": "Q0B1P3WSB7B"
+      },
+      {
+        "channel": "C08R493ESAJ",
+        "messageId": "Q0B16QKJ737"
+      },
+      {
+        "channel": "UMCPG3D8A",
+        "messageId": "Q0B1P3WJSMP"
+      },
+      {
+        "channel": "C08R493ESAJ",
+        "messageId": "Q0B16QK7QH3"
+      },
+      {
+        "channel": "UMCPG3D8A",
+        "messageId": "Q0B0UNZNGET"
+      },
+      {
+        "channel": "C08R493ESAJ",
+        "messageId": "Q0B24FC71MW"
+      },
+      {
+        "channel": "UMCPG3D8A",
+        "messageId": "Q0B16Q91YFP"
+      },
+      {
+        "channel": "C08R493ESAJ",
+        "messageId": "Q0B1DQDSCE8"
       }
     ],
     "105e5e130f3429c365f3a646a3d7ae85": [
@@ -34889,9 +35795,203 @@
       {
         "channel": "C05JGF817H6",
         "messageId": "Q0B13HV8GLT"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0B1DQKFBEY"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0B1A75FMC2"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0B1P3WFBEV"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0B16QJRH5K"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0B13R9AQHZ"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0B0UNZE1MM"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0B16QKGZM3"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0B16QL0NUD"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0B1DQB17B6"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0B1DQL0CTE"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0B24FCTJN4"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0B0UNZ9B2B"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0B24FC7A8Y"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0B0UNZNNMV"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0B16QL1FPX"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0B1A76HJ74"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0B0UNZRRP1"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0B1DQLGGP6"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0B13R9L0PM"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0B1DQLH3EG"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0B24FD3Q9W"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0B185CFVJA"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0B1P3XGP6V"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0B16QM4NBF"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0B13RAHA3D"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0B1P3XLABT"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0B1A76TJLS"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0B1DQLU5RA"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0B1P3Y2QM7"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0B185DLFGE"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0B0UP0PFUP"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0B13RAT6DR"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0B16QMCEN9"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0B185C8QJ2"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0B13RARMLK"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0B185DUVFG"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0B16QNJTE1"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0B185DSZGE"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0B185DUYQN"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0B0UP1DTT9"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0B16QN0HCM"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0B1DQMUP28"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0B16QN7S5B"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0B24FEMF2L"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0B16QMMGG5"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0B24FESK5E"
+      }
+    ],
+    "09f8fee24d4718b7ad657437194193d8": [
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0B24FE3NC8"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0B24FENB0Q"
       }
     ]
   },
   "lastWeeklySummaryDate": "2026-W18",
-  "lastRun": "2026-05-02T18:05:45.927Z"
+  "lastRun": "2026-05-02T20:09:01.904Z"
 }
