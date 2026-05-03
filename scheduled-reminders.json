@@ -2001,6 +2001,48 @@
       "completed": false,
       "completedAt": null,
       "firstSeenAt": "2026-05-03T06:01:45.869Z"
+    },
+    "250e2704e5e23b3c8c3319cabc581175": {
+      "task": "review the settings in Dovetail to ensure that vip email is the only email ever used in that GHL account and all communications come from vip not brandon or anyone else",
+      "assignee_name": "Mark 'Morpheus' Manaog",
+      "assignee_slack_mention": "@Mark 'Morpheus' Manaog",
+      "assigned_date": "2026-05-01",
+      "due_date": "2026-05-05",
+      "message_ts": "1777651747.097699",
+      "source_message": "@Mark 'Morpheus' Manaog please review the settings in Dovetail to ensure that vip email is the onl",
+      "assigneeId": "U023F61R16F",
+      "messageTs": "1777651747.097699",
+      "completed": false,
+      "completedAt": null,
+      "firstSeenAt": "2026-05-03T18:01:45.410Z"
+    },
+    "20384e90ea024ee1a76e0cb9a333a5d3": {
+      "task": "those relate to the two stages with the same name And should launch when the go to them.",
+      "assignee_name": "Josh 'The Ninja' Morales",
+      "assignee_slack_mention": "@Josh 'The Ninja' Morales",
+      "assigned_date": "2026-04-28",
+      "due_date": null,
+      "message_ts": "1777409319.099349",
+      "source_message": "@Josh 'The Ninja' Morales those relate to the two stages with the same name\n\nAnd should launch w",
+      "assigneeId": "U07FVUF09T7",
+      "messageTs": "1777409319.099349",
+      "completed": false,
+      "completedAt": null,
+      "firstSeenAt": "2026-05-03T18:01:45.477Z"
+    },
+    "c3198cf45c075dc8a319156523001eea": {
+      "task": "make sure to build out the PMP welcome email and sms sequence noted here https://dovetail-mktg.slack.com/archives/C05JGF817H6/p1777322290193989 and test it.",
+      "assignee_name": "Mark 'Morpheus' Manaog",
+      "assignee_slack_mention": "@Mark 'Morpheus' Manaog",
+      "assigned_date": "2026-04-27",
+      "due_date": "2026-04-28",
+      "message_ts": "1777322329.253939",
+      "source_message": "@Mark 'Morpheus' Manaog make sure to build out the PMP welcome email and sms sequence noted here",
+      "assigneeId": "U023F61R16F",
+      "messageTs": "1777322329.253939",
+      "completed": true,
+      "completedAt": "2026-05-03T18:01:45.558Z",
+      "firstSeenAt": "2026-05-03T18:01:45.558Z"
     }
   },
   "scheduled": {
@@ -19431,6 +19473,77 @@
       "task": "review switching Josh's Slack from ampdlending to dovetail URL",
       "assignee": "Brandon 'The One' Robertson",
       "reminderDate": "2026-06-04"
+    },
+    "1bb769d146c468901946ce7ab946a638|midpoint|2026-05-03": {
+      "scheduledAt": "2026-05-03T18:02:25.201Z",
+      "type": "midpoint",
+      "task": "review Dovetail settings to ensure vip email only, all communications from vip by next monday",
+      "skipped": true
+    },
+    "6ac1829bd0c8367538d4761e37e19bb0|midpoint|2026-05-03": {
+      "scheduledAt": "2026-05-03T18:02:50.415Z",
+      "type": "midpoint",
+      "task": "review and resolve ampdworks.com/results/ images/icons issue by next tuesday",
+      "skipped": true
+    },
+    "fbcde3b88378b282ea6a19ecb2a025fd|overdue|2026-05-03": {
+      "scheduledAt": "2026-05-03T18:03:05.074Z",
+      "type": "overdue",
+      "task": "delete subaccount call recordings not internal company, close each by wednesday",
+      "skipped": true
+    },
+    "105e5e130f3429c365f3a646a3d7ae85|midpoint|2026-05-03": {
+      "scheduledAt": "2026-05-03T18:03:53.261Z",
+      "type": "midpoint",
+      "task": "review and resolve website images/icons issue on results page",
+      "skipped": true
+    },
+    "f73b7c586d5534b5fead2f44adb98e0b|midpoint|2026-05-03": {
+      "scheduledAt": "2026-05-03T18:05:04.780Z",
+      "type": "midpoint",
+      "task": "review switching Josh's Slack from ampdlending to dovetail URL",
+      "skipped": true
+    },
+    "250e2704e5e23b3c8c3319cabc581175|midpoint|2026-05-03": {
+      "scheduledAt": "2026-05-03T18:05:54.567Z",
+      "type": "midpoint",
+      "task": "review the settings in Dovetail to ensure that vip email is the only email ever used in that GHL account and all communications come from vip not brandon or anyone else",
+      "skipped": true
+    },
+    "250e2704e5e23b3c8c3319cabc581175|overdue|2026-05-31": {
+      "scheduledAt": "2026-05-03T18:07:09.109Z",
+      "type": "overdue",
+      "task": "review the settings in Dovetail to ensure that vip email is the only email ever used in that GHL account and all communications come from vip not brandon or anyone else",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-05-31"
+    },
+    "250e2704e5e23b3c8c3319cabc581175|overdue|2026-06-01": {
+      "scheduledAt": "2026-05-03T18:07:09.777Z",
+      "type": "overdue",
+      "task": "review the settings in Dovetail to ensure that vip email is the only email ever used in that GHL account and all communications come from vip not brandon or anyone else",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-06-01"
+    },
+    "250e2704e5e23b3c8c3319cabc581175|overdue|2026-06-02": {
+      "scheduledAt": "2026-05-03T18:07:10.502Z",
+      "type": "overdue",
+      "task": "review the settings in Dovetail to ensure that vip email is the only email ever used in that GHL account and all communications come from vip not brandon or anyone else",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-06-02"
+    },
+    "250e2704e5e23b3c8c3319cabc581175|overdue|2026-06-03": {
+      "scheduledAt": "2026-05-03T18:07:22.227Z",
+      "type": "overdue",
+      "task": "review the settings in Dovetail to ensure that vip email is the only email ever used in that GHL account and all communications come from vip not brandon or anyone else",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-06-03"
+    },
+    "250e2704e5e23b3c8c3319cabc581175|overdue|2026-06-04": {
+      "scheduledAt": "2026-05-03T18:07:22.913Z",
+      "type": "overdue",
+      "task": "review the settings in Dovetail to ensure that vip email is the only email ever used in that GHL account and all communications come from vip not brandon or anyone else",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-06-04"
     }
   },
   "scheduledMessageIds": {
@@ -29630,6 +29743,14 @@
       {
         "channel": "C08R493ESAJ",
         "messageId": "Q0B1FCU810C"
+      },
+      {
+        "channel": "UMCPG3D8A",
+        "messageId": "Q0B1CR86Q90"
+      },
+      {
+        "channel": "C08R493ESAJ",
+        "messageId": "Q0B16DXN1LK"
       }
     ],
     "994cdddd318a2821234ebcc300f426be": [
@@ -30830,6 +30951,22 @@
       {
         "channel": "C08R493ESAJ",
         "messageId": "Q0B263LSXKJ"
+      },
+      {
+        "channel": "UMCPG3D8A",
+        "messageId": "Q0B2740SARE"
+      },
+      {
+        "channel": "C08R493ESAJ",
+        "messageId": "Q0B19D8Q48M"
+      },
+      {
+        "channel": "UMCPG3D8A",
+        "messageId": "Q0B1CR8NU6N"
+      },
+      {
+        "channel": "C08R493ESAJ",
+        "messageId": "Q0B16DXSTGT"
       }
     ],
     "8162e0a4c12c84ae61fd350e2422185f": [
@@ -31360,6 +31497,14 @@
       {
         "channel": "C05JGF817H6",
         "messageId": "Q0B1BQUAVUJ"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0B0XBMN47R"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0B1CR8CUEN"
       }
     ],
     "e1a796d92e4e9fce48379316f9017775": [
@@ -31994,6 +32139,14 @@
       {
         "channel": "C05HV4SQD6G",
         "messageId": "Q0B1QMKMW9X"
+      },
+      {
+        "channel": "C05HV4SQD6G",
+        "messageId": "Q0B1APEK162"
+      },
+      {
+        "channel": "C05HV4SQD6G",
+        "messageId": "Q0B1RN0GJDP"
       }
     ],
     "893c1f3e72bca21cbca6d00b5914e064": [
@@ -33150,6 +33303,14 @@
       {
         "channel": "C05HV4SQD6G",
         "messageId": "Q0B1QMMHS81"
+      },
+      {
+        "channel": "C05HV4SQD6G",
+        "messageId": "Q0B19D9FH6H"
+      },
+      {
+        "channel": "C05HV4SQD6G",
+        "messageId": "Q0B19D9S84D"
       }
     ],
     "1bb769d146c468901946ce7ab946a638": [
@@ -34404,6 +34565,134 @@
       {
         "channel": "C05JGF817H6",
         "messageId": "Q0B15DKDT35"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0B0XBNUM7H"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0B1RN1A77T"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0B16DZGL3V"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0B19DA4E6R"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0B2742PYAC"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0B1CRA3198"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0B1CR9Q66N"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0B1GDA2A8L"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0B0XBPRP2B"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0B1GDAQ484"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0B1APG8Y14"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0B16DZM875"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0B2742J7SL"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0B1APH7L30"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0B2742BC0G"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0B0XBPRN4X"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0B19DB31GD"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0B19DAR4N9"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0B16DZFH8T"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0B1RN13WAD"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0B16DZBX7V"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0B0XBPNXQX"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0B1GDAB4N8"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0B1APG9WHL"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0B2743ETL0"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0B2742LNLQ"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0B19DBRLMT"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0B1APG6V8E"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0B19DA9JFP"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0B27439UQG"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0B1RN23C73"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0B1CRAAGCS"
       }
     ],
     "fb28496c08edff5f19cd107adcf83273": [
@@ -34774,6 +35063,14 @@
       {
         "channel": "C05HV4SQD6G",
         "messageId": "Q0B0WB94007"
+      },
+      {
+        "channel": "C05HV4SQD6G",
+        "messageId": "Q0B1GDB5HK6"
+      },
+      {
+        "channel": "C05HV4SQD6G",
+        "messageId": "Q0B1APGJCCW"
       }
     ],
     "6ac1829bd0c8367538d4761e37e19bb0": [
@@ -35776,6 +36073,150 @@
       {
         "channel": "C05JGF817H6",
         "messageId": "Q0B1FCXNDCL"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0B1CRARWN6"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0B1APGMKDL"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0B1RN2E1LH"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0B1RN200GH"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0B16E0KQQK"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0B1CRBJ4N6"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0B1GDB8GSG"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0B1GDBGY2Y"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0B19DB9C6R"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0B0XBQPEBH"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0B1CRB7LD8"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0B16E0FQ59"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0B1RN2DX5X"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0B1RN29XQ9"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0B1GDB6N6Q"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0B16E0NJ4B"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0B1RN21NGH"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0B2744243S"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0B16E09S7M"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0B0XBQNY6B"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0B19DBEWCV"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0B1GDBDXGU"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0B19DC3E2Z"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0B1RN35DED"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0B1CRBHW02"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0B1CRBBZKL"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0B16E0N0CT"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0B1CRBMNCA"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0B0XBR1TEK"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0B0XBQFMGF"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0B1CRBE5GS"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0B1RN30449"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0B19DC42TF"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0B16E12L4B"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0B1CRBD2JE"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0B1CRC37FU"
       }
     ],
     "fbcde3b88378b282ea6a19ecb2a025fd": [
@@ -36770,6 +37211,174 @@
       {
         "channel": "C08R493ESAJ",
         "messageId": "Q0B1BQYN3EE"
+      },
+      {
+        "channel": "UMCPG3D8A",
+        "messageId": "Q0B1APHEGA2"
+      },
+      {
+        "channel": "C08R493ESAJ",
+        "messageId": "Q0B0XBQTQ3Z"
+      },
+      {
+        "channel": "UMCPG3D8A",
+        "messageId": "Q0B16DS9WLB"
+      },
+      {
+        "channel": "C08R493ESAJ",
+        "messageId": "Q0B1CRBUSD8"
+      },
+      {
+        "channel": "UMCPG3D8A",
+        "messageId": "Q0B1APJ4486"
+      },
+      {
+        "channel": "C08R493ESAJ",
+        "messageId": "Q0B1CRB7XGA"
+      },
+      {
+        "channel": "UMCPG3D8A",
+        "messageId": "Q0B2743SVHN"
+      },
+      {
+        "channel": "C08R493ESAJ",
+        "messageId": "Q0B1APJ2BM4"
+      },
+      {
+        "channel": "UMCPG3D8A",
+        "messageId": "Q0B19DCG28M"
+      },
+      {
+        "channel": "C08R493ESAJ",
+        "messageId": "Q0B1RN48YSD"
+      },
+      {
+        "channel": "UMCPG3D8A",
+        "messageId": "Q0B0XBRD7P1"
+      },
+      {
+        "channel": "C08R493ESAJ",
+        "messageId": "Q0B1GDD2XD2"
+      },
+      {
+        "channel": "UMCPG3D8A",
+        "messageId": "Q0B1APJKHF0"
+      },
+      {
+        "channel": "C08R493ESAJ",
+        "messageId": "Q0B1APJ3PHU"
+      },
+      {
+        "channel": "UMCPG3D8A",
+        "messageId": "Q0B1CRC8J1G"
+      },
+      {
+        "channel": "C08R493ESAJ",
+        "messageId": "Q0B27444RH6"
+      },
+      {
+        "channel": "UMCPG3D8A",
+        "messageId": "Q0B1RN3DMT3"
+      },
+      {
+        "channel": "C08R493ESAJ",
+        "messageId": "Q0B1RN3CSKT"
+      },
+      {
+        "channel": "UMCPG3D8A",
+        "messageId": "Q0B19DDBCN9"
+      },
+      {
+        "channel": "C08R493ESAJ",
+        "messageId": "Q0B1CRCHFGS"
+      },
+      {
+        "channel": "UMCPG3D8A",
+        "messageId": "Q0B16E26K0T"
+      },
+      {
+        "channel": "C08R493ESAJ",
+        "messageId": "Q0B19DDDBBP"
+      },
+      {
+        "channel": "UMCPG3D8A",
+        "messageId": "Q0B16E30DK5"
+      },
+      {
+        "channel": "C08R493ESAJ",
+        "messageId": "Q0B1RN3UR8R"
+      },
+      {
+        "channel": "UMCPG3D8A",
+        "messageId": "Q0B1GDCH5BN"
+      },
+      {
+        "channel": "C08R493ESAJ",
+        "messageId": "Q0B1APJNRHU"
+      },
+      {
+        "channel": "UMCPG3D8A",
+        "messageId": "Q0B16E2JJ1H"
+      },
+      {
+        "channel": "C08R493ESAJ",
+        "messageId": "Q0B16E1UP0B"
+      },
+      {
+        "channel": "UMCPG3D8A",
+        "messageId": "Q0B19DD8GH3"
+      },
+      {
+        "channel": "C08R493ESAJ",
+        "messageId": "Q0B1RN49BEV"
+      },
+      {
+        "channel": "UMCPG3D8A",
+        "messageId": "Q0B19DDSAGM"
+      },
+      {
+        "channel": "C08R493ESAJ",
+        "messageId": "Q0B0XBRNDT9"
+      },
+      {
+        "channel": "UMCPG3D8A",
+        "messageId": "Q0B0XBS5J07"
+      },
+      {
+        "channel": "C08R493ESAJ",
+        "messageId": "Q0B1GDD4WUC"
+      },
+      {
+        "channel": "UMCPG3D8A",
+        "messageId": "Q0B2745TZ2L"
+      },
+      {
+        "channel": "C08R493ESAJ",
+        "messageId": "Q0B1RN4377T"
+      },
+      {
+        "channel": "UMCPG3D8A",
+        "messageId": "Q0B2745DEKS"
+      },
+      {
+        "channel": "C08R493ESAJ",
+        "messageId": "Q0B16E29EDR"
+      },
+      {
+        "channel": "UMCPG3D8A",
+        "messageId": "Q0B2746NN8G"
+      },
+      {
+        "channel": "C08R493ESAJ",
+        "messageId": "Q0B0XBSRMRD"
+      },
+      {
+        "channel": "UMCPG3D8A",
+        "messageId": "Q0B1APJV2BY"
+      },
+      {
+        "channel": "C08R493ESAJ",
+        "messageId": "Q0B16DVC9MZ"
       }
     ],
     "105e5e130f3429c365f3a646a3d7ae85": [
@@ -37616,6 +38225,158 @@
       {
         "channel": "C05JGF817H6",
         "messageId": "Q0B15DSBKMH"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0B1RN5B5J5"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0B27464SDN"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0B19DE4ZRB"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0B2746MA5N"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0B0XBT0KFZ"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0B19DE8DM3"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0B1APKG6JJ"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0B1APKUUJ2"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0B1RN53T5X"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0B1CREAV98"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0B16E33CJX"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0B2746DP08"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0B16E45ZMZ"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0B1APFKS0N"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0B16E3S2HZ"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0B1CREK2JE"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0B16E4G10T"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0B1RN5P5TK"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0B1GDERW76"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0B0XBU9E95"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0B1APLS71C"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0B19DEEVRB"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0B19DFUZC5"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0B1CRE8AP4"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0B19DF3KEZ"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0B1APM0C78"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0B1APM1RP0"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0B2747BK88"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0B19DFD2PP"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0B16E44GRZ"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0B2747PL7J"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0B0XBV48DV"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0B1APMKGUW"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0B1APM24BG"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0B16E4H1FD"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0B1RN6NE1X"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0B1CRFJGJE"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0B27488ACQ"
       }
     ],
     "09f8fee24d4718b7ad657437194193d8": [
@@ -37760,9 +38521,313 @@
       {
         "channel": "C05HV4SQD6G",
         "messageId": "Q0B1BQVHNUA"
+      },
+      {
+        "channel": "C05HV4SQD6G",
+        "messageId": "Q0B0XBVE13R"
+      },
+      {
+        "channel": "C05HV4SQD6G",
+        "messageId": "Q0B0XBVAY3H"
+      },
+      {
+        "channel": "C05HV4SQD6G",
+        "messageId": "Q0B0XBWL2A3"
+      },
+      {
+        "channel": "C05HV4SQD6G",
+        "messageId": "Q0B1GDHHJMA"
+      },
+      {
+        "channel": "C05HV4SQD6G",
+        "messageId": "Q0B16E68P8T"
+      },
+      {
+        "channel": "C05HV4SQD6G",
+        "messageId": "Q0B0XBX340P"
+      },
+      {
+        "channel": "C05HV4SQD6G",
+        "messageId": "Q0B1APPCMML"
+      },
+      {
+        "channel": "C05HV4SQD6G",
+        "messageId": "Q0B1CRJ6CD8"
+      },
+      {
+        "channel": "C05HV4SQD6G",
+        "messageId": "Q0B1APNUM70"
+      },
+      {
+        "channel": "C05HV4SQD6G",
+        "messageId": "Q0B0XBWPXV5"
+      }
+    ],
+    "250e2704e5e23b3c8c3319cabc581175": [
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0B274A900Y"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0B1CRHQPT4"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0B1CRJ8UCA"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0B0XBXS0TZ"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0B19DJ4W5T"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0B274AKA6L"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0B274B0N64"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0B0XBXF1HV"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0B1APQKUKY"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0B1CRJP9BL"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0B0XBYJ4T1"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0B16E82M1R"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0B1CRKHX0S"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0B1CRKCFDG"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0B1RNAFH6V"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0B1GDKNHDJ"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0B16E8Q7RR"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0B1APR7AES"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0B274B8HEU"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0B16E8N35Z"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0B16E960D9"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0B0XBYTFT9"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0B1CRK6J82"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0B0XBYLQRM"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0B274BCUE4"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0B274BTG5N"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0B274BMM7S"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0B1RNB8CAV"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0B0XBZ0M8X"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0B19DK55QV"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0B1CRK8BV0"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0B1RN3N7A5"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0B19DLAH8D"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0B0XBZFYET"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0B19DL11LM"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0B16E955KM"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0B1APRTT6J"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0B0XBZ3U0P"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0B274CRDLG"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0B1CRKPJGJ"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0B16E9J8AX"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0B1RNB6DMX"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0B1APSFP70"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0B1APSD894"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0B1CRKLDNW"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0B1RNBEPNV"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0B16E9CMD1"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0B1RNBMESD"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B1GDL5B5J"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0B274CFENL"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0B1RNBJTDX"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B1GDL96TE"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0B1GDLKXE0"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0B16EARGM9"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B1RNCEDR7"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0B1APS63AS"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0B0XBZDSA3"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B274D1CHE"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0B1APSLVHC"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0B16EABXTM"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B0XC0CWNB"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0B19DN0CG5"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0B16E9TA9H"
+      }
+    ],
+    "20384e90ea024ee1a76e0cb9a333a5d3": [
+      {
+        "channel": "U07FVUF09T7",
+        "messageId": "Q0B19DMKWTX"
+      },
+      {
+        "channel": "C093VPK55NF",
+        "messageId": "Q0B1GDMMARJ"
       }
     ]
   },
   "lastWeeklySummaryDate": "2026-W18",
-  "lastRun": "2026-05-03T10:02:20.299Z"
+  "lastRun": "2026-05-03T18:07:34.664Z"
 }
