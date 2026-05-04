@@ -1,11 +1,17 @@
-name: Cleanup Scheduled Messages (Run Once)
+name: Cleanup Scheduled Messages
 
 on:
-  workflow_dispatch:  # Manual trigger only
+  workflow_dispatch:
+    # Trigger manually from GitHub Actions tab
+    # OR via cron-job.org whenever needed
+
+env:
+  FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
 
 jobs:
   cleanup:
     runs-on: ubuntu-latest
+
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4.2.2
@@ -18,7 +24,7 @@ jobs:
       - name: Install dependencies
         run: npm install
 
-      - name: Delete all scheduled messages
+      - name: Cancel all scheduled messages
         env:
           SLACK_BOT_TOKEN: ${{ secrets.SLACK_BOT_TOKEN }}
         run: node cleanup-scheduled.js
