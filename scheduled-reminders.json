@@ -2519,6 +2519,132 @@
       "completed": true,
       "completedAt": "2026-05-05T18:02:20.119Z",
       "firstSeenAt": "2026-05-05T18:02:20.119Z"
+    },
+    "aa295bf5e854a5c9111336ec0ff5bf1f": {
+      "task": "create automation for BLS booking info to Christle's FD with investigation report note",
+      "assignee_name": "Mark 'Morpheus' Manaog",
+      "assignee_slack_mention": "@Mark 'Morpheus' Manaog",
+      "assigned_date": "2026-05-05",
+      "due_date": "2026-05-06",
+      "message_ts": "1778015693.703289",
+      "source_message": "@Mark 'Morpheus' Manaog please create an automation that sends all the same booking info for new",
+      "assigneeId": "U023F61R16F",
+      "messageTs": "1778015693.703289",
+      "completed": false,
+      "completedAt": null,
+      "firstSeenAt": "2026-05-05T21:41:02.702Z"
+    },
+    "388722c2b64a4e0e15b07eb9221b9909": {
+      "task": "review automated prospect investigation reporting process",
+      "assignee_name": "Mark 'Morpheus' Manaog",
+      "assignee_slack_mention": "@Mark 'Morpheus' Manaog",
+      "assigned_date": "2026-05-05",
+      "due_date": "2026-05-09",
+      "message_ts": "1778007023.522379",
+      "source_message": "@Mark 'Morpheus' Manaog review the automated prospect investigation reporting process and see h",
+      "assigneeId": "U023F61R16F",
+      "messageTs": "1778007023.522379",
+      "completed": false,
+      "completedAt": null,
+      "firstSeenAt": "2026-05-05T21:41:02.814Z"
+    },
+    "327070395c8f6503f3c9b769467a9ebd": {
+      "task": "finish SEO optimization for YouTube PMP replay description",
+      "assignee_name": "Liz' La Task-Killer' Zavala",
+      "assignee_slack_mention": "@Liz' La Task-Killer' Zavala",
+      "assigned_date": "2026-05-05",
+      "due_date": "2026-05-09",
+      "message_ts": "1778004080.763949",
+      "source_message": "@Liz' La Task-Killer' Zavala please finish the SEO optimization for the description on the yo",
+      "assigneeId": "U08D4RE1SKF",
+      "messageTs": "1778004080.763949",
+      "completed": true,
+      "completedAt": "2026-05-05T21:41:02.888Z",
+      "firstSeenAt": "2026-05-05T21:41:02.888Z"
+    },
+    "dca073740da9ac189f31dd45dedce7fd": {
+      "task": "review cleaning up and organizing drive more for internal amp related and ampd client rela",
+      "assignee_name": "Brandon 'The One' Robertson",
+      "assignee_slack_mention": "@Brandon 'The One' Robertson",
+      "assigned_date": "2026-05-01",
+      "due_date": "2026-05-09",
+      "message_ts": "1777647436.791709",
+      "source_message": "@Brandon 'The One' Robertson review cleaning up and organizing drive more for internal amp re",
+      "assigneeId": "UMS39RAGP",
+      "messageTs": "1777647436.791709",
+      "completed": false,
+      "completedAt": null,
+      "firstSeenAt": "2026-05-05T21:41:02.966Z"
+    },
+    "2c04938779f117486c5023e49892f41c": {
+      "task": "make sure our workflows for AMPD are properly updated so that there is a stage move at the end not a move to workflow and that the two workflows that are off for needs to book again and needs to reschedule have been replaced or are turned back on if not by next wednesday",
+      "assignee_name": "Josh 'The Ninja' Morales",
+      "assignee_slack_mention": "@Josh 'The Ninja' Morales",
+      "assigned_date": "2026-04-25",
+      "due_date": "2026-05-07",
+      "message_ts": "1777141886.840759",
+      "source_message": "@Josh 'The Ninja' Morales please make sure our workflows for AMPD are properly updated so tha",
+      "assigneeId": "U07FVUF09T7",
+      "messageTs": "1777141886.840759",
+      "completed": true,
+      "completedAt": "2026-05-05T21:41:03.155Z",
+      "firstSeenAt": "2026-05-05T21:41:03.155Z"
+    },
+    "63fc39dd395de78af05090dc02fe6a0d": {
+      "task": "please review the potential issue for end of workflows tied to ampd stages mentioned in this <https://dovetail-mktg.slack.com/archives/C09QKLYJVN0/p1777060141994559> by next monday",
+      "assignee_name": "Josh 'The Ninja' Morales",
+      "assignee_slack_mention": "@Josh 'The Ninja' Morales",
+      "assigned_date": "2026-04-24",
+      "due_date": "2026-04-28",
+      "message_ts": "1777064038.662689",
+      "source_message": "@Josh 'The Ninja' Morales please review the potential issue for end of workflows tied to am",
+      "assigneeId": "U07FVUF09T7",
+      "messageTs": "1777064038.662689",
+      "completed": true,
+      "completedAt": "2026-05-05T21:41:03.262Z",
+      "firstSeenAt": "2026-05-05T21:41:03.262Z"
+    },
+    "a02cb8e537750c8c80bf4f83458651ea": {
+      "task": "please try to build and deploy the Jimmy booking Bot in ampd using this framework <https://docs.google.com/document/d/19LlMeVQS95A3IrFBFmi57pgN4JfqZmqZrcUyE5rNcBw/edit?usp=sharing> by next friday",
+      "assignee_name": "Josh 'The Ninja' Morales",
+      "assignee_slack_mention": "@Josh 'The Ninja' Morales",
+      "assigned_date": "2026-04-24",
+      "due_date": "2026-05-02",
+      "message_ts": "1777059094.619059",
+      "source_message": "@Josh 'The Ninja' Morales please try to build and deploy the Jimmy booking Bot in ampd usin",
+      "assigneeId": "U07FVUF09T7",
+      "messageTs": "1777059094.619059",
+      "completed": false,
+      "completedAt": null,
+      "firstSeenAt": "2026-05-05T21:41:03.370Z"
+    },
+    "4554c712ec2f1e3bde1d90e53242369c": {
+      "task": "make the updates to the lenderbase jotform forms mentioned here <https://form.jotform.com/261125940988163> by next monday",
+      "assignee_name": "Mark 'Morpheus' Manaog",
+      "assignee_slack_mention": "@Mark 'Morpheus' Manaog",
+      "assigned_date": "2026-04-23",
+      "due_date": "2026-04-28",
+      "message_ts": "1776974944.525239",
+      "source_message": "@Mark 'Morpheus' Manaog make the updates to the lenderbase jotform forms mentioned here <ht",
+      "assigneeId": "U023F61R16F",
+      "messageTs": "1776974944.525239",
+      "completed": true,
+      "completedAt": "2026-05-05T21:41:03.452Z",
+      "firstSeenAt": "2026-05-05T21:41:03.452Z"
+    },
+    "86add170495eb9ef83ec6cb20919ef67": {
+      "task": "please add a blur to the contact info showing on the lenderbase demo on youtube by 4/24/26 - reference <https://dovetail-mktg.slack.com/archives/C097HTJ0Z5G/p1776958093696979>",
+      "assignee_name": "Liz' La Task-Killer' Zavala",
+      "assignee_slack_mention": "@Liz' La Task-Killer' Zavala",
+      "assigned_date": "2026-04-23",
+      "due_date": "2026-04-24",
+      "message_ts": "1776958226.214789",
+      "source_message": "@Liz' La Task-Killer' Zavala please add a blur to the contact info showing on the lenderba",
+      "assigneeId": "U08D4RE1SKF",
+      "messageTs": "1776958226.214789",
+      "completed": true,
+      "completedAt": "2026-05-05T21:41:03.530Z",
+      "firstSeenAt": "2026-05-05T21:41:03.530Z"
     }
   },
   "scheduled": {
@@ -24761,6 +24887,892 @@
       "task": "test/solve jotform chatbot leads problem or move AI chat system to GHL",
       "assignee": "Mark 'Morpheus' Manaog",
       "reminderDate": "2026-06-08"
+    },
+    "aa295bf5e854a5c9111336ec0ff5bf1f|nag|2026-05-05": {
+      "scheduledAt": "2026-05-05T21:41:03.535Z",
+      "type": "nag",
+      "task": "create automation for BLS booking info to Christle's FD with investigation report note",
+      "skipped": true
+    },
+    "aa295bf5e854a5c9111336ec0ff5bf1f|due|2026-05-06": {
+      "scheduledAt": "2026-05-05T21:41:04.328Z",
+      "type": "due",
+      "task": "create automation for BLS booking info to Christle's FD with investigation report note",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-05-06"
+    },
+    "aa295bf5e854a5c9111336ec0ff5bf1f|overdue|2026-05-07": {
+      "scheduledAt": "2026-05-05T21:41:05.106Z",
+      "type": "overdue",
+      "task": "create automation for BLS booking info to Christle's FD with investigation report note",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-05-07"
+    },
+    "aa295bf5e854a5c9111336ec0ff5bf1f|overdue|2026-05-08": {
+      "scheduledAt": "2026-05-05T21:41:05.880Z",
+      "type": "overdue",
+      "task": "create automation for BLS booking info to Christle's FD with investigation report note",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-05-08"
+    },
+    "aa295bf5e854a5c9111336ec0ff5bf1f|overdue|2026-05-09": {
+      "scheduledAt": "2026-05-05T21:41:06.633Z",
+      "type": "overdue",
+      "task": "create automation for BLS booking info to Christle's FD with investigation report note",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-05-09"
+    },
+    "aa295bf5e854a5c9111336ec0ff5bf1f|overdue|2026-05-10": {
+      "scheduledAt": "2026-05-05T21:41:07.427Z",
+      "type": "overdue",
+      "task": "create automation for BLS booking info to Christle's FD with investigation report note",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-05-10"
+    },
+    "aa295bf5e854a5c9111336ec0ff5bf1f|overdue|2026-05-11": {
+      "scheduledAt": "2026-05-05T21:41:08.212Z",
+      "type": "overdue",
+      "task": "create automation for BLS booking info to Christle's FD with investigation report note",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-05-11"
+    },
+    "aa295bf5e854a5c9111336ec0ff5bf1f|overdue|2026-05-12": {
+      "scheduledAt": "2026-05-05T21:41:08.966Z",
+      "type": "overdue",
+      "task": "create automation for BLS booking info to Christle's FD with investigation report note",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-05-12"
+    },
+    "aa295bf5e854a5c9111336ec0ff5bf1f|overdue|2026-05-13": {
+      "scheduledAt": "2026-05-05T21:41:09.764Z",
+      "type": "overdue",
+      "task": "create automation for BLS booking info to Christle's FD with investigation report note",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-05-13"
+    },
+    "aa295bf5e854a5c9111336ec0ff5bf1f|overdue|2026-05-14": {
+      "scheduledAt": "2026-05-05T21:41:10.548Z",
+      "type": "overdue",
+      "task": "create automation for BLS booking info to Christle's FD with investigation report note",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-05-14"
+    },
+    "aa295bf5e854a5c9111336ec0ff5bf1f|overdue|2026-05-15": {
+      "scheduledAt": "2026-05-05T21:41:11.265Z",
+      "type": "overdue",
+      "task": "create automation for BLS booking info to Christle's FD with investigation report note",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-05-15"
+    },
+    "aa295bf5e854a5c9111336ec0ff5bf1f|overdue|2026-05-16": {
+      "scheduledAt": "2026-05-05T21:41:12.039Z",
+      "type": "overdue",
+      "task": "create automation for BLS booking info to Christle's FD with investigation report note",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-05-16"
+    },
+    "aa295bf5e854a5c9111336ec0ff5bf1f|overdue|2026-05-17": {
+      "scheduledAt": "2026-05-05T21:41:12.794Z",
+      "type": "overdue",
+      "task": "create automation for BLS booking info to Christle's FD with investigation report note",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-05-17"
+    },
+    "aa295bf5e854a5c9111336ec0ff5bf1f|overdue|2026-05-18": {
+      "scheduledAt": "2026-05-05T21:41:13.569Z",
+      "type": "overdue",
+      "task": "create automation for BLS booking info to Christle's FD with investigation report note",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-05-18"
+    },
+    "aa295bf5e854a5c9111336ec0ff5bf1f|overdue|2026-05-19": {
+      "scheduledAt": "2026-05-05T21:41:14.330Z",
+      "type": "overdue",
+      "task": "create automation for BLS booking info to Christle's FD with investigation report note",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-05-19"
+    },
+    "aa295bf5e854a5c9111336ec0ff5bf1f|overdue|2026-05-20": {
+      "scheduledAt": "2026-05-05T21:41:15.167Z",
+      "type": "overdue",
+      "task": "create automation for BLS booking info to Christle's FD with investigation report note",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-05-20"
+    },
+    "aa295bf5e854a5c9111336ec0ff5bf1f|overdue|2026-05-21": {
+      "scheduledAt": "2026-05-05T21:41:15.899Z",
+      "type": "overdue",
+      "task": "create automation for BLS booking info to Christle's FD with investigation report note",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-05-21"
+    },
+    "aa295bf5e854a5c9111336ec0ff5bf1f|overdue|2026-05-22": {
+      "scheduledAt": "2026-05-05T21:41:16.701Z",
+      "type": "overdue",
+      "task": "create automation for BLS booking info to Christle's FD with investigation report note",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-05-22"
+    },
+    "aa295bf5e854a5c9111336ec0ff5bf1f|overdue|2026-05-23": {
+      "scheduledAt": "2026-05-05T21:41:17.476Z",
+      "type": "overdue",
+      "task": "create automation for BLS booking info to Christle's FD with investigation report note",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-05-23"
+    },
+    "aa295bf5e854a5c9111336ec0ff5bf1f|overdue|2026-05-24": {
+      "scheduledAt": "2026-05-05T21:41:18.245Z",
+      "type": "overdue",
+      "task": "create automation for BLS booking info to Christle's FD with investigation report note",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-05-24"
+    },
+    "aa295bf5e854a5c9111336ec0ff5bf1f|overdue|2026-05-25": {
+      "scheduledAt": "2026-05-05T21:41:19.018Z",
+      "type": "overdue",
+      "task": "create automation for BLS booking info to Christle's FD with investigation report note",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-05-25"
+    },
+    "aa295bf5e854a5c9111336ec0ff5bf1f|overdue|2026-05-26": {
+      "scheduledAt": "2026-05-05T21:41:19.811Z",
+      "type": "overdue",
+      "task": "create automation for BLS booking info to Christle's FD with investigation report note",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-05-26"
+    },
+    "aa295bf5e854a5c9111336ec0ff5bf1f|overdue|2026-05-27": {
+      "scheduledAt": "2026-05-05T21:41:20.546Z",
+      "type": "overdue",
+      "task": "create automation for BLS booking info to Christle's FD with investigation report note",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-05-27"
+    },
+    "aa295bf5e854a5c9111336ec0ff5bf1f|overdue|2026-05-28": {
+      "scheduledAt": "2026-05-05T21:41:21.276Z",
+      "type": "overdue",
+      "task": "create automation for BLS booking info to Christle's FD with investigation report note",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-05-28"
+    },
+    "aa295bf5e854a5c9111336ec0ff5bf1f|overdue|2026-05-29": {
+      "scheduledAt": "2026-05-05T21:41:22.040Z",
+      "type": "overdue",
+      "task": "create automation for BLS booking info to Christle's FD with investigation report note",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-05-29"
+    },
+    "aa295bf5e854a5c9111336ec0ff5bf1f|overdue|2026-05-30": {
+      "scheduledAt": "2026-05-05T21:41:22.796Z",
+      "type": "overdue",
+      "task": "create automation for BLS booking info to Christle's FD with investigation report note",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-05-30"
+    },
+    "aa295bf5e854a5c9111336ec0ff5bf1f|overdue|2026-05-31": {
+      "scheduledAt": "2026-05-05T21:41:23.535Z",
+      "type": "overdue",
+      "task": "create automation for BLS booking info to Christle's FD with investigation report note",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-05-31"
+    },
+    "aa295bf5e854a5c9111336ec0ff5bf1f|overdue|2026-06-01": {
+      "scheduledAt": "2026-05-05T21:41:24.336Z",
+      "type": "overdue",
+      "task": "create automation for BLS booking info to Christle's FD with investigation report note",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-06-01"
+    },
+    "aa295bf5e854a5c9111336ec0ff5bf1f|overdue|2026-06-02": {
+      "scheduledAt": "2026-05-05T21:41:25.120Z",
+      "type": "overdue",
+      "task": "create automation for BLS booking info to Christle's FD with investigation report note",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-06-02"
+    },
+    "aa295bf5e854a5c9111336ec0ff5bf1f|overdue|2026-06-03": {
+      "scheduledAt": "2026-05-05T21:41:25.887Z",
+      "type": "overdue",
+      "task": "create automation for BLS booking info to Christle's FD with investigation report note",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-06-03"
+    },
+    "aa295bf5e854a5c9111336ec0ff5bf1f|overdue|2026-06-04": {
+      "scheduledAt": "2026-05-05T21:41:26.627Z",
+      "type": "overdue",
+      "task": "create automation for BLS booking info to Christle's FD with investigation report note",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-06-04"
+    },
+    "aa295bf5e854a5c9111336ec0ff5bf1f|overdue|2026-06-05": {
+      "scheduledAt": "2026-05-05T21:41:27.402Z",
+      "type": "overdue",
+      "task": "create automation for BLS booking info to Christle's FD with investigation report note",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-06-05"
+    },
+    "388722c2b64a4e0e15b07eb9221b9909|midpoint|2026-05-07": {
+      "scheduledAt": "2026-05-05T21:41:28.139Z",
+      "type": "midpoint",
+      "task": "review automated prospect investigation reporting process",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-05-07"
+    },
+    "388722c2b64a4e0e15b07eb9221b9909|nag|2026-05-08": {
+      "scheduledAt": "2026-05-05T21:41:28.928Z",
+      "type": "nag",
+      "task": "review automated prospect investigation reporting process",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-05-08"
+    },
+    "388722c2b64a4e0e15b07eb9221b9909|due|2026-05-09": {
+      "scheduledAt": "2026-05-05T21:41:30.212Z",
+      "type": "due",
+      "task": "review automated prospect investigation reporting process",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-05-09"
+    },
+    "388722c2b64a4e0e15b07eb9221b9909|overdue|2026-05-10": {
+      "scheduledAt": "2026-05-05T21:41:30.996Z",
+      "type": "overdue",
+      "task": "review automated prospect investigation reporting process",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-05-10"
+    },
+    "388722c2b64a4e0e15b07eb9221b9909|overdue|2026-05-11": {
+      "scheduledAt": "2026-05-05T21:41:31.778Z",
+      "type": "overdue",
+      "task": "review automated prospect investigation reporting process",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-05-11"
+    },
+    "388722c2b64a4e0e15b07eb9221b9909|overdue|2026-05-12": {
+      "scheduledAt": "2026-05-05T21:41:32.562Z",
+      "type": "overdue",
+      "task": "review automated prospect investigation reporting process",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-05-12"
+    },
+    "388722c2b64a4e0e15b07eb9221b9909|overdue|2026-05-13": {
+      "scheduledAt": "2026-05-05T21:41:33.322Z",
+      "type": "overdue",
+      "task": "review automated prospect investigation reporting process",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-05-13"
+    },
+    "388722c2b64a4e0e15b07eb9221b9909|overdue|2026-05-14": {
+      "scheduledAt": "2026-05-05T21:41:34.060Z",
+      "type": "overdue",
+      "task": "review automated prospect investigation reporting process",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-05-14"
+    },
+    "388722c2b64a4e0e15b07eb9221b9909|overdue|2026-05-15": {
+      "scheduledAt": "2026-05-05T21:41:34.840Z",
+      "type": "overdue",
+      "task": "review automated prospect investigation reporting process",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-05-15"
+    },
+    "388722c2b64a4e0e15b07eb9221b9909|overdue|2026-05-16": {
+      "scheduledAt": "2026-05-05T21:41:35.613Z",
+      "type": "overdue",
+      "task": "review automated prospect investigation reporting process",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-05-16"
+    },
+    "388722c2b64a4e0e15b07eb9221b9909|overdue|2026-05-17": {
+      "scheduledAt": "2026-05-05T21:41:36.399Z",
+      "type": "overdue",
+      "task": "review automated prospect investigation reporting process",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-05-17"
+    },
+    "388722c2b64a4e0e15b07eb9221b9909|overdue|2026-05-18": {
+      "scheduledAt": "2026-05-05T21:41:37.166Z",
+      "type": "overdue",
+      "task": "review automated prospect investigation reporting process",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-05-18"
+    },
+    "388722c2b64a4e0e15b07eb9221b9909|overdue|2026-05-19": {
+      "scheduledAt": "2026-05-05T21:41:37.924Z",
+      "type": "overdue",
+      "task": "review automated prospect investigation reporting process",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-05-19"
+    },
+    "388722c2b64a4e0e15b07eb9221b9909|overdue|2026-05-20": {
+      "scheduledAt": "2026-05-05T21:41:38.705Z",
+      "type": "overdue",
+      "task": "review automated prospect investigation reporting process",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-05-20"
+    },
+    "388722c2b64a4e0e15b07eb9221b9909|overdue|2026-05-21": {
+      "scheduledAt": "2026-05-05T21:41:39.460Z",
+      "type": "overdue",
+      "task": "review automated prospect investigation reporting process",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-05-21"
+    },
+    "388722c2b64a4e0e15b07eb9221b9909|overdue|2026-05-22": {
+      "scheduledAt": "2026-05-05T21:41:40.242Z",
+      "type": "overdue",
+      "task": "review automated prospect investigation reporting process",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-05-22"
+    },
+    "388722c2b64a4e0e15b07eb9221b9909|overdue|2026-05-23": {
+      "scheduledAt": "2026-05-05T21:41:41.002Z",
+      "type": "overdue",
+      "task": "review automated prospect investigation reporting process",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-05-23"
+    },
+    "388722c2b64a4e0e15b07eb9221b9909|overdue|2026-05-24": {
+      "scheduledAt": "2026-05-05T21:41:41.758Z",
+      "type": "overdue",
+      "task": "review automated prospect investigation reporting process",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-05-24"
+    },
+    "388722c2b64a4e0e15b07eb9221b9909|overdue|2026-05-25": {
+      "scheduledAt": "2026-05-05T21:41:42.525Z",
+      "type": "overdue",
+      "task": "review automated prospect investigation reporting process",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-05-25"
+    },
+    "388722c2b64a4e0e15b07eb9221b9909|overdue|2026-05-26": {
+      "scheduledAt": "2026-05-05T21:41:43.314Z",
+      "type": "overdue",
+      "task": "review automated prospect investigation reporting process",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-05-26"
+    },
+    "388722c2b64a4e0e15b07eb9221b9909|overdue|2026-05-27": {
+      "scheduledAt": "2026-05-05T21:41:44.068Z",
+      "type": "overdue",
+      "task": "review automated prospect investigation reporting process",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-05-27"
+    },
+    "388722c2b64a4e0e15b07eb9221b9909|overdue|2026-05-28": {
+      "scheduledAt": "2026-05-05T21:41:44.865Z",
+      "type": "overdue",
+      "task": "review automated prospect investigation reporting process",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-05-28"
+    },
+    "388722c2b64a4e0e15b07eb9221b9909|overdue|2026-05-29": {
+      "scheduledAt": "2026-05-05T21:41:45.631Z",
+      "type": "overdue",
+      "task": "review automated prospect investigation reporting process",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-05-29"
+    },
+    "388722c2b64a4e0e15b07eb9221b9909|overdue|2026-05-30": {
+      "scheduledAt": "2026-05-05T21:41:46.367Z",
+      "type": "overdue",
+      "task": "review automated prospect investigation reporting process",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-05-30"
+    },
+    "388722c2b64a4e0e15b07eb9221b9909|overdue|2026-05-31": {
+      "scheduledAt": "2026-05-05T21:41:47.121Z",
+      "type": "overdue",
+      "task": "review automated prospect investigation reporting process",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-05-31"
+    },
+    "388722c2b64a4e0e15b07eb9221b9909|overdue|2026-06-01": {
+      "scheduledAt": "2026-05-05T21:41:47.893Z",
+      "type": "overdue",
+      "task": "review automated prospect investigation reporting process",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-06-01"
+    },
+    "388722c2b64a4e0e15b07eb9221b9909|overdue|2026-06-02": {
+      "scheduledAt": "2026-05-05T21:41:48.642Z",
+      "type": "overdue",
+      "task": "review automated prospect investigation reporting process",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-06-02"
+    },
+    "388722c2b64a4e0e15b07eb9221b9909|overdue|2026-06-03": {
+      "scheduledAt": "2026-05-05T21:41:49.437Z",
+      "type": "overdue",
+      "task": "review automated prospect investigation reporting process",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-06-03"
+    },
+    "388722c2b64a4e0e15b07eb9221b9909|overdue|2026-06-04": {
+      "scheduledAt": "2026-05-05T21:41:50.192Z",
+      "type": "overdue",
+      "task": "review automated prospect investigation reporting process",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-06-04"
+    },
+    "388722c2b64a4e0e15b07eb9221b9909|overdue|2026-06-05": {
+      "scheduledAt": "2026-05-05T21:41:50.996Z",
+      "type": "overdue",
+      "task": "review automated prospect investigation reporting process",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-06-05"
+    },
+    "388722c2b64a4e0e15b07eb9221b9909|overdue|2026-06-06": {
+      "scheduledAt": "2026-05-05T21:41:52.533Z",
+      "type": "overdue",
+      "task": "review automated prospect investigation reporting process",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-06-06"
+    },
+    "388722c2b64a4e0e15b07eb9221b9909|overdue|2026-06-07": {
+      "scheduledAt": "2026-05-05T21:41:53.307Z",
+      "type": "overdue",
+      "task": "review automated prospect investigation reporting process",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-06-07"
+    },
+    "388722c2b64a4e0e15b07eb9221b9909|overdue|2026-06-08": {
+      "scheduledAt": "2026-05-05T21:41:54.062Z",
+      "type": "overdue",
+      "task": "review automated prospect investigation reporting process",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-06-08"
+    },
+    "dca073740da9ac189f31dd45dedce7fd|midpoint|2026-05-05": {
+      "scheduledAt": "2026-05-05T21:41:54.062Z",
+      "type": "midpoint",
+      "task": "review cleaning up and organizing drive more for internal amp related and ampd client rela",
+      "skipped": true
+    },
+    "dca073740da9ac189f31dd45dedce7fd|nag|2026-05-07": {
+      "scheduledAt": "2026-05-05T21:41:54.741Z",
+      "type": "nag",
+      "task": "review cleaning up and organizing drive more for internal amp related and ampd client rela",
+      "assignee": "Brandon 'The One' Robertson",
+      "reminderDate": "2026-05-07"
+    },
+    "dca073740da9ac189f31dd45dedce7fd|nag|2026-05-08": {
+      "scheduledAt": "2026-05-05T21:41:55.434Z",
+      "type": "nag",
+      "task": "review cleaning up and organizing drive more for internal amp related and ampd client rela",
+      "assignee": "Brandon 'The One' Robertson",
+      "reminderDate": "2026-05-08"
+    },
+    "dca073740da9ac189f31dd45dedce7fd|due|2026-05-09": {
+      "scheduledAt": "2026-05-05T21:41:56.097Z",
+      "type": "due",
+      "task": "review cleaning up and organizing drive more for internal amp related and ampd client rela",
+      "assignee": "Brandon 'The One' Robertson",
+      "reminderDate": "2026-05-09"
+    },
+    "dca073740da9ac189f31dd45dedce7fd|overdue|2026-05-10": {
+      "scheduledAt": "2026-05-05T21:41:56.769Z",
+      "type": "overdue",
+      "task": "review cleaning up and organizing drive more for internal amp related and ampd client rela",
+      "assignee": "Brandon 'The One' Robertson",
+      "reminderDate": "2026-05-10"
+    },
+    "dca073740da9ac189f31dd45dedce7fd|overdue|2026-05-11": {
+      "scheduledAt": "2026-05-05T21:41:57.439Z",
+      "type": "overdue",
+      "task": "review cleaning up and organizing drive more for internal amp related and ampd client rela",
+      "assignee": "Brandon 'The One' Robertson",
+      "reminderDate": "2026-05-11"
+    },
+    "dca073740da9ac189f31dd45dedce7fd|overdue|2026-05-12": {
+      "scheduledAt": "2026-05-05T21:41:58.094Z",
+      "type": "overdue",
+      "task": "review cleaning up and organizing drive more for internal amp related and ampd client rela",
+      "assignee": "Brandon 'The One' Robertson",
+      "reminderDate": "2026-05-12"
+    },
+    "dca073740da9ac189f31dd45dedce7fd|overdue|2026-05-13": {
+      "scheduledAt": "2026-05-05T21:41:58.781Z",
+      "type": "overdue",
+      "task": "review cleaning up and organizing drive more for internal amp related and ampd client rela",
+      "assignee": "Brandon 'The One' Robertson",
+      "reminderDate": "2026-05-13"
+    },
+    "dca073740da9ac189f31dd45dedce7fd|overdue|2026-05-14": {
+      "scheduledAt": "2026-05-05T21:41:59.472Z",
+      "type": "overdue",
+      "task": "review cleaning up and organizing drive more for internal amp related and ampd client rela",
+      "assignee": "Brandon 'The One' Robertson",
+      "reminderDate": "2026-05-14"
+    },
+    "dca073740da9ac189f31dd45dedce7fd|overdue|2026-05-15": {
+      "scheduledAt": "2026-05-05T21:42:00.171Z",
+      "type": "overdue",
+      "task": "review cleaning up and organizing drive more for internal amp related and ampd client rela",
+      "assignee": "Brandon 'The One' Robertson",
+      "reminderDate": "2026-05-15"
+    },
+    "dca073740da9ac189f31dd45dedce7fd|overdue|2026-05-16": {
+      "scheduledAt": "2026-05-05T21:42:00.853Z",
+      "type": "overdue",
+      "task": "review cleaning up and organizing drive more for internal amp related and ampd client rela",
+      "assignee": "Brandon 'The One' Robertson",
+      "reminderDate": "2026-05-16"
+    },
+    "dca073740da9ac189f31dd45dedce7fd|overdue|2026-05-17": {
+      "scheduledAt": "2026-05-05T21:42:01.544Z",
+      "type": "overdue",
+      "task": "review cleaning up and organizing drive more for internal amp related and ampd client rela",
+      "assignee": "Brandon 'The One' Robertson",
+      "reminderDate": "2026-05-17"
+    },
+    "dca073740da9ac189f31dd45dedce7fd|overdue|2026-05-18": {
+      "scheduledAt": "2026-05-05T21:42:02.233Z",
+      "type": "overdue",
+      "task": "review cleaning up and organizing drive more for internal amp related and ampd client rela",
+      "assignee": "Brandon 'The One' Robertson",
+      "reminderDate": "2026-05-18"
+    },
+    "dca073740da9ac189f31dd45dedce7fd|overdue|2026-05-19": {
+      "scheduledAt": "2026-05-05T21:42:02.941Z",
+      "type": "overdue",
+      "task": "review cleaning up and organizing drive more for internal amp related and ampd client rela",
+      "assignee": "Brandon 'The One' Robertson",
+      "reminderDate": "2026-05-19"
+    },
+    "dca073740da9ac189f31dd45dedce7fd|overdue|2026-05-20": {
+      "scheduledAt": "2026-05-05T21:42:03.625Z",
+      "type": "overdue",
+      "task": "review cleaning up and organizing drive more for internal amp related and ampd client rela",
+      "assignee": "Brandon 'The One' Robertson",
+      "reminderDate": "2026-05-20"
+    },
+    "dca073740da9ac189f31dd45dedce7fd|overdue|2026-05-21": {
+      "scheduledAt": "2026-05-05T21:42:04.309Z",
+      "type": "overdue",
+      "task": "review cleaning up and organizing drive more for internal amp related and ampd client rela",
+      "assignee": "Brandon 'The One' Robertson",
+      "reminderDate": "2026-05-21"
+    },
+    "dca073740da9ac189f31dd45dedce7fd|overdue|2026-05-22": {
+      "scheduledAt": "2026-05-05T21:42:05.018Z",
+      "type": "overdue",
+      "task": "review cleaning up and organizing drive more for internal amp related and ampd client rela",
+      "assignee": "Brandon 'The One' Robertson",
+      "reminderDate": "2026-05-22"
+    },
+    "dca073740da9ac189f31dd45dedce7fd|overdue|2026-05-23": {
+      "scheduledAt": "2026-05-05T21:42:05.667Z",
+      "type": "overdue",
+      "task": "review cleaning up and organizing drive more for internal amp related and ampd client rela",
+      "assignee": "Brandon 'The One' Robertson",
+      "reminderDate": "2026-05-23"
+    },
+    "dca073740da9ac189f31dd45dedce7fd|overdue|2026-05-24": {
+      "scheduledAt": "2026-05-05T21:42:06.341Z",
+      "type": "overdue",
+      "task": "review cleaning up and organizing drive more for internal amp related and ampd client rela",
+      "assignee": "Brandon 'The One' Robertson",
+      "reminderDate": "2026-05-24"
+    },
+    "dca073740da9ac189f31dd45dedce7fd|overdue|2026-05-25": {
+      "scheduledAt": "2026-05-05T21:42:07.118Z",
+      "type": "overdue",
+      "task": "review cleaning up and organizing drive more for internal amp related and ampd client rela",
+      "assignee": "Brandon 'The One' Robertson",
+      "reminderDate": "2026-05-25"
+    },
+    "dca073740da9ac189f31dd45dedce7fd|overdue|2026-05-26": {
+      "scheduledAt": "2026-05-05T21:42:07.794Z",
+      "type": "overdue",
+      "task": "review cleaning up and organizing drive more for internal amp related and ampd client rela",
+      "assignee": "Brandon 'The One' Robertson",
+      "reminderDate": "2026-05-26"
+    },
+    "dca073740da9ac189f31dd45dedce7fd|overdue|2026-05-27": {
+      "scheduledAt": "2026-05-05T21:42:08.501Z",
+      "type": "overdue",
+      "task": "review cleaning up and organizing drive more for internal amp related and ampd client rela",
+      "assignee": "Brandon 'The One' Robertson",
+      "reminderDate": "2026-05-27"
+    },
+    "dca073740da9ac189f31dd45dedce7fd|overdue|2026-05-28": {
+      "scheduledAt": "2026-05-05T21:42:09.165Z",
+      "type": "overdue",
+      "task": "review cleaning up and organizing drive more for internal amp related and ampd client rela",
+      "assignee": "Brandon 'The One' Robertson",
+      "reminderDate": "2026-05-28"
+    },
+    "dca073740da9ac189f31dd45dedce7fd|overdue|2026-05-29": {
+      "scheduledAt": "2026-05-05T21:42:09.828Z",
+      "type": "overdue",
+      "task": "review cleaning up and organizing drive more for internal amp related and ampd client rela",
+      "assignee": "Brandon 'The One' Robertson",
+      "reminderDate": "2026-05-29"
+    },
+    "dca073740da9ac189f31dd45dedce7fd|overdue|2026-05-30": {
+      "scheduledAt": "2026-05-05T21:42:10.484Z",
+      "type": "overdue",
+      "task": "review cleaning up and organizing drive more for internal amp related and ampd client rela",
+      "assignee": "Brandon 'The One' Robertson",
+      "reminderDate": "2026-05-30"
+    },
+    "dca073740da9ac189f31dd45dedce7fd|overdue|2026-05-31": {
+      "scheduledAt": "2026-05-05T21:42:11.134Z",
+      "type": "overdue",
+      "task": "review cleaning up and organizing drive more for internal amp related and ampd client rela",
+      "assignee": "Brandon 'The One' Robertson",
+      "reminderDate": "2026-05-31"
+    },
+    "dca073740da9ac189f31dd45dedce7fd|overdue|2026-06-01": {
+      "scheduledAt": "2026-05-05T21:42:11.823Z",
+      "type": "overdue",
+      "task": "review cleaning up and organizing drive more for internal amp related and ampd client rela",
+      "assignee": "Brandon 'The One' Robertson",
+      "reminderDate": "2026-06-01"
+    },
+    "dca073740da9ac189f31dd45dedce7fd|overdue|2026-06-02": {
+      "scheduledAt": "2026-05-05T21:42:12.518Z",
+      "type": "overdue",
+      "task": "review cleaning up and organizing drive more for internal amp related and ampd client rela",
+      "assignee": "Brandon 'The One' Robertson",
+      "reminderDate": "2026-06-02"
+    },
+    "dca073740da9ac189f31dd45dedce7fd|overdue|2026-06-03": {
+      "scheduledAt": "2026-05-05T21:42:13.161Z",
+      "type": "overdue",
+      "task": "review cleaning up and organizing drive more for internal amp related and ampd client rela",
+      "assignee": "Brandon 'The One' Robertson",
+      "reminderDate": "2026-06-03"
+    },
+    "dca073740da9ac189f31dd45dedce7fd|overdue|2026-06-04": {
+      "scheduledAt": "2026-05-05T21:42:13.839Z",
+      "type": "overdue",
+      "task": "review cleaning up and organizing drive more for internal amp related and ampd client rela",
+      "assignee": "Brandon 'The One' Robertson",
+      "reminderDate": "2026-06-04"
+    },
+    "dca073740da9ac189f31dd45dedce7fd|overdue|2026-06-05": {
+      "scheduledAt": "2026-05-05T21:42:14.501Z",
+      "type": "overdue",
+      "task": "review cleaning up and organizing drive more for internal amp related and ampd client rela",
+      "assignee": "Brandon 'The One' Robertson",
+      "reminderDate": "2026-06-05"
+    },
+    "dca073740da9ac189f31dd45dedce7fd|overdue|2026-06-06": {
+      "scheduledAt": "2026-05-05T21:42:15.182Z",
+      "type": "overdue",
+      "task": "review cleaning up and organizing drive more for internal amp related and ampd client rela",
+      "assignee": "Brandon 'The One' Robertson",
+      "reminderDate": "2026-06-06"
+    },
+    "dca073740da9ac189f31dd45dedce7fd|overdue|2026-06-07": {
+      "scheduledAt": "2026-05-05T21:42:15.884Z",
+      "type": "overdue",
+      "task": "review cleaning up and organizing drive more for internal amp related and ampd client rela",
+      "assignee": "Brandon 'The One' Robertson",
+      "reminderDate": "2026-06-07"
+    },
+    "dca073740da9ac189f31dd45dedce7fd|overdue|2026-06-08": {
+      "scheduledAt": "2026-05-05T21:42:16.542Z",
+      "type": "overdue",
+      "task": "review cleaning up and organizing drive more for internal amp related and ampd client rela",
+      "assignee": "Brandon 'The One' Robertson",
+      "reminderDate": "2026-06-08"
+    },
+    "a02cb8e537750c8c80bf4f83458651ea|overdue|2026-05-05": {
+      "scheduledAt": "2026-05-05T21:42:16.542Z",
+      "type": "overdue",
+      "task": "please try to build and deploy the Jimmy booking Bot in ampd using this framework <https://docs.google.com/document/d/19LlMeVQS95A3IrFBFmi57pgN4JfqZmqZrcUyE5rNcBw/edit?usp=sharing> by next friday",
+      "skipped": true
+    },
+    "a02cb8e537750c8c80bf4f83458651ea|overdue|2026-05-06": {
+      "scheduledAt": "2026-05-05T21:42:17.286Z",
+      "type": "overdue",
+      "task": "please try to build and deploy the Jimmy booking Bot in ampd using this framework <https://docs.google.com/document/d/19LlMeVQS95A3IrFBFmi57pgN4JfqZmqZrcUyE5rNcBw/edit?usp=sharing> by next friday",
+      "assignee": "Josh 'The Ninja' Morales",
+      "reminderDate": "2026-05-06"
+    },
+    "a02cb8e537750c8c80bf4f83458651ea|overdue|2026-05-07": {
+      "scheduledAt": "2026-05-05T21:42:18.090Z",
+      "type": "overdue",
+      "task": "please try to build and deploy the Jimmy booking Bot in ampd using this framework <https://docs.google.com/document/d/19LlMeVQS95A3IrFBFmi57pgN4JfqZmqZrcUyE5rNcBw/edit?usp=sharing> by next friday",
+      "assignee": "Josh 'The Ninja' Morales",
+      "reminderDate": "2026-05-07"
+    },
+    "a02cb8e537750c8c80bf4f83458651ea|overdue|2026-05-08": {
+      "scheduledAt": "2026-05-05T21:42:18.882Z",
+      "type": "overdue",
+      "task": "please try to build and deploy the Jimmy booking Bot in ampd using this framework <https://docs.google.com/document/d/19LlMeVQS95A3IrFBFmi57pgN4JfqZmqZrcUyE5rNcBw/edit?usp=sharing> by next friday",
+      "assignee": "Josh 'The Ninja' Morales",
+      "reminderDate": "2026-05-08"
+    },
+    "a02cb8e537750c8c80bf4f83458651ea|overdue|2026-05-09": {
+      "scheduledAt": "2026-05-05T21:42:20.564Z",
+      "type": "overdue",
+      "task": "please try to build and deploy the Jimmy booking Bot in ampd using this framework <https://docs.google.com/document/d/19LlMeVQS95A3IrFBFmi57pgN4JfqZmqZrcUyE5rNcBw/edit?usp=sharing> by next friday",
+      "assignee": "Josh 'The Ninja' Morales",
+      "reminderDate": "2026-05-09"
+    },
+    "a02cb8e537750c8c80bf4f83458651ea|overdue|2026-05-10": {
+      "scheduledAt": "2026-05-05T21:42:21.306Z",
+      "type": "overdue",
+      "task": "please try to build and deploy the Jimmy booking Bot in ampd using this framework <https://docs.google.com/document/d/19LlMeVQS95A3IrFBFmi57pgN4JfqZmqZrcUyE5rNcBw/edit?usp=sharing> by next friday",
+      "assignee": "Josh 'The Ninja' Morales",
+      "reminderDate": "2026-05-10"
+    },
+    "a02cb8e537750c8c80bf4f83458651ea|overdue|2026-05-11": {
+      "scheduledAt": "2026-05-05T21:42:22.175Z",
+      "type": "overdue",
+      "task": "please try to build and deploy the Jimmy booking Bot in ampd using this framework <https://docs.google.com/document/d/19LlMeVQS95A3IrFBFmi57pgN4JfqZmqZrcUyE5rNcBw/edit?usp=sharing> by next friday",
+      "assignee": "Josh 'The Ninja' Morales",
+      "reminderDate": "2026-05-11"
+    },
+    "a02cb8e537750c8c80bf4f83458651ea|overdue|2026-05-12": {
+      "scheduledAt": "2026-05-05T21:42:22.935Z",
+      "type": "overdue",
+      "task": "please try to build and deploy the Jimmy booking Bot in ampd using this framework <https://docs.google.com/document/d/19LlMeVQS95A3IrFBFmi57pgN4JfqZmqZrcUyE5rNcBw/edit?usp=sharing> by next friday",
+      "assignee": "Josh 'The Ninja' Morales",
+      "reminderDate": "2026-05-12"
+    },
+    "a02cb8e537750c8c80bf4f83458651ea|overdue|2026-05-13": {
+      "scheduledAt": "2026-05-05T21:42:23.678Z",
+      "type": "overdue",
+      "task": "please try to build and deploy the Jimmy booking Bot in ampd using this framework <https://docs.google.com/document/d/19LlMeVQS95A3IrFBFmi57pgN4JfqZmqZrcUyE5rNcBw/edit?usp=sharing> by next friday",
+      "assignee": "Josh 'The Ninja' Morales",
+      "reminderDate": "2026-05-13"
+    },
+    "a02cb8e537750c8c80bf4f83458651ea|overdue|2026-05-14": {
+      "scheduledAt": "2026-05-05T21:42:24.442Z",
+      "type": "overdue",
+      "task": "please try to build and deploy the Jimmy booking Bot in ampd using this framework <https://docs.google.com/document/d/19LlMeVQS95A3IrFBFmi57pgN4JfqZmqZrcUyE5rNcBw/edit?usp=sharing> by next friday",
+      "assignee": "Josh 'The Ninja' Morales",
+      "reminderDate": "2026-05-14"
+    },
+    "a02cb8e537750c8c80bf4f83458651ea|overdue|2026-05-15": {
+      "scheduledAt": "2026-05-05T21:42:36.280Z",
+      "type": "overdue",
+      "task": "please try to build and deploy the Jimmy booking Bot in ampd using this framework <https://docs.google.com/document/d/19LlMeVQS95A3IrFBFmi57pgN4JfqZmqZrcUyE5rNcBw/edit?usp=sharing> by next friday",
+      "assignee": "Josh 'The Ninja' Morales",
+      "reminderDate": "2026-05-15"
+    },
+    "a02cb8e537750c8c80bf4f83458651ea|overdue|2026-05-16": {
+      "scheduledAt": "2026-05-05T21:42:37.027Z",
+      "type": "overdue",
+      "task": "please try to build and deploy the Jimmy booking Bot in ampd using this framework <https://docs.google.com/document/d/19LlMeVQS95A3IrFBFmi57pgN4JfqZmqZrcUyE5rNcBw/edit?usp=sharing> by next friday",
+      "assignee": "Josh 'The Ninja' Morales",
+      "reminderDate": "2026-05-16"
+    },
+    "a02cb8e537750c8c80bf4f83458651ea|overdue|2026-05-17": {
+      "scheduledAt": "2026-05-05T21:42:37.789Z",
+      "type": "overdue",
+      "task": "please try to build and deploy the Jimmy booking Bot in ampd using this framework <https://docs.google.com/document/d/19LlMeVQS95A3IrFBFmi57pgN4JfqZmqZrcUyE5rNcBw/edit?usp=sharing> by next friday",
+      "assignee": "Josh 'The Ninja' Morales",
+      "reminderDate": "2026-05-17"
+    },
+    "a02cb8e537750c8c80bf4f83458651ea|overdue|2026-05-18": {
+      "scheduledAt": "2026-05-05T21:42:38.552Z",
+      "type": "overdue",
+      "task": "please try to build and deploy the Jimmy booking Bot in ampd using this framework <https://docs.google.com/document/d/19LlMeVQS95A3IrFBFmi57pgN4JfqZmqZrcUyE5rNcBw/edit?usp=sharing> by next friday",
+      "assignee": "Josh 'The Ninja' Morales",
+      "reminderDate": "2026-05-18"
+    },
+    "a02cb8e537750c8c80bf4f83458651ea|overdue|2026-05-19": {
+      "scheduledAt": "2026-05-05T21:42:50.443Z",
+      "type": "overdue",
+      "task": "please try to build and deploy the Jimmy booking Bot in ampd using this framework <https://docs.google.com/document/d/19LlMeVQS95A3IrFBFmi57pgN4JfqZmqZrcUyE5rNcBw/edit?usp=sharing> by next friday",
+      "assignee": "Josh 'The Ninja' Morales",
+      "reminderDate": "2026-05-19"
+    },
+    "a02cb8e537750c8c80bf4f83458651ea|overdue|2026-05-20": {
+      "scheduledAt": "2026-05-05T21:42:51.192Z",
+      "type": "overdue",
+      "task": "please try to build and deploy the Jimmy booking Bot in ampd using this framework <https://docs.google.com/document/d/19LlMeVQS95A3IrFBFmi57pgN4JfqZmqZrcUyE5rNcBw/edit?usp=sharing> by next friday",
+      "assignee": "Josh 'The Ninja' Morales",
+      "reminderDate": "2026-05-20"
+    },
+    "a02cb8e537750c8c80bf4f83458651ea|overdue|2026-05-21": {
+      "scheduledAt": "2026-05-05T21:42:52.005Z",
+      "type": "overdue",
+      "task": "please try to build and deploy the Jimmy booking Bot in ampd using this framework <https://docs.google.com/document/d/19LlMeVQS95A3IrFBFmi57pgN4JfqZmqZrcUyE5rNcBw/edit?usp=sharing> by next friday",
+      "assignee": "Josh 'The Ninja' Morales",
+      "reminderDate": "2026-05-21"
+    },
+    "a02cb8e537750c8c80bf4f83458651ea|overdue|2026-05-22": {
+      "scheduledAt": "2026-05-05T21:42:52.784Z",
+      "type": "overdue",
+      "task": "please try to build and deploy the Jimmy booking Bot in ampd using this framework <https://docs.google.com/document/d/19LlMeVQS95A3IrFBFmi57pgN4JfqZmqZrcUyE5rNcBw/edit?usp=sharing> by next friday",
+      "assignee": "Josh 'The Ninja' Morales",
+      "reminderDate": "2026-05-22"
+    },
+    "a02cb8e537750c8c80bf4f83458651ea|overdue|2026-05-23": {
+      "scheduledAt": "2026-05-05T21:42:53.518Z",
+      "type": "overdue",
+      "task": "please try to build and deploy the Jimmy booking Bot in ampd using this framework <https://docs.google.com/document/d/19LlMeVQS95A3IrFBFmi57pgN4JfqZmqZrcUyE5rNcBw/edit?usp=sharing> by next friday",
+      "assignee": "Josh 'The Ninja' Morales",
+      "reminderDate": "2026-05-23"
+    },
+    "a02cb8e537750c8c80bf4f83458651ea|overdue|2026-05-24": {
+      "scheduledAt": "2026-05-05T21:42:54.229Z",
+      "type": "overdue",
+      "task": "please try to build and deploy the Jimmy booking Bot in ampd using this framework <https://docs.google.com/document/d/19LlMeVQS95A3IrFBFmi57pgN4JfqZmqZrcUyE5rNcBw/edit?usp=sharing> by next friday",
+      "assignee": "Josh 'The Ninja' Morales",
+      "reminderDate": "2026-05-24"
+    },
+    "a02cb8e537750c8c80bf4f83458651ea|overdue|2026-05-25": {
+      "scheduledAt": "2026-05-05T21:43:06.061Z",
+      "type": "overdue",
+      "task": "please try to build and deploy the Jimmy booking Bot in ampd using this framework <https://docs.google.com/document/d/19LlMeVQS95A3IrFBFmi57pgN4JfqZmqZrcUyE5rNcBw/edit?usp=sharing> by next friday",
+      "assignee": "Josh 'The Ninja' Morales",
+      "reminderDate": "2026-05-25"
+    },
+    "a02cb8e537750c8c80bf4f83458651ea|overdue|2026-05-26": {
+      "scheduledAt": "2026-05-05T21:43:06.849Z",
+      "type": "overdue",
+      "task": "please try to build and deploy the Jimmy booking Bot in ampd using this framework <https://docs.google.com/document/d/19LlMeVQS95A3IrFBFmi57pgN4JfqZmqZrcUyE5rNcBw/edit?usp=sharing> by next friday",
+      "assignee": "Josh 'The Ninja' Morales",
+      "reminderDate": "2026-05-26"
+    },
+    "a02cb8e537750c8c80bf4f83458651ea|overdue|2026-05-27": {
+      "scheduledAt": "2026-05-05T21:43:07.613Z",
+      "type": "overdue",
+      "task": "please try to build and deploy the Jimmy booking Bot in ampd using this framework <https://docs.google.com/document/d/19LlMeVQS95A3IrFBFmi57pgN4JfqZmqZrcUyE5rNcBw/edit?usp=sharing> by next friday",
+      "assignee": "Josh 'The Ninja' Morales",
+      "reminderDate": "2026-05-27"
+    },
+    "a02cb8e537750c8c80bf4f83458651ea|overdue|2026-05-28": {
+      "scheduledAt": "2026-05-05T21:43:08.427Z",
+      "type": "overdue",
+      "task": "please try to build and deploy the Jimmy booking Bot in ampd using this framework <https://docs.google.com/document/d/19LlMeVQS95A3IrFBFmi57pgN4JfqZmqZrcUyE5rNcBw/edit?usp=sharing> by next friday",
+      "assignee": "Josh 'The Ninja' Morales",
+      "reminderDate": "2026-05-28"
+    },
+    "a02cb8e537750c8c80bf4f83458651ea|overdue|2026-05-29": {
+      "scheduledAt": "2026-05-05T21:43:09.197Z",
+      "type": "overdue",
+      "task": "please try to build and deploy the Jimmy booking Bot in ampd using this framework <https://docs.google.com/document/d/19LlMeVQS95A3IrFBFmi57pgN4JfqZmqZrcUyE5rNcBw/edit?usp=sharing> by next friday",
+      "assignee": "Josh 'The Ninja' Morales",
+      "reminderDate": "2026-05-29"
+    },
+    "a02cb8e537750c8c80bf4f83458651ea|overdue|2026-05-30": {
+      "scheduledAt": "2026-05-05T21:43:09.967Z",
+      "type": "overdue",
+      "task": "please try to build and deploy the Jimmy booking Bot in ampd using this framework <https://docs.google.com/document/d/19LlMeVQS95A3IrFBFmi57pgN4JfqZmqZrcUyE5rNcBw/edit?usp=sharing> by next friday",
+      "assignee": "Josh 'The Ninja' Morales",
+      "reminderDate": "2026-05-30"
+    },
+    "a02cb8e537750c8c80bf4f83458651ea|overdue|2026-05-31": {
+      "scheduledAt": "2026-05-05T21:43:10.763Z",
+      "type": "overdue",
+      "task": "please try to build and deploy the Jimmy booking Bot in ampd using this framework <https://docs.google.com/document/d/19LlMeVQS95A3IrFBFmi57pgN4JfqZmqZrcUyE5rNcBw/edit?usp=sharing> by next friday",
+      "assignee": "Josh 'The Ninja' Morales",
+      "reminderDate": "2026-05-31"
+    },
+    "a02cb8e537750c8c80bf4f83458651ea|overdue|2026-06-01": {
+      "scheduledAt": "2026-05-05T21:43:11.531Z",
+      "type": "overdue",
+      "task": "please try to build and deploy the Jimmy booking Bot in ampd using this framework <https://docs.google.com/document/d/19LlMeVQS95A3IrFBFmi57pgN4JfqZmqZrcUyE5rNcBw/edit?usp=sharing> by next friday",
+      "assignee": "Josh 'The Ninja' Morales",
+      "reminderDate": "2026-06-01"
     }
   },
   "scheduledMessageIds": {
@@ -43743,8 +44755,1372 @@
         "channel": "C05JGF817H6",
         "messageId": "Q0B1Q8FQLHK"
       }
+    ],
+    "aa295bf5e854a5c9111336ec0ff5bf1f": [
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B1DNYLF9V"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0B1YQS617W"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0B1DNZHVB9"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B1RQSNM9T"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0B2PF9PMG8"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0B1V78MRCJ"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B1YQSEVLL"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0B1DNYJM8F"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0B1NRF2RB5"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B283XU3GR"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0B1T5HSM7G"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0B1DNYR5PZ"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B1RQRSJF7"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0B2PFA2KSL"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0B283YJ5G9"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B1V79C50A"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0B1RQSL0MT"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0B283YF3TK"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B1T5HMQTG"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0B1T5J6JJJ"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0B1DNYM5BR"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B1T5H41E2"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0B2PFB986L"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0B1T5HS3KQ"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B1T5JJA06"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0B283ZT60Z"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0B1RQRTZQV"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B1V79L90S"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0B1RQRNMQV"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0B283Z1AAD"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B283Z8SJV"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0B1DNZLJ4F"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0B1RQS26LD"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B1NRFJMD1"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0B283Z2EP3"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0B1T5HPFE2"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B1V7972R0"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0B2PFAGJQY"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0B1T5HVDEJ"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B283ZPT09"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0B1YQT2WCC"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0B1T5JT5PY"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B1DP03F39"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0B1YQSMT8C"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0B1T5JAREJ"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B1NRFDKCK"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0B1V79D01G"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0B1NRFU0FM"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B1NRGNNFM"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0B1YQRKSVA"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0B1NRGC7LK"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B1YQT8CBE"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0B1DP040KZ"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0B1RQT6CER"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B2PFAUC2U"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0B1V79KZR8"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0B1V7A3PV0"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B1NRH1PKM"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0B28403ZJM"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0B1RQQT0JZ"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B1NRGGLMR"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0B2PFBN9UG"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0B1V7AH9T4"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B1V7A2D2N"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0B2840L4G1"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0B1RQTRQE9"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B1T5K7DEJ"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0B2PFBL70Q"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0B2PFAC932"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B1V7B064A"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0B1V7A3FEE"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0B2PFB16D6"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B283ZJMMF"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0B2840U0RF"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0B1V79K4CS"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B283ZSN3B"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0B2PFB0C80"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0B28405T7T"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B1DNZQGB1"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0B1V7A7VU2"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0B1YQTV9QC"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B1NRGRH7D"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0B1NRH64KV"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0B1NRH1VM1"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B1T5KG8UW"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0B1NRGB4RH"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0B1T5K90NA"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B1NRGRK9R"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0B1NRHH2TV"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0B1RQT1X8V"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B1V7ALWAE"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0B1T5KQSLE"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0B1YQU4QLU"
+      }
+    ],
+    "388722c2b64a4e0e15b07eb9221b9909": [
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B1YQTV8MS"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0B1V7AD1TL"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0B2PFC2JGY"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B2840T0U9"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0B1V7ATCKC"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0B1T5KGH2A"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B1RQU3X45"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0B2840BU65"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0B1T5L7VUN"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B1YQU78GL"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0B1DP1E59D"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0B2PFBS4GG"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B1V7B0UH0"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0B1DP1GVFH"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0B1YQUL8LU"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B1DP2DVUP"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0B1DP129L7"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0B1T5L039U"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B2840S9BK"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0B1DP0Q1KR"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0B1RQUBA2Z"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B2840TC01"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0B2PFCG516"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0B1V7AUZC2"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B2PFCFG0Y"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0B1T5LDQ0N"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0B1DP24MNK"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B2PFC929W"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0B1DP1KXE3"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0B2841KDU1"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B1DP18KE3"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0B2PFCQZHN"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0B1V7BLZSN"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B1YQU6Y12"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0B2842BUGH"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0B1RQV0A5B"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B1V7C3LF4"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0B2PFD791N"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0B1NRJ0SSF"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B1DP2LASK"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0B2PFCNTA4"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0B1T5L7SH4"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B2PFEE3T2"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0B1NRHV9R9"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0B1YQV9MPE"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B2PFD5H8Q"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0B1RQURT5K"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0B1YQV5U8L"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B1DP25JB1"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0B1DP1B37H"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0B2841AWDP"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B1YQUUUDS"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0B1DP20CEB"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0B1YQUU6QL"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B1DP21ZB9"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0B1RQVAHEZ"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0B1V7C103C"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B2PFDAPHN"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0B1V7CRQUA"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0B2842JM09"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B2PFD83HN"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0B1YQVAJDS"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0B2841KG5P"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B1T5MT3KQ"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0B28432ESV"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0B2842KARF"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B1DP2RVN3"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0B1DP2HZPH"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0B1RQW0HS9"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B1RQVPCF7"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0B1T5MAUEA"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0B1RQV0ATF"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B1YQW3CG4"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0B2842LJ4R"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0B1YQVQ2J0"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B1YQW6L12"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0B1NRKBC59"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0B1NRJSHL3"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B1T5N15QE"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0B28434BED"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0B1T5LSP3Q"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B2PFE307J"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0B2PFECLQY"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0B1DP2TKFZ"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B1V7CQ1RQ"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0B2842T189"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0B1V7CNAR0"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B1DP3B3SB"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0B1NRKQVPD"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0B1NRKGQHZ"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B1RQVJ61K"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0B1V7DERGS"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0B1YQW5JN8"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B1NRK1WLB"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0B2PFEEW4Q"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0B1YQW7A92"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B1NRKGN7M"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0B1DP3PAVD"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0B1RQWTBPX"
+      }
+    ],
+    "dca073740da9ac189f31dd45dedce7fd": [
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B1T5M4F6J"
+      },
+      {
+        "channel": "C05HV4SQD6G",
+        "messageId": "Q0B1YQWFLDS"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B1DP3G4TH"
+      },
+      {
+        "channel": "C05HV4SQD6G",
+        "messageId": "Q0B1DP36N23"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B1NRLAVH9"
+      },
+      {
+        "channel": "C05HV4SQD6G",
+        "messageId": "Q0B1V7DBCKC"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B1RQX4ZC5"
+      },
+      {
+        "channel": "C05HV4SQD6G",
+        "messageId": "Q0B1NRKDNG3"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B1DP3DTTR"
+      },
+      {
+        "channel": "C05HV4SQD6G",
+        "messageId": "Q0B1V7D6J9Y"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B1V7D1V1Q"
+      },
+      {
+        "channel": "C05HV4SQD6G",
+        "messageId": "Q0B1NRKSJRZ"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B28447917"
+      },
+      {
+        "channel": "C05HV4SQD6G",
+        "messageId": "Q0B2PFELC0Y"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B1T5MSU94"
+      },
+      {
+        "channel": "C05HV4SQD6G",
+        "messageId": "Q0B1NRLMFR9"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B1NRLG743"
+      },
+      {
+        "channel": "C05HV4SQD6G",
+        "messageId": "Q0B1RQX2S1K"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B1YQXGXCL"
+      },
+      {
+        "channel": "C05HV4SQD6G",
+        "messageId": "Q0B1V7DUM26"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B1V7EGNV8"
+      },
+      {
+        "channel": "C05HV4SQD6G",
+        "messageId": "Q0B1T5LBLT0"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B1V7EFJMQ"
+      },
+      {
+        "channel": "C05HV4SQD6G",
+        "messageId": "Q0B2PFF4VUY"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B1V7E54F4"
+      },
+      {
+        "channel": "C05HV4SQD6G",
+        "messageId": "Q0B1NRLL15H"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B1DP4UNHM"
+      },
+      {
+        "channel": "C05HV4SQD6G",
+        "messageId": "Q0B1RQY6BHT"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B1NRLRYAX"
+      },
+      {
+        "channel": "C05HV4SQD6G",
+        "messageId": "Q0B2843SFUH"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B1V7E5S58"
+      },
+      {
+        "channel": "C05HV4SQD6G",
+        "messageId": "Q0B1DP406CX"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B1DP49MSB"
+      },
+      {
+        "channel": "C05HV4SQD6G",
+        "messageId": "Q0B1T5N4FM4"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B1RQY4XAR"
+      },
+      {
+        "channel": "C05HV4SQD6G",
+        "messageId": "Q0B2843J481"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B1T5KFSEA"
+      },
+      {
+        "channel": "C05HV4SQD6G",
+        "messageId": "Q0B1YQXKWFN"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B1DP48SUX"
+      },
+      {
+        "channel": "C05HV4SQD6G",
+        "messageId": "Q0B1YQY5HB6"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B1T5N9EMC"
+      },
+      {
+        "channel": "C05HV4SQD6G",
+        "messageId": "Q0B2844K9DX"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B1YQXC9UL"
+      },
+      {
+        "channel": "C05HV4SQD6G",
+        "messageId": "Q0B1DP53PGX"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B1NRLSQAX"
+      },
+      {
+        "channel": "C05HV4SQD6G",
+        "messageId": "Q0B1RQY8BHT"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B1RQY0MFX"
+      },
+      {
+        "channel": "C05HV4SQD6G",
+        "messageId": "Q0B1V7F8YTU"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B1V7F5P2N"
+      },
+      {
+        "channel": "C05HV4SQD6G",
+        "messageId": "Q0B2844P18R"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B1V7EDB6E"
+      },
+      {
+        "channel": "C05HV4SQD6G",
+        "messageId": "Q0B1DP5G7AT"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B1T5Q1DP0"
+      },
+      {
+        "channel": "C05HV4SQD6G",
+        "messageId": "Q0B1YQYDBGU"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B1RQYURPF"
+      },
+      {
+        "channel": "C05HV4SQD6G",
+        "messageId": "Q0B1DP4N1RD"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B1NRM592P"
+      },
+      {
+        "channel": "C05HV4SQD6G",
+        "messageId": "Q0B1DP5NP63"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B1V7EDPR8"
+      },
+      {
+        "channel": "C05HV4SQD6G",
+        "messageId": "Q0B1YQYL5TN"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B1YQZ53D2"
+      },
+      {
+        "channel": "C05HV4SQD6G",
+        "messageId": "Q0B2845AHGR"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B2PFG3KB2"
+      },
+      {
+        "channel": "C05HV4SQD6G",
+        "messageId": "Q0B1RQYPV5K"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B1YQYDU68"
+      },
+      {
+        "channel": "C05HV4SQD6G",
+        "messageId": "Q0B28451HCH"
+      }
+    ],
+    "a02cb8e537750c8c80bf4f83458651ea": [
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B1V7F0HFU"
+      },
+      {
+        "channel": "U07FVUF09T7",
+        "messageId": "Q0B2PFFK0L8"
+      },
+      {
+        "channel": "C093VPK55NF",
+        "messageId": "Q0B1RQYVDAR"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B1V7F70BU"
+      },
+      {
+        "channel": "U07FVUF09T7",
+        "messageId": "Q0B1YQYGSQL"
+      },
+      {
+        "channel": "C093VPK55NF",
+        "messageId": "Q0B2PFGSMU0"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B1RQYP6MB"
+      },
+      {
+        "channel": "U07FVUF09T7",
+        "messageId": "Q0B1V7F9U2E"
+      },
+      {
+        "channel": "C093VPK55NF",
+        "messageId": "Q0B1DP6APHD"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B1NRMD8KV"
+      },
+      {
+        "channel": "U07FVUF09T7",
+        "messageId": "Q0B1NRN7Q83"
+      },
+      {
+        "channel": "C093VPK55NF",
+        "messageId": "Q0B2PFGK82U"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B1RQYTUQM"
+      },
+      {
+        "channel": "U07FVUF09T7",
+        "messageId": "Q0B1DP5C85D"
+      },
+      {
+        "channel": "C093VPK55NF",
+        "messageId": "Q0B1V7GA5DY"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B1T5KAVGE"
+      },
+      {
+        "channel": "U07FVUF09T7",
+        "messageId": "Q0B1V7G0MEW"
+      },
+      {
+        "channel": "C093VPK55NF",
+        "messageId": "Q0B1NRNJ62F"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B2PFGM7PS"
+      },
+      {
+        "channel": "U07FVUF09T7",
+        "messageId": "Q0B2PFGUKU0"
+      },
+      {
+        "channel": "C093VPK55NF",
+        "messageId": "Q0B1T5Q17HU"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B1RQZGX7F"
+      },
+      {
+        "channel": "U07FVUF09T7",
+        "messageId": "Q0B1RQZB97F"
+      },
+      {
+        "channel": "C093VPK55NF",
+        "messageId": "Q0B1RQZLRV3"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B2845D1C1"
+      },
+      {
+        "channel": "U07FVUF09T7",
+        "messageId": "Q0B2PFH73S4"
+      },
+      {
+        "channel": "C093VPK55NF",
+        "messageId": "Q0B1RQZ5J93"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B284621L1"
+      },
+      {
+        "channel": "U07FVUF09T7",
+        "messageId": "Q0B2PFGSGUQ"
+      },
+      {
+        "channel": "C093VPK55NF",
+        "messageId": "Q0B1NRP8DM1"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B2PFHNFNC"
+      },
+      {
+        "channel": "U07FVUF09T7",
+        "messageId": "Q0B1V7GUS66"
+      },
+      {
+        "channel": "C093VPK55NF",
+        "messageId": "Q0B2PFHRAV6"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B1T5R8XL6"
+      },
+      {
+        "channel": "U07FVUF09T7",
+        "messageId": "Q0B284307CZ"
+      },
+      {
+        "channel": "C093VPK55NF",
+        "messageId": "Q0B1NRP8T0B"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B1V7H4WP4"
+      },
+      {
+        "channel": "U07FVUF09T7",
+        "messageId": "Q0B2847EDLH"
+      },
+      {
+        "channel": "C093VPK55NF",
+        "messageId": "Q0B1YQZNCJG"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B1V7GTX6E"
+      },
+      {
+        "channel": "U07FVUF09T7",
+        "messageId": "Q0B1YR1JCUU"
+      },
+      {
+        "channel": "C093VPK55NF",
+        "messageId": "Q0B1DP87VK9"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B2PFK5RH6"
+      },
+      {
+        "channel": "U07FVUF09T7",
+        "messageId": "Q0B1YR1FMN0"
+      },
+      {
+        "channel": "C093VPK55NF",
+        "messageId": "Q0B1YR104TW"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B1NRMBPFD"
+      },
+      {
+        "channel": "U07FVUF09T7",
+        "messageId": "Q0B1NRPTKUK"
+      },
+      {
+        "channel": "C093VPK55NF",
+        "messageId": "Q0B1DP8E44F"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B2848PQSV"
+      },
+      {
+        "channel": "U07FVUF09T7",
+        "messageId": "Q0B1NRQSL3D"
+      },
+      {
+        "channel": "C093VPK55NF",
+        "messageId": "Q0B2848J5ED"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B2PFK1WU8"
+      },
+      {
+        "channel": "U07FVUF09T7",
+        "messageId": "Q0B2849KFLZ"
+      },
+      {
+        "channel": "C093VPK55NF",
+        "messageId": "Q0B2848B4GH"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B1RR18745"
+      },
+      {
+        "channel": "U07FVUF09T7",
+        "messageId": "Q0B1YR1UL4C"
+      },
+      {
+        "channel": "C093VPK55NF",
+        "messageId": "Q0B1V7HKYEN"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B1DP8KKP1"
+      },
+      {
+        "channel": "U07FVUF09T7",
+        "messageId": "Q0B1YR24H9S"
+      },
+      {
+        "channel": "C093VPK55NF",
+        "messageId": "Q0B1V7L6JE6"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B1DPA58MD"
+      },
+      {
+        "channel": "U07FVUF09T7",
+        "messageId": "Q0B2PFL7ZNC"
+      },
+      {
+        "channel": "C093VPK55NF",
+        "messageId": "Q0B28497SQZ"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B1YR2QXDJ"
+      },
+      {
+        "channel": "U07FVUF09T7",
+        "messageId": "Q0B1YR2CRM2"
+      },
+      {
+        "channel": "C093VPK55NF",
+        "messageId": "Q0B1T5U9N6A"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B2PFM3A64"
+      },
+      {
+        "channel": "U07FVUF09T7",
+        "messageId": "Q0B1T5T10B0"
+      },
+      {
+        "channel": "C093VPK55NF",
+        "messageId": "Q0B1NRSCQUB"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B284AB3SM"
+      },
+      {
+        "channel": "U07FVUF09T7",
+        "messageId": "Q0B1RR3NSE9"
+      },
+      {
+        "channel": "C093VPK55NF",
+        "messageId": "Q0B284A3EBB"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B2849M3MX"
+      },
+      {
+        "channel": "U07FVUF09T7",
+        "messageId": "Q0B2846DYUR"
+      },
+      {
+        "channel": "C093VPK55NF",
+        "messageId": "Q0B1YR2UQ20"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B1DP9S0VD"
+      },
+      {
+        "channel": "U07FVUF09T7",
+        "messageId": "Q0B1DP6EDGX"
+      },
+      {
+        "channel": "C093VPK55NF",
+        "messageId": "Q0B1V7FVDFU"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B1YR471A8"
+      },
+      {
+        "channel": "U07FVUF09T7",
+        "messageId": "Q0B2PFM42U8"
+      },
+      {
+        "channel": "C093VPK55NF",
+        "messageId": "Q0B2849CS8Z"
+      }
     ]
   },
   "lastWeeklySummaryDate": "2026-W18",
-  "lastRun": "2026-05-05T18:03:24.599Z"
+  "lastRun": "2026-05-05T21:43:11.532Z"
 }
