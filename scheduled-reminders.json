@@ -2407,6 +2407,34 @@
       "completed": true,
       "completedAt": "2026-05-05T06:01:42.945Z",
       "firstSeenAt": "2026-05-05T06:01:42.945Z"
+    },
+    "879eda8f2398d812286bcff4a3de4bc8": {
+      "task": "build chat bot for ampd website and landing pages",
+      "assignee_name": "Mark 'Morpheus' Manaog",
+      "assignee_slack_mention": "@Mark 'Morpheus' Manaog",
+      "assigned_date": "2026-04-30",
+      "due_date": null,
+      "message_ts": "1777562445.100809",
+      "source_message": "Brandon 'The One' Robertson: @Mark 'Morpheus' Manaog once you've figured out the chat bot fun",
+      "assigneeId": "U023F61R16F",
+      "messageTs": "1777562445.100809",
+      "completed": false,
+      "completedAt": null,
+      "firstSeenAt": "2026-05-05T11:06:21.024Z"
+    },
+    "ecc22970092e1f0d86cbea8c535f887d": {
+      "task": "add me to Paul Lenskold's channel so I can see his bullet points",
+      "assignee_name": "unknown",
+      "assignee_slack_mention": null,
+      "assigned_date": "2026-04-27",
+      "due_date": null,
+      "message_ts": "1777322725.773739",
+      "source_message": "<!channel> Can someone add me to Paul Lenskold's channel so I can see his bullet points?",
+      "assigneeId": null,
+      "messageTs": "1777322725.773739",
+      "completed": false,
+      "completedAt": null,
+      "firstSeenAt": "2026-05-05T11:06:21.124Z"
     }
   },
   "scheduled": {
@@ -24188,6 +24216,13 @@
       "task": "finish setting new landing page meta API and redirects/embeds",
       "assignee": "Mark 'Morpheus' Manaog",
       "reminderDate": "2026-06-06"
+    },
+    "879eda8f2398d812286bcff4a3de4bc8|followup|2026-05-07": {
+      "scheduledAt": "2026-05-05T11:06:21.838Z",
+      "type": "followup",
+      "task": "build chat bot for ampd website and landing pages",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-05-07"
     }
   },
   "scheduledMessageIds": {
@@ -42424,8 +42459,22 @@
         "channel": "C05JGF817H6",
         "messageId": "Q0B1S6VAHN0"
       }
+    ],
+    "879eda8f2398d812286bcff4a3de4bc8": [
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B2JH5T716"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0B1N78PQLW"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0B1LSHCL9K"
+      }
     ]
   },
   "lastWeeklySummaryDate": "2026-W18",
-  "lastRun": "2026-05-05T06:02:35.820Z"
+  "lastRun": "2026-05-05T11:06:21.839Z"
 }
