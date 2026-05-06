@@ -2701,6 +2701,34 @@
       "completed": true,
       "completedAt": "2026-05-06T06:02:43.543Z",
       "firstSeenAt": "2026-05-06T06:02:43.543Z"
+    },
+    "64d8d9e4ef1f86701bc3a20d16a0f188": {
+      "task": "Review automated prospect investigation reporting process and automation possibilities",
+      "assignee_name": "Mark 'Morpheus' Manaog",
+      "assignee_slack_mention": "@Mark 'Morpheus' Manaog",
+      "assigned_date": "2026-05-05",
+      "due_date": "2026-05-09",
+      "message_ts": "1778007023.522379",
+      "source_message": "@Mark 'Morpheus' Manaog review the automated prospect investigation reporting process and see h",
+      "assigneeId": "U023F61R16F",
+      "messageTs": "1778007023.522379",
+      "completed": false,
+      "completedAt": null,
+      "firstSeenAt": "2026-05-06T12:18:31.740Z"
+    },
+    "71550b569be44b1e6cdf0c6b43a136f0": {
+      "task": "Complete 2 step AI engineering process for BLS prospect investigation",
+      "assignee_name": "Christle 'Knows All' Ochigue",
+      "assignee_slack_mention": "@Christle 'Knows All' Ochigue",
+      "assigned_date": "2026-05-05",
+      "due_date": "2026-05-05",
+      "message_ts": "1777994195.040139",
+      "source_message": "@Christle 'Knows All' Ochigue please go through the 2 step process of ai engineering a bls pro",
+      "assigneeId": "UMCPG3D8A",
+      "messageTs": "1777994195.040139",
+      "completed": false,
+      "completedAt": null,
+      "firstSeenAt": "2026-05-06T12:18:32.051Z"
     }
   },
   "scheduled": {
@@ -26508,6 +26536,447 @@
       "task": "build a loveable deck for first-call qualifications that includes Ampd Lending results, ROI tra",
       "assignee": "Chrissy 'Queen Bee' Robertson",
       "reminderDate": "2026-06-04"
+    },
+    "64d8d9e4ef1f86701bc3a20d16a0f188|midpoint|2026-05-07": {
+      "scheduledAt": "2026-05-06T12:18:32.912Z",
+      "type": "midpoint",
+      "task": "Review automated prospect investigation reporting process and automation possibilities",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-05-07"
+    },
+    "64d8d9e4ef1f86701bc3a20d16a0f188|nag|2026-05-08": {
+      "scheduledAt": "2026-05-06T12:18:33.674Z",
+      "type": "nag",
+      "task": "Review automated prospect investigation reporting process and automation possibilities",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-05-08"
+    },
+    "64d8d9e4ef1f86701bc3a20d16a0f188|due|2026-05-09": {
+      "scheduledAt": "2026-05-06T12:18:34.411Z",
+      "type": "due",
+      "task": "Review automated prospect investigation reporting process and automation possibilities",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-05-09"
+    },
+    "64d8d9e4ef1f86701bc3a20d16a0f188|overdue|2026-05-10": {
+      "scheduledAt": "2026-05-06T12:18:35.169Z",
+      "type": "overdue",
+      "task": "Review automated prospect investigation reporting process and automation possibilities",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-05-10"
+    },
+    "64d8d9e4ef1f86701bc3a20d16a0f188|overdue|2026-05-11": {
+      "scheduledAt": "2026-05-06T12:18:35.937Z",
+      "type": "overdue",
+      "task": "Review automated prospect investigation reporting process and automation possibilities",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-05-11"
+    },
+    "64d8d9e4ef1f86701bc3a20d16a0f188|overdue|2026-05-12": {
+      "scheduledAt": "2026-05-06T12:18:36.735Z",
+      "type": "overdue",
+      "task": "Review automated prospect investigation reporting process and automation possibilities",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-05-12"
+    },
+    "64d8d9e4ef1f86701bc3a20d16a0f188|overdue|2026-05-13": {
+      "scheduledAt": "2026-05-06T12:18:37.469Z",
+      "type": "overdue",
+      "task": "Review automated prospect investigation reporting process and automation possibilities",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-05-13"
+    },
+    "64d8d9e4ef1f86701bc3a20d16a0f188|overdue|2026-05-14": {
+      "scheduledAt": "2026-05-06T12:18:38.304Z",
+      "type": "overdue",
+      "task": "Review automated prospect investigation reporting process and automation possibilities",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-05-14"
+    },
+    "64d8d9e4ef1f86701bc3a20d16a0f188|overdue|2026-05-15": {
+      "scheduledAt": "2026-05-06T12:18:39.049Z",
+      "type": "overdue",
+      "task": "Review automated prospect investigation reporting process and automation possibilities",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-05-15"
+    },
+    "64d8d9e4ef1f86701bc3a20d16a0f188|overdue|2026-05-16": {
+      "scheduledAt": "2026-05-06T12:18:39.810Z",
+      "type": "overdue",
+      "task": "Review automated prospect investigation reporting process and automation possibilities",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-05-16"
+    },
+    "64d8d9e4ef1f86701bc3a20d16a0f188|overdue|2026-05-17": {
+      "scheduledAt": "2026-05-06T12:18:40.561Z",
+      "type": "overdue",
+      "task": "Review automated prospect investigation reporting process and automation possibilities",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-05-17"
+    },
+    "64d8d9e4ef1f86701bc3a20d16a0f188|overdue|2026-05-18": {
+      "scheduledAt": "2026-05-06T12:18:41.314Z",
+      "type": "overdue",
+      "task": "Review automated prospect investigation reporting process and automation possibilities",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-05-18"
+    },
+    "64d8d9e4ef1f86701bc3a20d16a0f188|overdue|2026-05-19": {
+      "scheduledAt": "2026-05-06T12:18:42.055Z",
+      "type": "overdue",
+      "task": "Review automated prospect investigation reporting process and automation possibilities",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-05-19"
+    },
+    "64d8d9e4ef1f86701bc3a20d16a0f188|overdue|2026-05-20": {
+      "scheduledAt": "2026-05-06T12:18:42.806Z",
+      "type": "overdue",
+      "task": "Review automated prospect investigation reporting process and automation possibilities",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-05-20"
+    },
+    "64d8d9e4ef1f86701bc3a20d16a0f188|overdue|2026-05-21": {
+      "scheduledAt": "2026-05-06T12:18:43.543Z",
+      "type": "overdue",
+      "task": "Review automated prospect investigation reporting process and automation possibilities",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-05-21"
+    },
+    "64d8d9e4ef1f86701bc3a20d16a0f188|overdue|2026-05-22": {
+      "scheduledAt": "2026-05-06T12:18:44.299Z",
+      "type": "overdue",
+      "task": "Review automated prospect investigation reporting process and automation possibilities",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-05-22"
+    },
+    "64d8d9e4ef1f86701bc3a20d16a0f188|overdue|2026-05-23": {
+      "scheduledAt": "2026-05-06T12:18:45.051Z",
+      "type": "overdue",
+      "task": "Review automated prospect investigation reporting process and automation possibilities",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-05-23"
+    },
+    "64d8d9e4ef1f86701bc3a20d16a0f188|overdue|2026-05-24": {
+      "scheduledAt": "2026-05-06T12:18:45.805Z",
+      "type": "overdue",
+      "task": "Review automated prospect investigation reporting process and automation possibilities",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-05-24"
+    },
+    "64d8d9e4ef1f86701bc3a20d16a0f188|overdue|2026-05-25": {
+      "scheduledAt": "2026-05-06T12:18:46.562Z",
+      "type": "overdue",
+      "task": "Review automated prospect investigation reporting process and automation possibilities",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-05-25"
+    },
+    "64d8d9e4ef1f86701bc3a20d16a0f188|overdue|2026-05-26": {
+      "scheduledAt": "2026-05-06T12:18:47.297Z",
+      "type": "overdue",
+      "task": "Review automated prospect investigation reporting process and automation possibilities",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-05-26"
+    },
+    "64d8d9e4ef1f86701bc3a20d16a0f188|overdue|2026-05-27": {
+      "scheduledAt": "2026-05-06T12:18:48.150Z",
+      "type": "overdue",
+      "task": "Review automated prospect investigation reporting process and automation possibilities",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-05-27"
+    },
+    "64d8d9e4ef1f86701bc3a20d16a0f188|overdue|2026-05-28": {
+      "scheduledAt": "2026-05-06T12:18:48.916Z",
+      "type": "overdue",
+      "task": "Review automated prospect investigation reporting process and automation possibilities",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-05-28"
+    },
+    "64d8d9e4ef1f86701bc3a20d16a0f188|overdue|2026-05-29": {
+      "scheduledAt": "2026-05-06T12:18:49.664Z",
+      "type": "overdue",
+      "task": "Review automated prospect investigation reporting process and automation possibilities",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-05-29"
+    },
+    "64d8d9e4ef1f86701bc3a20d16a0f188|overdue|2026-05-30": {
+      "scheduledAt": "2026-05-06T12:18:50.596Z",
+      "type": "overdue",
+      "task": "Review automated prospect investigation reporting process and automation possibilities",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-05-30"
+    },
+    "64d8d9e4ef1f86701bc3a20d16a0f188|overdue|2026-05-31": {
+      "scheduledAt": "2026-05-06T12:18:51.341Z",
+      "type": "overdue",
+      "task": "Review automated prospect investigation reporting process and automation possibilities",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-05-31"
+    },
+    "64d8d9e4ef1f86701bc3a20d16a0f188|overdue|2026-06-01": {
+      "scheduledAt": "2026-05-06T12:18:52.081Z",
+      "type": "overdue",
+      "task": "Review automated prospect investigation reporting process and automation possibilities",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-06-01"
+    },
+    "64d8d9e4ef1f86701bc3a20d16a0f188|overdue|2026-06-02": {
+      "scheduledAt": "2026-05-06T12:18:52.829Z",
+      "type": "overdue",
+      "task": "Review automated prospect investigation reporting process and automation possibilities",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-06-02"
+    },
+    "64d8d9e4ef1f86701bc3a20d16a0f188|overdue|2026-06-03": {
+      "scheduledAt": "2026-05-06T12:18:53.627Z",
+      "type": "overdue",
+      "task": "Review automated prospect investigation reporting process and automation possibilities",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-06-03"
+    },
+    "64d8d9e4ef1f86701bc3a20d16a0f188|overdue|2026-06-04": {
+      "scheduledAt": "2026-05-06T12:18:54.379Z",
+      "type": "overdue",
+      "task": "Review automated prospect investigation reporting process and automation possibilities",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-06-04"
+    },
+    "64d8d9e4ef1f86701bc3a20d16a0f188|overdue|2026-06-05": {
+      "scheduledAt": "2026-05-06T12:18:55.133Z",
+      "type": "overdue",
+      "task": "Review automated prospect investigation reporting process and automation possibilities",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-06-05"
+    },
+    "64d8d9e4ef1f86701bc3a20d16a0f188|overdue|2026-06-06": {
+      "scheduledAt": "2026-05-06T12:18:55.878Z",
+      "type": "overdue",
+      "task": "Review automated prospect investigation reporting process and automation possibilities",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-06-06"
+    },
+    "64d8d9e4ef1f86701bc3a20d16a0f188|overdue|2026-06-07": {
+      "scheduledAt": "2026-05-06T12:18:56.621Z",
+      "type": "overdue",
+      "task": "Review automated prospect investigation reporting process and automation possibilities",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-06-07"
+    },
+    "64d8d9e4ef1f86701bc3a20d16a0f188|overdue|2026-06-08": {
+      "scheduledAt": "2026-05-06T12:18:57.357Z",
+      "type": "overdue",
+      "task": "Review automated prospect investigation reporting process and automation possibilities",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-06-08"
+    },
+    "71550b569be44b1e6cdf0c6b43a136f0|overdue|2026-05-06": {
+      "scheduledAt": "2026-05-06T12:18:58.142Z",
+      "type": "overdue",
+      "task": "Complete 2 step AI engineering process for BLS prospect investigation",
+      "assignee": "Christle 'Knows All' Ochigue",
+      "reminderDate": "2026-05-06"
+    },
+    "71550b569be44b1e6cdf0c6b43a136f0|overdue|2026-05-07": {
+      "scheduledAt": "2026-05-06T12:18:58.877Z",
+      "type": "overdue",
+      "task": "Complete 2 step AI engineering process for BLS prospect investigation",
+      "assignee": "Christle 'Knows All' Ochigue",
+      "reminderDate": "2026-05-07"
+    },
+    "71550b569be44b1e6cdf0c6b43a136f0|overdue|2026-05-08": {
+      "scheduledAt": "2026-05-06T12:18:59.619Z",
+      "type": "overdue",
+      "task": "Complete 2 step AI engineering process for BLS prospect investigation",
+      "assignee": "Christle 'Knows All' Ochigue",
+      "reminderDate": "2026-05-08"
+    },
+    "71550b569be44b1e6cdf0c6b43a136f0|overdue|2026-05-09": {
+      "scheduledAt": "2026-05-06T12:19:00.354Z",
+      "type": "overdue",
+      "task": "Complete 2 step AI engineering process for BLS prospect investigation",
+      "assignee": "Christle 'Knows All' Ochigue",
+      "reminderDate": "2026-05-09"
+    },
+    "71550b569be44b1e6cdf0c6b43a136f0|overdue|2026-05-10": {
+      "scheduledAt": "2026-05-06T12:19:01.094Z",
+      "type": "overdue",
+      "task": "Complete 2 step AI engineering process for BLS prospect investigation",
+      "assignee": "Christle 'Knows All' Ochigue",
+      "reminderDate": "2026-05-10"
+    },
+    "71550b569be44b1e6cdf0c6b43a136f0|overdue|2026-05-11": {
+      "scheduledAt": "2026-05-06T12:19:01.878Z",
+      "type": "overdue",
+      "task": "Complete 2 step AI engineering process for BLS prospect investigation",
+      "assignee": "Christle 'Knows All' Ochigue",
+      "reminderDate": "2026-05-11"
+    },
+    "71550b569be44b1e6cdf0c6b43a136f0|overdue|2026-05-12": {
+      "scheduledAt": "2026-05-06T12:19:02.875Z",
+      "type": "overdue",
+      "task": "Complete 2 step AI engineering process for BLS prospect investigation",
+      "assignee": "Christle 'Knows All' Ochigue",
+      "reminderDate": "2026-05-12"
+    },
+    "71550b569be44b1e6cdf0c6b43a136f0|overdue|2026-05-13": {
+      "scheduledAt": "2026-05-06T12:19:03.641Z",
+      "type": "overdue",
+      "task": "Complete 2 step AI engineering process for BLS prospect investigation",
+      "assignee": "Christle 'Knows All' Ochigue",
+      "reminderDate": "2026-05-13"
+    },
+    "71550b569be44b1e6cdf0c6b43a136f0|overdue|2026-05-14": {
+      "scheduledAt": "2026-05-06T12:19:04.373Z",
+      "type": "overdue",
+      "task": "Complete 2 step AI engineering process for BLS prospect investigation",
+      "assignee": "Christle 'Knows All' Ochigue",
+      "reminderDate": "2026-05-14"
+    },
+    "71550b569be44b1e6cdf0c6b43a136f0|overdue|2026-05-15": {
+      "scheduledAt": "2026-05-06T12:19:05.127Z",
+      "type": "overdue",
+      "task": "Complete 2 step AI engineering process for BLS prospect investigation",
+      "assignee": "Christle 'Knows All' Ochigue",
+      "reminderDate": "2026-05-15"
+    },
+    "71550b569be44b1e6cdf0c6b43a136f0|overdue|2026-05-16": {
+      "scheduledAt": "2026-05-06T12:19:05.873Z",
+      "type": "overdue",
+      "task": "Complete 2 step AI engineering process for BLS prospect investigation",
+      "assignee": "Christle 'Knows All' Ochigue",
+      "reminderDate": "2026-05-16"
+    },
+    "71550b569be44b1e6cdf0c6b43a136f0|overdue|2026-05-17": {
+      "scheduledAt": "2026-05-06T12:19:06.621Z",
+      "type": "overdue",
+      "task": "Complete 2 step AI engineering process for BLS prospect investigation",
+      "assignee": "Christle 'Knows All' Ochigue",
+      "reminderDate": "2026-05-17"
+    },
+    "71550b569be44b1e6cdf0c6b43a136f0|overdue|2026-05-18": {
+      "scheduledAt": "2026-05-06T12:19:07.372Z",
+      "type": "overdue",
+      "task": "Complete 2 step AI engineering process for BLS prospect investigation",
+      "assignee": "Christle 'Knows All' Ochigue",
+      "reminderDate": "2026-05-18"
+    },
+    "71550b569be44b1e6cdf0c6b43a136f0|overdue|2026-05-19": {
+      "scheduledAt": "2026-05-06T12:19:08.112Z",
+      "type": "overdue",
+      "task": "Complete 2 step AI engineering process for BLS prospect investigation",
+      "assignee": "Christle 'Knows All' Ochigue",
+      "reminderDate": "2026-05-19"
+    },
+    "71550b569be44b1e6cdf0c6b43a136f0|overdue|2026-05-20": {
+      "scheduledAt": "2026-05-06T12:19:08.869Z",
+      "type": "overdue",
+      "task": "Complete 2 step AI engineering process for BLS prospect investigation",
+      "assignee": "Christle 'Knows All' Ochigue",
+      "reminderDate": "2026-05-20"
+    },
+    "71550b569be44b1e6cdf0c6b43a136f0|overdue|2026-05-21": {
+      "scheduledAt": "2026-05-06T12:19:10.398Z",
+      "type": "overdue",
+      "task": "Complete 2 step AI engineering process for BLS prospect investigation",
+      "assignee": "Christle 'Knows All' Ochigue",
+      "reminderDate": "2026-05-21"
+    },
+    "71550b569be44b1e6cdf0c6b43a136f0|overdue|2026-05-22": {
+      "scheduledAt": "2026-05-06T12:19:11.171Z",
+      "type": "overdue",
+      "task": "Complete 2 step AI engineering process for BLS prospect investigation",
+      "assignee": "Christle 'Knows All' Ochigue",
+      "reminderDate": "2026-05-22"
+    },
+    "71550b569be44b1e6cdf0c6b43a136f0|overdue|2026-05-23": {
+      "scheduledAt": "2026-05-06T12:19:11.911Z",
+      "type": "overdue",
+      "task": "Complete 2 step AI engineering process for BLS prospect investigation",
+      "assignee": "Christle 'Knows All' Ochigue",
+      "reminderDate": "2026-05-23"
+    },
+    "71550b569be44b1e6cdf0c6b43a136f0|overdue|2026-05-24": {
+      "scheduledAt": "2026-05-06T12:19:12.659Z",
+      "type": "overdue",
+      "task": "Complete 2 step AI engineering process for BLS prospect investigation",
+      "assignee": "Christle 'Knows All' Ochigue",
+      "reminderDate": "2026-05-24"
+    },
+    "71550b569be44b1e6cdf0c6b43a136f0|overdue|2026-05-25": {
+      "scheduledAt": "2026-05-06T12:19:13.405Z",
+      "type": "overdue",
+      "task": "Complete 2 step AI engineering process for BLS prospect investigation",
+      "assignee": "Christle 'Knows All' Ochigue",
+      "reminderDate": "2026-05-25"
+    },
+    "71550b569be44b1e6cdf0c6b43a136f0|overdue|2026-05-26": {
+      "scheduledAt": "2026-05-06T12:19:14.160Z",
+      "type": "overdue",
+      "task": "Complete 2 step AI engineering process for BLS prospect investigation",
+      "assignee": "Christle 'Knows All' Ochigue",
+      "reminderDate": "2026-05-26"
+    },
+    "71550b569be44b1e6cdf0c6b43a136f0|overdue|2026-05-27": {
+      "scheduledAt": "2026-05-06T12:19:14.931Z",
+      "type": "overdue",
+      "task": "Complete 2 step AI engineering process for BLS prospect investigation",
+      "assignee": "Christle 'Knows All' Ochigue",
+      "reminderDate": "2026-05-27"
+    },
+    "71550b569be44b1e6cdf0c6b43a136f0|overdue|2026-05-28": {
+      "scheduledAt": "2026-05-06T12:19:15.656Z",
+      "type": "overdue",
+      "task": "Complete 2 step AI engineering process for BLS prospect investigation",
+      "assignee": "Christle 'Knows All' Ochigue",
+      "reminderDate": "2026-05-28"
+    },
+    "71550b569be44b1e6cdf0c6b43a136f0|overdue|2026-05-29": {
+      "scheduledAt": "2026-05-06T12:19:16.397Z",
+      "type": "overdue",
+      "task": "Complete 2 step AI engineering process for BLS prospect investigation",
+      "assignee": "Christle 'Knows All' Ochigue",
+      "reminderDate": "2026-05-29"
+    },
+    "71550b569be44b1e6cdf0c6b43a136f0|overdue|2026-05-30": {
+      "scheduledAt": "2026-05-06T12:19:17.228Z",
+      "type": "overdue",
+      "task": "Complete 2 step AI engineering process for BLS prospect investigation",
+      "assignee": "Christle 'Knows All' Ochigue",
+      "reminderDate": "2026-05-30"
+    },
+    "71550b569be44b1e6cdf0c6b43a136f0|overdue|2026-05-31": {
+      "scheduledAt": "2026-05-06T12:19:18.025Z",
+      "type": "overdue",
+      "task": "Complete 2 step AI engineering process for BLS prospect investigation",
+      "assignee": "Christle 'Knows All' Ochigue",
+      "reminderDate": "2026-05-31"
+    },
+    "71550b569be44b1e6cdf0c6b43a136f0|overdue|2026-06-01": {
+      "scheduledAt": "2026-05-06T12:19:18.772Z",
+      "type": "overdue",
+      "task": "Complete 2 step AI engineering process for BLS prospect investigation",
+      "assignee": "Christle 'Knows All' Ochigue",
+      "reminderDate": "2026-06-01"
+    },
+    "71550b569be44b1e6cdf0c6b43a136f0|overdue|2026-06-02": {
+      "scheduledAt": "2026-05-06T12:19:19.541Z",
+      "type": "overdue",
+      "task": "Complete 2 step AI engineering process for BLS prospect investigation",
+      "assignee": "Christle 'Knows All' Ochigue",
+      "reminderDate": "2026-06-02"
+    },
+    "71550b569be44b1e6cdf0c6b43a136f0|overdue|2026-06-03": {
+      "scheduledAt": "2026-05-06T12:19:20.290Z",
+      "type": "overdue",
+      "task": "Complete 2 step AI engineering process for BLS prospect investigation",
+      "assignee": "Christle 'Knows All' Ochigue",
+      "reminderDate": "2026-06-03"
+    },
+    "71550b569be44b1e6cdf0c6b43a136f0|overdue|2026-06-04": {
+      "scheduledAt": "2026-05-06T12:19:21.050Z",
+      "type": "overdue",
+      "task": "Complete 2 step AI engineering process for BLS prospect investigation",
+      "assignee": "Christle 'Knows All' Ochigue",
+      "reminderDate": "2026-06-04"
     }
   },
   "scheduledMessageIds": {
@@ -47288,8 +47757,768 @@
         "channel": "C08RNTW55JM",
         "messageId": "Q0B2RF2KRME"
       }
+    ],
+    "64d8d9e4ef1f86701bc3a20d16a0f188": [
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B1ZD3NYR0"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0B2317RX6G"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0B2TM53CUQ"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B1ZD4BUP4"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0B2316PMJ8"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0B1ZD42PGS"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B2C9TATL1"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0B2C9THFLH"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0B2TM54CV6"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B1W16RHUM"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0B1XBCG9C6"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0B1T1TPSHH"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B1ZD48H7U"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0B1ZD4FR0A"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0B2317Q1V2"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B1XBCNHHC"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0B2TM4K3TJ"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0B1T1UBSTV"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B2C9U0KT3"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0B23182MPW"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0B2TM4PRFS"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B2C9UD69F"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0B2317E5PE"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0B2C9TSV5X"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B1W17TDEZ"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0B1T1UHWBV"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0B1XBDJ2SJ"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B1ZD4HVPC"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0B1W17MVGV"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0B1W18GRMK"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B1HUTKW3H"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0B1HUTA1F1"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0B2C9UPQL9"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B1W185H4M"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0B2318C03E"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0B1W17PJUD"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B2C9TUFTK"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0B1W184RB7"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0B2TM5MP0Q"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B1W18AWCD"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0B2C9UJVED"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0B1XBDFSMU"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B1HUT0V6K"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0B2C9U8VLZ"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0B2318FXKN"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B1HUTHCSK"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0B2317HY4U"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0B1XBDUGBY"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B1T1VRP7V"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0B2C9VDFQ9"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0B2TM67ZNC"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B1XBE4WFQ"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0B2C9V5CPK"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0B1T1VBMKM"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B1XBDR9BQ"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0B1W19GVV3"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0B2TM5REAC"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B2C9VDPR7"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0B2TM4S600"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0B1ZD5830A"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B1XBEL5CN"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0B1W18A19B"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0B1W197D45"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B1ZD5DJ1G"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0B2318SU9J"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0B2TM6E7J4"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B1ZD4THEW"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0B2TM6J2JC"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0B23197RTN"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B2319491A"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0B1W1927PX"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0B1ZD5K22E"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B2319QD1S"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0B2TM6T988"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0B1HUV0XL7"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B2C9VMJKT"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0B2TM6LAG0"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0B1T1W7K1R"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B2C9VUCCR"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0B2TM6MZEU"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0B2TM6R8AU"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B2319FG92"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0B2C9VPYAD"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0B1XBERWHL"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B2319J63E"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0B2C9VPW2V"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0B1HUV8N4X"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B2319J0DA"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0B2C9W9J4R"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0B1XBFN9E2"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B2TM74CF2"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0B231AEZ9S"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0B1T1X7AAX"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B231A6A92"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0B1T1WKW3V"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0B1XBG1KK8"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B2TM797TJ"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0B1HUV0S6B"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0B1ZD66UHY"
+      }
+    ],
+    "71550b569be44b1e6cdf0c6b43a136f0": [
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B1ZD6MQ02"
+      },
+      {
+        "channel": "UMCPG3D8A",
+        "messageId": "Q0B1HUV3HST"
+      },
+      {
+        "channel": "C08R493ESAJ",
+        "messageId": "Q0B1ZD4NALS"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B1HUUTT71"
+      },
+      {
+        "channel": "UMCPG3D8A",
+        "messageId": "Q0B2TM7A4AC"
+      },
+      {
+        "channel": "C08R493ESAJ",
+        "messageId": "Q0B1T1XK7QT"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B1T1X31EX"
+      },
+      {
+        "channel": "UMCPG3D8A",
+        "messageId": "Q0B2TM7CD5W"
+      },
+      {
+        "channel": "C08R493ESAJ",
+        "messageId": "Q0B1T1WH5TM"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B2TM6U21E"
+      },
+      {
+        "channel": "UMCPG3D8A",
+        "messageId": "Q0B1ZD75KSN"
+      },
+      {
+        "channel": "C08R493ESAJ",
+        "messageId": "Q0B1HUVLHGX"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B2TM7T7A4"
+      },
+      {
+        "channel": "UMCPG3D8A",
+        "messageId": "Q0B1XBFFQMC"
+      },
+      {
+        "channel": "C08R493ESAJ",
+        "messageId": "Q0B1T1XNC5R"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B1ZD72NQJ"
+      },
+      {
+        "channel": "UMCPG3D8A",
+        "messageId": "Q0B1ZD71TAN"
+      },
+      {
+        "channel": "C08R493ESAJ",
+        "messageId": "Q0B1W1AJL13"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B2TM5MJKS"
+      },
+      {
+        "channel": "UMCPG3D8A",
+        "messageId": "Q0B2TM89BC0"
+      },
+      {
+        "channel": "C08R493ESAJ",
+        "messageId": "Q0B231AL552"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B1W19F56H"
+      },
+      {
+        "channel": "UMCPG3D8A",
+        "messageId": "Q0B1XBG4GSJ"
+      },
+      {
+        "channel": "C08R493ESAJ",
+        "messageId": "Q0B2C9WNZS5"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B1T1Y24HZ"
+      },
+      {
+        "channel": "UMCPG3D8A",
+        "messageId": "Q0B2TM8AJAC"
+      },
+      {
+        "channel": "C08R493ESAJ",
+        "messageId": "Q0B1W1AH24V"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B231AR1K6"
+      },
+      {
+        "channel": "UMCPG3D8A",
+        "messageId": "Q0B1HUVQDRD"
+      },
+      {
+        "channel": "C08R493ESAJ",
+        "messageId": "Q0B1HUWE1MM"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B1HUVS66T"
+      },
+      {
+        "channel": "UMCPG3D8A",
+        "messageId": "Q0B1HUW8Q5D"
+      },
+      {
+        "channel": "C08R493ESAJ",
+        "messageId": "Q0B2C9X6M33"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B1XBG07DL"
+      },
+      {
+        "channel": "UMCPG3D8A",
+        "messageId": "Q0B231B0R9S"
+      },
+      {
+        "channel": "C08R493ESAJ",
+        "messageId": "Q0B1XBG0J4W"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B1HUWEVP1"
+      },
+      {
+        "channel": "UMCPG3D8A",
+        "messageId": "Q0B1T1XLGE7"
+      },
+      {
+        "channel": "C08R493ESAJ",
+        "messageId": "Q0B1HUVV3CP"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B2TM7SFNC"
+      },
+      {
+        "channel": "UMCPG3D8A",
+        "messageId": "Q0B2C9XNQJV"
+      },
+      {
+        "channel": "C08R493ESAJ",
+        "messageId": "Q0B1T1W4HA7"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B2TM87M4Y"
+      },
+      {
+        "channel": "UMCPG3D8A",
+        "messageId": "Q0B2TM8ASSU"
+      },
+      {
+        "channel": "C08R493ESAJ",
+        "messageId": "Q0B1ZD6UWTC"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B231B3CP6"
+      },
+      {
+        "channel": "UMCPG3D8A",
+        "messageId": "Q0B231ASWR2"
+      },
+      {
+        "channel": "C08R493ESAJ",
+        "messageId": "Q0B2C9X7JC9"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B2C9X4E3T"
+      },
+      {
+        "channel": "UMCPG3D8A",
+        "messageId": "Q0B1W1B0RMK"
+      },
+      {
+        "channel": "C08R493ESAJ",
+        "messageId": "Q0B1T1Y1NFM"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B1ZD898V8"
+      },
+      {
+        "channel": "UMCPG3D8A",
+        "messageId": "Q0B1ZD8EHNW"
+      },
+      {
+        "channel": "C08R493ESAJ",
+        "messageId": "Q0B2TM8NGCQ"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B1ZD87GH0"
+      },
+      {
+        "channel": "UMCPG3D8A",
+        "messageId": "Q0B1HUXGR9D"
+      },
+      {
+        "channel": "C08R493ESAJ",
+        "messageId": "Q0B1ZD8CH7C"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B1ZD7RPU2"
+      },
+      {
+        "channel": "UMCPG3D8A",
+        "messageId": "Q0B1HUWV4LX"
+      },
+      {
+        "channel": "C08R493ESAJ",
+        "messageId": "Q0B1W1ABGG5"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B1XBH3TKQ"
+      },
+      {
+        "channel": "UMCPG3D8A",
+        "messageId": "Q0B1ZD89S02"
+      },
+      {
+        "channel": "C08R493ESAJ",
+        "messageId": "Q0B2C9YKVCZ"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B1ZD7V2BU"
+      },
+      {
+        "channel": "UMCPG3D8A",
+        "messageId": "Q0B1W1BM6MT"
+      },
+      {
+        "channel": "C08R493ESAJ",
+        "messageId": "Q0B2TM8K8KA"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B2C9Y2YV7"
+      },
+      {
+        "channel": "UMCPG3D8A",
+        "messageId": "Q0B1XBGNSHL"
+      },
+      {
+        "channel": "C08R493ESAJ",
+        "messageId": "Q0B231BL9FW"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B1HUX3CGP"
+      },
+      {
+        "channel": "UMCPG3D8A",
+        "messageId": "Q0B1T1Y37R9"
+      },
+      {
+        "channel": "C08R493ESAJ",
+        "messageId": "Q0B1ZD8SNV8"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B2TM98WEL"
+      },
+      {
+        "channel": "UMCPG3D8A",
+        "messageId": "Q0B2C9YPXPT"
+      },
+      {
+        "channel": "C08R493ESAJ",
+        "messageId": "Q0B1W1BS529"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B1T1Z5NQ3"
+      },
+      {
+        "channel": "UMCPG3D8A",
+        "messageId": "Q0B1W1BPQ0M"
+      },
+      {
+        "channel": "C08R493ESAJ",
+        "messageId": "Q0B1W1BT79T"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B1ZD8PSN6"
+      },
+      {
+        "channel": "UMCPG3D8A",
+        "messageId": "Q0B1W1C70PP"
+      },
+      {
+        "channel": "C08R493ESAJ",
+        "messageId": "Q0B1W1CCGP7"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B1W1BMHNZ"
+      },
+      {
+        "channel": "UMCPG3D8A",
+        "messageId": "Q0B2C9YJL7K"
+      },
+      {
+        "channel": "C08R493ESAJ",
+        "messageId": "Q0B2C9Y8PSM"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B1W1C7EVB"
+      },
+      {
+        "channel": "UMCPG3D8A",
+        "messageId": "Q0B1W1CD41K"
+      },
+      {
+        "channel": "C08R493ESAJ",
+        "messageId": "Q0B1W1C87S9"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B1T1Z73EF"
+      },
+      {
+        "channel": "UMCPG3D8A",
+        "messageId": "Q0B1HUX4NUF"
+      },
+      {
+        "channel": "C08R493ESAJ",
+        "messageId": "Q0B231C8M36"
+      }
     ]
   },
   "lastWeeklySummaryDate": "2026-W18",
-  "lastRun": "2026-05-06T06:04:40.628Z"
+  "lastRun": "2026-05-06T12:19:21.051Z"
 }
