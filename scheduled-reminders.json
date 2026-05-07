@@ -3009,6 +3009,62 @@
       "completed": false,
       "completedAt": null,
       "firstSeenAt": "2026-05-07T18:03:49.481Z"
+    },
+    "95035200cc27af4a4cc7f05ae3b3fb27": {
+      "task": "set up opt-in for new core services funnel to feed to Core Services campaign in CR",
+      "assignee_name": "Mark 'Morpheus' Manaog",
+      "assignee_slack_mention": "@Mark 'Morpheus' Manaog",
+      "assigned_date": "2026-05-06",
+      "due_date": "2026-05-12",
+      "message_ts": "1778108779.119679",
+      "source_message": "@Mark 'Morpheus' Manaog see This task <https://dovetail-mktg.slack.com/archives/C0AQK5D4LD6/p1",
+      "assigneeId": "U023F61R16F",
+      "messageTs": "1778108779.119679",
+      "completed": false,
+      "completedAt": null,
+      "firstSeenAt": "2026-05-07T21:33:35.296Z"
+    },
+    "04a49f8b44e2ba5887b0fc8fb93607a8": {
+      "task": "resolve issue on ampdworks.com/results/ where images/icons not showing",
+      "assignee_name": "Mark 'Morpheus' Manaog",
+      "assignee_slack_mention": "@Mark 'Morpheus' Manaog",
+      "assigned_date": "2026-04-30",
+      "due_date": "2026-05-06",
+      "message_ts": "1777581159.844739",
+      "source_message": "@Mark 'Morpheus' Manaog please review the issue on https://ampdworks.com/results/ on our webs",
+      "assigneeId": "U023F61R16F",
+      "messageTs": "1777581159.844739",
+      "completed": true,
+      "completedAt": "2026-05-07T21:33:35.374Z",
+      "firstSeenAt": "2026-05-07T21:33:35.374Z"
+    },
+    "dcf5bd0f6c5ed61dbbc92681eb644909": {
+      "task": "delete all subaccount call recordings not associated with an internal company within the twilio console and then close each after the call recording deletion by this wednesday",
+      "assignee_name": "Christle 'Knows All' Ochigue",
+      "assignee_slack_mention": "@Christle 'Knows All' Ochigue",
+      "assigned_date": "2026-04-27",
+      "due_date": "2026-04-30",
+      "message_ts": "1777319022.215069",
+      "source_message": "@Christle 'Knows All' Ochigue delete all subaccount call recordings not associated with an i",
+      "assigneeId": "UMCPG3D8A",
+      "messageTs": "1777319022.215069",
+      "completed": false,
+      "completedAt": null,
+      "firstSeenAt": "2026-05-07T21:33:35.495Z"
+    },
+    "40ac87ed607414c7158ca3c3513e0616": {
+      "task": "design a welcome to PMP campaign and assign to mark and josh the build out of automating the campaign within GHL when a new sign-up happens by tomorrow",
+      "assignee_name": "Brandon 'The One' Robertson",
+      "assignee_slack_mention": "@Brandon 'The One' Robertson",
+      "assigned_date": "2026-04-27",
+      "due_date": "2026-04-28",
+      "message_ts": "1777316274.289059",
+      "source_message": "@Brandon 'The One' Robertson design a welcome to PMP campaign and assign to mark and josh the b",
+      "assigneeId": "UMS39RAGP",
+      "messageTs": "1777316274.289059",
+      "completed": true,
+      "completedAt": "2026-05-07T21:33:35.558Z",
+      "firstSeenAt": "2026-05-07T21:33:35.558Z"
     }
   },
   "scheduled": {
@@ -29362,6 +29418,411 @@
       "task": "build campaign and put in Core Services Campaigns folder, notify Mark when done",
       "assignee": "Christle 'Knows All' Ochigue",
       "reminderDate": "2026-06-08"
+    },
+    "95035200cc27af4a4cc7f05ae3b3fb27|midpoint|2026-05-09": {
+      "scheduledAt": "2026-05-07T21:33:36.417Z",
+      "type": "midpoint",
+      "task": "set up opt-in for new core services funnel to feed to Core Services campaign in CR",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-05-09"
+    },
+    "95035200cc27af4a4cc7f05ae3b3fb27|nag|2026-05-10": {
+      "scheduledAt": "2026-05-07T21:33:37.115Z",
+      "type": "nag",
+      "task": "set up opt-in for new core services funnel to feed to Core Services campaign in CR",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-05-10"
+    },
+    "95035200cc27af4a4cc7f05ae3b3fb27|nag|2026-05-11": {
+      "scheduledAt": "2026-05-07T21:33:37.809Z",
+      "type": "nag",
+      "task": "set up opt-in for new core services funnel to feed to Core Services campaign in CR",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-05-11"
+    },
+    "95035200cc27af4a4cc7f05ae3b3fb27|due|2026-05-12": {
+      "scheduledAt": "2026-05-07T21:33:38.478Z",
+      "type": "due",
+      "task": "set up opt-in for new core services funnel to feed to Core Services campaign in CR",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-05-12"
+    },
+    "95035200cc27af4a4cc7f05ae3b3fb27|overdue|2026-05-13": {
+      "scheduledAt": "2026-05-07T21:33:39.167Z",
+      "type": "overdue",
+      "task": "set up opt-in for new core services funnel to feed to Core Services campaign in CR",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-05-13"
+    },
+    "95035200cc27af4a4cc7f05ae3b3fb27|overdue|2026-05-14": {
+      "scheduledAt": "2026-05-07T21:33:39.851Z",
+      "type": "overdue",
+      "task": "set up opt-in for new core services funnel to feed to Core Services campaign in CR",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-05-14"
+    },
+    "95035200cc27af4a4cc7f05ae3b3fb27|overdue|2026-05-15": {
+      "scheduledAt": "2026-05-07T21:33:40.541Z",
+      "type": "overdue",
+      "task": "set up opt-in for new core services funnel to feed to Core Services campaign in CR",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-05-15"
+    },
+    "95035200cc27af4a4cc7f05ae3b3fb27|overdue|2026-05-16": {
+      "scheduledAt": "2026-05-07T21:33:41.236Z",
+      "type": "overdue",
+      "task": "set up opt-in for new core services funnel to feed to Core Services campaign in CR",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-05-16"
+    },
+    "95035200cc27af4a4cc7f05ae3b3fb27|overdue|2026-05-17": {
+      "scheduledAt": "2026-05-07T21:33:41.910Z",
+      "type": "overdue",
+      "task": "set up opt-in for new core services funnel to feed to Core Services campaign in CR",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-05-17"
+    },
+    "95035200cc27af4a4cc7f05ae3b3fb27|overdue|2026-05-18": {
+      "scheduledAt": "2026-05-07T21:33:42.618Z",
+      "type": "overdue",
+      "task": "set up opt-in for new core services funnel to feed to Core Services campaign in CR",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-05-18"
+    },
+    "95035200cc27af4a4cc7f05ae3b3fb27|overdue|2026-05-19": {
+      "scheduledAt": "2026-05-07T21:33:43.292Z",
+      "type": "overdue",
+      "task": "set up opt-in for new core services funnel to feed to Core Services campaign in CR",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-05-19"
+    },
+    "95035200cc27af4a4cc7f05ae3b3fb27|overdue|2026-05-20": {
+      "scheduledAt": "2026-05-07T21:33:43.972Z",
+      "type": "overdue",
+      "task": "set up opt-in for new core services funnel to feed to Core Services campaign in CR",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-05-20"
+    },
+    "95035200cc27af4a4cc7f05ae3b3fb27|overdue|2026-05-21": {
+      "scheduledAt": "2026-05-07T21:33:44.654Z",
+      "type": "overdue",
+      "task": "set up opt-in for new core services funnel to feed to Core Services campaign in CR",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-05-21"
+    },
+    "95035200cc27af4a4cc7f05ae3b3fb27|overdue|2026-05-22": {
+      "scheduledAt": "2026-05-07T21:33:45.333Z",
+      "type": "overdue",
+      "task": "set up opt-in for new core services funnel to feed to Core Services campaign in CR",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-05-22"
+    },
+    "95035200cc27af4a4cc7f05ae3b3fb27|overdue|2026-05-23": {
+      "scheduledAt": "2026-05-07T21:33:46.000Z",
+      "type": "overdue",
+      "task": "set up opt-in for new core services funnel to feed to Core Services campaign in CR",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-05-23"
+    },
+    "95035200cc27af4a4cc7f05ae3b3fb27|overdue|2026-05-24": {
+      "scheduledAt": "2026-05-07T21:33:46.679Z",
+      "type": "overdue",
+      "task": "set up opt-in for new core services funnel to feed to Core Services campaign in CR",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-05-24"
+    },
+    "95035200cc27af4a4cc7f05ae3b3fb27|overdue|2026-05-25": {
+      "scheduledAt": "2026-05-07T21:33:47.375Z",
+      "type": "overdue",
+      "task": "set up opt-in for new core services funnel to feed to Core Services campaign in CR",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-05-25"
+    },
+    "95035200cc27af4a4cc7f05ae3b3fb27|overdue|2026-05-26": {
+      "scheduledAt": "2026-05-07T21:33:48.069Z",
+      "type": "overdue",
+      "task": "set up opt-in for new core services funnel to feed to Core Services campaign in CR",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-05-26"
+    },
+    "95035200cc27af4a4cc7f05ae3b3fb27|overdue|2026-05-27": {
+      "scheduledAt": "2026-05-07T21:33:48.751Z",
+      "type": "overdue",
+      "task": "set up opt-in for new core services funnel to feed to Core Services campaign in CR",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-05-27"
+    },
+    "95035200cc27af4a4cc7f05ae3b3fb27|overdue|2026-05-28": {
+      "scheduledAt": "2026-05-07T21:33:49.441Z",
+      "type": "overdue",
+      "task": "set up opt-in for new core services funnel to feed to Core Services campaign in CR",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-05-28"
+    },
+    "95035200cc27af4a4cc7f05ae3b3fb27|overdue|2026-05-29": {
+      "scheduledAt": "2026-05-07T21:33:50.119Z",
+      "type": "overdue",
+      "task": "set up opt-in for new core services funnel to feed to Core Services campaign in CR",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-05-29"
+    },
+    "95035200cc27af4a4cc7f05ae3b3fb27|overdue|2026-05-30": {
+      "scheduledAt": "2026-05-07T21:33:50.792Z",
+      "type": "overdue",
+      "task": "set up opt-in for new core services funnel to feed to Core Services campaign in CR",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-05-30"
+    },
+    "95035200cc27af4a4cc7f05ae3b3fb27|overdue|2026-05-31": {
+      "scheduledAt": "2026-05-07T21:33:51.472Z",
+      "type": "overdue",
+      "task": "set up opt-in for new core services funnel to feed to Core Services campaign in CR",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-05-31"
+    },
+    "95035200cc27af4a4cc7f05ae3b3fb27|overdue|2026-06-01": {
+      "scheduledAt": "2026-05-07T21:33:52.169Z",
+      "type": "overdue",
+      "task": "set up opt-in for new core services funnel to feed to Core Services campaign in CR",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-06-01"
+    },
+    "95035200cc27af4a4cc7f05ae3b3fb27|overdue|2026-06-02": {
+      "scheduledAt": "2026-05-07T21:33:52.852Z",
+      "type": "overdue",
+      "task": "set up opt-in for new core services funnel to feed to Core Services campaign in CR",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-06-02"
+    },
+    "95035200cc27af4a4cc7f05ae3b3fb27|overdue|2026-06-03": {
+      "scheduledAt": "2026-05-07T21:33:53.539Z",
+      "type": "overdue",
+      "task": "set up opt-in for new core services funnel to feed to Core Services campaign in CR",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-06-03"
+    },
+    "95035200cc27af4a4cc7f05ae3b3fb27|overdue|2026-06-04": {
+      "scheduledAt": "2026-05-07T21:33:54.223Z",
+      "type": "overdue",
+      "task": "set up opt-in for new core services funnel to feed to Core Services campaign in CR",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-06-04"
+    },
+    "95035200cc27af4a4cc7f05ae3b3fb27|overdue|2026-06-05": {
+      "scheduledAt": "2026-05-07T21:33:54.914Z",
+      "type": "overdue",
+      "task": "set up opt-in for new core services funnel to feed to Core Services campaign in CR",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-06-05"
+    },
+    "95035200cc27af4a4cc7f05ae3b3fb27|overdue|2026-06-06": {
+      "scheduledAt": "2026-05-07T21:33:55.582Z",
+      "type": "overdue",
+      "task": "set up opt-in for new core services funnel to feed to Core Services campaign in CR",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-06-06"
+    },
+    "95035200cc27af4a4cc7f05ae3b3fb27|overdue|2026-06-07": {
+      "scheduledAt": "2026-05-07T21:33:56.283Z",
+      "type": "overdue",
+      "task": "set up opt-in for new core services funnel to feed to Core Services campaign in CR",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-06-07"
+    },
+    "95035200cc27af4a4cc7f05ae3b3fb27|overdue|2026-06-08": {
+      "scheduledAt": "2026-05-07T21:33:56.950Z",
+      "type": "overdue",
+      "task": "set up opt-in for new core services funnel to feed to Core Services campaign in CR",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-06-08"
+    },
+    "95035200cc27af4a4cc7f05ae3b3fb27|overdue|2026-06-09": {
+      "scheduledAt": "2026-05-07T21:33:57.643Z",
+      "type": "overdue",
+      "task": "set up opt-in for new core services funnel to feed to Core Services campaign in CR",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-06-09"
+    },
+    "95035200cc27af4a4cc7f05ae3b3fb27|overdue|2026-06-10": {
+      "scheduledAt": "2026-05-07T21:33:58.308Z",
+      "type": "overdue",
+      "task": "set up opt-in for new core services funnel to feed to Core Services campaign in CR",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-06-10"
+    },
+    "95035200cc27af4a4cc7f05ae3b3fb27|overdue|2026-06-11": {
+      "scheduledAt": "2026-05-07T21:33:58.993Z",
+      "type": "overdue",
+      "task": "set up opt-in for new core services funnel to feed to Core Services campaign in CR",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-06-11"
+    },
+    "dcf5bd0f6c5ed61dbbc92681eb644909|overdue|2026-05-07": {
+      "scheduledAt": "2026-05-07T21:33:58.993Z",
+      "type": "overdue",
+      "task": "delete all subaccount call recordings not associated with an internal company within the twilio console and then close each after the call recording deletion by this wednesday",
+      "skipped": true
+    },
+    "dcf5bd0f6c5ed61dbbc92681eb644909|overdue|2026-05-08": {
+      "scheduledAt": "2026-05-07T21:33:59.668Z",
+      "type": "overdue",
+      "task": "delete all subaccount call recordings not associated with an internal company within the twilio console and then close each after the call recording deletion by this wednesday",
+      "assignee": "Christle 'Knows All' Ochigue",
+      "reminderDate": "2026-05-08"
+    },
+    "dcf5bd0f6c5ed61dbbc92681eb644909|overdue|2026-05-09": {
+      "scheduledAt": "2026-05-07T21:34:00.368Z",
+      "type": "overdue",
+      "task": "delete all subaccount call recordings not associated with an internal company within the twilio console and then close each after the call recording deletion by this wednesday",
+      "assignee": "Christle 'Knows All' Ochigue",
+      "reminderDate": "2026-05-09"
+    },
+    "dcf5bd0f6c5ed61dbbc92681eb644909|overdue|2026-05-10": {
+      "scheduledAt": "2026-05-07T21:34:01.049Z",
+      "type": "overdue",
+      "task": "delete all subaccount call recordings not associated with an internal company within the twilio console and then close each after the call recording deletion by this wednesday",
+      "assignee": "Christle 'Knows All' Ochigue",
+      "reminderDate": "2026-05-10"
+    },
+    "dcf5bd0f6c5ed61dbbc92681eb644909|overdue|2026-05-11": {
+      "scheduledAt": "2026-05-07T21:34:01.751Z",
+      "type": "overdue",
+      "task": "delete all subaccount call recordings not associated with an internal company within the twilio console and then close each after the call recording deletion by this wednesday",
+      "assignee": "Christle 'Knows All' Ochigue",
+      "reminderDate": "2026-05-11"
+    },
+    "dcf5bd0f6c5ed61dbbc92681eb644909|overdue|2026-05-12": {
+      "scheduledAt": "2026-05-07T21:34:02.446Z",
+      "type": "overdue",
+      "task": "delete all subaccount call recordings not associated with an internal company within the twilio console and then close each after the call recording deletion by this wednesday",
+      "assignee": "Christle 'Knows All' Ochigue",
+      "reminderDate": "2026-05-12"
+    },
+    "dcf5bd0f6c5ed61dbbc92681eb644909|overdue|2026-05-13": {
+      "scheduledAt": "2026-05-07T21:34:03.138Z",
+      "type": "overdue",
+      "task": "delete all subaccount call recordings not associated with an internal company within the twilio console and then close each after the call recording deletion by this wednesday",
+      "assignee": "Christle 'Knows All' Ochigue",
+      "reminderDate": "2026-05-13"
+    },
+    "dcf5bd0f6c5ed61dbbc92681eb644909|overdue|2026-05-14": {
+      "scheduledAt": "2026-05-07T21:34:03.821Z",
+      "type": "overdue",
+      "task": "delete all subaccount call recordings not associated with an internal company within the twilio console and then close each after the call recording deletion by this wednesday",
+      "assignee": "Christle 'Knows All' Ochigue",
+      "reminderDate": "2026-05-14"
+    },
+    "dcf5bd0f6c5ed61dbbc92681eb644909|overdue|2026-05-15": {
+      "scheduledAt": "2026-05-07T21:34:04.541Z",
+      "type": "overdue",
+      "task": "delete all subaccount call recordings not associated with an internal company within the twilio console and then close each after the call recording deletion by this wednesday",
+      "assignee": "Christle 'Knows All' Ochigue",
+      "reminderDate": "2026-05-15"
+    },
+    "dcf5bd0f6c5ed61dbbc92681eb644909|overdue|2026-05-16": {
+      "scheduledAt": "2026-05-07T21:34:05.209Z",
+      "type": "overdue",
+      "task": "delete all subaccount call recordings not associated with an internal company within the twilio console and then close each after the call recording deletion by this wednesday",
+      "assignee": "Christle 'Knows All' Ochigue",
+      "reminderDate": "2026-05-16"
+    },
+    "dcf5bd0f6c5ed61dbbc92681eb644909|overdue|2026-05-17": {
+      "scheduledAt": "2026-05-07T21:34:05.899Z",
+      "type": "overdue",
+      "task": "delete all subaccount call recordings not associated with an internal company within the twilio console and then close each after the call recording deletion by this wednesday",
+      "assignee": "Christle 'Knows All' Ochigue",
+      "reminderDate": "2026-05-17"
+    },
+    "dcf5bd0f6c5ed61dbbc92681eb644909|overdue|2026-05-18": {
+      "scheduledAt": "2026-05-07T21:34:06.555Z",
+      "type": "overdue",
+      "task": "delete all subaccount call recordings not associated with an internal company within the twilio console and then close each after the call recording deletion by this wednesday",
+      "assignee": "Christle 'Knows All' Ochigue",
+      "reminderDate": "2026-05-18"
+    },
+    "dcf5bd0f6c5ed61dbbc92681eb644909|overdue|2026-05-19": {
+      "scheduledAt": "2026-05-07T21:34:07.226Z",
+      "type": "overdue",
+      "task": "delete all subaccount call recordings not associated with an internal company within the twilio console and then close each after the call recording deletion by this wednesday",
+      "assignee": "Christle 'Knows All' Ochigue",
+      "reminderDate": "2026-05-19"
+    },
+    "dcf5bd0f6c5ed61dbbc92681eb644909|overdue|2026-05-20": {
+      "scheduledAt": "2026-05-07T21:34:07.905Z",
+      "type": "overdue",
+      "task": "delete all subaccount call recordings not associated with an internal company within the twilio console and then close each after the call recording deletion by this wednesday",
+      "assignee": "Christle 'Knows All' Ochigue",
+      "reminderDate": "2026-05-20"
+    },
+    "dcf5bd0f6c5ed61dbbc92681eb644909|overdue|2026-05-21": {
+      "scheduledAt": "2026-05-07T21:34:08.597Z",
+      "type": "overdue",
+      "task": "delete all subaccount call recordings not associated with an internal company within the twilio console and then close each after the call recording deletion by this wednesday",
+      "assignee": "Christle 'Knows All' Ochigue",
+      "reminderDate": "2026-05-21"
+    },
+    "dcf5bd0f6c5ed61dbbc92681eb644909|overdue|2026-05-22": {
+      "scheduledAt": "2026-05-07T21:34:09.298Z",
+      "type": "overdue",
+      "task": "delete all subaccount call recordings not associated with an internal company within the twilio console and then close each after the call recording deletion by this wednesday",
+      "assignee": "Christle 'Knows All' Ochigue",
+      "reminderDate": "2026-05-22"
+    },
+    "dcf5bd0f6c5ed61dbbc92681eb644909|overdue|2026-05-23": {
+      "scheduledAt": "2026-05-07T21:34:10.021Z",
+      "type": "overdue",
+      "task": "delete all subaccount call recordings not associated with an internal company within the twilio console and then close each after the call recording deletion by this wednesday",
+      "assignee": "Christle 'Knows All' Ochigue",
+      "reminderDate": "2026-05-23"
+    },
+    "dcf5bd0f6c5ed61dbbc92681eb644909|overdue|2026-05-24": {
+      "scheduledAt": "2026-05-07T21:34:10.724Z",
+      "type": "overdue",
+      "task": "delete all subaccount call recordings not associated with an internal company within the twilio console and then close each after the call recording deletion by this wednesday",
+      "assignee": "Christle 'Knows All' Ochigue",
+      "reminderDate": "2026-05-24"
+    },
+    "dcf5bd0f6c5ed61dbbc92681eb644909|overdue|2026-05-25": {
+      "scheduledAt": "2026-05-07T21:34:11.405Z",
+      "type": "overdue",
+      "task": "delete all subaccount call recordings not associated with an internal company within the twilio console and then close each after the call recording deletion by this wednesday",
+      "assignee": "Christle 'Knows All' Ochigue",
+      "reminderDate": "2026-05-25"
+    },
+    "dcf5bd0f6c5ed61dbbc92681eb644909|overdue|2026-05-26": {
+      "scheduledAt": "2026-05-07T21:34:12.076Z",
+      "type": "overdue",
+      "task": "delete all subaccount call recordings not associated with an internal company within the twilio console and then close each after the call recording deletion by this wednesday",
+      "assignee": "Christle 'Knows All' Ochigue",
+      "reminderDate": "2026-05-26"
+    },
+    "dcf5bd0f6c5ed61dbbc92681eb644909|overdue|2026-05-27": {
+      "scheduledAt": "2026-05-07T21:34:12.759Z",
+      "type": "overdue",
+      "task": "delete all subaccount call recordings not associated with an internal company within the twilio console and then close each after the call recording deletion by this wednesday",
+      "assignee": "Christle 'Knows All' Ochigue",
+      "reminderDate": "2026-05-27"
+    },
+    "dcf5bd0f6c5ed61dbbc92681eb644909|overdue|2026-05-28": {
+      "scheduledAt": "2026-05-07T21:34:13.457Z",
+      "type": "overdue",
+      "task": "delete all subaccount call recordings not associated with an internal company within the twilio console and then close each after the call recording deletion by this wednesday",
+      "assignee": "Christle 'Knows All' Ochigue",
+      "reminderDate": "2026-05-28"
+    },
+    "dcf5bd0f6c5ed61dbbc92681eb644909|overdue|2026-05-29": {
+      "scheduledAt": "2026-05-07T21:34:14.127Z",
+      "type": "overdue",
+      "task": "delete all subaccount call recordings not associated with an internal company within the twilio console and then close each after the call recording deletion by this wednesday",
+      "assignee": "Christle 'Knows All' Ochigue",
+      "reminderDate": "2026-05-29"
+    },
+    "dcf5bd0f6c5ed61dbbc92681eb644909|overdue|2026-05-30": {
+      "scheduledAt": "2026-05-07T21:34:14.810Z",
+      "type": "overdue",
+      "task": "delete all subaccount call recordings not associated with an internal company within the twilio console and then close each after the call recording deletion by this wednesday",
+      "assignee": "Christle 'Knows All' Ochigue",
+      "reminderDate": "2026-05-30"
     }
   },
   "scheduledMessageIds": {
@@ -48622,8 +49083,696 @@
         "channel": "C08R493ESAJ",
         "messageId": "Q0B28BA4YG5"
       }
+    ],
+    "95035200cc27af4a4cc7f05ae3b3fb27": [
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B2D8F82V8"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0B2S59P2FK"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0B26SSSBFV"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B2D8G7QAE"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0B2B6N2P7G"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0B2S584X0R"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B2GSAS8FN"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0B29SACA4D"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0B29SAJ79T"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B1XQDURNK"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0B29SAK2NR"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0B2S591KFT"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B29SAV31T"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0B2GS9RTKN"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0B1XQDSM0X"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B29SB1QMT"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0B2D8GRVPC"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0B2D8FQCRG"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B37GN1UQ0"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0B1XQCRM5M"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0B2GSAM58U"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B2D8GNV7U"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0B26SV6ARH"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0B2S58L3K3"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B37GNBV8Q"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0B37GP64FJ"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0B2D8H13TL"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B2S59GH9P"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0B2B6PEAP8"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0B29SBEDCM"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B1XQE5VLP"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0B29SA4BHB"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0B2S59LRT3"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B26SUT4R1"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0B26SUSZMZ"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0B2B6NGD8W"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B26SUN42F"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0B2S5A6KAM"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0B37GPG43A"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B37GQ3GDN"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0B2GSBDM60"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0B1XQEQQJK"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B2B6Q371U"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0B26SVL7QB"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0B2GSBRKL4"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B26STB9EF"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0B2B6PSTJA"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0B2S57L9GR"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B29SARJMB"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0B2GSBEAKE"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0B2B6PS92A"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B37GPNYTA"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0B2S5ATKA5"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0B37GP9C0G"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B2S59EMC1"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0B2D8J2LEN"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0B26SW1WKV"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B2B6Q7A0N"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0B2GSCCWTW"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0B2GSBT2A0"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B2B6Q7DPG"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0B26SW7RD1"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0B37GPFX5W"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B37GPEAMN"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0B1XQELP3R"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0B26SVFFPD"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B1XQEH4AK"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0B1XQE84CX"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0B2D8JAP0S"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B2B6Q0UR4"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0B1XQFKY87"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0B29SC9K1B"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B29SCHNRK"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0B29SB4FM3"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0B2GSCBL04"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B26SVNKMZ"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0B37GQ1M4G"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0B37GR22JC"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B2D8JBS74"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0B29SCK2JH"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0B2S5ABYHF"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B2S59NZB3"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0B2D8H9QNN"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0B2GSCLM7W"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B37GR6SHW"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0B2B6P15E2"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0B2D8JV2JE"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B2B6R3HT8"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0B2GSD5E1J"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0B2S5B25PB"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B2S5AAPRP"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0B2S5BKBKK"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0B29SC54DT"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B2B6QLFKQ"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0B2D8JEM8S"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0B37GQ5DKJ"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B26SWCK3M"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0B29SD1153"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0B26SWBW7M"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B2S5BEYPK"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0B2D8J0EF4"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0B2B6QUGB0"
+      }
+    ],
+    "dcf5bd0f6c5ed61dbbc92681eb644909": [
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B2D8JGCBU"
+      },
+      {
+        "channel": "UMCPG3D8A",
+        "messageId": "Q0B2S5B8K4Z"
+      },
+      {
+        "channel": "C08R493ESAJ",
+        "messageId": "Q0B29SCEHBP"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B2S5BL0FK"
+      },
+      {
+        "channel": "UMCPG3D8A",
+        "messageId": "Q0B37GRCV6C"
+      },
+      {
+        "channel": "C08R493ESAJ",
+        "messageId": "Q0B26SWN78B"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B2GSDJKKN"
+      },
+      {
+        "channel": "UMCPG3D8A",
+        "messageId": "Q0B2GSBRACU"
+      },
+      {
+        "channel": "C08R493ESAJ",
+        "messageId": "Q0B29SA641K"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B2S5BRD7T"
+      },
+      {
+        "channel": "UMCPG3D8A",
+        "messageId": "Q0B26SX401H"
+      },
+      {
+        "channel": "C08R493ESAJ",
+        "messageId": "Q0B2B6RFF0E"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B1XQH184X"
+      },
+      {
+        "channel": "UMCPG3D8A",
+        "messageId": "Q0B2D8J4JDQ"
+      },
+      {
+        "channel": "C08R493ESAJ",
+        "messageId": "Q0B2D8H1TQS"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B37GR12U8"
+      },
+      {
+        "channel": "UMCPG3D8A",
+        "messageId": "Q0B2GSCSAP6"
+      },
+      {
+        "channel": "C08R493ESAJ",
+        "messageId": "Q0B1XQG7B5M"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B26SW44E7"
+      },
+      {
+        "channel": "UMCPG3D8A",
+        "messageId": "Q0B2B6RRZRU"
+      },
+      {
+        "channel": "C08R493ESAJ",
+        "messageId": "Q0B2GSCJ13N"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B26SW95K5"
+      },
+      {
+        "channel": "UMCPG3D8A",
+        "messageId": "Q0B2D8J81AN"
+      },
+      {
+        "channel": "C08R493ESAJ",
+        "messageId": "Q0B1XQGC9L7"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B2GSCRLMS"
+      },
+      {
+        "channel": "UMCPG3D8A",
+        "messageId": "Q0B2S5CDP6D"
+      },
+      {
+        "channel": "C08R493ESAJ",
+        "messageId": "Q0B26SX3YCT"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B2S5AQHR7"
+      },
+      {
+        "channel": "UMCPG3D8A",
+        "messageId": "Q0B1XQGQTU7"
+      },
+      {
+        "channel": "C08R493ESAJ",
+        "messageId": "Q0B2GSCM7GC"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B26SX834K"
+      },
+      {
+        "channel": "UMCPG3D8A",
+        "messageId": "Q0B1XQFRBE3"
+      },
+      {
+        "channel": "C08R493ESAJ",
+        "messageId": "Q0B37GQR4L8"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B2GSCQS6Q"
+      },
+      {
+        "channel": "UMCPG3D8A",
+        "messageId": "Q0B29SE0FAR"
+      },
+      {
+        "channel": "C08R493ESAJ",
+        "messageId": "Q0B2D8JFK8A"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B37GS1056"
+      },
+      {
+        "channel": "UMCPG3D8A",
+        "messageId": "Q0B2B6Q3MM4"
+      },
+      {
+        "channel": "C08R493ESAJ",
+        "messageId": "Q0B1XQG52UX"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B2S5B8EJD"
+      },
+      {
+        "channel": "UMCPG3D8A",
+        "messageId": "Q0B2D8KQ4RY"
+      },
+      {
+        "channel": "C08R493ESAJ",
+        "messageId": "Q0B2B6RNUB0"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B26SXTMH9"
+      },
+      {
+        "channel": "UMCPG3D8A",
+        "messageId": "Q0B2GSDRJEQ"
+      },
+      {
+        "channel": "C08R493ESAJ",
+        "messageId": "Q0B2GSD2RTN"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B29SEBGQM"
+      },
+      {
+        "channel": "UMCPG3D8A",
+        "messageId": "Q0B26SYE0V9"
+      },
+      {
+        "channel": "C08R493ESAJ",
+        "messageId": "Q0B2B6RSNAJ"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B2S5C9857"
+      },
+      {
+        "channel": "UMCPG3D8A",
+        "messageId": "Q0B2GSE48TW"
+      },
+      {
+        "channel": "C08R493ESAJ",
+        "messageId": "Q0B26SY1X3M"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B37GSHT16"
+      },
+      {
+        "channel": "UMCPG3D8A",
+        "messageId": "Q0B26SX4RNX"
+      },
+      {
+        "channel": "C08R493ESAJ",
+        "messageId": "Q0B1XQFLEJ3"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B26SXLCE7"
+      },
+      {
+        "channel": "UMCPG3D8A",
+        "messageId": "Q0B26SXH5D1"
+      },
+      {
+        "channel": "C08R493ESAJ",
+        "messageId": "Q0B2GSD1PPW"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B37GRUY6L"
+      },
+      {
+        "channel": "UMCPG3D8A",
+        "messageId": "Q0B2B6RT0HL"
+      },
+      {
+        "channel": "C08R493ESAJ",
+        "messageId": "Q0B2GSDKH0C"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B2B6S5PV4"
+      },
+      {
+        "channel": "UMCPG3D8A",
+        "messageId": "Q0B2D8L51PC"
+      },
+      {
+        "channel": "C08R493ESAJ",
+        "messageId": "Q0B29SE5MJR"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B2D8JPBGS"
+      },
+      {
+        "channel": "UMCPG3D8A",
+        "messageId": "Q0B2B6S2MGW"
+      },
+      {
+        "channel": "C08R493ESAJ",
+        "messageId": "Q0B2B6S347Q"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B29SDRYCV"
+      },
+      {
+        "channel": "UMCPG3D8A",
+        "messageId": "Q0B2D8LCAV8"
+      },
+      {
+        "channel": "C08R493ESAJ",
+        "messageId": "Q0B2GSDK71S"
+      }
     ]
   },
   "lastWeeklySummaryDate": "2026-W18",
-  "lastRun": "2026-05-07T18:05:40.106Z"
+  "lastRun": "2026-05-07T21:34:14.811Z"
 }
