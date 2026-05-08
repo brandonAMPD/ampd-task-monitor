@@ -3219,6 +3219,20 @@
       "completed": false,
       "completedAt": null,
       "firstSeenAt": "2026-05-08T10:55:43.770Z"
+    },
+    "5bc3319c59c1243594d421c9bafe58bf": {
+      "task": "create campaign/sequence in CR and notify Mark when done",
+      "assignee_name": "Liz' La Task-Killer' Zavala",
+      "assignee_slack_mention": "@Liz' La Task-Killer' Zavala",
+      "assigned_date": "2026-05-06",
+      "due_date": "2026-05-09",
+      "message_ts": "1778109870.507669",
+      "source_message": "@Liz' La Task-Killer' Zavala please create this campaign/sequence in CR and let Mark know wh",
+      "assigneeId": "U08D4RE1SKF",
+      "messageTs": "1778109870.507669",
+      "completed": false,
+      "completedAt": null,
+      "firstSeenAt": "2026-05-08T14:02:05.563Z"
     }
   },
   "scheduled": {
@@ -31300,6 +31314,229 @@
       "task": "setup opt-in for core services funnel to feed to Core Services campaign",
       "assignee": "Mark 'Morpheus' Manaog",
       "reminderDate": "2026-06-11"
+    },
+    "5bc3319c59c1243594d421c9bafe58bf|nag|2026-05-08": {
+      "scheduledAt": "2026-05-08T14:02:05.582Z",
+      "type": "nag",
+      "task": "create campaign/sequence in CR and notify Mark when done",
+      "skipped": true
+    },
+    "5bc3319c59c1243594d421c9bafe58bf|due|2026-05-09": {
+      "scheduledAt": "2026-05-08T14:02:06.473Z",
+      "type": "due",
+      "task": "create campaign/sequence in CR and notify Mark when done",
+      "assignee": "Liz' La Task-Killer' Zavala",
+      "reminderDate": "2026-05-09"
+    },
+    "5bc3319c59c1243594d421c9bafe58bf|overdue|2026-05-10": {
+      "scheduledAt": "2026-05-08T14:02:07.235Z",
+      "type": "overdue",
+      "task": "create campaign/sequence in CR and notify Mark when done",
+      "assignee": "Liz' La Task-Killer' Zavala",
+      "reminderDate": "2026-05-10"
+    },
+    "5bc3319c59c1243594d421c9bafe58bf|overdue|2026-05-11": {
+      "scheduledAt": "2026-05-08T14:02:07.973Z",
+      "type": "overdue",
+      "task": "create campaign/sequence in CR and notify Mark when done",
+      "assignee": "Liz' La Task-Killer' Zavala",
+      "reminderDate": "2026-05-11"
+    },
+    "5bc3319c59c1243594d421c9bafe58bf|overdue|2026-05-12": {
+      "scheduledAt": "2026-05-08T14:02:08.696Z",
+      "type": "overdue",
+      "task": "create campaign/sequence in CR and notify Mark when done",
+      "assignee": "Liz' La Task-Killer' Zavala",
+      "reminderDate": "2026-05-12"
+    },
+    "5bc3319c59c1243594d421c9bafe58bf|overdue|2026-05-13": {
+      "scheduledAt": "2026-05-08T14:02:09.442Z",
+      "type": "overdue",
+      "task": "create campaign/sequence in CR and notify Mark when done",
+      "assignee": "Liz' La Task-Killer' Zavala",
+      "reminderDate": "2026-05-13"
+    },
+    "5bc3319c59c1243594d421c9bafe58bf|overdue|2026-05-14": {
+      "scheduledAt": "2026-05-08T14:02:10.190Z",
+      "type": "overdue",
+      "task": "create campaign/sequence in CR and notify Mark when done",
+      "assignee": "Liz' La Task-Killer' Zavala",
+      "reminderDate": "2026-05-14"
+    },
+    "5bc3319c59c1243594d421c9bafe58bf|overdue|2026-05-15": {
+      "scheduledAt": "2026-05-08T14:02:10.880Z",
+      "type": "overdue",
+      "task": "create campaign/sequence in CR and notify Mark when done",
+      "assignee": "Liz' La Task-Killer' Zavala",
+      "reminderDate": "2026-05-15"
+    },
+    "5bc3319c59c1243594d421c9bafe58bf|overdue|2026-05-16": {
+      "scheduledAt": "2026-05-08T14:02:11.594Z",
+      "type": "overdue",
+      "task": "create campaign/sequence in CR and notify Mark when done",
+      "assignee": "Liz' La Task-Killer' Zavala",
+      "reminderDate": "2026-05-16"
+    },
+    "5bc3319c59c1243594d421c9bafe58bf|overdue|2026-05-17": {
+      "scheduledAt": "2026-05-08T14:02:12.345Z",
+      "type": "overdue",
+      "task": "create campaign/sequence in CR and notify Mark when done",
+      "assignee": "Liz' La Task-Killer' Zavala",
+      "reminderDate": "2026-05-17"
+    },
+    "5bc3319c59c1243594d421c9bafe58bf|overdue|2026-05-18": {
+      "scheduledAt": "2026-05-08T14:02:13.094Z",
+      "type": "overdue",
+      "task": "create campaign/sequence in CR and notify Mark when done",
+      "assignee": "Liz' La Task-Killer' Zavala",
+      "reminderDate": "2026-05-18"
+    },
+    "5bc3319c59c1243594d421c9bafe58bf|overdue|2026-05-19": {
+      "scheduledAt": "2026-05-08T14:02:13.785Z",
+      "type": "overdue",
+      "task": "create campaign/sequence in CR and notify Mark when done",
+      "assignee": "Liz' La Task-Killer' Zavala",
+      "reminderDate": "2026-05-19"
+    },
+    "5bc3319c59c1243594d421c9bafe58bf|overdue|2026-05-20": {
+      "scheduledAt": "2026-05-08T14:02:14.965Z",
+      "type": "overdue",
+      "task": "create campaign/sequence in CR and notify Mark when done",
+      "assignee": "Liz' La Task-Killer' Zavala",
+      "reminderDate": "2026-05-20"
+    },
+    "5bc3319c59c1243594d421c9bafe58bf|overdue|2026-05-21": {
+      "scheduledAt": "2026-05-08T14:02:15.703Z",
+      "type": "overdue",
+      "task": "create campaign/sequence in CR and notify Mark when done",
+      "assignee": "Liz' La Task-Killer' Zavala",
+      "reminderDate": "2026-05-21"
+    },
+    "5bc3319c59c1243594d421c9bafe58bf|overdue|2026-05-22": {
+      "scheduledAt": "2026-05-08T14:02:16.396Z",
+      "type": "overdue",
+      "task": "create campaign/sequence in CR and notify Mark when done",
+      "assignee": "Liz' La Task-Killer' Zavala",
+      "reminderDate": "2026-05-22"
+    },
+    "5bc3319c59c1243594d421c9bafe58bf|overdue|2026-05-23": {
+      "scheduledAt": "2026-05-08T14:02:17.101Z",
+      "type": "overdue",
+      "task": "create campaign/sequence in CR and notify Mark when done",
+      "assignee": "Liz' La Task-Killer' Zavala",
+      "reminderDate": "2026-05-23"
+    },
+    "5bc3319c59c1243594d421c9bafe58bf|overdue|2026-05-24": {
+      "scheduledAt": "2026-05-08T14:02:17.824Z",
+      "type": "overdue",
+      "task": "create campaign/sequence in CR and notify Mark when done",
+      "assignee": "Liz' La Task-Killer' Zavala",
+      "reminderDate": "2026-05-24"
+    },
+    "5bc3319c59c1243594d421c9bafe58bf|overdue|2026-05-25": {
+      "scheduledAt": "2026-05-08T14:02:18.597Z",
+      "type": "overdue",
+      "task": "create campaign/sequence in CR and notify Mark when done",
+      "assignee": "Liz' La Task-Killer' Zavala",
+      "reminderDate": "2026-05-25"
+    },
+    "5bc3319c59c1243594d421c9bafe58bf|overdue|2026-05-26": {
+      "scheduledAt": "2026-05-08T14:02:19.315Z",
+      "type": "overdue",
+      "task": "create campaign/sequence in CR and notify Mark when done",
+      "assignee": "Liz' La Task-Killer' Zavala",
+      "reminderDate": "2026-05-26"
+    },
+    "5bc3319c59c1243594d421c9bafe58bf|overdue|2026-05-27": {
+      "scheduledAt": "2026-05-08T14:02:20.025Z",
+      "type": "overdue",
+      "task": "create campaign/sequence in CR and notify Mark when done",
+      "assignee": "Liz' La Task-Killer' Zavala",
+      "reminderDate": "2026-05-27"
+    },
+    "5bc3319c59c1243594d421c9bafe58bf|overdue|2026-05-28": {
+      "scheduledAt": "2026-05-08T14:02:20.778Z",
+      "type": "overdue",
+      "task": "create campaign/sequence in CR and notify Mark when done",
+      "assignee": "Liz' La Task-Killer' Zavala",
+      "reminderDate": "2026-05-28"
+    },
+    "5bc3319c59c1243594d421c9bafe58bf|overdue|2026-05-29": {
+      "scheduledAt": "2026-05-08T14:02:21.457Z",
+      "type": "overdue",
+      "task": "create campaign/sequence in CR and notify Mark when done",
+      "assignee": "Liz' La Task-Killer' Zavala",
+      "reminderDate": "2026-05-29"
+    },
+    "5bc3319c59c1243594d421c9bafe58bf|overdue|2026-05-30": {
+      "scheduledAt": "2026-05-08T14:02:22.166Z",
+      "type": "overdue",
+      "task": "create campaign/sequence in CR and notify Mark when done",
+      "assignee": "Liz' La Task-Killer' Zavala",
+      "reminderDate": "2026-05-30"
+    },
+    "5bc3319c59c1243594d421c9bafe58bf|overdue|2026-05-31": {
+      "scheduledAt": "2026-05-08T14:02:22.882Z",
+      "type": "overdue",
+      "task": "create campaign/sequence in CR and notify Mark when done",
+      "assignee": "Liz' La Task-Killer' Zavala",
+      "reminderDate": "2026-05-31"
+    },
+    "5bc3319c59c1243594d421c9bafe58bf|overdue|2026-06-01": {
+      "scheduledAt": "2026-05-08T14:02:24.331Z",
+      "type": "overdue",
+      "task": "create campaign/sequence in CR and notify Mark when done",
+      "assignee": "Liz' La Task-Killer' Zavala",
+      "reminderDate": "2026-06-01"
+    },
+    "5bc3319c59c1243594d421c9bafe58bf|overdue|2026-06-02": {
+      "scheduledAt": "2026-05-08T14:02:25.597Z",
+      "type": "overdue",
+      "task": "create campaign/sequence in CR and notify Mark when done",
+      "assignee": "Liz' La Task-Killer' Zavala",
+      "reminderDate": "2026-06-02"
+    },
+    "5bc3319c59c1243594d421c9bafe58bf|overdue|2026-06-03": {
+      "scheduledAt": "2026-05-08T14:02:26.293Z",
+      "type": "overdue",
+      "task": "create campaign/sequence in CR and notify Mark when done",
+      "assignee": "Liz' La Task-Killer' Zavala",
+      "reminderDate": "2026-06-03"
+    },
+    "5bc3319c59c1243594d421c9bafe58bf|overdue|2026-06-04": {
+      "scheduledAt": "2026-05-08T14:02:27.005Z",
+      "type": "overdue",
+      "task": "create campaign/sequence in CR and notify Mark when done",
+      "assignee": "Liz' La Task-Killer' Zavala",
+      "reminderDate": "2026-06-04"
+    },
+    "5bc3319c59c1243594d421c9bafe58bf|overdue|2026-06-05": {
+      "scheduledAt": "2026-05-08T14:02:27.726Z",
+      "type": "overdue",
+      "task": "create campaign/sequence in CR and notify Mark when done",
+      "assignee": "Liz' La Task-Killer' Zavala",
+      "reminderDate": "2026-06-05"
+    },
+    "5bc3319c59c1243594d421c9bafe58bf|overdue|2026-06-06": {
+      "scheduledAt": "2026-05-08T14:02:28.462Z",
+      "type": "overdue",
+      "task": "create campaign/sequence in CR and notify Mark when done",
+      "assignee": "Liz' La Task-Killer' Zavala",
+      "reminderDate": "2026-06-06"
+    },
+    "5bc3319c59c1243594d421c9bafe58bf|overdue|2026-06-07": {
+      "scheduledAt": "2026-05-08T14:02:29.184Z",
+      "type": "overdue",
+      "task": "create campaign/sequence in CR and notify Mark when done",
+      "assignee": "Liz' La Task-Killer' Zavala",
+      "reminderDate": "2026-06-07"
+    },
+    "5bc3319c59c1243594d421c9bafe58bf|overdue|2026-06-08": {
+      "scheduledAt": "2026-05-08T14:02:30.051Z",
+      "type": "overdue",
+      "task": "create campaign/sequence in CR and notify Mark when done",
+      "assignee": "Liz' La Task-Killer' Zavala",
+      "reminderDate": "2026-06-08"
     }
   },
   "scheduledMessageIds": {
@@ -53392,8 +53629,382 @@
         "channel": "C05JGF817H6",
         "messageId": "Q0B22DZHDL7"
       }
+    ],
+    "5bc3319c59c1243594d421c9bafe58bf": [
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B2FUAJX2R"
+      },
+      {
+        "channel": "U08D4RE1SKF",
+        "messageId": "Q0B3DJPEJL8"
+      },
+      {
+        "channel": "C097HTJ0Z5G",
+        "messageId": "Q0B3DJP243S"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B2H8NAXV4"
+      },
+      {
+        "channel": "U08D4RE1SKF",
+        "messageId": "Q0B2NUAMNJ0"
+      },
+      {
+        "channel": "C097HTJ0Z5G",
+        "messageId": "Q0B23SDFJCF"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B2H8NULTG"
+      },
+      {
+        "channel": "U08D4RE1SKF",
+        "messageId": "Q0B2NUAD05A"
+      },
+      {
+        "channel": "C097HTJ0Z5G",
+        "messageId": "Q0B2FUAJB3P"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B2H8PS3QW"
+      },
+      {
+        "channel": "U08D4RE1SKF",
+        "messageId": "Q0B3DJNPFMW"
+      },
+      {
+        "channel": "C097HTJ0Z5G",
+        "messageId": "Q0B3DJQCVDW"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B23SCF17H"
+      },
+      {
+        "channel": "U08D4RE1SKF",
+        "messageId": "Q0B23SDPU5V"
+      },
+      {
+        "channel": "C097HTJ0Z5G",
+        "messageId": "Q0B2FUAK6ER"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B3DJMTCV6"
+      },
+      {
+        "channel": "U08D4RE1SKF",
+        "messageId": "Q0B23SDFL6T"
+      },
+      {
+        "channel": "C097HTJ0Z5G",
+        "messageId": "Q0B2H8PBW22"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B2FUB80BF"
+      },
+      {
+        "channel": "U08D4RE1SKF",
+        "messageId": "Q0B2NUA1CTE"
+      },
+      {
+        "channel": "C097HTJ0Z5G",
+        "messageId": "Q0B2KAGUHDY"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B2NUAKW9J"
+      },
+      {
+        "channel": "U08D4RE1SKF",
+        "messageId": "Q0B3DJPJ908"
+      },
+      {
+        "channel": "C097HTJ0Z5G",
+        "messageId": "Q0B2FUARAP7"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B2NUB5P7W"
+      },
+      {
+        "channel": "U08D4RE1SKF",
+        "messageId": "Q0B2H8P6BT8"
+      },
+      {
+        "channel": "C097HTJ0Z5G",
+        "messageId": "Q0B2KAHBSR0"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B23SED7E3"
+      },
+      {
+        "channel": "U08D4RE1SKF",
+        "messageId": "Q0B2FUANMFF"
+      },
+      {
+        "channel": "C097HTJ0Z5G",
+        "messageId": "Q0B2KAH0C74"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B2NUBT01J"
+      },
+      {
+        "channel": "U08D4RE1SKF",
+        "messageId": "Q0B2CUV3QHZ"
+      },
+      {
+        "channel": "C097HTJ0Z5G",
+        "messageId": "Q0B2FUBMS4V"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B2H8PDE94"
+      },
+      {
+        "channel": "U08D4RE1SKF",
+        "messageId": "Q0B2KAGMWUA"
+      },
+      {
+        "channel": "C097HTJ0Z5G",
+        "messageId": "Q0B2H8QBVGW"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B3DJR5Q56"
+      },
+      {
+        "channel": "U08D4RE1SKF",
+        "messageId": "Q0B2CUVGVTM"
+      },
+      {
+        "channel": "C097HTJ0Z5G",
+        "messageId": "Q0B2CUWP8UT"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B2CUVG3D1"
+      },
+      {
+        "channel": "U08D4RE1SKF",
+        "messageId": "Q0B2NUBU38C"
+      },
+      {
+        "channel": "C097HTJ0Z5G",
+        "messageId": "Q0B23SF4XU7"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B3DJQBK5W"
+      },
+      {
+        "channel": "U08D4RE1SKF",
+        "messageId": "Q0B2CUVK2Q3"
+      },
+      {
+        "channel": "C097HTJ0Z5G",
+        "messageId": "Q0B2FUC68JH"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B2H8QJ6LW"
+      },
+      {
+        "channel": "U08D4RE1SKF",
+        "messageId": "Q0B2CUW9803"
+      },
+      {
+        "channel": "C097HTJ0Z5G",
+        "messageId": "Q0B2H8QRGP8"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B2KAHV35Y"
+      },
+      {
+        "channel": "U08D4RE1SKF",
+        "messageId": "Q0B23SES8LX"
+      },
+      {
+        "channel": "C097HTJ0Z5G",
+        "messageId": "Q0B3DJR2ZGQ"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B2H8QNE4W"
+      },
+      {
+        "channel": "U08D4RE1SKF",
+        "messageId": "Q0B2CUW4UDR"
+      },
+      {
+        "channel": "C097HTJ0Z5G",
+        "messageId": "Q0B23SFEYAK"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B2H8REY5U"
+      },
+      {
+        "channel": "U08D4RE1SKF",
+        "messageId": "Q0B2H8R1YDU"
+      },
+      {
+        "channel": "C097HTJ0Z5G",
+        "messageId": "Q0B2KAJ8742"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B2NUD5YNQ"
+      },
+      {
+        "channel": "U08D4RE1SKF",
+        "messageId": "Q0B2FUCH9KP"
+      },
+      {
+        "channel": "C097HTJ0Z5G",
+        "messageId": "Q0B2H8RDFTQ"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B2CUWNKNF"
+      },
+      {
+        "channel": "U08D4RE1SKF",
+        "messageId": "Q0B2H8R5FU6"
+      },
+      {
+        "channel": "C097HTJ0Z5G",
+        "messageId": "Q0B2FUCFHN1"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B2H8RS56J"
+      },
+      {
+        "channel": "U08D4RE1SKF",
+        "messageId": "Q0B3DJRMURW"
+      },
+      {
+        "channel": "C097HTJ0Z5G",
+        "messageId": "Q0B2CUWLNKD"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B3DJQU96C"
+      },
+      {
+        "channel": "U08D4RE1SKF",
+        "messageId": "Q0B3DJS0J48"
+      },
+      {
+        "channel": "C097HTJ0Z5G",
+        "messageId": "Q0B2KAK5TDY"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B2FUCU56Z"
+      },
+      {
+        "channel": "U08D4RE1SKF",
+        "messageId": "Q0B2NUEJQ76"
+      },
+      {
+        "channel": "C097HTJ0Z5G",
+        "messageId": "Q0B2KAKH0UA"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B2NUD220L"
+      },
+      {
+        "channel": "U08D4RE1SKF",
+        "messageId": "Q0B2FUD2VCM"
+      },
+      {
+        "channel": "C097HTJ0Z5G",
+        "messageId": "Q0B23SGM5QX"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B3DJSAVC0"
+      },
+      {
+        "channel": "U08D4RE1SKF",
+        "messageId": "Q0B2NUDSLUC"
+      },
+      {
+        "channel": "C097HTJ0Z5G",
+        "messageId": "Q0B2FUE9X1B"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B2NUDHKK6"
+      },
+      {
+        "channel": "U08D4RE1SKF",
+        "messageId": "Q0B2FUDTC13"
+      },
+      {
+        "channel": "C097HTJ0Z5G",
+        "messageId": "Q0B2H8S3SVC"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B23SFSMF1"
+      },
+      {
+        "channel": "U08D4RE1SKF",
+        "messageId": "Q0B2H8RR35L"
+      },
+      {
+        "channel": "C097HTJ0Z5G",
+        "messageId": "Q0B2FUECNTF"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B2NUDV1HS"
+      },
+      {
+        "channel": "U08D4RE1SKF",
+        "messageId": "Q0B2CUXQTBM"
+      },
+      {
+        "channel": "C097HTJ0Z5G",
+        "messageId": "Q0B3DJSTPGQ"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B2KAKE59Q"
+      },
+      {
+        "channel": "U08D4RE1SKF",
+        "messageId": "Q0B2FUDPR7F"
+      },
+      {
+        "channel": "C097HTJ0Z5G",
+        "messageId": "Q0B2KAKVCLA"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B2CUYKBRR"
+      },
+      {
+        "channel": "U08D4RE1SKF",
+        "messageId": "Q0B2H8SAFAS"
+      },
+      {
+        "channel": "C097HTJ0Z5G",
+        "messageId": "Q0B23SHFKJB"
+      }
     ]
   },
-  "lastWeeklySummaryDate": "2026-W18",
-  "lastRun": "2026-05-08T10:56:49.265Z"
+  "lastWeeklySummaryDate": "2026-W19",
+  "lastRun": "2026-05-08T14:02:30.228Z"
 }
