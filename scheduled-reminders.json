@@ -3163,6 +3163,62 @@
       "completed": true,
       "completedAt": "2026-05-08T06:02:04.146Z",
       "firstSeenAt": "2026-05-08T06:02:04.146Z"
+    },
+    "82d5bc20062378e385d7c44c2045e4f5": {
+      "task": "finish reviewing brand guide and docs for Jotform ai knowledgebase",
+      "assignee_name": "Brandon 'The One' Robertson",
+      "assignee_slack_mention": "@Brandon 'The One' Robertson",
+      "assigned_date": "2026-05-07",
+      "due_date": "2026-05-12",
+      "message_ts": "1778168627.136249",
+      "source_message": "@Brandon 'The One' Robertson finish reviewing brand guide and other documents needed for Jotfor",
+      "assigneeId": "UMS39RAGP",
+      "messageTs": "1778168627.136249",
+      "completed": false,
+      "completedAt": null,
+      "firstSeenAt": "2026-05-08T10:55:43.114Z"
+    },
+    "765563aea36750de64ccf88aae7a46ae": {
+      "task": "setup opt-in for core services funnel to feed to Core Services campaign",
+      "assignee_name": "Mark 'Morpheus' Manaog",
+      "assignee_slack_mention": "@Mark 'Morpheus' Manaog",
+      "assigned_date": "2026-05-06",
+      "due_date": "2026-05-12",
+      "message_ts": "1778108779.119679",
+      "source_message": "@Mark 'Morpheus' Manaog see This task https://dovetail-mktg.slack.com/archives/C0AQK5D4LD6/p1",
+      "assigneeId": "U023F61R16F",
+      "messageTs": "1778108779.119679",
+      "completed": false,
+      "completedAt": null,
+      "firstSeenAt": "2026-05-08T10:55:43.377Z"
+    },
+    "e9af8752c4c15ba31f3afc063633fb0d": {
+      "task": "import Lenderbase Cold List into ampd crm partners area",
+      "assignee_name": "Eddie 'Rockstar' Monarrez",
+      "assignee_slack_mention": "@Eddie 'Rockstar' Monarrez",
+      "assigned_date": "2026-05-06",
+      "due_date": "2026-05-12",
+      "message_ts": "1778105616.306239",
+      "source_message": "@Eddie 'Rockstar' Monarrez please import into the ampd crm under the partners area.  Tag th",
+      "assigneeId": "U02LFUG2WLR",
+      "messageTs": "1778105616.306239",
+      "completed": true,
+      "completedAt": "2026-05-08T10:55:43.617Z",
+      "firstSeenAt": "2026-05-08T10:55:43.617Z"
+    },
+    "b52af50089d564ba0c5e5bafac8e50fc": {
+      "task": "build AI chatbot for ampd website and landing pages once GHL functionality figured out",
+      "assignee_name": "Mark 'Morpheus' Manaog",
+      "assignee_slack_mention": "@Mark 'Morpheus' Manaog",
+      "assigned_date": "2026-04-30",
+      "due_date": null,
+      "message_ts": "1777562445.100809",
+      "source_message": "@Mark 'Morpheus' Manaog once you've figured out the chat bot funcationality with GHL start bu",
+      "assigneeId": "U023F61R16F",
+      "messageTs": "1777562445.100809",
+      "completed": false,
+      "completedAt": null,
+      "firstSeenAt": "2026-05-08T10:55:43.770Z"
     }
   },
   "scheduled": {
@@ -30768,6 +30824,482 @@
       "task": "delete all subaccount call recordings and close each after deletion",
       "assignee": "Christle 'Knows All' Ochigue",
       "reminderDate": "2026-05-30"
+    },
+    "82d5bc20062378e385d7c44c2045e4f5|midpoint|2026-05-09": {
+      "scheduledAt": "2026-05-08T10:55:44.732Z",
+      "type": "midpoint",
+      "task": "finish reviewing brand guide and docs for Jotform ai knowledgebase",
+      "assignee": "Brandon 'The One' Robertson",
+      "reminderDate": "2026-05-09"
+    },
+    "82d5bc20062378e385d7c44c2045e4f5|nag|2026-05-10": {
+      "scheduledAt": "2026-05-08T10:55:45.599Z",
+      "type": "nag",
+      "task": "finish reviewing brand guide and docs for Jotform ai knowledgebase",
+      "assignee": "Brandon 'The One' Robertson",
+      "reminderDate": "2026-05-10"
+    },
+    "82d5bc20062378e385d7c44c2045e4f5|nag|2026-05-11": {
+      "scheduledAt": "2026-05-08T10:55:46.536Z",
+      "type": "nag",
+      "task": "finish reviewing brand guide and docs for Jotform ai knowledgebase",
+      "assignee": "Brandon 'The One' Robertson",
+      "reminderDate": "2026-05-11"
+    },
+    "82d5bc20062378e385d7c44c2045e4f5|due|2026-05-12": {
+      "scheduledAt": "2026-05-08T10:55:47.529Z",
+      "type": "due",
+      "task": "finish reviewing brand guide and docs for Jotform ai knowledgebase",
+      "assignee": "Brandon 'The One' Robertson",
+      "reminderDate": "2026-05-12"
+    },
+    "82d5bc20062378e385d7c44c2045e4f5|overdue|2026-05-13": {
+      "scheduledAt": "2026-05-08T10:55:48.514Z",
+      "type": "overdue",
+      "task": "finish reviewing brand guide and docs for Jotform ai knowledgebase",
+      "assignee": "Brandon 'The One' Robertson",
+      "reminderDate": "2026-05-13"
+    },
+    "82d5bc20062378e385d7c44c2045e4f5|overdue|2026-05-14": {
+      "scheduledAt": "2026-05-08T10:55:49.422Z",
+      "type": "overdue",
+      "task": "finish reviewing brand guide and docs for Jotform ai knowledgebase",
+      "assignee": "Brandon 'The One' Robertson",
+      "reminderDate": "2026-05-14"
+    },
+    "82d5bc20062378e385d7c44c2045e4f5|overdue|2026-05-15": {
+      "scheduledAt": "2026-05-08T10:55:50.310Z",
+      "type": "overdue",
+      "task": "finish reviewing brand guide and docs for Jotform ai knowledgebase",
+      "assignee": "Brandon 'The One' Robertson",
+      "reminderDate": "2026-05-15"
+    },
+    "82d5bc20062378e385d7c44c2045e4f5|overdue|2026-05-16": {
+      "scheduledAt": "2026-05-08T10:55:51.173Z",
+      "type": "overdue",
+      "task": "finish reviewing brand guide and docs for Jotform ai knowledgebase",
+      "assignee": "Brandon 'The One' Robertson",
+      "reminderDate": "2026-05-16"
+    },
+    "82d5bc20062378e385d7c44c2045e4f5|overdue|2026-05-17": {
+      "scheduledAt": "2026-05-08T10:55:52.030Z",
+      "type": "overdue",
+      "task": "finish reviewing brand guide and docs for Jotform ai knowledgebase",
+      "assignee": "Brandon 'The One' Robertson",
+      "reminderDate": "2026-05-17"
+    },
+    "82d5bc20062378e385d7c44c2045e4f5|overdue|2026-05-18": {
+      "scheduledAt": "2026-05-08T10:55:52.940Z",
+      "type": "overdue",
+      "task": "finish reviewing brand guide and docs for Jotform ai knowledgebase",
+      "assignee": "Brandon 'The One' Robertson",
+      "reminderDate": "2026-05-18"
+    },
+    "82d5bc20062378e385d7c44c2045e4f5|overdue|2026-05-19": {
+      "scheduledAt": "2026-05-08T10:55:53.868Z",
+      "type": "overdue",
+      "task": "finish reviewing brand guide and docs for Jotform ai knowledgebase",
+      "assignee": "Brandon 'The One' Robertson",
+      "reminderDate": "2026-05-19"
+    },
+    "82d5bc20062378e385d7c44c2045e4f5|overdue|2026-05-20": {
+      "scheduledAt": "2026-05-08T10:55:54.730Z",
+      "type": "overdue",
+      "task": "finish reviewing brand guide and docs for Jotform ai knowledgebase",
+      "assignee": "Brandon 'The One' Robertson",
+      "reminderDate": "2026-05-20"
+    },
+    "82d5bc20062378e385d7c44c2045e4f5|overdue|2026-05-21": {
+      "scheduledAt": "2026-05-08T10:55:55.615Z",
+      "type": "overdue",
+      "task": "finish reviewing brand guide and docs for Jotform ai knowledgebase",
+      "assignee": "Brandon 'The One' Robertson",
+      "reminderDate": "2026-05-21"
+    },
+    "82d5bc20062378e385d7c44c2045e4f5|overdue|2026-05-22": {
+      "scheduledAt": "2026-05-08T10:55:56.575Z",
+      "type": "overdue",
+      "task": "finish reviewing brand guide and docs for Jotform ai knowledgebase",
+      "assignee": "Brandon 'The One' Robertson",
+      "reminderDate": "2026-05-22"
+    },
+    "82d5bc20062378e385d7c44c2045e4f5|overdue|2026-05-23": {
+      "scheduledAt": "2026-05-08T10:55:57.426Z",
+      "type": "overdue",
+      "task": "finish reviewing brand guide and docs for Jotform ai knowledgebase",
+      "assignee": "Brandon 'The One' Robertson",
+      "reminderDate": "2026-05-23"
+    },
+    "82d5bc20062378e385d7c44c2045e4f5|overdue|2026-05-24": {
+      "scheduledAt": "2026-05-08T10:55:58.315Z",
+      "type": "overdue",
+      "task": "finish reviewing brand guide and docs for Jotform ai knowledgebase",
+      "assignee": "Brandon 'The One' Robertson",
+      "reminderDate": "2026-05-24"
+    },
+    "82d5bc20062378e385d7c44c2045e4f5|overdue|2026-05-25": {
+      "scheduledAt": "2026-05-08T10:55:59.230Z",
+      "type": "overdue",
+      "task": "finish reviewing brand guide and docs for Jotform ai knowledgebase",
+      "assignee": "Brandon 'The One' Robertson",
+      "reminderDate": "2026-05-25"
+    },
+    "82d5bc20062378e385d7c44c2045e4f5|overdue|2026-05-26": {
+      "scheduledAt": "2026-05-08T10:56:00.085Z",
+      "type": "overdue",
+      "task": "finish reviewing brand guide and docs for Jotform ai knowledgebase",
+      "assignee": "Brandon 'The One' Robertson",
+      "reminderDate": "2026-05-26"
+    },
+    "82d5bc20062378e385d7c44c2045e4f5|overdue|2026-05-27": {
+      "scheduledAt": "2026-05-08T10:56:00.949Z",
+      "type": "overdue",
+      "task": "finish reviewing brand guide and docs for Jotform ai knowledgebase",
+      "assignee": "Brandon 'The One' Robertson",
+      "reminderDate": "2026-05-27"
+    },
+    "82d5bc20062378e385d7c44c2045e4f5|overdue|2026-05-28": {
+      "scheduledAt": "2026-05-08T10:56:01.817Z",
+      "type": "overdue",
+      "task": "finish reviewing brand guide and docs for Jotform ai knowledgebase",
+      "assignee": "Brandon 'The One' Robertson",
+      "reminderDate": "2026-05-28"
+    },
+    "82d5bc20062378e385d7c44c2045e4f5|overdue|2026-05-29": {
+      "scheduledAt": "2026-05-08T10:56:02.684Z",
+      "type": "overdue",
+      "task": "finish reviewing brand guide and docs for Jotform ai knowledgebase",
+      "assignee": "Brandon 'The One' Robertson",
+      "reminderDate": "2026-05-29"
+    },
+    "82d5bc20062378e385d7c44c2045e4f5|overdue|2026-05-30": {
+      "scheduledAt": "2026-05-08T10:56:03.563Z",
+      "type": "overdue",
+      "task": "finish reviewing brand guide and docs for Jotform ai knowledgebase",
+      "assignee": "Brandon 'The One' Robertson",
+      "reminderDate": "2026-05-30"
+    },
+    "82d5bc20062378e385d7c44c2045e4f5|overdue|2026-05-31": {
+      "scheduledAt": "2026-05-08T10:56:04.563Z",
+      "type": "overdue",
+      "task": "finish reviewing brand guide and docs for Jotform ai knowledgebase",
+      "assignee": "Brandon 'The One' Robertson",
+      "reminderDate": "2026-05-31"
+    },
+    "82d5bc20062378e385d7c44c2045e4f5|overdue|2026-06-01": {
+      "scheduledAt": "2026-05-08T10:56:05.498Z",
+      "type": "overdue",
+      "task": "finish reviewing brand guide and docs for Jotform ai knowledgebase",
+      "assignee": "Brandon 'The One' Robertson",
+      "reminderDate": "2026-06-01"
+    },
+    "82d5bc20062378e385d7c44c2045e4f5|overdue|2026-06-02": {
+      "scheduledAt": "2026-05-08T10:56:06.442Z",
+      "type": "overdue",
+      "task": "finish reviewing brand guide and docs for Jotform ai knowledgebase",
+      "assignee": "Brandon 'The One' Robertson",
+      "reminderDate": "2026-06-02"
+    },
+    "82d5bc20062378e385d7c44c2045e4f5|overdue|2026-06-03": {
+      "scheduledAt": "2026-05-08T10:56:07.388Z",
+      "type": "overdue",
+      "task": "finish reviewing brand guide and docs for Jotform ai knowledgebase",
+      "assignee": "Brandon 'The One' Robertson",
+      "reminderDate": "2026-06-03"
+    },
+    "82d5bc20062378e385d7c44c2045e4f5|overdue|2026-06-04": {
+      "scheduledAt": "2026-05-08T10:56:08.314Z",
+      "type": "overdue",
+      "task": "finish reviewing brand guide and docs for Jotform ai knowledgebase",
+      "assignee": "Brandon 'The One' Robertson",
+      "reminderDate": "2026-06-04"
+    },
+    "82d5bc20062378e385d7c44c2045e4f5|overdue|2026-06-05": {
+      "scheduledAt": "2026-05-08T10:56:09.188Z",
+      "type": "overdue",
+      "task": "finish reviewing brand guide and docs for Jotform ai knowledgebase",
+      "assignee": "Brandon 'The One' Robertson",
+      "reminderDate": "2026-06-05"
+    },
+    "82d5bc20062378e385d7c44c2045e4f5|overdue|2026-06-06": {
+      "scheduledAt": "2026-05-08T10:56:10.050Z",
+      "type": "overdue",
+      "task": "finish reviewing brand guide and docs for Jotform ai knowledgebase",
+      "assignee": "Brandon 'The One' Robertson",
+      "reminderDate": "2026-06-06"
+    },
+    "82d5bc20062378e385d7c44c2045e4f5|overdue|2026-06-07": {
+      "scheduledAt": "2026-05-08T10:56:10.933Z",
+      "type": "overdue",
+      "task": "finish reviewing brand guide and docs for Jotform ai knowledgebase",
+      "assignee": "Brandon 'The One' Robertson",
+      "reminderDate": "2026-06-07"
+    },
+    "82d5bc20062378e385d7c44c2045e4f5|overdue|2026-06-08": {
+      "scheduledAt": "2026-05-08T10:56:11.880Z",
+      "type": "overdue",
+      "task": "finish reviewing brand guide and docs for Jotform ai knowledgebase",
+      "assignee": "Brandon 'The One' Robertson",
+      "reminderDate": "2026-06-08"
+    },
+    "82d5bc20062378e385d7c44c2045e4f5|overdue|2026-06-09": {
+      "scheduledAt": "2026-05-08T10:56:12.830Z",
+      "type": "overdue",
+      "task": "finish reviewing brand guide and docs for Jotform ai knowledgebase",
+      "assignee": "Brandon 'The One' Robertson",
+      "reminderDate": "2026-06-09"
+    },
+    "82d5bc20062378e385d7c44c2045e4f5|overdue|2026-06-10": {
+      "scheduledAt": "2026-05-08T10:56:13.701Z",
+      "type": "overdue",
+      "task": "finish reviewing brand guide and docs for Jotform ai knowledgebase",
+      "assignee": "Brandon 'The One' Robertson",
+      "reminderDate": "2026-06-10"
+    },
+    "82d5bc20062378e385d7c44c2045e4f5|overdue|2026-06-11": {
+      "scheduledAt": "2026-05-08T10:56:14.556Z",
+      "type": "overdue",
+      "task": "finish reviewing brand guide and docs for Jotform ai knowledgebase",
+      "assignee": "Brandon 'The One' Robertson",
+      "reminderDate": "2026-06-11"
+    },
+    "765563aea36750de64ccf88aae7a46ae|midpoint|2026-05-09": {
+      "scheduledAt": "2026-05-08T10:56:15.610Z",
+      "type": "midpoint",
+      "task": "setup opt-in for core services funnel to feed to Core Services campaign",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-05-09"
+    },
+    "765563aea36750de64ccf88aae7a46ae|nag|2026-05-10": {
+      "scheduledAt": "2026-05-08T10:56:16.748Z",
+      "type": "nag",
+      "task": "setup opt-in for core services funnel to feed to Core Services campaign",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-05-10"
+    },
+    "765563aea36750de64ccf88aae7a46ae|nag|2026-05-11": {
+      "scheduledAt": "2026-05-08T10:56:17.863Z",
+      "type": "nag",
+      "task": "setup opt-in for core services funnel to feed to Core Services campaign",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-05-11"
+    },
+    "765563aea36750de64ccf88aae7a46ae|due|2026-05-12": {
+      "scheduledAt": "2026-05-08T10:56:18.930Z",
+      "type": "due",
+      "task": "setup opt-in for core services funnel to feed to Core Services campaign",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-05-12"
+    },
+    "765563aea36750de64ccf88aae7a46ae|overdue|2026-05-13": {
+      "scheduledAt": "2026-05-08T10:56:20.022Z",
+      "type": "overdue",
+      "task": "setup opt-in for core services funnel to feed to Core Services campaign",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-05-13"
+    },
+    "765563aea36750de64ccf88aae7a46ae|overdue|2026-05-14": {
+      "scheduledAt": "2026-05-08T10:56:21.011Z",
+      "type": "overdue",
+      "task": "setup opt-in for core services funnel to feed to Core Services campaign",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-05-14"
+    },
+    "765563aea36750de64ccf88aae7a46ae|overdue|2026-05-15": {
+      "scheduledAt": "2026-05-08T10:56:22.049Z",
+      "type": "overdue",
+      "task": "setup opt-in for core services funnel to feed to Core Services campaign",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-05-15"
+    },
+    "765563aea36750de64ccf88aae7a46ae|overdue|2026-05-16": {
+      "scheduledAt": "2026-05-08T10:56:23.077Z",
+      "type": "overdue",
+      "task": "setup opt-in for core services funnel to feed to Core Services campaign",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-05-16"
+    },
+    "765563aea36750de64ccf88aae7a46ae|overdue|2026-05-17": {
+      "scheduledAt": "2026-05-08T10:56:24.103Z",
+      "type": "overdue",
+      "task": "setup opt-in for core services funnel to feed to Core Services campaign",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-05-17"
+    },
+    "765563aea36750de64ccf88aae7a46ae|overdue|2026-05-18": {
+      "scheduledAt": "2026-05-08T10:56:25.143Z",
+      "type": "overdue",
+      "task": "setup opt-in for core services funnel to feed to Core Services campaign",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-05-18"
+    },
+    "765563aea36750de64ccf88aae7a46ae|overdue|2026-05-19": {
+      "scheduledAt": "2026-05-08T10:56:26.168Z",
+      "type": "overdue",
+      "task": "setup opt-in for core services funnel to feed to Core Services campaign",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-05-19"
+    },
+    "765563aea36750de64ccf88aae7a46ae|overdue|2026-05-20": {
+      "scheduledAt": "2026-05-08T10:56:27.144Z",
+      "type": "overdue",
+      "task": "setup opt-in for core services funnel to feed to Core Services campaign",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-05-20"
+    },
+    "765563aea36750de64ccf88aae7a46ae|overdue|2026-05-21": {
+      "scheduledAt": "2026-05-08T10:56:28.188Z",
+      "type": "overdue",
+      "task": "setup opt-in for core services funnel to feed to Core Services campaign",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-05-21"
+    },
+    "765563aea36750de64ccf88aae7a46ae|overdue|2026-05-22": {
+      "scheduledAt": "2026-05-08T10:56:29.247Z",
+      "type": "overdue",
+      "task": "setup opt-in for core services funnel to feed to Core Services campaign",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-05-22"
+    },
+    "765563aea36750de64ccf88aae7a46ae|overdue|2026-05-23": {
+      "scheduledAt": "2026-05-08T10:56:30.198Z",
+      "type": "overdue",
+      "task": "setup opt-in for core services funnel to feed to Core Services campaign",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-05-23"
+    },
+    "765563aea36750de64ccf88aae7a46ae|overdue|2026-05-24": {
+      "scheduledAt": "2026-05-08T10:56:31.136Z",
+      "type": "overdue",
+      "task": "setup opt-in for core services funnel to feed to Core Services campaign",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-05-24"
+    },
+    "765563aea36750de64ccf88aae7a46ae|overdue|2026-05-25": {
+      "scheduledAt": "2026-05-08T10:56:32.163Z",
+      "type": "overdue",
+      "task": "setup opt-in for core services funnel to feed to Core Services campaign",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-05-25"
+    },
+    "765563aea36750de64ccf88aae7a46ae|overdue|2026-05-26": {
+      "scheduledAt": "2026-05-08T10:56:33.181Z",
+      "type": "overdue",
+      "task": "setup opt-in for core services funnel to feed to Core Services campaign",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-05-26"
+    },
+    "765563aea36750de64ccf88aae7a46ae|overdue|2026-05-27": {
+      "scheduledAt": "2026-05-08T10:56:34.294Z",
+      "type": "overdue",
+      "task": "setup opt-in for core services funnel to feed to Core Services campaign",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-05-27"
+    },
+    "765563aea36750de64ccf88aae7a46ae|overdue|2026-05-28": {
+      "scheduledAt": "2026-05-08T10:56:35.384Z",
+      "type": "overdue",
+      "task": "setup opt-in for core services funnel to feed to Core Services campaign",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-05-28"
+    },
+    "765563aea36750de64ccf88aae7a46ae|overdue|2026-05-29": {
+      "scheduledAt": "2026-05-08T10:56:36.382Z",
+      "type": "overdue",
+      "task": "setup opt-in for core services funnel to feed to Core Services campaign",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-05-29"
+    },
+    "765563aea36750de64ccf88aae7a46ae|overdue|2026-05-30": {
+      "scheduledAt": "2026-05-08T10:56:37.464Z",
+      "type": "overdue",
+      "task": "setup opt-in for core services funnel to feed to Core Services campaign",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-05-30"
+    },
+    "765563aea36750de64ccf88aae7a46ae|overdue|2026-05-31": {
+      "scheduledAt": "2026-05-08T10:56:38.546Z",
+      "type": "overdue",
+      "task": "setup opt-in for core services funnel to feed to Core Services campaign",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-05-31"
+    },
+    "765563aea36750de64ccf88aae7a46ae|overdue|2026-06-01": {
+      "scheduledAt": "2026-05-08T10:56:39.508Z",
+      "type": "overdue",
+      "task": "setup opt-in for core services funnel to feed to Core Services campaign",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-06-01"
+    },
+    "765563aea36750de64ccf88aae7a46ae|overdue|2026-06-02": {
+      "scheduledAt": "2026-05-08T10:56:40.514Z",
+      "type": "overdue",
+      "task": "setup opt-in for core services funnel to feed to Core Services campaign",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-06-02"
+    },
+    "765563aea36750de64ccf88aae7a46ae|overdue|2026-06-03": {
+      "scheduledAt": "2026-05-08T10:56:41.489Z",
+      "type": "overdue",
+      "task": "setup opt-in for core services funnel to feed to Core Services campaign",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-06-03"
+    },
+    "765563aea36750de64ccf88aae7a46ae|overdue|2026-06-04": {
+      "scheduledAt": "2026-05-08T10:56:42.456Z",
+      "type": "overdue",
+      "task": "setup opt-in for core services funnel to feed to Core Services campaign",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-06-04"
+    },
+    "765563aea36750de64ccf88aae7a46ae|overdue|2026-06-05": {
+      "scheduledAt": "2026-05-08T10:56:43.426Z",
+      "type": "overdue",
+      "task": "setup opt-in for core services funnel to feed to Core Services campaign",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-06-05"
+    },
+    "765563aea36750de64ccf88aae7a46ae|overdue|2026-06-06": {
+      "scheduledAt": "2026-05-08T10:56:44.420Z",
+      "type": "overdue",
+      "task": "setup opt-in for core services funnel to feed to Core Services campaign",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-06-06"
+    },
+    "765563aea36750de64ccf88aae7a46ae|overdue|2026-06-07": {
+      "scheduledAt": "2026-05-08T10:56:45.379Z",
+      "type": "overdue",
+      "task": "setup opt-in for core services funnel to feed to Core Services campaign",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-06-07"
+    },
+    "765563aea36750de64ccf88aae7a46ae|overdue|2026-06-08": {
+      "scheduledAt": "2026-05-08T10:56:46.345Z",
+      "type": "overdue",
+      "task": "setup opt-in for core services funnel to feed to Core Services campaign",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-06-08"
+    },
+    "765563aea36750de64ccf88aae7a46ae|overdue|2026-06-09": {
+      "scheduledAt": "2026-05-08T10:56:47.316Z",
+      "type": "overdue",
+      "task": "setup opt-in for core services funnel to feed to Core Services campaign",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-06-09"
+    },
+    "765563aea36750de64ccf88aae7a46ae|overdue|2026-06-10": {
+      "scheduledAt": "2026-05-08T10:56:48.294Z",
+      "type": "overdue",
+      "task": "setup opt-in for core services funnel to feed to Core Services campaign",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-06-10"
+    },
+    "765563aea36750de64ccf88aae7a46ae|overdue|2026-06-11": {
+      "scheduledAt": "2026-05-08T10:56:49.264Z",
+      "type": "overdue",
+      "task": "setup opt-in for core services funnel to feed to Core Services campaign",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-06-11"
     }
   },
   "scheduledMessageIds": {
@@ -52176,8 +52708,692 @@
         "channel": "C08R493ESAJ",
         "messageId": "Q0B3A4SQ332"
       }
+    ],
+    "82d5bc20062378e385d7c44c2045e4f5": [
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B2BG66JKV"
+      },
+      {
+        "channel": "C05HV4SQD6G",
+        "messageId": "Q0B2BG73DCK"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B2MFPB668"
+      },
+      {
+        "channel": "C05HV4SQD6G",
+        "messageId": "Q0B3C627PUY"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B2BG7CVK5"
+      },
+      {
+        "channel": "C05HV4SQD6G",
+        "messageId": "Q0B2MFPHUF6"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B3C62R18Q"
+      },
+      {
+        "channel": "C05HV4SQD6G",
+        "messageId": "Q0B2EFKNP5K"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B2MFR809J"
+      },
+      {
+        "channel": "C05HV4SQD6G",
+        "messageId": "Q0B2MFKA09J"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B2MFPTQBW"
+      },
+      {
+        "channel": "C05HV4SQD6G",
+        "messageId": "Q0B2EFQ8J2H"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B3C61MA3A"
+      },
+      {
+        "channel": "C05HV4SQD6G",
+        "messageId": "Q0B2EFQDMD3"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B22DTT087"
+      },
+      {
+        "channel": "C05HV4SQD6G",
+        "messageId": "Q0B2EFPRBDK"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B22DTH5C7"
+      },
+      {
+        "channel": "C05HV4SQD6G",
+        "messageId": "Q0B2FRG702J"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B2BG71G4T"
+      },
+      {
+        "channel": "C05HV4SQD6G",
+        "messageId": "Q0B3C622B08"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B2BG7ELBV"
+      },
+      {
+        "channel": "C05HV4SQD6G",
+        "messageId": "Q0B2FRH2HTQ"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B2HTAK742"
+      },
+      {
+        "channel": "C05HV4SQD6G",
+        "messageId": "Q0B2FRGFDRU"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B3C63R46L"
+      },
+      {
+        "channel": "C05HV4SQD6G",
+        "messageId": "Q0B2HTA26DQ"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B2FRGLVTQ"
+      },
+      {
+        "channel": "C05HV4SQD6G",
+        "messageId": "Q0B2MFQQ020"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B2FRJ066A"
+      },
+      {
+        "channel": "C05HV4SQD6G",
+        "messageId": "Q0B3C63U09W"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B2EFQEX8D"
+      },
+      {
+        "channel": "C05HV4SQD6G",
+        "messageId": "Q0B22DUBS15"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B22DU4607"
+      },
+      {
+        "channel": "C05HV4SQD6G",
+        "messageId": "Q0B2BG8R5U3"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B2EFS0GJ1"
+      },
+      {
+        "channel": "C05HV4SQD6G",
+        "messageId": "Q0B2MFRMRFE"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B22DU6WCX"
+      },
+      {
+        "channel": "C05HV4SQD6G",
+        "messageId": "Q0B2FRHS3JS"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B2EFR26ER"
+      },
+      {
+        "channel": "C05HV4SQD6G",
+        "messageId": "Q0B2HTBTX42"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B22DV5KMM"
+      },
+      {
+        "channel": "C05HV4SQD6G",
+        "messageId": "Q0B2BG8KGAX"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B2FRJDVRC"
+      },
+      {
+        "channel": "C05HV4SQD6G",
+        "messageId": "Q0B2HTBHN9G"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B2FRJ19D4"
+      },
+      {
+        "channel": "C05HV4SQD6G",
+        "messageId": "Q0B3C5Z015W"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B2EFL6CRK"
+      },
+      {
+        "channel": "C05HV4SQD6G",
+        "messageId": "Q0B22DUEPQX"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B2HTBMNUA"
+      },
+      {
+        "channel": "C05HV4SQD6G",
+        "messageId": "Q0B2EFRJMSR"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B3C63S7FA"
+      },
+      {
+        "channel": "C05HV4SQD6G",
+        "messageId": "Q0B2MFREJVA"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B3C63JQP2"
+      },
+      {
+        "channel": "C05HV4SQD6G",
+        "messageId": "Q0B22DUUXF1"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B2EFSCU1K"
+      },
+      {
+        "channel": "C05HV4SQD6G",
+        "messageId": "Q0B22DUPB63"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B2MFSCTNY"
+      },
+      {
+        "channel": "C05HV4SQD6G",
+        "messageId": "Q0B2FRHL42J"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B2MFSRJMS"
+      },
+      {
+        "channel": "C05HV4SQD6G",
+        "messageId": "Q0B2HTCBWAW"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B2MFRS0J0"
+      },
+      {
+        "channel": "C05HV4SQD6G",
+        "messageId": "Q0B3C64E9LY"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B2BG9Q2JF"
+      },
+      {
+        "channel": "C05HV4SQD6G",
+        "messageId": "Q0B2FRK1X7G"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B2FRK2BHC"
+      },
+      {
+        "channel": "C05HV4SQD6G",
+        "messageId": "Q0B2MFTCQ3W"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B2BGA3JUB"
+      },
+      {
+        "channel": "C05HV4SQD6G",
+        "messageId": "Q0B2HTC43AN"
+      }
+    ],
+    "765563aea36750de64ccf88aae7a46ae": [
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B2EFSUPAR"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0B22DVH1AB"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0B2FRKC2A2"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B2MFTATAQ"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0B2FRKS5M4"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0B2HTCRC66"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B2HTCTSAE"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0B22DVQUBZ"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0B3C663Y3A"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B3C64Q11N"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0B2FRL3VDL"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0B2HTDDHS6"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B2BGAFPM1"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0B2BG6SVJ7"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0B2FRF8BSS"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B2MFSRAUC"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0B2FRKUQ86"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0B2HTDMRGS"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B2HTDFFB4"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0B3C669ZUG"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0B3C65G4JU"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B2EFSHQPP"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0B2EFT10AH"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0B2BGBUEUT"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B2MFTH8SY"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0B2MFTUXAQ"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0B2EFSTKPF"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B22DW7Z9V"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0B2BGCAPH9"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0B2BGBSMR9"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B2EFTN2S1"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0B2BGBG38B"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0B2MFU4QKE"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B22DWHS95"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0B3C660YE4"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0B3C66CT4Y"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B2FRKGCG6"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0B2HTE6Z5G"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0B22DX3HCP"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B2BGBNMJ7"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0B2MFUGYFN"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0B2EFT9DM3"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B2EFTKZ1B"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0B22DX4LJK"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0B2HTEU23C"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B3C65SK32"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0B22DXBF1D"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0B2BGC7X5Z"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B2HTEFU66"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0B3C66RT4G"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0B2MFURM0U"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B2EFW2Y93"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0B2EFU8SA1"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0B22DY34LF"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B3C678M9N"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0B2MFV3JGL"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0B3C66KEQ0"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B3C67AEUQ"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0B2EFUBYBX"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0B2FRMB0RL"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B2EFV9R7F"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0B3C66M84Q"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0B2MFV2BQC"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B2EFVKFS9"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0B2HTEHVAN"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0B2FRN3M38"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B2FRN91P0"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0B3C67FSKA"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0B2FRMRBB8"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B2EFUQ6PP"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0B2EFVMUAH"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0B22DXSPK9"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B3C67M8DN"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0B2BGDE1KM"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0B2BGD1J9H"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B2FRM6YCE"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0B2FRN27TQ"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0B2EFUQQP7"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B2FRNBGLW"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0B2BGCMR7V"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0B22DYF7P1"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B22DYCUNT"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0B2EFV87EZ"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0B3C67TUE4"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B2FRHMQ3G"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0B2BGDEBL3"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0B2EFW95FX"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B2MFWSP7W"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0B2BGDG0BD"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0B2EFW3NCV"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B2EFWEE6R"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0B2HTG1UKC"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0B2FRN3A30"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B2HTFRZSN"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0B2MFWK77E"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0B2MFWJ46Q"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B22DZ7L95"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0B2BGEFYDR"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0B2HTGNWQJ"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B2EFVNCCV"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0B3C68RXCG"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0B22DZHDL7"
+      }
     ]
   },
   "lastWeeklySummaryDate": "2026-W18",
-  "lastRun": "2026-05-08T06:04:21.509Z"
+  "lastRun": "2026-05-08T10:56:49.265Z"
 }
