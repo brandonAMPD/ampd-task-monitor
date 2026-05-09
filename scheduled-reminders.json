@@ -3401,6 +3401,20 @@
       "completed": true,
       "completedAt": "2026-05-09T09:59:17.717Z",
       "firstSeenAt": "2026-05-09T09:59:17.717Z"
+    },
+    "0855bedb3bf52417cc1942f46fcceaa3": {
+      "task": "update AMPD workflows - stage move at end, fix needs to book again and needs to reschedule workflows",
+      "assignee_name": "Josh 'The Ninja' Morales",
+      "assignee_slack_mention": "@Josh 'The Ninja' Morales",
+      "assigned_date": "2026-04-25",
+      "due_date": "2026-04-30",
+      "message_ts": "1777141886.840759",
+      "source_message": "@Josh 'The Ninja' Morales please make sure our workflows for AMPD are properly updated so that",
+      "assigneeId": "U07FVUF09T7",
+      "messageTs": "1777141886.840759",
+      "completed": true,
+      "completedAt": "2026-05-09T18:01:59.887Z",
+      "firstSeenAt": "2026-05-09T18:01:59.887Z"
     }
   },
   "scheduled": {
@@ -53872,5 +53886,5 @@
     ]
   },
   "lastWeeklySummaryDate": "2026-W19",
-  "lastRun": "2026-05-09T09:59:44.575Z"
+  "lastRun": "2026-05-09T18:01:59.964Z"
 }
