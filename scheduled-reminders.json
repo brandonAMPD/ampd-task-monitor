@@ -3359,6 +3359,48 @@
       "completed": true,
       "completedAt": "2026-05-09T06:01:59.535Z",
       "firstSeenAt": "2026-05-09T06:01:59.535Z"
+    },
+    "d65f413c4b8d1304552b017e81f982ba": {
+      "task": "update bls thank you page to include a message about needing to confirm the call",
+      "assignee_name": "Brandon 'The One' Robertson",
+      "assignee_slack_mention": "@Brandon 'The One' Robertson",
+      "assigned_date": "2026-05-04",
+      "due_date": "2026-05-07",
+      "message_ts": "1777905702.740629",
+      "source_message": "@Brandon 'The One' Robertson update bls thank you page to include a message about needing t",
+      "assigneeId": "UMS39RAGP",
+      "messageTs": "1777905702.740629",
+      "completed": false,
+      "completedAt": null,
+      "firstSeenAt": "2026-05-09T09:59:17.176Z"
+    },
+    "77c40eefc8893eba057e883bb259a095": {
+      "task": "figure out chat bot functionality with GHL, build one for ampd website and landing pages",
+      "assignee_name": "Mark 'Morpheus' Manaog",
+      "assignee_slack_mention": "@Mark 'Morpheus' Manaog",
+      "assigned_date": "2026-04-30",
+      "due_date": null,
+      "message_ts": "1777562445.100809",
+      "source_message": "@Mark 'Morpheus' Manaog once you've figured out the chat bot funcationality with GHL start building",
+      "assigneeId": "U023F61R16F",
+      "messageTs": "1777562445.100809",
+      "completed": false,
+      "completedAt": null,
+      "firstSeenAt": "2026-05-09T09:59:17.393Z"
+    },
+    "6d1424dd28858c1673e1ab35ff411e95": {
+      "task": "update AMPD workflows - ensure stage move at end, fix/replace two workflows for needs to book again",
+      "assignee_name": "Josh 'The Ninja' Morales",
+      "assignee_slack_mention": "@Josh 'The Ninja' Morales",
+      "assigned_date": "2026-04-25",
+      "due_date": "2026-04-30",
+      "message_ts": "1777141886.840759",
+      "source_message": "@Josh 'The Ninja' Morales please make sure our workflows for AMPD are properly updated so that",
+      "assigneeId": "U07FVUF09T7",
+      "messageTs": "1777141886.840759",
+      "completed": true,
+      "completedAt": "2026-05-09T09:59:17.717Z",
+      "firstSeenAt": "2026-05-09T09:59:17.717Z"
     }
   },
   "scheduled": {
@@ -32298,6 +32340,209 @@
       "task": "modify the Jimmy from ampd thing so it doesn't say that every time",
       "assignee": "Josh 'The Ninja' Morales",
       "reminderDate": "2026-05-12"
+    },
+    "d65f413c4b8d1304552b017e81f982ba|overdue|2026-05-09": {
+      "scheduledAt": "2026-05-09T09:59:18.664Z",
+      "type": "overdue",
+      "task": "update bls thank you page to include a message about needing to confirm the call",
+      "assignee": "Brandon 'The One' Robertson",
+      "reminderDate": "2026-05-09"
+    },
+    "d65f413c4b8d1304552b017e81f982ba|overdue|2026-05-10": {
+      "scheduledAt": "2026-05-09T09:59:19.595Z",
+      "type": "overdue",
+      "task": "update bls thank you page to include a message about needing to confirm the call",
+      "assignee": "Brandon 'The One' Robertson",
+      "reminderDate": "2026-05-10"
+    },
+    "d65f413c4b8d1304552b017e81f982ba|overdue|2026-05-11": {
+      "scheduledAt": "2026-05-09T09:59:20.526Z",
+      "type": "overdue",
+      "task": "update bls thank you page to include a message about needing to confirm the call",
+      "assignee": "Brandon 'The One' Robertson",
+      "reminderDate": "2026-05-11"
+    },
+    "d65f413c4b8d1304552b017e81f982ba|overdue|2026-05-12": {
+      "scheduledAt": "2026-05-09T09:59:21.445Z",
+      "type": "overdue",
+      "task": "update bls thank you page to include a message about needing to confirm the call",
+      "assignee": "Brandon 'The One' Robertson",
+      "reminderDate": "2026-05-12"
+    },
+    "d65f413c4b8d1304552b017e81f982ba|overdue|2026-05-13": {
+      "scheduledAt": "2026-05-09T09:59:22.383Z",
+      "type": "overdue",
+      "task": "update bls thank you page to include a message about needing to confirm the call",
+      "assignee": "Brandon 'The One' Robertson",
+      "reminderDate": "2026-05-13"
+    },
+    "d65f413c4b8d1304552b017e81f982ba|overdue|2026-05-14": {
+      "scheduledAt": "2026-05-09T09:59:23.309Z",
+      "type": "overdue",
+      "task": "update bls thank you page to include a message about needing to confirm the call",
+      "assignee": "Brandon 'The One' Robertson",
+      "reminderDate": "2026-05-14"
+    },
+    "d65f413c4b8d1304552b017e81f982ba|overdue|2026-05-15": {
+      "scheduledAt": "2026-05-09T09:59:24.225Z",
+      "type": "overdue",
+      "task": "update bls thank you page to include a message about needing to confirm the call",
+      "assignee": "Brandon 'The One' Robertson",
+      "reminderDate": "2026-05-15"
+    },
+    "d65f413c4b8d1304552b017e81f982ba|overdue|2026-05-16": {
+      "scheduledAt": "2026-05-09T09:59:25.141Z",
+      "type": "overdue",
+      "task": "update bls thank you page to include a message about needing to confirm the call",
+      "assignee": "Brandon 'The One' Robertson",
+      "reminderDate": "2026-05-16"
+    },
+    "d65f413c4b8d1304552b017e81f982ba|overdue|2026-05-17": {
+      "scheduledAt": "2026-05-09T09:59:26.073Z",
+      "type": "overdue",
+      "task": "update bls thank you page to include a message about needing to confirm the call",
+      "assignee": "Brandon 'The One' Robertson",
+      "reminderDate": "2026-05-17"
+    },
+    "d65f413c4b8d1304552b017e81f982ba|overdue|2026-05-18": {
+      "scheduledAt": "2026-05-09T09:59:27.000Z",
+      "type": "overdue",
+      "task": "update bls thank you page to include a message about needing to confirm the call",
+      "assignee": "Brandon 'The One' Robertson",
+      "reminderDate": "2026-05-18"
+    },
+    "d65f413c4b8d1304552b017e81f982ba|overdue|2026-05-19": {
+      "scheduledAt": "2026-05-09T09:59:27.919Z",
+      "type": "overdue",
+      "task": "update bls thank you page to include a message about needing to confirm the call",
+      "assignee": "Brandon 'The One' Robertson",
+      "reminderDate": "2026-05-19"
+    },
+    "d65f413c4b8d1304552b017e81f982ba|overdue|2026-05-20": {
+      "scheduledAt": "2026-05-09T09:59:28.828Z",
+      "type": "overdue",
+      "task": "update bls thank you page to include a message about needing to confirm the call",
+      "assignee": "Brandon 'The One' Robertson",
+      "reminderDate": "2026-05-20"
+    },
+    "d65f413c4b8d1304552b017e81f982ba|overdue|2026-05-21": {
+      "scheduledAt": "2026-05-09T09:59:29.770Z",
+      "type": "overdue",
+      "task": "update bls thank you page to include a message about needing to confirm the call",
+      "assignee": "Brandon 'The One' Robertson",
+      "reminderDate": "2026-05-21"
+    },
+    "d65f413c4b8d1304552b017e81f982ba|overdue|2026-05-22": {
+      "scheduledAt": "2026-05-09T09:59:30.708Z",
+      "type": "overdue",
+      "task": "update bls thank you page to include a message about needing to confirm the call",
+      "assignee": "Brandon 'The One' Robertson",
+      "reminderDate": "2026-05-22"
+    },
+    "d65f413c4b8d1304552b017e81f982ba|overdue|2026-05-23": {
+      "scheduledAt": "2026-05-09T09:59:31.621Z",
+      "type": "overdue",
+      "task": "update bls thank you page to include a message about needing to confirm the call",
+      "assignee": "Brandon 'The One' Robertson",
+      "reminderDate": "2026-05-23"
+    },
+    "d65f413c4b8d1304552b017e81f982ba|overdue|2026-05-24": {
+      "scheduledAt": "2026-05-09T09:59:32.530Z",
+      "type": "overdue",
+      "task": "update bls thank you page to include a message about needing to confirm the call",
+      "assignee": "Brandon 'The One' Robertson",
+      "reminderDate": "2026-05-24"
+    },
+    "d65f413c4b8d1304552b017e81f982ba|overdue|2026-05-25": {
+      "scheduledAt": "2026-05-09T09:59:33.475Z",
+      "type": "overdue",
+      "task": "update bls thank you page to include a message about needing to confirm the call",
+      "assignee": "Brandon 'The One' Robertson",
+      "reminderDate": "2026-05-25"
+    },
+    "d65f413c4b8d1304552b017e81f982ba|overdue|2026-05-26": {
+      "scheduledAt": "2026-05-09T09:59:34.425Z",
+      "type": "overdue",
+      "task": "update bls thank you page to include a message about needing to confirm the call",
+      "assignee": "Brandon 'The One' Robertson",
+      "reminderDate": "2026-05-26"
+    },
+    "d65f413c4b8d1304552b017e81f982ba|overdue|2026-05-27": {
+      "scheduledAt": "2026-05-09T09:59:35.345Z",
+      "type": "overdue",
+      "task": "update bls thank you page to include a message about needing to confirm the call",
+      "assignee": "Brandon 'The One' Robertson",
+      "reminderDate": "2026-05-27"
+    },
+    "d65f413c4b8d1304552b017e81f982ba|overdue|2026-05-28": {
+      "scheduledAt": "2026-05-09T09:59:36.266Z",
+      "type": "overdue",
+      "task": "update bls thank you page to include a message about needing to confirm the call",
+      "assignee": "Brandon 'The One' Robertson",
+      "reminderDate": "2026-05-28"
+    },
+    "d65f413c4b8d1304552b017e81f982ba|overdue|2026-05-29": {
+      "scheduledAt": "2026-05-09T09:59:37.184Z",
+      "type": "overdue",
+      "task": "update bls thank you page to include a message about needing to confirm the call",
+      "assignee": "Brandon 'The One' Robertson",
+      "reminderDate": "2026-05-29"
+    },
+    "d65f413c4b8d1304552b017e81f982ba|overdue|2026-05-30": {
+      "scheduledAt": "2026-05-09T09:59:38.108Z",
+      "type": "overdue",
+      "task": "update bls thank you page to include a message about needing to confirm the call",
+      "assignee": "Brandon 'The One' Robertson",
+      "reminderDate": "2026-05-30"
+    },
+    "d65f413c4b8d1304552b017e81f982ba|overdue|2026-05-31": {
+      "scheduledAt": "2026-05-09T09:59:39.051Z",
+      "type": "overdue",
+      "task": "update bls thank you page to include a message about needing to confirm the call",
+      "assignee": "Brandon 'The One' Robertson",
+      "reminderDate": "2026-05-31"
+    },
+    "d65f413c4b8d1304552b017e81f982ba|overdue|2026-06-01": {
+      "scheduledAt": "2026-05-09T09:59:39.976Z",
+      "type": "overdue",
+      "task": "update bls thank you page to include a message about needing to confirm the call",
+      "assignee": "Brandon 'The One' Robertson",
+      "reminderDate": "2026-06-01"
+    },
+    "d65f413c4b8d1304552b017e81f982ba|overdue|2026-06-02": {
+      "scheduledAt": "2026-05-09T09:59:40.882Z",
+      "type": "overdue",
+      "task": "update bls thank you page to include a message about needing to confirm the call",
+      "assignee": "Brandon 'The One' Robertson",
+      "reminderDate": "2026-06-02"
+    },
+    "d65f413c4b8d1304552b017e81f982ba|overdue|2026-06-03": {
+      "scheduledAt": "2026-05-09T09:59:41.801Z",
+      "type": "overdue",
+      "task": "update bls thank you page to include a message about needing to confirm the call",
+      "assignee": "Brandon 'The One' Robertson",
+      "reminderDate": "2026-06-03"
+    },
+    "d65f413c4b8d1304552b017e81f982ba|overdue|2026-06-04": {
+      "scheduledAt": "2026-05-09T09:59:42.712Z",
+      "type": "overdue",
+      "task": "update bls thank you page to include a message about needing to confirm the call",
+      "assignee": "Brandon 'The One' Robertson",
+      "reminderDate": "2026-06-04"
+    },
+    "d65f413c4b8d1304552b017e81f982ba|overdue|2026-06-05": {
+      "scheduledAt": "2026-05-09T09:59:43.637Z",
+      "type": "overdue",
+      "task": "update bls thank you page to include a message about needing to confirm the call",
+      "assignee": "Brandon 'The One' Robertson",
+      "reminderDate": "2026-06-05"
+    },
+    "d65f413c4b8d1304552b017e81f982ba|overdue|2026-06-06": {
+      "scheduledAt": "2026-05-09T09:59:44.575Z",
+      "type": "overdue",
+      "task": "update bls thank you page to include a message about needing to confirm the call",
+      "assignee": "Brandon 'The One' Robertson",
+      "reminderDate": "2026-06-06"
     }
   },
   "scheduledMessageIds": {
@@ -53390,8 +53635,242 @@
         "channel": "C093VPK55NF",
         "messageId": "Q0B2JC00BL3"
       }
+    ],
+    "d65f413c4b8d1304552b017e81f982ba": [
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B2UURN6EQ"
+      },
+      {
+        "channel": "C05HV4SQD6G",
+        "messageId": "Q0B2P90K4RL"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B2JVBCKBM"
+      },
+      {
+        "channel": "C05HV4SQD6G",
+        "messageId": "Q0B2UUSAB44"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B2JVCB62X"
+      },
+      {
+        "channel": "C05HV4SQD6G",
+        "messageId": "Q0B2T7F9X2M"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B2UUSBY7N"
+      },
+      {
+        "channel": "C05HV4SQD6G",
+        "messageId": "Q0B2RAVUFT4"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B3KK5SQ0G"
+      },
+      {
+        "channel": "C05HV4SQD6G",
+        "messageId": "Q0B29SK66BH"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B2MUUMWFP"
+      },
+      {
+        "channel": "C05HV4SQD6G",
+        "messageId": "Q0B2P9008AJ"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B29SS0A5V"
+      },
+      {
+        "channel": "C05HV4SQD6G",
+        "messageId": "Q0B2MUUC0CD"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B29SSS4ET"
+      },
+      {
+        "channel": "C05HV4SQD6G",
+        "messageId": "Q0B2P904FRC"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B2RAV440J"
+      },
+      {
+        "channel": "C05HV4SQD6G",
+        "messageId": "Q0B3KK5R80G"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B2MUUFSBX"
+      },
+      {
+        "channel": "C05HV4SQD6G",
+        "messageId": "Q0B2UURR82G"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B2RAV8Q74"
+      },
+      {
+        "channel": "C05HV4SQD6G",
+        "messageId": "Q0B3KK65Y80"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B2RAVT526"
+      },
+      {
+        "channel": "C05HV4SQD6G",
+        "messageId": "Q0B2JVBT94K"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B2MUUDG13"
+      },
+      {
+        "channel": "C05HV4SQD6G",
+        "messageId": "Q0B2UUSF7EY"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B29SS405V"
+      },
+      {
+        "channel": "C05HV4SQD6G",
+        "messageId": "Q0B2JVC89KM"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B2P90RR9U"
+      },
+      {
+        "channel": "C05HV4SQD6G",
+        "messageId": "Q0B3KK64064"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B3KK6UTQQ"
+      },
+      {
+        "channel": "C05HV4SQD6G",
+        "messageId": "Q0B2JVCM3MH"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B2MUUK3J9"
+      },
+      {
+        "channel": "C05HV4SQD6G",
+        "messageId": "Q0B2MUTSU93"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B2T7FSVPT"
+      },
+      {
+        "channel": "C05HV4SQD6G",
+        "messageId": "Q0B3KK6TY3S"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B2JVCAUSX"
+      },
+      {
+        "channel": "C05HV4SQD6G",
+        "messageId": "Q0B3KK6RJHW"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B2UUS761J"
+      },
+      {
+        "channel": "C05HV4SQD6G",
+        "messageId": "Q0B2MUULATX"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B3KK6H77A"
+      },
+      {
+        "channel": "C05HV4SQD6G",
+        "messageId": "Q0B2JVCEH43"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B2RAVR04A"
+      },
+      {
+        "channel": "C05HV4SQD6G",
+        "messageId": "Q0B2T7FQVUZ"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B2JV5LJ4T"
+      },
+      {
+        "channel": "C05HV4SQD6G",
+        "messageId": "Q0B2JVC967M"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B2UUSHPS8"
+      },
+      {
+        "channel": "C05HV4SQD6G",
+        "messageId": "Q0B2JVCFTM1"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B2JVC86G3"
+      },
+      {
+        "channel": "C05HV4SQD6G",
+        "messageId": "Q0B2RAW7FHQ"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B2UUS829J"
+      },
+      {
+        "channel": "C05HV4SQD6G",
+        "messageId": "Q0B2UUSJ692"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B29SSMNR5"
+      },
+      {
+        "channel": "C05HV4SQD6G",
+        "messageId": "Q0B2MUUR2AZ"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B2RAWJE5Q"
+      },
+      {
+        "channel": "C05HV4SQD6G",
+        "messageId": "Q0B2RAVLSGJ"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B29STJVT9"
+      },
+      {
+        "channel": "C05HV4SQD6G",
+        "messageId": "Q0B3KK6N2GG"
+      }
     ]
   },
   "lastWeeklySummaryDate": "2026-W19",
-  "lastRun": "2026-05-09T06:02:26.741Z"
+  "lastRun": "2026-05-09T09:59:44.575Z"
 }
