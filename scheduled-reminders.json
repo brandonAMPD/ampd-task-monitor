@@ -3415,6 +3415,20 @@
       "completed": true,
       "completedAt": "2026-05-09T18:01:59.887Z",
       "firstSeenAt": "2026-05-09T18:01:59.887Z"
+    },
+    "6bded54c414469e6c1cc5e6f7b3391cb": {
+      "task": "create automation to send BLS booking info to Christle's FD",
+      "assignee_name": "Mark 'Morpheus' Manaog",
+      "assignee_slack_mention": "@Mark 'Morpheus' Manaog",
+      "assigned_date": "2026-05-05",
+      "due_date": "2026-05-06",
+      "message_ts": "1778015693.703289",
+      "source_message": "@Mark 'Morpheus' Manaog please create an automation that sends all the same booking info for new a",
+      "assigneeId": "U023F61R16F",
+      "messageTs": "1778015693.703289",
+      "completed": true,
+      "completedAt": "2026-05-09T20:11:15.848Z",
+      "firstSeenAt": "2026-05-09T20:11:15.848Z"
     }
   },
   "scheduled": {
@@ -53886,5 +53900,5 @@
     ]
   },
   "lastWeeklySummaryDate": "2026-W19",
-  "lastRun": "2026-05-09T18:01:59.964Z"
+  "lastRun": "2026-05-09T20:11:15.883Z"
 }
