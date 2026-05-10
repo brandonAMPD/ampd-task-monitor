@@ -3443,6 +3443,62 @@
       "completed": true,
       "completedAt": "2026-05-10T06:01:54.925Z",
       "firstSeenAt": "2026-05-10T06:01:54.925Z"
+    },
+    "422d15dd9d9365b3ef2bfe9875992ee3": {
+      "task": "Build campaign in Core Services Campaigns folder",
+      "assignee_name": "Christle 'Knows All' Ochigue",
+      "assignee_slack_mention": "@Christle 'Knows All' Ochigue",
+      "assigned_date": "2026-05-06",
+      "due_date": "2026-05-09",
+      "message_ts": "1778108687.985869",
+      "source_message": "@Christle 'Knows All' Ochigue please build this campaign and put it in a new folder called C",
+      "assigneeId": "UMCPG3D8A",
+      "messageTs": "1778108687.985869",
+      "completed": true,
+      "completedAt": "2026-05-10T10:44:56.735Z",
+      "firstSeenAt": "2026-05-10T10:44:56.735Z"
+    },
+    "1a84255d78ffea58d05827bfbe1c912e": {
+      "task": "Modify Jimmy from ampd text signature setting",
+      "assignee_name": "Josh 'The Ninja' Morales",
+      "assignee_slack_mention": "@Josh 'The Ninja' Morales",
+      "assigned_date": "2026-05-05",
+      "due_date": null,
+      "message_ts": "1778012449.309999",
+      "source_message": "Brandon 'The One' Robertson: @Josh 'The Ninja' Morales awesome work.  We may need to modify the - Jim",
+      "assigneeId": "U07FVUF09T7",
+      "messageTs": "1778012449.309999",
+      "completed": false,
+      "completedAt": null,
+      "firstSeenAt": "2026-05-10T10:44:56.827Z"
+    },
+    "47c3968244004bba78386e0dc538b4ef": {
+      "task": "AI engineer BLS prospect investigation (2 step process)",
+      "assignee_name": "Christle 'Knows All' Ochigue",
+      "assignee_slack_mention": "@Christle 'Knows All' Ochigue",
+      "assigned_date": "2026-05-05",
+      "due_date": "2026-05-05",
+      "message_ts": "1777994195.040139",
+      "source_message": "Brandon 'The One' Robertson: @Christle 'Knows All' Ochigue please go through the 2 step process of",
+      "assigneeId": "UMCPG3D8A",
+      "messageTs": "1777994195.040139",
+      "completed": true,
+      "completedAt": "2026-05-10T10:44:56.983Z",
+      "firstSeenAt": "2026-05-10T10:44:56.983Z"
+    },
+    "c306eeec926d3844c793a294333d1fc0": {
+      "task": "Review Dovetail settings to ensure VIP email only",
+      "assignee_name": "Mark 'Morpheus' Manaog",
+      "assignee_slack_mention": "@Mark 'Morpheus' Manaog",
+      "assigned_date": "2026-05-01",
+      "due_date": "2026-05-12",
+      "message_ts": "1777651747.097699",
+      "source_message": "Brandon 'The One' Robertson: @Mark 'Morpheus' Manaog please review the settings in Dovetail to ens",
+      "assigneeId": "U023F61R16F",
+      "messageTs": "1777651747.097699",
+      "completed": true,
+      "completedAt": "2026-05-10T10:44:57.068Z",
+      "firstSeenAt": "2026-05-10T10:44:57.068Z"
     }
   },
   "scheduled": {
@@ -32585,6 +32641,13 @@
       "task": "update bls thank you page to include a message about needing to confirm the call",
       "assignee": "Brandon 'The One' Robertson",
       "reminderDate": "2026-06-06"
+    },
+    "1a84255d78ffea58d05827bfbe1c912e|followup|2026-05-12": {
+      "scheduledAt": "2026-05-10T10:44:57.888Z",
+      "type": "followup",
+      "task": "Modify Jimmy from ampd text signature setting",
+      "assignee": "Josh 'The Ninja' Morales",
+      "reminderDate": "2026-05-12"
     }
   },
   "scheduledMessageIds": {
@@ -53911,8 +53974,22 @@
         "channel": "C05HV4SQD6G",
         "messageId": "Q0B3KK6N2GG"
       }
+    ],
+    "1a84255d78ffea58d05827bfbe1c912e": [
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B2N3H4S2F"
+      },
+      {
+        "channel": "U07FVUF09T7",
+        "messageId": "Q0B3NNR535W"
+      },
+      {
+        "channel": "C093VPK55NF",
+        "messageId": "Q0B2N3GNCM9"
+      }
     ]
   },
   "lastWeeklySummaryDate": "2026-W19",
-  "lastRun": "2026-05-10T06:01:55.054Z"
+  "lastRun": "2026-05-10T10:44:57.889Z"
 }
