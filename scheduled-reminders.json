@@ -3499,6 +3499,48 @@
       "completed": true,
       "completedAt": "2026-05-10T10:44:57.068Z",
       "firstSeenAt": "2026-05-10T10:44:57.068Z"
+    },
+    "30cbb05de9ac0d21f56347e866a42271": {
+      "task": "ensure vip email is only email used in Dovetail GHL account for all communications",
+      "assignee_name": "Mark 'Morpheus' Manaog",
+      "assignee_slack_mention": "@Mark 'Morpheus' Manaog",
+      "assigned_date": "2026-05-01",
+      "due_date": "2026-05-12",
+      "message_ts": "1777651747.097699",
+      "source_message": "@Mark 'Morpheus' Manaog please review the settings in Dovetail to ensure that vip email is th",
+      "assigneeId": "U023F61R16F",
+      "messageTs": "1777651747.097699",
+      "completed": true,
+      "completedAt": "2026-05-10T18:01:56.753Z",
+      "firstSeenAt": "2026-05-10T18:01:56.753Z"
+    },
+    "93dc6b9b90e5128e31cb682552cd0ae4": {
+      "task": "clean up and organize drive for internal amp and ampd client folders and files",
+      "assignee_name": "Brandon 'The One' Robertson",
+      "assignee_slack_mention": "@Brandon 'The One' Robertson",
+      "assigned_date": "2026-05-01",
+      "due_date": "2026-05-23",
+      "message_ts": "1777647436.791709",
+      "source_message": "@Brandon 'The One' Robertson review cleaning up and organizing drive more for internal amp ",
+      "assigneeId": "UMS39RAGP",
+      "messageTs": "1777647436.791709",
+      "completed": false,
+      "completedAt": null,
+      "firstSeenAt": "2026-05-10T18:01:56.849Z"
+    },
+    "4ede2741b4cd770de3d414cdf1af862e": {
+      "task": "build first-call qualifications deck with Ampd results, ROI graphics, reviews/case studies",
+      "assignee_name": "Chrissy 'Queen Bee' Robertson",
+      "assignee_slack_mention": "@Chrissy 'Queen Bee' Robertson",
+      "assigned_date": "2026-04-30",
+      "due_date": "2026-05-12",
+      "message_ts": "1777562575.859269",
+      "source_message": "@Chrissy 'Queen Bee' Robertson build a loveable deck for first-call qualifications that incl",
+      "assigneeId": "U01M7FMPTRR",
+      "messageTs": "1777562575.859269",
+      "completed": false,
+      "completedAt": null,
+      "firstSeenAt": "2026-05-10T18:01:56.942Z"
     }
   },
   "scheduled": {
@@ -32648,6 +32690,474 @@
       "task": "Modify Jimmy from ampd text signature setting",
       "assignee": "Josh 'The Ninja' Morales",
       "reminderDate": "2026-05-12"
+    },
+    "93dc6b9b90e5128e31cb682552cd0ae4|midpoint|2026-05-12": {
+      "scheduledAt": "2026-05-10T18:01:57.649Z",
+      "type": "midpoint",
+      "task": "clean up and organize drive for internal amp and ampd client folders and files",
+      "assignee": "Brandon 'The One' Robertson",
+      "reminderDate": "2026-05-12"
+    },
+    "93dc6b9b90e5128e31cb682552cd0ae4|nag|2026-05-21": {
+      "scheduledAt": "2026-05-10T18:01:58.324Z",
+      "type": "nag",
+      "task": "clean up and organize drive for internal amp and ampd client folders and files",
+      "assignee": "Brandon 'The One' Robertson",
+      "reminderDate": "2026-05-21"
+    },
+    "93dc6b9b90e5128e31cb682552cd0ae4|nag|2026-05-22": {
+      "scheduledAt": "2026-05-10T18:01:59.002Z",
+      "type": "nag",
+      "task": "clean up and organize drive for internal amp and ampd client folders and files",
+      "assignee": "Brandon 'The One' Robertson",
+      "reminderDate": "2026-05-22"
+    },
+    "93dc6b9b90e5128e31cb682552cd0ae4|due|2026-05-23": {
+      "scheduledAt": "2026-05-10T18:01:59.690Z",
+      "type": "due",
+      "task": "clean up and organize drive for internal amp and ampd client folders and files",
+      "assignee": "Brandon 'The One' Robertson",
+      "reminderDate": "2026-05-23"
+    },
+    "93dc6b9b90e5128e31cb682552cd0ae4|overdue|2026-05-24": {
+      "scheduledAt": "2026-05-10T18:02:00.371Z",
+      "type": "overdue",
+      "task": "clean up and organize drive for internal amp and ampd client folders and files",
+      "assignee": "Brandon 'The One' Robertson",
+      "reminderDate": "2026-05-24"
+    },
+    "93dc6b9b90e5128e31cb682552cd0ae4|overdue|2026-05-25": {
+      "scheduledAt": "2026-05-10T18:02:01.050Z",
+      "type": "overdue",
+      "task": "clean up and organize drive for internal amp and ampd client folders and files",
+      "assignee": "Brandon 'The One' Robertson",
+      "reminderDate": "2026-05-25"
+    },
+    "93dc6b9b90e5128e31cb682552cd0ae4|overdue|2026-05-26": {
+      "scheduledAt": "2026-05-10T18:02:01.742Z",
+      "type": "overdue",
+      "task": "clean up and organize drive for internal amp and ampd client folders and files",
+      "assignee": "Brandon 'The One' Robertson",
+      "reminderDate": "2026-05-26"
+    },
+    "93dc6b9b90e5128e31cb682552cd0ae4|overdue|2026-05-27": {
+      "scheduledAt": "2026-05-10T18:02:02.422Z",
+      "type": "overdue",
+      "task": "clean up and organize drive for internal amp and ampd client folders and files",
+      "assignee": "Brandon 'The One' Robertson",
+      "reminderDate": "2026-05-27"
+    },
+    "93dc6b9b90e5128e31cb682552cd0ae4|overdue|2026-05-28": {
+      "scheduledAt": "2026-05-10T18:02:03.187Z",
+      "type": "overdue",
+      "task": "clean up and organize drive for internal amp and ampd client folders and files",
+      "assignee": "Brandon 'The One' Robertson",
+      "reminderDate": "2026-05-28"
+    },
+    "93dc6b9b90e5128e31cb682552cd0ae4|overdue|2026-05-29": {
+      "scheduledAt": "2026-05-10T18:02:03.870Z",
+      "type": "overdue",
+      "task": "clean up and organize drive for internal amp and ampd client folders and files",
+      "assignee": "Brandon 'The One' Robertson",
+      "reminderDate": "2026-05-29"
+    },
+    "93dc6b9b90e5128e31cb682552cd0ae4|overdue|2026-05-30": {
+      "scheduledAt": "2026-05-10T18:02:04.544Z",
+      "type": "overdue",
+      "task": "clean up and organize drive for internal amp and ampd client folders and files",
+      "assignee": "Brandon 'The One' Robertson",
+      "reminderDate": "2026-05-30"
+    },
+    "93dc6b9b90e5128e31cb682552cd0ae4|overdue|2026-05-31": {
+      "scheduledAt": "2026-05-10T18:02:05.240Z",
+      "type": "overdue",
+      "task": "clean up and organize drive for internal amp and ampd client folders and files",
+      "assignee": "Brandon 'The One' Robertson",
+      "reminderDate": "2026-05-31"
+    },
+    "93dc6b9b90e5128e31cb682552cd0ae4|overdue|2026-06-01": {
+      "scheduledAt": "2026-05-10T18:02:05.930Z",
+      "type": "overdue",
+      "task": "clean up and organize drive for internal amp and ampd client folders and files",
+      "assignee": "Brandon 'The One' Robertson",
+      "reminderDate": "2026-06-01"
+    },
+    "93dc6b9b90e5128e31cb682552cd0ae4|overdue|2026-06-02": {
+      "scheduledAt": "2026-05-10T18:02:06.941Z",
+      "type": "overdue",
+      "task": "clean up and organize drive for internal amp and ampd client folders and files",
+      "assignee": "Brandon 'The One' Robertson",
+      "reminderDate": "2026-06-02"
+    },
+    "93dc6b9b90e5128e31cb682552cd0ae4|overdue|2026-06-03": {
+      "scheduledAt": "2026-05-10T18:02:07.628Z",
+      "type": "overdue",
+      "task": "clean up and organize drive for internal amp and ampd client folders and files",
+      "assignee": "Brandon 'The One' Robertson",
+      "reminderDate": "2026-06-03"
+    },
+    "93dc6b9b90e5128e31cb682552cd0ae4|overdue|2026-06-04": {
+      "scheduledAt": "2026-05-10T18:02:08.320Z",
+      "type": "overdue",
+      "task": "clean up and organize drive for internal amp and ampd client folders and files",
+      "assignee": "Brandon 'The One' Robertson",
+      "reminderDate": "2026-06-04"
+    },
+    "93dc6b9b90e5128e31cb682552cd0ae4|overdue|2026-06-05": {
+      "scheduledAt": "2026-05-10T18:02:08.995Z",
+      "type": "overdue",
+      "task": "clean up and organize drive for internal amp and ampd client folders and files",
+      "assignee": "Brandon 'The One' Robertson",
+      "reminderDate": "2026-06-05"
+    },
+    "93dc6b9b90e5128e31cb682552cd0ae4|overdue|2026-06-06": {
+      "scheduledAt": "2026-05-10T18:02:09.677Z",
+      "type": "overdue",
+      "task": "clean up and organize drive for internal amp and ampd client folders and files",
+      "assignee": "Brandon 'The One' Robertson",
+      "reminderDate": "2026-06-06"
+    },
+    "93dc6b9b90e5128e31cb682552cd0ae4|overdue|2026-06-07": {
+      "scheduledAt": "2026-05-10T18:02:10.347Z",
+      "type": "overdue",
+      "task": "clean up and organize drive for internal amp and ampd client folders and files",
+      "assignee": "Brandon 'The One' Robertson",
+      "reminderDate": "2026-06-07"
+    },
+    "93dc6b9b90e5128e31cb682552cd0ae4|overdue|2026-06-08": {
+      "scheduledAt": "2026-05-10T18:02:11.039Z",
+      "type": "overdue",
+      "task": "clean up and organize drive for internal amp and ampd client folders and files",
+      "assignee": "Brandon 'The One' Robertson",
+      "reminderDate": "2026-06-08"
+    },
+    "93dc6b9b90e5128e31cb682552cd0ae4|overdue|2026-06-09": {
+      "scheduledAt": "2026-05-10T18:02:11.711Z",
+      "type": "overdue",
+      "task": "clean up and organize drive for internal amp and ampd client folders and files",
+      "assignee": "Brandon 'The One' Robertson",
+      "reminderDate": "2026-06-09"
+    },
+    "93dc6b9b90e5128e31cb682552cd0ae4|overdue|2026-06-10": {
+      "scheduledAt": "2026-05-10T18:02:12.387Z",
+      "type": "overdue",
+      "task": "clean up and organize drive for internal amp and ampd client folders and files",
+      "assignee": "Brandon 'The One' Robertson",
+      "reminderDate": "2026-06-10"
+    },
+    "93dc6b9b90e5128e31cb682552cd0ae4|overdue|2026-06-11": {
+      "scheduledAt": "2026-05-10T18:02:13.069Z",
+      "type": "overdue",
+      "task": "clean up and organize drive for internal amp and ampd client folders and files",
+      "assignee": "Brandon 'The One' Robertson",
+      "reminderDate": "2026-06-11"
+    },
+    "93dc6b9b90e5128e31cb682552cd0ae4|overdue|2026-06-12": {
+      "scheduledAt": "2026-05-10T18:02:13.754Z",
+      "type": "overdue",
+      "task": "clean up and organize drive for internal amp and ampd client folders and files",
+      "assignee": "Brandon 'The One' Robertson",
+      "reminderDate": "2026-06-12"
+    },
+    "93dc6b9b90e5128e31cb682552cd0ae4|overdue|2026-06-13": {
+      "scheduledAt": "2026-05-10T18:02:14.429Z",
+      "type": "overdue",
+      "task": "clean up and organize drive for internal amp and ampd client folders and files",
+      "assignee": "Brandon 'The One' Robertson",
+      "reminderDate": "2026-06-13"
+    },
+    "93dc6b9b90e5128e31cb682552cd0ae4|overdue|2026-06-14": {
+      "scheduledAt": "2026-05-10T18:02:15.113Z",
+      "type": "overdue",
+      "task": "clean up and organize drive for internal amp and ampd client folders and files",
+      "assignee": "Brandon 'The One' Robertson",
+      "reminderDate": "2026-06-14"
+    },
+    "93dc6b9b90e5128e31cb682552cd0ae4|overdue|2026-06-15": {
+      "scheduledAt": "2026-05-10T18:02:15.787Z",
+      "type": "overdue",
+      "task": "clean up and organize drive for internal amp and ampd client folders and files",
+      "assignee": "Brandon 'The One' Robertson",
+      "reminderDate": "2026-06-15"
+    },
+    "93dc6b9b90e5128e31cb682552cd0ae4|overdue|2026-06-16": {
+      "scheduledAt": "2026-05-10T18:02:16.473Z",
+      "type": "overdue",
+      "task": "clean up and organize drive for internal amp and ampd client folders and files",
+      "assignee": "Brandon 'The One' Robertson",
+      "reminderDate": "2026-06-16"
+    },
+    "93dc6b9b90e5128e31cb682552cd0ae4|overdue|2026-06-17": {
+      "scheduledAt": "2026-05-10T18:02:17.159Z",
+      "type": "overdue",
+      "task": "clean up and organize drive for internal amp and ampd client folders and files",
+      "assignee": "Brandon 'The One' Robertson",
+      "reminderDate": "2026-06-17"
+    },
+    "93dc6b9b90e5128e31cb682552cd0ae4|overdue|2026-06-18": {
+      "scheduledAt": "2026-05-10T18:02:17.844Z",
+      "type": "overdue",
+      "task": "clean up and organize drive for internal amp and ampd client folders and files",
+      "assignee": "Brandon 'The One' Robertson",
+      "reminderDate": "2026-06-18"
+    },
+    "93dc6b9b90e5128e31cb682552cd0ae4|overdue|2026-06-19": {
+      "scheduledAt": "2026-05-10T18:02:18.521Z",
+      "type": "overdue",
+      "task": "clean up and organize drive for internal amp and ampd client folders and files",
+      "assignee": "Brandon 'The One' Robertson",
+      "reminderDate": "2026-06-19"
+    },
+    "93dc6b9b90e5128e31cb682552cd0ae4|overdue|2026-06-20": {
+      "scheduledAt": "2026-05-10T18:02:19.226Z",
+      "type": "overdue",
+      "task": "clean up and organize drive for internal amp and ampd client folders and files",
+      "assignee": "Brandon 'The One' Robertson",
+      "reminderDate": "2026-06-20"
+    },
+    "93dc6b9b90e5128e31cb682552cd0ae4|overdue|2026-06-21": {
+      "scheduledAt": "2026-05-10T18:02:19.900Z",
+      "type": "overdue",
+      "task": "clean up and organize drive for internal amp and ampd client folders and files",
+      "assignee": "Brandon 'The One' Robertson",
+      "reminderDate": "2026-06-21"
+    },
+    "93dc6b9b90e5128e31cb682552cd0ae4|overdue|2026-06-22": {
+      "scheduledAt": "2026-05-10T18:02:20.576Z",
+      "type": "overdue",
+      "task": "clean up and organize drive for internal amp and ampd client folders and files",
+      "assignee": "Brandon 'The One' Robertson",
+      "reminderDate": "2026-06-22"
+    },
+    "4ede2741b4cd770de3d414cdf1af862e|nag|2026-05-10": {
+      "scheduledAt": "2026-05-10T18:02:20.576Z",
+      "type": "nag",
+      "task": "build first-call qualifications deck with Ampd results, ROI graphics, reviews/case studies",
+      "skipped": true
+    },
+    "4ede2741b4cd770de3d414cdf1af862e|nag|2026-05-11": {
+      "scheduledAt": "2026-05-10T18:02:21.351Z",
+      "type": "nag",
+      "task": "build first-call qualifications deck with Ampd results, ROI graphics, reviews/case studies",
+      "assignee": "Chrissy 'Queen Bee' Robertson",
+      "reminderDate": "2026-05-11"
+    },
+    "4ede2741b4cd770de3d414cdf1af862e|due|2026-05-12": {
+      "scheduledAt": "2026-05-10T18:02:22.119Z",
+      "type": "due",
+      "task": "build first-call qualifications deck with Ampd results, ROI graphics, reviews/case studies",
+      "assignee": "Chrissy 'Queen Bee' Robertson",
+      "reminderDate": "2026-05-12"
+    },
+    "4ede2741b4cd770de3d414cdf1af862e|overdue|2026-05-13": {
+      "scheduledAt": "2026-05-10T18:02:22.888Z",
+      "type": "overdue",
+      "task": "build first-call qualifications deck with Ampd results, ROI graphics, reviews/case studies",
+      "assignee": "Chrissy 'Queen Bee' Robertson",
+      "reminderDate": "2026-05-13"
+    },
+    "4ede2741b4cd770de3d414cdf1af862e|overdue|2026-05-14": {
+      "scheduledAt": "2026-05-10T18:02:23.674Z",
+      "type": "overdue",
+      "task": "build first-call qualifications deck with Ampd results, ROI graphics, reviews/case studies",
+      "assignee": "Chrissy 'Queen Bee' Robertson",
+      "reminderDate": "2026-05-14"
+    },
+    "4ede2741b4cd770de3d414cdf1af862e|overdue|2026-05-15": {
+      "scheduledAt": "2026-05-10T18:02:24.434Z",
+      "type": "overdue",
+      "task": "build first-call qualifications deck with Ampd results, ROI graphics, reviews/case studies",
+      "assignee": "Chrissy 'Queen Bee' Robertson",
+      "reminderDate": "2026-05-15"
+    },
+    "4ede2741b4cd770de3d414cdf1af862e|overdue|2026-05-16": {
+      "scheduledAt": "2026-05-10T18:02:25.203Z",
+      "type": "overdue",
+      "task": "build first-call qualifications deck with Ampd results, ROI graphics, reviews/case studies",
+      "assignee": "Chrissy 'Queen Bee' Robertson",
+      "reminderDate": "2026-05-16"
+    },
+    "4ede2741b4cd770de3d414cdf1af862e|overdue|2026-05-17": {
+      "scheduledAt": "2026-05-10T18:02:25.974Z",
+      "type": "overdue",
+      "task": "build first-call qualifications deck with Ampd results, ROI graphics, reviews/case studies",
+      "assignee": "Chrissy 'Queen Bee' Robertson",
+      "reminderDate": "2026-05-17"
+    },
+    "4ede2741b4cd770de3d414cdf1af862e|overdue|2026-05-18": {
+      "scheduledAt": "2026-05-10T18:02:26.751Z",
+      "type": "overdue",
+      "task": "build first-call qualifications deck with Ampd results, ROI graphics, reviews/case studies",
+      "assignee": "Chrissy 'Queen Bee' Robertson",
+      "reminderDate": "2026-05-18"
+    },
+    "4ede2741b4cd770de3d414cdf1af862e|overdue|2026-05-19": {
+      "scheduledAt": "2026-05-10T18:02:27.525Z",
+      "type": "overdue",
+      "task": "build first-call qualifications deck with Ampd results, ROI graphics, reviews/case studies",
+      "assignee": "Chrissy 'Queen Bee' Robertson",
+      "reminderDate": "2026-05-19"
+    },
+    "4ede2741b4cd770de3d414cdf1af862e|overdue|2026-05-20": {
+      "scheduledAt": "2026-05-10T18:02:28.291Z",
+      "type": "overdue",
+      "task": "build first-call qualifications deck with Ampd results, ROI graphics, reviews/case studies",
+      "assignee": "Chrissy 'Queen Bee' Robertson",
+      "reminderDate": "2026-05-20"
+    },
+    "4ede2741b4cd770de3d414cdf1af862e|overdue|2026-05-21": {
+      "scheduledAt": "2026-05-10T18:02:29.119Z",
+      "type": "overdue",
+      "task": "build first-call qualifications deck with Ampd results, ROI graphics, reviews/case studies",
+      "assignee": "Chrissy 'Queen Bee' Robertson",
+      "reminderDate": "2026-05-21"
+    },
+    "4ede2741b4cd770de3d414cdf1af862e|overdue|2026-05-22": {
+      "scheduledAt": "2026-05-10T18:02:29.925Z",
+      "type": "overdue",
+      "task": "build first-call qualifications deck with Ampd results, ROI graphics, reviews/case studies",
+      "assignee": "Chrissy 'Queen Bee' Robertson",
+      "reminderDate": "2026-05-22"
+    },
+    "4ede2741b4cd770de3d414cdf1af862e|overdue|2026-05-23": {
+      "scheduledAt": "2026-05-10T18:02:30.707Z",
+      "type": "overdue",
+      "task": "build first-call qualifications deck with Ampd results, ROI graphics, reviews/case studies",
+      "assignee": "Chrissy 'Queen Bee' Robertson",
+      "reminderDate": "2026-05-23"
+    },
+    "4ede2741b4cd770de3d414cdf1af862e|overdue|2026-05-24": {
+      "scheduledAt": "2026-05-10T18:02:31.493Z",
+      "type": "overdue",
+      "task": "build first-call qualifications deck with Ampd results, ROI graphics, reviews/case studies",
+      "assignee": "Chrissy 'Queen Bee' Robertson",
+      "reminderDate": "2026-05-24"
+    },
+    "4ede2741b4cd770de3d414cdf1af862e|overdue|2026-05-25": {
+      "scheduledAt": "2026-05-10T18:02:32.304Z",
+      "type": "overdue",
+      "task": "build first-call qualifications deck with Ampd results, ROI graphics, reviews/case studies",
+      "assignee": "Chrissy 'Queen Bee' Robertson",
+      "reminderDate": "2026-05-25"
+    },
+    "4ede2741b4cd770de3d414cdf1af862e|overdue|2026-05-26": {
+      "scheduledAt": "2026-05-10T18:02:33.070Z",
+      "type": "overdue",
+      "task": "build first-call qualifications deck with Ampd results, ROI graphics, reviews/case studies",
+      "assignee": "Chrissy 'Queen Bee' Robertson",
+      "reminderDate": "2026-05-26"
+    },
+    "4ede2741b4cd770de3d414cdf1af862e|overdue|2026-05-27": {
+      "scheduledAt": "2026-05-10T18:02:33.849Z",
+      "type": "overdue",
+      "task": "build first-call qualifications deck with Ampd results, ROI graphics, reviews/case studies",
+      "assignee": "Chrissy 'Queen Bee' Robertson",
+      "reminderDate": "2026-05-27"
+    },
+    "4ede2741b4cd770de3d414cdf1af862e|overdue|2026-05-28": {
+      "scheduledAt": "2026-05-10T18:02:34.630Z",
+      "type": "overdue",
+      "task": "build first-call qualifications deck with Ampd results, ROI graphics, reviews/case studies",
+      "assignee": "Chrissy 'Queen Bee' Robertson",
+      "reminderDate": "2026-05-28"
+    },
+    "4ede2741b4cd770de3d414cdf1af862e|overdue|2026-05-29": {
+      "scheduledAt": "2026-05-10T18:02:35.411Z",
+      "type": "overdue",
+      "task": "build first-call qualifications deck with Ampd results, ROI graphics, reviews/case studies",
+      "assignee": "Chrissy 'Queen Bee' Robertson",
+      "reminderDate": "2026-05-29"
+    },
+    "4ede2741b4cd770de3d414cdf1af862e|overdue|2026-05-30": {
+      "scheduledAt": "2026-05-10T18:02:36.203Z",
+      "type": "overdue",
+      "task": "build first-call qualifications deck with Ampd results, ROI graphics, reviews/case studies",
+      "assignee": "Chrissy 'Queen Bee' Robertson",
+      "reminderDate": "2026-05-30"
+    },
+    "4ede2741b4cd770de3d414cdf1af862e|overdue|2026-05-31": {
+      "scheduledAt": "2026-05-10T18:02:36.966Z",
+      "type": "overdue",
+      "task": "build first-call qualifications deck with Ampd results, ROI graphics, reviews/case studies",
+      "assignee": "Chrissy 'Queen Bee' Robertson",
+      "reminderDate": "2026-05-31"
+    },
+    "4ede2741b4cd770de3d414cdf1af862e|overdue|2026-06-01": {
+      "scheduledAt": "2026-05-10T18:02:37.730Z",
+      "type": "overdue",
+      "task": "build first-call qualifications deck with Ampd results, ROI graphics, reviews/case studies",
+      "assignee": "Chrissy 'Queen Bee' Robertson",
+      "reminderDate": "2026-06-01"
+    },
+    "4ede2741b4cd770de3d414cdf1af862e|overdue|2026-06-02": {
+      "scheduledAt": "2026-05-10T18:02:38.497Z",
+      "type": "overdue",
+      "task": "build first-call qualifications deck with Ampd results, ROI graphics, reviews/case studies",
+      "assignee": "Chrissy 'Queen Bee' Robertson",
+      "reminderDate": "2026-06-02"
+    },
+    "4ede2741b4cd770de3d414cdf1af862e|overdue|2026-06-03": {
+      "scheduledAt": "2026-05-10T18:02:39.272Z",
+      "type": "overdue",
+      "task": "build first-call qualifications deck with Ampd results, ROI graphics, reviews/case studies",
+      "assignee": "Chrissy 'Queen Bee' Robertson",
+      "reminderDate": "2026-06-03"
+    },
+    "4ede2741b4cd770de3d414cdf1af862e|overdue|2026-06-04": {
+      "scheduledAt": "2026-05-10T18:02:40.033Z",
+      "type": "overdue",
+      "task": "build first-call qualifications deck with Ampd results, ROI graphics, reviews/case studies",
+      "assignee": "Chrissy 'Queen Bee' Robertson",
+      "reminderDate": "2026-06-04"
+    },
+    "4ede2741b4cd770de3d414cdf1af862e|overdue|2026-06-05": {
+      "scheduledAt": "2026-05-10T18:02:40.843Z",
+      "type": "overdue",
+      "task": "build first-call qualifications deck with Ampd results, ROI graphics, reviews/case studies",
+      "assignee": "Chrissy 'Queen Bee' Robertson",
+      "reminderDate": "2026-06-05"
+    },
+    "4ede2741b4cd770de3d414cdf1af862e|overdue|2026-06-06": {
+      "scheduledAt": "2026-05-10T18:02:41.999Z",
+      "type": "overdue",
+      "task": "build first-call qualifications deck with Ampd results, ROI graphics, reviews/case studies",
+      "assignee": "Chrissy 'Queen Bee' Robertson",
+      "reminderDate": "2026-06-06"
+    },
+    "4ede2741b4cd770de3d414cdf1af862e|overdue|2026-06-07": {
+      "scheduledAt": "2026-05-10T18:02:42.761Z",
+      "type": "overdue",
+      "task": "build first-call qualifications deck with Ampd results, ROI graphics, reviews/case studies",
+      "assignee": "Chrissy 'Queen Bee' Robertson",
+      "reminderDate": "2026-06-07"
+    },
+    "4ede2741b4cd770de3d414cdf1af862e|overdue|2026-06-08": {
+      "scheduledAt": "2026-05-10T18:02:43.526Z",
+      "type": "overdue",
+      "task": "build first-call qualifications deck with Ampd results, ROI graphics, reviews/case studies",
+      "assignee": "Chrissy 'Queen Bee' Robertson",
+      "reminderDate": "2026-06-08"
+    },
+    "4ede2741b4cd770de3d414cdf1af862e|overdue|2026-06-09": {
+      "scheduledAt": "2026-05-10T18:02:44.300Z",
+      "type": "overdue",
+      "task": "build first-call qualifications deck with Ampd results, ROI graphics, reviews/case studies",
+      "assignee": "Chrissy 'Queen Bee' Robertson",
+      "reminderDate": "2026-06-09"
+    },
+    "4ede2741b4cd770de3d414cdf1af862e|overdue|2026-06-10": {
+      "scheduledAt": "2026-05-10T18:02:45.074Z",
+      "type": "overdue",
+      "task": "build first-call qualifications deck with Ampd results, ROI graphics, reviews/case studies",
+      "assignee": "Chrissy 'Queen Bee' Robertson",
+      "reminderDate": "2026-06-10"
+    },
+    "4ede2741b4cd770de3d414cdf1af862e|overdue|2026-06-11": {
+      "scheduledAt": "2026-05-10T18:02:45.873Z",
+      "type": "overdue",
+      "task": "build first-call qualifications deck with Ampd results, ROI graphics, reviews/case studies",
+      "assignee": "Chrissy 'Queen Bee' Robertson",
+      "reminderDate": "2026-06-11"
     }
   },
   "scheduledMessageIds": {
@@ -53988,8 +54498,668 @@
         "channel": "C093VPK55NF",
         "messageId": "Q0B2N3GNCM9"
       }
+    ],
+    "93dc6b9b90e5128e31cb682552cd0ae4": [
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B2DUSJQ4X"
+      },
+      {
+        "channel": "C05HV4SQD6G",
+        "messageId": "Q0B3PM66ZT2"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B2TAZVA86"
+      },
+      {
+        "channel": "C05HV4SQD6G",
+        "messageId": "Q0B2VCVRS6N"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B2Z1BFJUU"
+      },
+      {
+        "channel": "C05HV4SQD6G",
+        "messageId": "Q0B2X9FGX97"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B2P1WS31R"
+      },
+      {
+        "channel": "C05HV4SQD6G",
+        "messageId": "Q0B2X9F4W4R"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B2VCVJ5HQ"
+      },
+      {
+        "channel": "C05HV4SQD6G",
+        "messageId": "Q0B3PM71T0Q"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B2P1YA83V"
+      },
+      {
+        "channel": "C05HV4SQD6G",
+        "messageId": "Q0B2P1XBSH1"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B2X9G9QDP"
+      },
+      {
+        "channel": "C05HV4SQD6G",
+        "messageId": "Q0B2X9FDVDF"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B2Z13FGLU"
+      },
+      {
+        "channel": "C05HV4SQD6G",
+        "messageId": "Q0B2DUT2J87"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B2DUSAGP9"
+      },
+      {
+        "channel": "C05HV4SQD6G",
+        "messageId": "Q0B2VCVRHGS"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B2TAZKP7G"
+      },
+      {
+        "channel": "C05HV4SQD6G",
+        "messageId": "Q0B2TB08XT8"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B3PM6CCKA"
+      },
+      {
+        "channel": "C05HV4SQD6G",
+        "messageId": "Q0B2X9FDU01"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B2S1DRKT7"
+      },
+      {
+        "channel": "C05HV4SQD6G",
+        "messageId": "Q0B2VCVB3DY"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B2VCV63H8"
+      },
+      {
+        "channel": "C05HV4SQD6G",
+        "messageId": "Q0B2X9FFANM"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B2X9G46AD"
+      },
+      {
+        "channel": "C05HV4SQD6G",
+        "messageId": "Q0B2Z1B9MFE"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B2VCV8QP4"
+      },
+      {
+        "channel": "C05HV4SQD6G",
+        "messageId": "Q0B3PM5Q99N"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B2TAZ9CRL"
+      },
+      {
+        "channel": "C05HV4SQD6G",
+        "messageId": "Q0B2VCVCQRG"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B3PM603EC"
+      },
+      {
+        "channel": "C05HV4SQD6G",
+        "messageId": "Q0B2VCWDF7C"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B2X9F2K17"
+      },
+      {
+        "channel": "C05HV4SQD6G",
+        "messageId": "Q0B3PM6GD6C"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B3PM6LGU8"
+      },
+      {
+        "channel": "C05HV4SQD6G",
+        "messageId": "Q0B2S1EM70V"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B2X9G8T3K"
+      },
+      {
+        "channel": "C05HV4SQD6G",
+        "messageId": "Q0B2P1YR7EF"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B2X9G1ASD"
+      },
+      {
+        "channel": "C05HV4SQD6G",
+        "messageId": "Q0B2S1FLCFP"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B2VCVGXGS"
+      },
+      {
+        "channel": "C05HV4SQD6G",
+        "messageId": "Q0B2S17RWP7"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B3PM68Z8Q"
+      },
+      {
+        "channel": "C05HV4SQD6G",
+        "messageId": "Q0B2X9FSMND"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B3PLZPEGY"
+      },
+      {
+        "channel": "C05HV4SQD6G",
+        "messageId": "Q0B2Z1C9QHJ"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B2TB08T0W"
+      },
+      {
+        "channel": "C05HV4SQD6G",
+        "messageId": "Q0B2X9G0XQR"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B2X9G495X"
+      },
+      {
+        "channel": "C05HV4SQD6G",
+        "messageId": "Q0B2P1YHVA7"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B3PM7P796"
+      },
+      {
+        "channel": "C05HV4SQD6G",
+        "messageId": "Q0B2X9GPL4R"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B2VCWDFT4"
+      },
+      {
+        "channel": "C05HV4SQD6G",
+        "messageId": "Q0B2X9FT63T"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B2P1Y3RV1"
+      },
+      {
+        "channel": "C05HV4SQD6G",
+        "messageId": "Q0B2S1ETYNR"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B2DUTBKL7"
+      },
+      {
+        "channel": "C05HV4SQD6G",
+        "messageId": "Q0B2S1FGTHT"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B2TB0A6DU"
+      },
+      {
+        "channel": "C05HV4SQD6G",
+        "messageId": "Q0B2X9FUFEV"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B2DUS2E8P"
+      },
+      {
+        "channel": "C05HV4SQD6G",
+        "messageId": "Q0B3PM6AYPJ"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B2TB14PC6"
+      },
+      {
+        "channel": "C05HV4SQD6G",
+        "messageId": "Q0B2P1Z7B9R"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B2X9GDPS5"
+      },
+      {
+        "channel": "C05HV4SQD6G",
+        "messageId": "Q0B2S1F63V3"
+      }
+    ],
+    "4ede2741b4cd770de3d414cdf1af862e": [
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B2DUSHBUP"
+      },
+      {
+        "channel": "U01M7FMPTRR",
+        "messageId": "Q0B2P1Z5AD9"
+      },
+      {
+        "channel": "C08RNTW55JM",
+        "messageId": "Q0B2X9G1P09"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B2Z1C8EKE"
+      },
+      {
+        "channel": "U01M7FMPTRR",
+        "messageId": "Q0B2Z1CR72Q"
+      },
+      {
+        "channel": "C08RNTW55JM",
+        "messageId": "Q0B2S1EN9QV"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B2P1YB5HR"
+      },
+      {
+        "channel": "U01M7FMPTRR",
+        "messageId": "Q0B2P1ZD55Z"
+      },
+      {
+        "channel": "C08RNTW55JM",
+        "messageId": "Q0B2S1ETV8D"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B2S1FBXRT"
+      },
+      {
+        "channel": "U01M7FMPTRR",
+        "messageId": "Q0B2X9H0DC1"
+      },
+      {
+        "channel": "C08RNTW55JM",
+        "messageId": "Q0B2TB1A8SJ"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B2TB0UUBY"
+      },
+      {
+        "channel": "U01M7FMPTRR",
+        "messageId": "Q0B2P1YT927"
+      },
+      {
+        "channel": "C08RNTW55JM",
+        "messageId": "Q0B2DUT07E3"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B2TB16X5L"
+      },
+      {
+        "channel": "U01M7FMPTRR",
+        "messageId": "Q0B3PM6M0PJ"
+      },
+      {
+        "channel": "C08RNTW55JM",
+        "messageId": "Q0B3PM79Q2U"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B2P1YA2E7"
+      },
+      {
+        "channel": "U01M7FMPTRR",
+        "messageId": "Q0B2P1Z7NRH"
+      },
+      {
+        "channel": "C08RNTW55JM",
+        "messageId": "Q0B3PM6TV8Q"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B2Z1DSFNY"
+      },
+      {
+        "channel": "U01M7FMPTRR",
+        "messageId": "Q0B2P1YRVFD"
+      },
+      {
+        "channel": "C08RNTW55JM",
+        "messageId": "Q0B2Z1DB6UC"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B2P1Z1UQK"
+      },
+      {
+        "channel": "U01M7FMPTRR",
+        "messageId": "Q0B2Z1CL6AG"
+      },
+      {
+        "channel": "C08RNTW55JM",
+        "messageId": "Q0B2P1ZJMJP"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B3PM7GFH6"
+      },
+      {
+        "channel": "U01M7FMPTRR",
+        "messageId": "Q0B3PM75UAC"
+      },
+      {
+        "channel": "C08RNTW55JM",
+        "messageId": "Q0B2P1Z6WKD"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B3PM7265N"
+      },
+      {
+        "channel": "U01M7FMPTRR",
+        "messageId": "Q0B2S1F3GCD"
+      },
+      {
+        "channel": "C08RNTW55JM",
+        "messageId": "Q0B2S1F38VB"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B2Z1DK1B6"
+      },
+      {
+        "channel": "U01M7FMPTRR",
+        "messageId": "Q0B2P1YLXS7"
+      },
+      {
+        "channel": "C08RNTW55JM",
+        "messageId": "Q0B2X9G2PLH"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B2S1FMA13"
+      },
+      {
+        "channel": "U01M7FMPTRR",
+        "messageId": "Q0B2X9GLX6D"
+      },
+      {
+        "channel": "C08RNTW55JM",
+        "messageId": "Q0B2TB1NMK8"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B2P1Z35PD"
+      },
+      {
+        "channel": "U01M7FMPTRR",
+        "messageId": "Q0B2S1F7293"
+      },
+      {
+        "channel": "C08RNTW55JM",
+        "messageId": "Q0B2TB0J294"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B2S1FDW5B"
+      },
+      {
+        "channel": "U01M7FMPTRR",
+        "messageId": "Q0B2Z1D0EDA"
+      },
+      {
+        "channel": "C08RNTW55JM",
+        "messageId": "Q0B2Z1CQH7W"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B3PM7FBFA"
+      },
+      {
+        "channel": "U01M7FMPTRR",
+        "messageId": "Q0B2X9GK397"
+      },
+      {
+        "channel": "C08RNTW55JM",
+        "messageId": "Q0B2VCXDUPL"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B2P1ZF5PD"
+      },
+      {
+        "channel": "U01M7FMPTRR",
+        "messageId": "Q0B2Z1CQT4L"
+      },
+      {
+        "channel": "C08RNTW55JM",
+        "messageId": "Q0B2S1FAD53"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B2S1FFMKP"
+      },
+      {
+        "channel": "U01M7FMPTRR",
+        "messageId": "Q0B2X9HEJ8Z"
+      },
+      {
+        "channel": "C08RNTW55JM",
+        "messageId": "Q0B2VCWCE74"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B2DUTPXN3"
+      },
+      {
+        "channel": "U01M7FMPTRR",
+        "messageId": "Q0B2Z1D19RA"
+      },
+      {
+        "channel": "C08RNTW55JM",
+        "messageId": "Q0B2X9GCEGZ"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B2P1Z5UTV"
+      },
+      {
+        "channel": "U01M7FMPTRR",
+        "messageId": "Q0B3PM14AAC"
+      },
+      {
+        "channel": "C08RNTW55JM",
+        "messageId": "Q0B2S1G7XUM"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B2TB1H2SJ"
+      },
+      {
+        "channel": "U01M7FMPTRR",
+        "messageId": "Q0B2Z1DATN0"
+      },
+      {
+        "channel": "C08RNTW55JM",
+        "messageId": "Q0B2Z1DFQ2Y"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B2S1F717X"
+      },
+      {
+        "channel": "U01M7FMPTRR",
+        "messageId": "Q0B2P1ZFDM1"
+      },
+      {
+        "channel": "C08RNTW55JM",
+        "messageId": "Q0B2VCWTWKU"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B3PM7BU0G"
+      },
+      {
+        "channel": "U01M7FMPTRR",
+        "messageId": "Q0B3PM83J0Y"
+      },
+      {
+        "channel": "C08RNTW55JM",
+        "messageId": "Q0B3PM7DMQ8"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B2P1ZHDH9"
+      },
+      {
+        "channel": "U01M7FMPTRR",
+        "messageId": "Q0B2P1Z9GRZ"
+      },
+      {
+        "channel": "C08RNTW55JM",
+        "messageId": "Q0B2P201D8T"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B2X9H6GRF"
+      },
+      {
+        "channel": "U01M7FMPTRR",
+        "messageId": "Q0B2P1ZRKGB"
+      },
+      {
+        "channel": "C08RNTW55JM",
+        "messageId": "Q0B2Z1D8YA0"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B2VCX7FJ6"
+      },
+      {
+        "channel": "U01M7FMPTRR",
+        "messageId": "Q0B2DUT030F"
+      },
+      {
+        "channel": "C08RNTW55JM",
+        "messageId": "Q0B2X9HCP25"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B2X9H0T6V"
+      },
+      {
+        "channel": "U01M7FMPTRR",
+        "messageId": "Q0B3PM7LFEU"
+      },
+      {
+        "channel": "C08RNTW55JM",
+        "messageId": "Q0B2P1ZS3H9"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B2Z1DLCNQ"
+      },
+      {
+        "channel": "U01M7FMPTRR",
+        "messageId": "Q0B2TB1L5DL"
+      },
+      {
+        "channel": "C08RNTW55JM",
+        "messageId": "Q0B2VCWNA6N"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B2X9HCNJD"
+      },
+      {
+        "channel": "U01M7FMPTRR",
+        "messageId": "Q0B3PM7PERE"
+      },
+      {
+        "channel": "C08RNTW55JM",
+        "messageId": "Q0B3PM80SSU"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B2Z1DEF60"
+      },
+      {
+        "channel": "U01M7FMPTRR",
+        "messageId": "Q0B2DUTL19D"
+      },
+      {
+        "channel": "C08RNTW55JM",
+        "messageId": "Q0B2TB1AWJJ"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B2Z1DBG68"
+      },
+      {
+        "channel": "U01M7FMPTRR",
+        "messageId": "Q0B2DUTPN6B"
+      },
+      {
+        "channel": "C08RNTW55JM",
+        "messageId": "Q0B3PM77WHE"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B2DUTTR2T"
+      },
+      {
+        "channel": "U01M7FMPTRR",
+        "messageId": "Q0B2Z1DL4UC"
+      },
+      {
+        "channel": "C08RNTW55JM",
+        "messageId": "Q0B2VCXLB5Y"
+      }
     ]
   },
   "lastWeeklySummaryDate": "2026-W19",
-  "lastRun": "2026-05-10T10:44:57.889Z"
+  "lastRun": "2026-05-10T18:02:45.874Z"
 }
