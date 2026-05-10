@@ -3541,6 +3541,20 @@
       "completed": false,
       "completedAt": null,
       "firstSeenAt": "2026-05-10T18:01:56.942Z"
+    },
+    "779a7d30f48525b09ba67119fe9e861f": {
+      "task": "import partners data into ampd crm with proper formatting",
+      "assignee_name": "Eddie 'Rockstar' Monarrez",
+      "assignee_slack_mention": "@Eddie 'Rockstar' Monarrez",
+      "assigned_date": "2026-05-06",
+      "due_date": "2026-05-12",
+      "message_ts": "1778105616.306239",
+      "source_message": "@Eddie 'Rockstar' Monarrez please import into the ampd crm under the partners area.  Tag the",
+      "assigneeId": "U02LFUG2WLR",
+      "messageTs": "1778105616.306239",
+      "completed": true,
+      "completedAt": "2026-05-10T20:33:35.082Z",
+      "firstSeenAt": "2026-05-10T20:33:35.082Z"
     }
   },
   "scheduled": {
@@ -55161,5 +55175,5 @@
     ]
   },
   "lastWeeklySummaryDate": "2026-W19",
-  "lastRun": "2026-05-10T18:02:45.874Z"
+  "lastRun": "2026-05-10T20:33:35.116Z"
 }
