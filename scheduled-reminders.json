@@ -3639,6 +3639,34 @@
       "completed": false,
       "completedAt": null,
       "firstSeenAt": "2026-05-11T16:23:53.854Z"
+    },
+    "64f20ef0dd068f4b97d20f82979a3030": {
+      "task": "Update/change/create for ampdworks.com website using provided document",
+      "assignee_name": "Liz' La Task-Killer' Zavala",
+      "assignee_slack_mention": "@Liz' La Task-Killer' Zavala",
+      "assigned_date": "2026-05-07",
+      "due_date": "2026-06-01",
+      "message_ts": "1778197673.670129",
+      "source_message": "@Liz' La Task-Killer' Zavala here's an list of things to update/change/create for the ampdworks.co",
+      "assigneeId": "U08D4RE1SKF",
+      "messageTs": "1778197673.670129",
+      "completed": false,
+      "completedAt": null,
+      "firstSeenAt": "2026-05-11T18:02:13.480Z"
+    },
+    "111ed82d30c5ca53f5b6b226a6beeb36": {
+      "task": "Import Lenderbase Cold List into AMPD CRM under partners area with proper tagging",
+      "assignee_name": "Eddie 'Rockstar' Monarrez",
+      "assignee_slack_mention": "@Eddie 'Rockstar' Monarrez",
+      "assigned_date": "2026-05-06",
+      "due_date": "2026-05-12",
+      "message_ts": "1778105616.306239",
+      "source_message": "@Eddie 'Rockstar' Monarrez please import into the ampd crm under the partners area.  Tag th",
+      "assigneeId": "U02LFUG2WLR",
+      "messageTs": "1778105616.306239",
+      "completed": true,
+      "completedAt": "2026-05-11T18:02:13.578Z",
+      "firstSeenAt": "2026-05-11T18:02:13.578Z"
     }
   },
   "scheduled": {
@@ -34046,6 +34074,244 @@
       "task": "connect opt-in to new core services funnel campaign",
       "assignee": "Mark 'Morpheus' Manaog",
       "reminderDate": "2026-06-11"
+    },
+    "64f20ef0dd068f4b97d20f82979a3030|midpoint|2026-05-19": {
+      "scheduledAt": "2026-05-11T18:02:14.324Z",
+      "type": "midpoint",
+      "task": "Update/change/create for ampdworks.com website using provided document",
+      "assignee": "Liz' La Task-Killer' Zavala",
+      "reminderDate": "2026-05-19"
+    },
+    "64f20ef0dd068f4b97d20f82979a3030|nag|2026-05-30": {
+      "scheduledAt": "2026-05-11T18:02:15.050Z",
+      "type": "nag",
+      "task": "Update/change/create for ampdworks.com website using provided document",
+      "assignee": "Liz' La Task-Killer' Zavala",
+      "reminderDate": "2026-05-30"
+    },
+    "64f20ef0dd068f4b97d20f82979a3030|nag|2026-05-31": {
+      "scheduledAt": "2026-05-11T18:02:15.752Z",
+      "type": "nag",
+      "task": "Update/change/create for ampdworks.com website using provided document",
+      "assignee": "Liz' La Task-Killer' Zavala",
+      "reminderDate": "2026-05-31"
+    },
+    "64f20ef0dd068f4b97d20f82979a3030|due|2026-06-01": {
+      "scheduledAt": "2026-05-11T18:02:16.436Z",
+      "type": "due",
+      "task": "Update/change/create for ampdworks.com website using provided document",
+      "assignee": "Liz' La Task-Killer' Zavala",
+      "reminderDate": "2026-06-01"
+    },
+    "64f20ef0dd068f4b97d20f82979a3030|overdue|2026-06-02": {
+      "scheduledAt": "2026-05-11T18:02:17.117Z",
+      "type": "overdue",
+      "task": "Update/change/create for ampdworks.com website using provided document",
+      "assignee": "Liz' La Task-Killer' Zavala",
+      "reminderDate": "2026-06-02"
+    },
+    "64f20ef0dd068f4b97d20f82979a3030|overdue|2026-06-03": {
+      "scheduledAt": "2026-05-11T18:02:17.794Z",
+      "type": "overdue",
+      "task": "Update/change/create for ampdworks.com website using provided document",
+      "assignee": "Liz' La Task-Killer' Zavala",
+      "reminderDate": "2026-06-03"
+    },
+    "64f20ef0dd068f4b97d20f82979a3030|overdue|2026-06-04": {
+      "scheduledAt": "2026-05-11T18:02:18.470Z",
+      "type": "overdue",
+      "task": "Update/change/create for ampdworks.com website using provided document",
+      "assignee": "Liz' La Task-Killer' Zavala",
+      "reminderDate": "2026-06-04"
+    },
+    "64f20ef0dd068f4b97d20f82979a3030|overdue|2026-06-05": {
+      "scheduledAt": "2026-05-11T18:02:19.194Z",
+      "type": "overdue",
+      "task": "Update/change/create for ampdworks.com website using provided document",
+      "assignee": "Liz' La Task-Killer' Zavala",
+      "reminderDate": "2026-06-05"
+    },
+    "64f20ef0dd068f4b97d20f82979a3030|overdue|2026-06-06": {
+      "scheduledAt": "2026-05-11T18:02:19.935Z",
+      "type": "overdue",
+      "task": "Update/change/create for ampdworks.com website using provided document",
+      "assignee": "Liz' La Task-Killer' Zavala",
+      "reminderDate": "2026-06-06"
+    },
+    "64f20ef0dd068f4b97d20f82979a3030|overdue|2026-06-07": {
+      "scheduledAt": "2026-05-11T18:02:20.637Z",
+      "type": "overdue",
+      "task": "Update/change/create for ampdworks.com website using provided document",
+      "assignee": "Liz' La Task-Killer' Zavala",
+      "reminderDate": "2026-06-07"
+    },
+    "64f20ef0dd068f4b97d20f82979a3030|overdue|2026-06-08": {
+      "scheduledAt": "2026-05-11T18:02:21.382Z",
+      "type": "overdue",
+      "task": "Update/change/create for ampdworks.com website using provided document",
+      "assignee": "Liz' La Task-Killer' Zavala",
+      "reminderDate": "2026-06-08"
+    },
+    "64f20ef0dd068f4b97d20f82979a3030|overdue|2026-06-09": {
+      "scheduledAt": "2026-05-11T18:02:22.143Z",
+      "type": "overdue",
+      "task": "Update/change/create for ampdworks.com website using provided document",
+      "assignee": "Liz' La Task-Killer' Zavala",
+      "reminderDate": "2026-06-09"
+    },
+    "64f20ef0dd068f4b97d20f82979a3030|overdue|2026-06-10": {
+      "scheduledAt": "2026-05-11T18:02:22.852Z",
+      "type": "overdue",
+      "task": "Update/change/create for ampdworks.com website using provided document",
+      "assignee": "Liz' La Task-Killer' Zavala",
+      "reminderDate": "2026-06-10"
+    },
+    "64f20ef0dd068f4b97d20f82979a3030|overdue|2026-06-11": {
+      "scheduledAt": "2026-05-11T18:02:23.577Z",
+      "type": "overdue",
+      "task": "Update/change/create for ampdworks.com website using provided document",
+      "assignee": "Liz' La Task-Killer' Zavala",
+      "reminderDate": "2026-06-11"
+    },
+    "64f20ef0dd068f4b97d20f82979a3030|overdue|2026-06-12": {
+      "scheduledAt": "2026-05-11T18:02:24.273Z",
+      "type": "overdue",
+      "task": "Update/change/create for ampdworks.com website using provided document",
+      "assignee": "Liz' La Task-Killer' Zavala",
+      "reminderDate": "2026-06-12"
+    },
+    "64f20ef0dd068f4b97d20f82979a3030|overdue|2026-06-13": {
+      "scheduledAt": "2026-05-11T18:02:24.990Z",
+      "type": "overdue",
+      "task": "Update/change/create for ampdworks.com website using provided document",
+      "assignee": "Liz' La Task-Killer' Zavala",
+      "reminderDate": "2026-06-13"
+    },
+    "64f20ef0dd068f4b97d20f82979a3030|overdue|2026-06-14": {
+      "scheduledAt": "2026-05-11T18:02:25.697Z",
+      "type": "overdue",
+      "task": "Update/change/create for ampdworks.com website using provided document",
+      "assignee": "Liz' La Task-Killer' Zavala",
+      "reminderDate": "2026-06-14"
+    },
+    "64f20ef0dd068f4b97d20f82979a3030|overdue|2026-06-15": {
+      "scheduledAt": "2026-05-11T18:02:26.408Z",
+      "type": "overdue",
+      "task": "Update/change/create for ampdworks.com website using provided document",
+      "assignee": "Liz' La Task-Killer' Zavala",
+      "reminderDate": "2026-06-15"
+    },
+    "64f20ef0dd068f4b97d20f82979a3030|overdue|2026-06-16": {
+      "scheduledAt": "2026-05-11T18:02:27.104Z",
+      "type": "overdue",
+      "task": "Update/change/create for ampdworks.com website using provided document",
+      "assignee": "Liz' La Task-Killer' Zavala",
+      "reminderDate": "2026-06-16"
+    },
+    "64f20ef0dd068f4b97d20f82979a3030|overdue|2026-06-17": {
+      "scheduledAt": "2026-05-11T18:02:27.792Z",
+      "type": "overdue",
+      "task": "Update/change/create for ampdworks.com website using provided document",
+      "assignee": "Liz' La Task-Killer' Zavala",
+      "reminderDate": "2026-06-17"
+    },
+    "64f20ef0dd068f4b97d20f82979a3030|overdue|2026-06-18": {
+      "scheduledAt": "2026-05-11T18:02:28.486Z",
+      "type": "overdue",
+      "task": "Update/change/create for ampdworks.com website using provided document",
+      "assignee": "Liz' La Task-Killer' Zavala",
+      "reminderDate": "2026-06-18"
+    },
+    "64f20ef0dd068f4b97d20f82979a3030|overdue|2026-06-19": {
+      "scheduledAt": "2026-05-11T18:02:29.189Z",
+      "type": "overdue",
+      "task": "Update/change/create for ampdworks.com website using provided document",
+      "assignee": "Liz' La Task-Killer' Zavala",
+      "reminderDate": "2026-06-19"
+    },
+    "64f20ef0dd068f4b97d20f82979a3030|overdue|2026-06-20": {
+      "scheduledAt": "2026-05-11T18:02:29.861Z",
+      "type": "overdue",
+      "task": "Update/change/create for ampdworks.com website using provided document",
+      "assignee": "Liz' La Task-Killer' Zavala",
+      "reminderDate": "2026-06-20"
+    },
+    "64f20ef0dd068f4b97d20f82979a3030|overdue|2026-06-21": {
+      "scheduledAt": "2026-05-11T18:02:30.567Z",
+      "type": "overdue",
+      "task": "Update/change/create for ampdworks.com website using provided document",
+      "assignee": "Liz' La Task-Killer' Zavala",
+      "reminderDate": "2026-06-21"
+    },
+    "64f20ef0dd068f4b97d20f82979a3030|overdue|2026-06-22": {
+      "scheduledAt": "2026-05-11T18:02:31.296Z",
+      "type": "overdue",
+      "task": "Update/change/create for ampdworks.com website using provided document",
+      "assignee": "Liz' La Task-Killer' Zavala",
+      "reminderDate": "2026-06-22"
+    },
+    "64f20ef0dd068f4b97d20f82979a3030|overdue|2026-06-23": {
+      "scheduledAt": "2026-05-11T18:02:31.984Z",
+      "type": "overdue",
+      "task": "Update/change/create for ampdworks.com website using provided document",
+      "assignee": "Liz' La Task-Killer' Zavala",
+      "reminderDate": "2026-06-23"
+    },
+    "64f20ef0dd068f4b97d20f82979a3030|overdue|2026-06-24": {
+      "scheduledAt": "2026-05-11T18:02:32.684Z",
+      "type": "overdue",
+      "task": "Update/change/create for ampdworks.com website using provided document",
+      "assignee": "Liz' La Task-Killer' Zavala",
+      "reminderDate": "2026-06-24"
+    },
+    "64f20ef0dd068f4b97d20f82979a3030|overdue|2026-06-25": {
+      "scheduledAt": "2026-05-11T18:02:33.391Z",
+      "type": "overdue",
+      "task": "Update/change/create for ampdworks.com website using provided document",
+      "assignee": "Liz' La Task-Killer' Zavala",
+      "reminderDate": "2026-06-25"
+    },
+    "64f20ef0dd068f4b97d20f82979a3030|overdue|2026-06-26": {
+      "scheduledAt": "2026-05-11T18:02:34.109Z",
+      "type": "overdue",
+      "task": "Update/change/create for ampdworks.com website using provided document",
+      "assignee": "Liz' La Task-Killer' Zavala",
+      "reminderDate": "2026-06-26"
+    },
+    "64f20ef0dd068f4b97d20f82979a3030|overdue|2026-06-27": {
+      "scheduledAt": "2026-05-11T18:02:34.782Z",
+      "type": "overdue",
+      "task": "Update/change/create for ampdworks.com website using provided document",
+      "assignee": "Liz' La Task-Killer' Zavala",
+      "reminderDate": "2026-06-27"
+    },
+    "64f20ef0dd068f4b97d20f82979a3030|overdue|2026-06-28": {
+      "scheduledAt": "2026-05-11T18:02:35.463Z",
+      "type": "overdue",
+      "task": "Update/change/create for ampdworks.com website using provided document",
+      "assignee": "Liz' La Task-Killer' Zavala",
+      "reminderDate": "2026-06-28"
+    },
+    "64f20ef0dd068f4b97d20f82979a3030|overdue|2026-06-29": {
+      "scheduledAt": "2026-05-11T18:02:36.142Z",
+      "type": "overdue",
+      "task": "Update/change/create for ampdworks.com website using provided document",
+      "assignee": "Liz' La Task-Killer' Zavala",
+      "reminderDate": "2026-06-29"
+    },
+    "64f20ef0dd068f4b97d20f82979a3030|overdue|2026-06-30": {
+      "scheduledAt": "2026-05-11T18:02:36.839Z",
+      "type": "overdue",
+      "task": "Update/change/create for ampdworks.com website using provided document",
+      "assignee": "Liz' La Task-Killer' Zavala",
+      "reminderDate": "2026-06-30"
+    },
+    "64f20ef0dd068f4b97d20f82979a3030|overdue|2026-07-01": {
+      "scheduledAt": "2026-05-11T18:02:37.593Z",
+      "type": "overdue",
+      "task": "Update/change/create for ampdworks.com website using provided document",
+      "assignee": "Liz' La Task-Killer' Zavala",
+      "reminderDate": "2026-07-01"
     }
   },
   "scheduledMessageIds": {
@@ -55054,8 +55320,418 @@
         "channel": "C05JGF817H6",
         "messageId": "Q0B2YRGE3LM"
       }
+    ],
+    "64f20ef0dd068f4b97d20f82979a3030": [
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B331PH23C"
+      },
+      {
+        "channel": "U08D4RE1SKF",
+        "messageId": "Q0B2MHNP539"
+      },
+      {
+        "channel": "C097HTJ0Z5G",
+        "messageId": "Q0B2WL3LEBV"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B36KNSQF6"
+      },
+      {
+        "channel": "U08D4RE1SKF",
+        "messageId": "Q0B36KPTF8U"
+      },
+      {
+        "channel": "C097HTJ0Z5G",
+        "messageId": "Q0B30V4EZJS"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B34TSF61X"
+      },
+      {
+        "channel": "U08D4RE1SKF",
+        "messageId": "Q0B2ZKQD1S9"
+      },
+      {
+        "channel": "C097HTJ0Z5G",
+        "messageId": "Q0B30V5F5GE"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B3XA2J6FJ"
+      },
+      {
+        "channel": "U08D4RE1SKF",
+        "messageId": "Q0B2ZKPQDN1"
+      },
+      {
+        "channel": "C097HTJ0Z5G",
+        "messageId": "Q0B36KPCX28"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B2WL45G9H"
+      },
+      {
+        "channel": "U08D4RE1SKF",
+        "messageId": "Q0B3XA2HXFS"
+      },
+      {
+        "channel": "C097HTJ0Z5G",
+        "messageId": "Q0B34TS7WNM"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B2MHPBEQP"
+      },
+      {
+        "channel": "U08D4RE1SKF",
+        "messageId": "Q0B2WL4FHGB"
+      },
+      {
+        "channel": "C097HTJ0Z5G",
+        "messageId": "Q0B36KP3928"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B2WL4G3UK"
+      },
+      {
+        "channel": "U08D4RE1SKF",
+        "messageId": "Q0B2ZKQ7TKP"
+      },
+      {
+        "channel": "C097HTJ0Z5G",
+        "messageId": "Q0B2WL47VV1"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B2ZKQ35S9"
+      },
+      {
+        "channel": "U08D4RE1SKF",
+        "messageId": "Q0B30V5Q7B8"
+      },
+      {
+        "channel": "C097HTJ0Z5G",
+        "messageId": "Q0B30V60DC6"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B34TSK5FT"
+      },
+      {
+        "channel": "U08D4RE1SKF",
+        "messageId": "Q0B331P7FQS"
+      },
+      {
+        "channel": "C097HTJ0Z5G",
+        "messageId": "Q0B30V5V0QN"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B36KPHWNQ"
+      },
+      {
+        "channel": "U08D4RE1SKF",
+        "messageId": "Q0B2WL3L467"
+      },
+      {
+        "channel": "C097HTJ0Z5G",
+        "messageId": "Q0B36KPJJEQ"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B34TSSL01"
+      },
+      {
+        "channel": "U08D4RE1SKF",
+        "messageId": "Q0B3XA42D16"
+      },
+      {
+        "channel": "C097HTJ0Z5G",
+        "messageId": "Q0B2MHNPUBZ"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B2WL54R51"
+      },
+      {
+        "channel": "U08D4RE1SKF",
+        "messageId": "Q0B3XA3KWQ0"
+      },
+      {
+        "channel": "C097HTJ0Z5G",
+        "messageId": "Q0B2MHPGEAK"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B331QNCP4"
+      },
+      {
+        "channel": "U08D4RE1SKF",
+        "messageId": "Q0B30V6TRE2"
+      },
+      {
+        "channel": "C097HTJ0Z5G",
+        "messageId": "Q0B36KQ4M2Q"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B331QS3PU"
+      },
+      {
+        "channel": "U08D4RE1SKF",
+        "messageId": "Q0B34TTMWKB"
+      },
+      {
+        "channel": "C097HTJ0Z5G",
+        "messageId": "Q0B2MHQ9CGP"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B30V6U3TQ"
+      },
+      {
+        "channel": "U08D4RE1SKF",
+        "messageId": "Q0B30V6BGKG"
+      },
+      {
+        "channel": "C097HTJ0Z5G",
+        "messageId": "Q0B2MHQ7EGP"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B2WL5ADEX"
+      },
+      {
+        "channel": "U08D4RE1SKF",
+        "messageId": "Q0B30V6HX9C"
+      },
+      {
+        "channel": "C097HTJ0Z5G",
+        "messageId": "Q0B331R4AQJ"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B2WL5D1J7"
+      },
+      {
+        "channel": "U08D4RE1SKF",
+        "messageId": "Q0B331RE0PL"
+      },
+      {
+        "channel": "C097HTJ0Z5G",
+        "messageId": "Q0B36KQFZM2"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B2WL59NTD"
+      },
+      {
+        "channel": "U08D4RE1SKF",
+        "messageId": "Q0B2WL50FH9"
+      },
+      {
+        "channel": "C097HTJ0Z5G",
+        "messageId": "Q0B331RJ90A"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B34TULML1"
+      },
+      {
+        "channel": "U08D4RE1SKF",
+        "messageId": "Q0B2WL48HNF"
+      },
+      {
+        "channel": "C097HTJ0Z5G",
+        "messageId": "Q0B331R44RY"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B36KQCTJQ"
+      },
+      {
+        "channel": "U08D4RE1SKF",
+        "messageId": "Q0B331R9KM0"
+      },
+      {
+        "channel": "C097HTJ0Z5G",
+        "messageId": "Q0B3XA3V2M6"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B2ZKQPQKF"
+      },
+      {
+        "channel": "U08D4RE1SKF",
+        "messageId": "Q0B2MHRCETZ"
+      },
+      {
+        "channel": "C097HTJ0Z5G",
+        "messageId": "Q0B3XA4NMDW"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B30V70L4E"
+      },
+      {
+        "channel": "U08D4RE1SKF",
+        "messageId": "Q0B331R8F8A"
+      },
+      {
+        "channel": "C097HTJ0Z5G",
+        "messageId": "Q0B36KR8L5S"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B2MHR495M"
+      },
+      {
+        "channel": "U08D4RE1SKF",
+        "messageId": "Q0B30V71DCN"
+      },
+      {
+        "channel": "C097HTJ0Z5G",
+        "messageId": "Q0B2ZKRUL5B"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B2ZKQH6VB"
+      },
+      {
+        "channel": "U08D4RE1SKF",
+        "messageId": "Q0B30V74NP8"
+      },
+      {
+        "channel": "C097HTJ0Z5G",
+        "messageId": "Q0B3XA575UY"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B331SGYNN"
+      },
+      {
+        "channel": "U08D4RE1SKF",
+        "messageId": "Q0B2WL60BPV"
+      },
+      {
+        "channel": "C097HTJ0Z5G",
+        "messageId": "Q0B2MHRA347"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B2WL625AP"
+      },
+      {
+        "channel": "U08D4RE1SKF",
+        "messageId": "Q0B2WL63GLT"
+      },
+      {
+        "channel": "C097HTJ0Z5G",
+        "messageId": "Q0B2WL67QAX"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B3XA5MUHW"
+      },
+      {
+        "channel": "U08D4RE1SKF",
+        "messageId": "Q0B2MHR5ECX"
+      },
+      {
+        "channel": "C097HTJ0Z5G",
+        "messageId": "Q0B2MHR5SDD"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B30V8U8H4"
+      },
+      {
+        "channel": "U08D4RE1SKF",
+        "messageId": "Q0B34TW6DUH"
+      },
+      {
+        "channel": "C097HTJ0Z5G",
+        "messageId": "Q0B2MHQR1N3"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B3XA4UCTS"
+      },
+      {
+        "channel": "U08D4RE1SKF",
+        "messageId": "Q0B2WL6D8JF"
+      },
+      {
+        "channel": "C097HTJ0Z5G",
+        "messageId": "Q0B36KRJUCC"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B2MHSG0TZ"
+      },
+      {
+        "channel": "U08D4RE1SKF",
+        "messageId": "Q0B2MHRC4TZ"
+      },
+      {
+        "channel": "C097HTJ0Z5G",
+        "messageId": "Q0B36KRKWA0"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B36KQUKU4"
+      },
+      {
+        "channel": "U08D4RE1SKF",
+        "messageId": "Q0B2MHRG5LP"
+      },
+      {
+        "channel": "C097HTJ0Z5G",
+        "messageId": "Q0B2MHSJ771"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B2WL6ADL3"
+      },
+      {
+        "channel": "U08D4RE1SKF",
+        "messageId": "Q0B2WL6Q2BV"
+      },
+      {
+        "channel": "C097HTJ0Z5G",
+        "messageId": "Q0B36KSL2GL"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B34TUFRSM"
+      },
+      {
+        "channel": "U08D4RE1SKF",
+        "messageId": "Q0B2ZKSRRT7"
+      },
+      {
+        "channel": "C097HTJ0Z5G",
+        "messageId": "Q0B2MHS9C31"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B2ZKSS14M"
+      },
+      {
+        "channel": "U08D4RE1SKF",
+        "messageId": "Q0B331T3BDY"
+      },
+      {
+        "channel": "C097HTJ0Z5G",
+        "messageId": "Q0B2WL6UPT5"
+      }
     ]
   },
   "lastWeeklySummaryDate": "2026-W19",
-  "lastRun": "2026-05-11T16:24:21.314Z"
+  "lastRun": "2026-05-11T18:02:37.594Z"
 }
