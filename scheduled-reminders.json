@@ -3695,6 +3695,76 @@
       "completed": false,
       "completedAt": null,
       "firstSeenAt": "2026-05-11T21:56:04.292Z"
+    },
+    "f408121450780173fc5060c8c342033a": {
+      "task": "check in with Jason Kim on the last day of May about transitioning to DSCR advertising",
+      "assignee_name": "Mark 'Morpheus' Manaog",
+      "assignee_slack_mention": "@Mark 'Morpheus' Manaog",
+      "assigned_date": "2026-05-11",
+      "due_date": "2026-05-31",
+      "message_ts": "1778541346.107849",
+      "source_message": "Brandon 'The One' Robertson: @Mark 'Morpheus' Manaog check in with Jason Kim on the last day of Ma",
+      "assigneeId": "U023F61R16F",
+      "messageTs": "1778541346.107849",
+      "completed": false,
+      "completedAt": null,
+      "firstSeenAt": "2026-05-12T06:02:05.155Z"
+    },
+    "c9987469c38a5e7431d0e5a149e55007": {
+      "task": "build this campaign and put it in a new folder called Core Services Campaigns",
+      "assignee_name": "Christle 'Knows All' Ochigue",
+      "assignee_slack_mention": "@Christle 'Knows All' Ochigue",
+      "assigned_date": "2026-05-06",
+      "due_date": "2026-05-09",
+      "message_ts": "1778108687.985869",
+      "source_message": "Brandon 'The One' Robertson: @Christle 'Knows All' Ochigue please build this campaign and put it",
+      "assigneeId": "UMCPG3D8A",
+      "messageTs": "1778108687.985869",
+      "completed": true,
+      "completedAt": "2026-05-12T06:02:05.735Z",
+      "firstSeenAt": "2026-05-12T06:02:05.735Z"
+    },
+    "7e0c2945cef16a94aa1040cf723b5d21": {
+      "task": "import into the ampd crm under the partners area and fix capitalization",
+      "assignee_name": "Eddie 'Rockstar' Monarrez",
+      "assignee_slack_mention": "@Eddie 'Rockstar' Monarrez",
+      "assigned_date": "2026-05-06",
+      "due_date": "2026-05-12",
+      "message_ts": "1778105616.306239",
+      "source_message": "Brandon 'The One' Robertson: @Eddie 'Rockstar' Monarrez please import into the ampd crm under",
+      "assigneeId": "U02LFUG2WLR",
+      "messageTs": "1778105616.306239",
+      "completed": true,
+      "completedAt": "2026-05-12T06:02:05.997Z",
+      "firstSeenAt": "2026-05-12T06:02:05.997Z"
+    },
+    "5ea569e21473746a465d87a2e337f063": {
+      "task": "create automation that sends BLS booking info to Christle's FD",
+      "assignee_name": "Mark 'Morpheus' Manaog",
+      "assignee_slack_mention": "@Mark 'Morpheus' Manaog",
+      "assigned_date": "2026-05-05",
+      "due_date": "2026-05-06",
+      "message_ts": "1778015693.703289",
+      "source_message": "Brandon 'The One' Robertson: @Mark 'Morpheus' Manaog please create an automation that sends all",
+      "assigneeId": "U023F61R16F",
+      "messageTs": "1778015693.703289",
+      "completed": true,
+      "completedAt": "2026-05-12T06:02:06.206Z",
+      "firstSeenAt": "2026-05-12T06:02:06.206Z"
+    },
+    "8b89419cfcf25136f52ad2f554a3529f": {
+      "task": "remove or shorten Jimmy from ampd thing so it doesn't say that every time",
+      "assignee_name": "Brandon 'The One' Robertson",
+      "assignee_slack_mention": "@Brandon 'The One' Robertson",
+      "assigned_date": "2026-05-05",
+      "due_date": null,
+      "message_ts": "1778012542.611859",
+      "source_message": "Yeah I agree, I would remove it or shorten it to just Jimmy. @Brandon 'The One' Robertson",
+      "assigneeId": "UMS39RAGP",
+      "messageTs": "1778012542.611859",
+      "completed": false,
+      "completedAt": null,
+      "firstSeenAt": "2026-05-12T06:02:06.434Z"
     }
   },
   "scheduled": {
@@ -34542,6 +34612,251 @@
       "task": "test/solve getting leads from jotform chatbot or move AI chat system to GHL for mccown and nichnolson teams",
       "assignee": "Mark 'Morpheus' Manaog",
       "reminderDate": "2026-06-08"
+    },
+    "f408121450780173fc5060c8c342033a|midpoint|2026-05-21": {
+      "scheduledAt": "2026-05-12T06:02:07.674Z",
+      "type": "midpoint",
+      "task": "check in with Jason Kim on the last day of May about transitioning to DSCR advertising",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-05-21"
+    },
+    "f408121450780173fc5060c8c342033a|nag|2026-05-29": {
+      "scheduledAt": "2026-05-12T06:02:08.798Z",
+      "type": "nag",
+      "task": "check in with Jason Kim on the last day of May about transitioning to DSCR advertising",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-05-29"
+    },
+    "f408121450780173fc5060c8c342033a|nag|2026-05-30": {
+      "scheduledAt": "2026-05-12T06:02:09.792Z",
+      "type": "nag",
+      "task": "check in with Jason Kim on the last day of May about transitioning to DSCR advertising",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-05-30"
+    },
+    "f408121450780173fc5060c8c342033a|due|2026-05-31": {
+      "scheduledAt": "2026-05-12T06:02:10.873Z",
+      "type": "due",
+      "task": "check in with Jason Kim on the last day of May about transitioning to DSCR advertising",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-05-31"
+    },
+    "f408121450780173fc5060c8c342033a|overdue|2026-06-01": {
+      "scheduledAt": "2026-05-12T06:02:11.946Z",
+      "type": "overdue",
+      "task": "check in with Jason Kim on the last day of May about transitioning to DSCR advertising",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-06-01"
+    },
+    "f408121450780173fc5060c8c342033a|overdue|2026-06-02": {
+      "scheduledAt": "2026-05-12T06:02:12.950Z",
+      "type": "overdue",
+      "task": "check in with Jason Kim on the last day of May about transitioning to DSCR advertising",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-06-02"
+    },
+    "f408121450780173fc5060c8c342033a|overdue|2026-06-03": {
+      "scheduledAt": "2026-05-12T06:02:13.965Z",
+      "type": "overdue",
+      "task": "check in with Jason Kim on the last day of May about transitioning to DSCR advertising",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-06-03"
+    },
+    "f408121450780173fc5060c8c342033a|overdue|2026-06-04": {
+      "scheduledAt": "2026-05-12T06:02:14.921Z",
+      "type": "overdue",
+      "task": "check in with Jason Kim on the last day of May about transitioning to DSCR advertising",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-06-04"
+    },
+    "f408121450780173fc5060c8c342033a|overdue|2026-06-05": {
+      "scheduledAt": "2026-05-12T06:02:15.903Z",
+      "type": "overdue",
+      "task": "check in with Jason Kim on the last day of May about transitioning to DSCR advertising",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-06-05"
+    },
+    "f408121450780173fc5060c8c342033a|overdue|2026-06-06": {
+      "scheduledAt": "2026-05-12T06:02:16.800Z",
+      "type": "overdue",
+      "task": "check in with Jason Kim on the last day of May about transitioning to DSCR advertising",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-06-06"
+    },
+    "f408121450780173fc5060c8c342033a|overdue|2026-06-07": {
+      "scheduledAt": "2026-05-12T06:02:17.844Z",
+      "type": "overdue",
+      "task": "check in with Jason Kim on the last day of May about transitioning to DSCR advertising",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-06-07"
+    },
+    "f408121450780173fc5060c8c342033a|overdue|2026-06-08": {
+      "scheduledAt": "2026-05-12T06:02:18.903Z",
+      "type": "overdue",
+      "task": "check in with Jason Kim on the last day of May about transitioning to DSCR advertising",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-06-08"
+    },
+    "f408121450780173fc5060c8c342033a|overdue|2026-06-09": {
+      "scheduledAt": "2026-05-12T06:02:19.879Z",
+      "type": "overdue",
+      "task": "check in with Jason Kim on the last day of May about transitioning to DSCR advertising",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-06-09"
+    },
+    "f408121450780173fc5060c8c342033a|overdue|2026-06-10": {
+      "scheduledAt": "2026-05-12T06:02:20.989Z",
+      "type": "overdue",
+      "task": "check in with Jason Kim on the last day of May about transitioning to DSCR advertising",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-06-10"
+    },
+    "f408121450780173fc5060c8c342033a|overdue|2026-06-11": {
+      "scheduledAt": "2026-05-12T06:02:21.988Z",
+      "type": "overdue",
+      "task": "check in with Jason Kim on the last day of May about transitioning to DSCR advertising",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-06-11"
+    },
+    "f408121450780173fc5060c8c342033a|overdue|2026-06-12": {
+      "scheduledAt": "2026-05-12T06:02:23.083Z",
+      "type": "overdue",
+      "task": "check in with Jason Kim on the last day of May about transitioning to DSCR advertising",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-06-12"
+    },
+    "f408121450780173fc5060c8c342033a|overdue|2026-06-13": {
+      "scheduledAt": "2026-05-12T06:02:24.198Z",
+      "type": "overdue",
+      "task": "check in with Jason Kim on the last day of May about transitioning to DSCR advertising",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-06-13"
+    },
+    "f408121450780173fc5060c8c342033a|overdue|2026-06-14": {
+      "scheduledAt": "2026-05-12T06:02:25.260Z",
+      "type": "overdue",
+      "task": "check in with Jason Kim on the last day of May about transitioning to DSCR advertising",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-06-14"
+    },
+    "f408121450780173fc5060c8c342033a|overdue|2026-06-15": {
+      "scheduledAt": "2026-05-12T06:02:26.313Z",
+      "type": "overdue",
+      "task": "check in with Jason Kim on the last day of May about transitioning to DSCR advertising",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-06-15"
+    },
+    "f408121450780173fc5060c8c342033a|overdue|2026-06-16": {
+      "scheduledAt": "2026-05-12T06:02:27.271Z",
+      "type": "overdue",
+      "task": "check in with Jason Kim on the last day of May about transitioning to DSCR advertising",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-06-16"
+    },
+    "f408121450780173fc5060c8c342033a|overdue|2026-06-17": {
+      "scheduledAt": "2026-05-12T06:02:28.268Z",
+      "type": "overdue",
+      "task": "check in with Jason Kim on the last day of May about transitioning to DSCR advertising",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-06-17"
+    },
+    "f408121450780173fc5060c8c342033a|overdue|2026-06-18": {
+      "scheduledAt": "2026-05-12T06:02:29.388Z",
+      "type": "overdue",
+      "task": "check in with Jason Kim on the last day of May about transitioning to DSCR advertising",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-06-18"
+    },
+    "f408121450780173fc5060c8c342033a|overdue|2026-06-19": {
+      "scheduledAt": "2026-05-12T06:02:30.426Z",
+      "type": "overdue",
+      "task": "check in with Jason Kim on the last day of May about transitioning to DSCR advertising",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-06-19"
+    },
+    "f408121450780173fc5060c8c342033a|overdue|2026-06-20": {
+      "scheduledAt": "2026-05-12T06:02:31.409Z",
+      "type": "overdue",
+      "task": "check in with Jason Kim on the last day of May about transitioning to DSCR advertising",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-06-20"
+    },
+    "f408121450780173fc5060c8c342033a|overdue|2026-06-21": {
+      "scheduledAt": "2026-05-12T06:02:32.578Z",
+      "type": "overdue",
+      "task": "check in with Jason Kim on the last day of May about transitioning to DSCR advertising",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-06-21"
+    },
+    "f408121450780173fc5060c8c342033a|overdue|2026-06-22": {
+      "scheduledAt": "2026-05-12T06:02:33.482Z",
+      "type": "overdue",
+      "task": "check in with Jason Kim on the last day of May about transitioning to DSCR advertising",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-06-22"
+    },
+    "f408121450780173fc5060c8c342033a|overdue|2026-06-23": {
+      "scheduledAt": "2026-05-12T06:02:34.605Z",
+      "type": "overdue",
+      "task": "check in with Jason Kim on the last day of May about transitioning to DSCR advertising",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-06-23"
+    },
+    "f408121450780173fc5060c8c342033a|overdue|2026-06-24": {
+      "scheduledAt": "2026-05-12T06:02:35.540Z",
+      "type": "overdue",
+      "task": "check in with Jason Kim on the last day of May about transitioning to DSCR advertising",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-06-24"
+    },
+    "f408121450780173fc5060c8c342033a|overdue|2026-06-25": {
+      "scheduledAt": "2026-05-12T06:02:36.470Z",
+      "type": "overdue",
+      "task": "check in with Jason Kim on the last day of May about transitioning to DSCR advertising",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-06-25"
+    },
+    "f408121450780173fc5060c8c342033a|overdue|2026-06-26": {
+      "scheduledAt": "2026-05-12T06:02:37.468Z",
+      "type": "overdue",
+      "task": "check in with Jason Kim on the last day of May about transitioning to DSCR advertising",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-06-26"
+    },
+    "f408121450780173fc5060c8c342033a|overdue|2026-06-27": {
+      "scheduledAt": "2026-05-12T06:02:38.383Z",
+      "type": "overdue",
+      "task": "check in with Jason Kim on the last day of May about transitioning to DSCR advertising",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-06-27"
+    },
+    "f408121450780173fc5060c8c342033a|overdue|2026-06-28": {
+      "scheduledAt": "2026-05-12T06:02:39.341Z",
+      "type": "overdue",
+      "task": "check in with Jason Kim on the last day of May about transitioning to DSCR advertising",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-06-28"
+    },
+    "f408121450780173fc5060c8c342033a|overdue|2026-06-29": {
+      "scheduledAt": "2026-05-12T06:02:40.267Z",
+      "type": "overdue",
+      "task": "check in with Jason Kim on the last day of May about transitioning to DSCR advertising",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-06-29"
+    },
+    "f408121450780173fc5060c8c342033a|overdue|2026-06-30": {
+      "scheduledAt": "2026-05-12T06:02:41.178Z",
+      "type": "overdue",
+      "task": "check in with Jason Kim on the last day of May about transitioning to DSCR advertising",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-06-30"
+    },
+    "8b89419cfcf25136f52ad2f554a3529f|followup|2026-05-12": {
+      "scheduledAt": "2026-05-12T06:02:41.984Z",
+      "type": "followup",
+      "task": "remove or shorten Jimmy from ampd thing so it doesn't say that every time",
+      "assignee": "Brandon 'The One' Robertson",
+      "reminderDate": "2026-05-12"
     }
   },
   "scheduledMessageIds": {
@@ -56298,8 +56613,428 @@
         "channel": "C05JGF817H6",
         "messageId": "Q0B318J4WDB"
       }
+    ],
+    "f408121450780173fc5060c8c342033a": [
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B38PKHQU9"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0B30FXS15H"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0B34QZ8G5U"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B36SV0LPL"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0B34QZ8T5L"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0B34QZ9FML"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B2RDGH295"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0B30FXHZ7V"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0B3AFGN7C4"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B3AFH56S0"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0B36SVE1BL"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0B30FXSUAF"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B33FJ1T0V"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0B38PKG3U1"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0B3AFH2Y2G"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B33FHFV2R"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0B30FXUSAX"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0B36SVE15Y"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B34QZHMF0"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0B2RDGJ23H"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0B2RDGVDKR"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B33FJ6EVB"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0B30FXV7QB"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0B34R094QN"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B3AFH5TRS"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0B34R01N0N"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0B33FJ0AGM"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B36SVQBR8"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0B36SVBVDG"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0B34R0RVLN"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B33FJ7UG5"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0B2RDH3Q8P"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0B33FJ1Y69"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B36SVLJQ2"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0B30FYEUN7"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0B415XAPC0"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B30FYR5GT"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0B33FHU1T7"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0B415Y4NJC"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B3AFHS328"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0B36SWJX4J"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0B2RDHRRP1"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B33FK62UV"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0B34R0DK8W"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0B30FZ9RFD"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B2RDJ896K"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0B38PMEDA5"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0B3AFJN45S"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B30FY05RR"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0B33FJPSLV"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0B33FK3THB"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B38PMPN2D"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0B34R1GZPY"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0B38PM91A5"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B36SWK8AE"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0B2RDJTW3H"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0B38PMG4M7"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B34R0886A"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0B38PMBMCZ"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0B36SXNSUS"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B34R1FTBQ"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0B30FZNUQK"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0B415Y4D6U"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B36SWR5L2"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0B30FZNHK5"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0B34R1EZ70"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B38PN6SNM"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0B36SXR8TC"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0B3AFJH7GU"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B38PMS4FK"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0B2RDJ4C9M"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0B2RDJCZ7H"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B3AFJG4KE"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0B34R1P3EJ"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0B3AFJN4CC"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B2RDK4JGP"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0B2RDK86CF"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0B33FKVBN1"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B3AFKEWQ4"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0B38PNP709"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0B36SY7074"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B2RDKH7N3"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0B36SXGDBL"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0B33FL86BX"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B36SXQJRG"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0B415ZB22C"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0B38PNFKT3"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B38PNPUAD"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0B36SY3B2N"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0B30G06VR9"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B36SXTFB4"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0B33FJN6VB"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0B30G0SVR9"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B30G0L3FV"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0B415ZEZ3J"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0B3AFLBP28"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B34R2RCKG"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0B38PPDR6D"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0B3AFL8A20"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B415ZQCL8"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0B33FLRMD3"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0B415ZTN00"
+      }
+    ],
+    "8b89419cfcf25136f52ad2f554a3529f": [
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B41604WQG"
+      },
+      {
+        "channel": "C05HV4SQD6G",
+        "messageId": "Q0B415Z4V5E"
+      }
     ]
   },
   "lastWeeklySummaryDate": "2026-W19",
-  "lastRun": "2026-05-11T21:56:32.229Z"
+  "lastRun": "2026-05-12T06:02:41.985Z"
 }
