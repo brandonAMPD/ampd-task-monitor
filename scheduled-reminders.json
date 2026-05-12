@@ -3765,6 +3765,48 @@
       "completed": false,
       "completedAt": null,
       "firstSeenAt": "2026-05-12T06:02:06.434Z"
+    },
+    "c2add8510f8cdc446b496a98093d6ea6": {
+      "task": "build/ include lead capture forms in main snapshots as noted",
+      "assignee_name": "Josh 'The Ninja' Morales",
+      "assignee_slack_mention": "@Josh 'The Ninja' Morales",
+      "assigned_date": "2026-05-12",
+      "due_date": "2026-05-21",
+      "message_ts": "1778588056.813639",
+      "source_message": "Brandon 'The One' Robertson: @Josh 'The Ninja' Morales build/ include lead capture forms in main sn",
+      "assigneeId": "U07FVUF09T7",
+      "messageTs": "1778588056.813639",
+      "completed": false,
+      "completedAt": null,
+      "firstSeenAt": "2026-05-12T12:30:10.409Z"
+    },
+    "178a6208f403a778f7983e50410a88fe": {
+      "task": "create campaign/sequence in CR per document",
+      "assignee_name": "Liz' La Task-Killer' Zavala",
+      "assignee_slack_mention": "@Liz' La Task-Killer' Zavala",
+      "assigned_date": "2026-05-06",
+      "due_date": "2026-05-09",
+      "message_ts": "1778109870.507669",
+      "source_message": "Brandon 'The One' Robertson: @Liz' La Task-Killer' Zavala please create this campaign/sequence",
+      "assigneeId": "U08D4RE1SKF",
+      "messageTs": "1778109870.507669",
+      "completed": true,
+      "completedAt": "2026-05-12T12:30:10.593Z",
+      "firstSeenAt": "2026-05-12T12:30:10.593Z"
+    },
+    "b64ca719e5f30883b322313a8cc3675b": {
+      "task": "update our dovetailmktg.com website by this friday with simple verbiage and a button",
+      "assignee_name": "Mark 'Morpheus' Manaog",
+      "assignee_slack_mention": "@Mark 'Morpheus' Manaog",
+      "assigned_date": "2026-05-04",
+      "due_date": "2026-05-09",
+      "message_ts": "1777934725.913409",
+      "source_message": "@Mark 'Morpheus' Manaog please update our dovetailmktg.com website by this friday with this sim",
+      "assigneeId": "U023F61R16F",
+      "messageTs": "1777934725.913409",
+      "completed": true,
+      "completedAt": "2026-05-12T12:30:10.781Z",
+      "firstSeenAt": "2026-05-12T12:30:10.781Z"
     }
   },
   "scheduled": {
@@ -34857,6 +34899,244 @@
       "task": "remove or shorten Jimmy from ampd thing so it doesn't say that every time",
       "assignee": "Brandon 'The One' Robertson",
       "reminderDate": "2026-05-12"
+    },
+    "c2add8510f8cdc446b496a98093d6ea6|midpoint|2026-05-16": {
+      "scheduledAt": "2026-05-12T12:30:11.842Z",
+      "type": "midpoint",
+      "task": "build/ include lead capture forms in main snapshots as noted",
+      "assignee": "Josh 'The Ninja' Morales",
+      "reminderDate": "2026-05-16"
+    },
+    "c2add8510f8cdc446b496a98093d6ea6|nag|2026-05-19": {
+      "scheduledAt": "2026-05-12T12:30:12.842Z",
+      "type": "nag",
+      "task": "build/ include lead capture forms in main snapshots as noted",
+      "assignee": "Josh 'The Ninja' Morales",
+      "reminderDate": "2026-05-19"
+    },
+    "c2add8510f8cdc446b496a98093d6ea6|nag|2026-05-20": {
+      "scheduledAt": "2026-05-12T12:30:13.855Z",
+      "type": "nag",
+      "task": "build/ include lead capture forms in main snapshots as noted",
+      "assignee": "Josh 'The Ninja' Morales",
+      "reminderDate": "2026-05-20"
+    },
+    "c2add8510f8cdc446b496a98093d6ea6|due|2026-05-21": {
+      "scheduledAt": "2026-05-12T12:30:14.863Z",
+      "type": "due",
+      "task": "build/ include lead capture forms in main snapshots as noted",
+      "assignee": "Josh 'The Ninja' Morales",
+      "reminderDate": "2026-05-21"
+    },
+    "c2add8510f8cdc446b496a98093d6ea6|overdue|2026-05-22": {
+      "scheduledAt": "2026-05-12T12:30:15.828Z",
+      "type": "overdue",
+      "task": "build/ include lead capture forms in main snapshots as noted",
+      "assignee": "Josh 'The Ninja' Morales",
+      "reminderDate": "2026-05-22"
+    },
+    "c2add8510f8cdc446b496a98093d6ea6|overdue|2026-05-23": {
+      "scheduledAt": "2026-05-12T12:30:17.024Z",
+      "type": "overdue",
+      "task": "build/ include lead capture forms in main snapshots as noted",
+      "assignee": "Josh 'The Ninja' Morales",
+      "reminderDate": "2026-05-23"
+    },
+    "c2add8510f8cdc446b496a98093d6ea6|overdue|2026-05-24": {
+      "scheduledAt": "2026-05-12T12:30:18.240Z",
+      "type": "overdue",
+      "task": "build/ include lead capture forms in main snapshots as noted",
+      "assignee": "Josh 'The Ninja' Morales",
+      "reminderDate": "2026-05-24"
+    },
+    "c2add8510f8cdc446b496a98093d6ea6|overdue|2026-05-25": {
+      "scheduledAt": "2026-05-12T12:30:19.291Z",
+      "type": "overdue",
+      "task": "build/ include lead capture forms in main snapshots as noted",
+      "assignee": "Josh 'The Ninja' Morales",
+      "reminderDate": "2026-05-25"
+    },
+    "c2add8510f8cdc446b496a98093d6ea6|overdue|2026-05-26": {
+      "scheduledAt": "2026-05-12T12:30:20.514Z",
+      "type": "overdue",
+      "task": "build/ include lead capture forms in main snapshots as noted",
+      "assignee": "Josh 'The Ninja' Morales",
+      "reminderDate": "2026-05-26"
+    },
+    "c2add8510f8cdc446b496a98093d6ea6|overdue|2026-05-27": {
+      "scheduledAt": "2026-05-12T12:30:21.663Z",
+      "type": "overdue",
+      "task": "build/ include lead capture forms in main snapshots as noted",
+      "assignee": "Josh 'The Ninja' Morales",
+      "reminderDate": "2026-05-27"
+    },
+    "c2add8510f8cdc446b496a98093d6ea6|overdue|2026-05-28": {
+      "scheduledAt": "2026-05-12T12:30:22.844Z",
+      "type": "overdue",
+      "task": "build/ include lead capture forms in main snapshots as noted",
+      "assignee": "Josh 'The Ninja' Morales",
+      "reminderDate": "2026-05-28"
+    },
+    "c2add8510f8cdc446b496a98093d6ea6|overdue|2026-05-29": {
+      "scheduledAt": "2026-05-12T12:30:23.964Z",
+      "type": "overdue",
+      "task": "build/ include lead capture forms in main snapshots as noted",
+      "assignee": "Josh 'The Ninja' Morales",
+      "reminderDate": "2026-05-29"
+    },
+    "c2add8510f8cdc446b496a98093d6ea6|overdue|2026-05-30": {
+      "scheduledAt": "2026-05-12T12:30:25.036Z",
+      "type": "overdue",
+      "task": "build/ include lead capture forms in main snapshots as noted",
+      "assignee": "Josh 'The Ninja' Morales",
+      "reminderDate": "2026-05-30"
+    },
+    "c2add8510f8cdc446b496a98093d6ea6|overdue|2026-05-31": {
+      "scheduledAt": "2026-05-12T12:30:26.170Z",
+      "type": "overdue",
+      "task": "build/ include lead capture forms in main snapshots as noted",
+      "assignee": "Josh 'The Ninja' Morales",
+      "reminderDate": "2026-05-31"
+    },
+    "c2add8510f8cdc446b496a98093d6ea6|overdue|2026-06-01": {
+      "scheduledAt": "2026-05-12T12:30:27.283Z",
+      "type": "overdue",
+      "task": "build/ include lead capture forms in main snapshots as noted",
+      "assignee": "Josh 'The Ninja' Morales",
+      "reminderDate": "2026-06-01"
+    },
+    "c2add8510f8cdc446b496a98093d6ea6|overdue|2026-06-02": {
+      "scheduledAt": "2026-05-12T12:30:28.413Z",
+      "type": "overdue",
+      "task": "build/ include lead capture forms in main snapshots as noted",
+      "assignee": "Josh 'The Ninja' Morales",
+      "reminderDate": "2026-06-02"
+    },
+    "c2add8510f8cdc446b496a98093d6ea6|overdue|2026-06-03": {
+      "scheduledAt": "2026-05-12T12:30:29.602Z",
+      "type": "overdue",
+      "task": "build/ include lead capture forms in main snapshots as noted",
+      "assignee": "Josh 'The Ninja' Morales",
+      "reminderDate": "2026-06-03"
+    },
+    "c2add8510f8cdc446b496a98093d6ea6|overdue|2026-06-04": {
+      "scheduledAt": "2026-05-12T12:30:30.779Z",
+      "type": "overdue",
+      "task": "build/ include lead capture forms in main snapshots as noted",
+      "assignee": "Josh 'The Ninja' Morales",
+      "reminderDate": "2026-06-04"
+    },
+    "c2add8510f8cdc446b496a98093d6ea6|overdue|2026-06-05": {
+      "scheduledAt": "2026-05-12T12:30:31.895Z",
+      "type": "overdue",
+      "task": "build/ include lead capture forms in main snapshots as noted",
+      "assignee": "Josh 'The Ninja' Morales",
+      "reminderDate": "2026-06-05"
+    },
+    "c2add8510f8cdc446b496a98093d6ea6|overdue|2026-06-06": {
+      "scheduledAt": "2026-05-12T12:30:33.061Z",
+      "type": "overdue",
+      "task": "build/ include lead capture forms in main snapshots as noted",
+      "assignee": "Josh 'The Ninja' Morales",
+      "reminderDate": "2026-06-06"
+    },
+    "c2add8510f8cdc446b496a98093d6ea6|overdue|2026-06-07": {
+      "scheduledAt": "2026-05-12T12:30:34.145Z",
+      "type": "overdue",
+      "task": "build/ include lead capture forms in main snapshots as noted",
+      "assignee": "Josh 'The Ninja' Morales",
+      "reminderDate": "2026-06-07"
+    },
+    "c2add8510f8cdc446b496a98093d6ea6|overdue|2026-06-08": {
+      "scheduledAt": "2026-05-12T12:30:35.518Z",
+      "type": "overdue",
+      "task": "build/ include lead capture forms in main snapshots as noted",
+      "assignee": "Josh 'The Ninja' Morales",
+      "reminderDate": "2026-06-08"
+    },
+    "c2add8510f8cdc446b496a98093d6ea6|overdue|2026-06-09": {
+      "scheduledAt": "2026-05-12T12:30:36.833Z",
+      "type": "overdue",
+      "task": "build/ include lead capture forms in main snapshots as noted",
+      "assignee": "Josh 'The Ninja' Morales",
+      "reminderDate": "2026-06-09"
+    },
+    "c2add8510f8cdc446b496a98093d6ea6|overdue|2026-06-10": {
+      "scheduledAt": "2026-05-12T12:30:38.003Z",
+      "type": "overdue",
+      "task": "build/ include lead capture forms in main snapshots as noted",
+      "assignee": "Josh 'The Ninja' Morales",
+      "reminderDate": "2026-06-10"
+    },
+    "c2add8510f8cdc446b496a98093d6ea6|overdue|2026-06-11": {
+      "scheduledAt": "2026-05-12T12:30:39.188Z",
+      "type": "overdue",
+      "task": "build/ include lead capture forms in main snapshots as noted",
+      "assignee": "Josh 'The Ninja' Morales",
+      "reminderDate": "2026-06-11"
+    },
+    "c2add8510f8cdc446b496a98093d6ea6|overdue|2026-06-12": {
+      "scheduledAt": "2026-05-12T12:30:40.373Z",
+      "type": "overdue",
+      "task": "build/ include lead capture forms in main snapshots as noted",
+      "assignee": "Josh 'The Ninja' Morales",
+      "reminderDate": "2026-06-12"
+    },
+    "c2add8510f8cdc446b496a98093d6ea6|overdue|2026-06-13": {
+      "scheduledAt": "2026-05-12T12:30:41.546Z",
+      "type": "overdue",
+      "task": "build/ include lead capture forms in main snapshots as noted",
+      "assignee": "Josh 'The Ninja' Morales",
+      "reminderDate": "2026-06-13"
+    },
+    "c2add8510f8cdc446b496a98093d6ea6|overdue|2026-06-14": {
+      "scheduledAt": "2026-05-12T12:30:42.663Z",
+      "type": "overdue",
+      "task": "build/ include lead capture forms in main snapshots as noted",
+      "assignee": "Josh 'The Ninja' Morales",
+      "reminderDate": "2026-06-14"
+    },
+    "c2add8510f8cdc446b496a98093d6ea6|overdue|2026-06-15": {
+      "scheduledAt": "2026-05-12T12:30:43.820Z",
+      "type": "overdue",
+      "task": "build/ include lead capture forms in main snapshots as noted",
+      "assignee": "Josh 'The Ninja' Morales",
+      "reminderDate": "2026-06-15"
+    },
+    "c2add8510f8cdc446b496a98093d6ea6|overdue|2026-06-16": {
+      "scheduledAt": "2026-05-12T12:30:44.863Z",
+      "type": "overdue",
+      "task": "build/ include lead capture forms in main snapshots as noted",
+      "assignee": "Josh 'The Ninja' Morales",
+      "reminderDate": "2026-06-16"
+    },
+    "c2add8510f8cdc446b496a98093d6ea6|overdue|2026-06-17": {
+      "scheduledAt": "2026-05-12T12:30:45.976Z",
+      "type": "overdue",
+      "task": "build/ include lead capture forms in main snapshots as noted",
+      "assignee": "Josh 'The Ninja' Morales",
+      "reminderDate": "2026-06-17"
+    },
+    "c2add8510f8cdc446b496a98093d6ea6|overdue|2026-06-18": {
+      "scheduledAt": "2026-05-12T12:30:47.426Z",
+      "type": "overdue",
+      "task": "build/ include lead capture forms in main snapshots as noted",
+      "assignee": "Josh 'The Ninja' Morales",
+      "reminderDate": "2026-06-18"
+    },
+    "c2add8510f8cdc446b496a98093d6ea6|overdue|2026-06-19": {
+      "scheduledAt": "2026-05-12T12:30:48.803Z",
+      "type": "overdue",
+      "task": "build/ include lead capture forms in main snapshots as noted",
+      "assignee": "Josh 'The Ninja' Morales",
+      "reminderDate": "2026-06-19"
+    },
+    "c2add8510f8cdc446b496a98093d6ea6|overdue|2026-06-20": {
+      "scheduledAt": "2026-05-12T12:30:50.033Z",
+      "type": "overdue",
+      "task": "build/ include lead capture forms in main snapshots as noted",
+      "assignee": "Josh 'The Ninja' Morales",
+      "reminderDate": "2026-06-20"
     }
   },
   "scheduledMessageIds": {
@@ -57033,8 +57313,418 @@
         "channel": "C05HV4SQD6G",
         "messageId": "Q0B415Z4V5E"
       }
+    ],
+    "c2add8510f8cdc446b496a98093d6ea6": [
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B3D3M21S8"
+      },
+      {
+        "channel": "U07FVUF09T7",
+        "messageId": "Q0B3341P04B"
+      },
+      {
+        "channel": "C093VPK55NF",
+        "messageId": "Q0B33421N2F"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B363N303F"
+      },
+      {
+        "channel": "U07FVUF09T7",
+        "messageId": "Q0B37D44B8W"
+      },
+      {
+        "channel": "C093VPK55NF",
+        "messageId": "Q0B37D46WT0"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B37D47TPG"
+      },
+      {
+        "channel": "U07FVUF09T7",
+        "messageId": "Q0B43PFDZQQ"
+      },
+      {
+        "channel": "C093VPK55NF",
+        "messageId": "Q0B2U1MGPB9"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B43PF7F08"
+      },
+      {
+        "channel": "U07FVUF09T7",
+        "messageId": "Q0B3BBML341"
+      },
+      {
+        "channel": "C093VPK55NF",
+        "messageId": "Q0B37D47H2A"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B363N671T"
+      },
+      {
+        "channel": "U07FVUF09T7",
+        "messageId": "Q0B39EZS5QS"
+      },
+      {
+        "channel": "C093VPK55NF",
+        "messageId": "Q0B33429WKV"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B333VTVR9"
+      },
+      {
+        "channel": "U07FVUF09T7",
+        "messageId": "Q0B3342C0N7"
+      },
+      {
+        "channel": "C093VPK55NF",
+        "messageId": "Q0B2U1MJ54P"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B3D3G569J"
+      },
+      {
+        "channel": "U07FVUF09T7",
+        "messageId": "Q0B3342KASX"
+      },
+      {
+        "channel": "C093VPK55NF",
+        "messageId": "Q0B3342DTNX"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B3D3MMVFW"
+      },
+      {
+        "channel": "U07FVUF09T7",
+        "messageId": "Q0B3342L8RZ"
+      },
+      {
+        "channel": "C093VPK55NF",
+        "messageId": "Q0B39F021QA"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B3342HZGT"
+      },
+      {
+        "channel": "U07FVUF09T7",
+        "messageId": "Q0B3D3N224U"
+      },
+      {
+        "channel": "C093VPK55NF",
+        "messageId": "Q0B3342JG4B"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B37CXNE2J"
+      },
+      {
+        "channel": "U07FVUF09T7",
+        "messageId": "Q0B39F08TQA"
+      },
+      {
+        "channel": "C093VPK55NF",
+        "messageId": "Q0B37D4FV0W"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B3342RR9R"
+      },
+      {
+        "channel": "U07FVUF09T7",
+        "messageId": "Q0B3BBNLVL1"
+      },
+      {
+        "channel": "C093VPK55NF",
+        "messageId": "Q0B43PGGPEU"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B39F0BZ98"
+      },
+      {
+        "channel": "U07FVUF09T7",
+        "messageId": "Q0B3342QL59"
+      },
+      {
+        "channel": "C093VPK55NF",
+        "messageId": "Q0B2U1MUPGF"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B3BBMTAAV"
+      },
+      {
+        "channel": "U07FVUF09T7",
+        "messageId": "Q0B43PGMN00"
+      },
+      {
+        "channel": "C093VPK55NF",
+        "messageId": "Q0B3D3NFV1S"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B3343Q0F5"
+      },
+      {
+        "channel": "U07FVUF09T7",
+        "messageId": "Q0B3344K143"
+      },
+      {
+        "channel": "C093VPK55NF",
+        "messageId": "Q0B39F0C1QA"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B3343U1RR"
+      },
+      {
+        "channel": "U07FVUF09T7",
+        "messageId": "Q0B33439DU3"
+      },
+      {
+        "channel": "C093VPK55NF",
+        "messageId": "Q0B363P3761"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B37D7EMB8"
+      },
+      {
+        "channel": "U07FVUF09T7",
+        "messageId": "Q0B37D63P5L"
+      },
+      {
+        "channel": "C093VPK55NF",
+        "messageId": "Q0B33450QQK"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B363Q7AVB"
+      },
+      {
+        "channel": "U07FVUF09T7",
+        "messageId": "Q0B37D6V39U"
+      },
+      {
+        "channel": "C093VPK55NF",
+        "messageId": "Q0B2U1N3WP9"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B39F30V0S"
+      },
+      {
+        "channel": "U07FVUF09T7",
+        "messageId": "Q0B33446M8T"
+      },
+      {
+        "channel": "C093VPK55NF",
+        "messageId": "Q0B3BBQ92TB"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B3BBQHV6V"
+      },
+      {
+        "channel": "U07FVUF09T7",
+        "messageId": "Q0B3D3QPHCL"
+      },
+      {
+        "channel": "C093VPK55NF",
+        "messageId": "Q0B363QS0CD"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B43PJ71UG"
+      },
+      {
+        "channel": "U07FVUF09T7",
+        "messageId": "Q0B43PJBK08"
+      },
+      {
+        "channel": "C093VPK55NF",
+        "messageId": "Q0B2U1QNUDV"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B37D6P99C"
+      },
+      {
+        "channel": "U07FVUF09T7",
+        "messageId": "Q0B37D6HZHC"
+      },
+      {
+        "channel": "C093VPK55NF",
+        "messageId": "Q0B3BBQAP09"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B3BBQ484R"
+      },
+      {
+        "channel": "U07FVUF09T7",
+        "messageId": "Q0B39F2M482"
+      },
+      {
+        "channel": "C093VPK55NF",
+        "messageId": "Q0B3BBQQE1X"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B39F3DKQS"
+      },
+      {
+        "channel": "U07FVUF09T7",
+        "messageId": "Q0B39F3VCHY"
+      },
+      {
+        "channel": "C093VPK55NF",
+        "messageId": "Q0B3BBRMEAD"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B363RA329"
+      },
+      {
+        "channel": "U07FVUF09T7",
+        "messageId": "Q0B363RMH6H"
+      },
+      {
+        "channel": "C093VPK55NF",
+        "messageId": "Q0B3346MG1H"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B3346DX7V"
+      },
+      {
+        "channel": "U07FVUF09T7",
+        "messageId": "Q0B3D3R31V2"
+      },
+      {
+        "channel": "C093VPK55NF",
+        "messageId": "Q0B43PK7PPA"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B3D3S3JFN"
+      },
+      {
+        "channel": "U07FVUF09T7",
+        "messageId": "Q0B43PKDQGG"
+      },
+      {
+        "channel": "C093VPK55NF",
+        "messageId": "Q0B3BBJNW8H"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B3BBSQ3MF"
+      },
+      {
+        "channel": "U07FVUF09T7",
+        "messageId": "Q0B3346CG2X"
+      },
+      {
+        "channel": "C093VPK55NF",
+        "messageId": "Q0B3D3SHH36"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B363UF63F"
+      },
+      {
+        "channel": "U07FVUF09T7",
+        "messageId": "Q0B363SK8KX"
+      },
+      {
+        "channel": "C093VPK55NF",
+        "messageId": "Q0B39F4360J"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B39F4SPJ6"
+      },
+      {
+        "channel": "U07FVUF09T7",
+        "messageId": "Q0B363SNNLV"
+      },
+      {
+        "channel": "C093VPK55NF",
+        "messageId": "Q0B363TMVDK"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B3D3SHXEG"
+      },
+      {
+        "channel": "U07FVUF09T7",
+        "messageId": "Q0B3BBSBNV7"
+      },
+      {
+        "channel": "C093VPK55NF",
+        "messageId": "Q0B39F4UCV8"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B3346RG6P"
+      },
+      {
+        "channel": "U07FVUF09T7",
+        "messageId": "Q0B363T1D45"
+      },
+      {
+        "channel": "C093VPK55NF",
+        "messageId": "Q0B39F5LAFL"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B3D3SQKAQ"
+      },
+      {
+        "channel": "U07FVUF09T7",
+        "messageId": "Q0B2U1TNX2T"
+      },
+      {
+        "channel": "C093VPK55NF",
+        "messageId": "Q0B363U6PEH"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B363T09FF"
+      },
+      {
+        "channel": "U07FVUF09T7",
+        "messageId": "Q0B39F5EW74"
+      },
+      {
+        "channel": "C093VPK55NF",
+        "messageId": "Q0B39F6AH50"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B33484LF5"
+      },
+      {
+        "channel": "U07FVUF09T7",
+        "messageId": "Q0B3BBTDF8R"
+      },
+      {
+        "channel": "C093VPK55NF",
+        "messageId": "Q0B3BBTS7PB"
+      }
     ]
   },
   "lastWeeklySummaryDate": "2026-W19",
-  "lastRun": "2026-05-12T06:02:41.985Z"
+  "lastRun": "2026-05-12T12:30:50.034Z"
 }
