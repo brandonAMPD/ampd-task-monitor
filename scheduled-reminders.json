@@ -3863,6 +3863,20 @@
       "completed": false,
       "completedAt": null,
       "firstSeenAt": "2026-05-12T22:38:46.538Z"
+    },
+    "f321f2d38d427163c391b62dc2737bc1": {
+      "task": "create an automation that sends all the same booking info for new appointments for BLS to Christ",
+      "assignee_name": "Mark 'Morpheus' Manaog",
+      "assignee_slack_mention": "@Mark 'Morpheus' Manaog",
+      "assigned_date": "2026-05-05",
+      "due_date": "2026-05-06",
+      "message_ts": "1778015693.703289",
+      "source_message": "@Mark 'Morpheus' Manaog please create an automation that sends all the same booking info for new appoi",
+      "assigneeId": "U023F61R16F",
+      "messageTs": "1778015693.703289",
+      "completed": true,
+      "completedAt": "2026-05-13T13:39:13.284Z",
+      "firstSeenAt": "2026-05-13T13:39:13.284Z"
     }
   },
   "scheduled": {
@@ -59070,6 +59084,14 @@
       {
         "channel": "C05JGF817H6",
         "messageId": "Q0B3A0RGG91"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0B3MAQTC73"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0B3KFFUAH0"
       }
     ],
     "f85ad2f679f4c161ff5d72723de8362e": [
@@ -59492,6 +59514,14 @@
       {
         "channel": "C05JGF817H6",
         "messageId": "Q0B3E9G0F5L"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0B3HDJ8RSS"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0B3KFFKATU"
       }
     ],
     "c05ad33ec8c353c3b0203fd1628083db": [
@@ -59918,6 +59948,38 @@
       {
         "channel": "C05JGF817H6",
         "messageId": "Q0B3E9LEREJ"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0B3P44A9V2"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0B4DQ1LTCY"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0B3D4P07H9"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0B3425JVB9"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0B3KFFRV5Y"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0B3KFF8M8A"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0B3G43SV2R"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0B3MARH71P"
       }
     ],
     "ddabdcc29150ced14e27808bf0791342": [
@@ -60340,9 +60402,33 @@
       {
         "channel": "C05JGF817H6",
         "messageId": "Q0B3E9MHLJ2"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0B3D4NSWBD"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0B3MARA4G1"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0B3HDK62BG"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0B3KFGFVC2"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0B3G44DE5B"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0B3HDK0LNS"
       }
     ]
   },
   "lastWeeklySummaryDate": "2026-W19",
-  "lastRun": "2026-05-13T06:02:07.701Z"
+  "lastRun": "2026-05-13T13:39:20.068Z"
 }
