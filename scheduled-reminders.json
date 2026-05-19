@@ -391,6 +391,20 @@
       "completed": false,
       "completedAt": null,
       "firstSeenAt": "2026-05-13T16:01:00.712Z"
+    },
+    "cd7a15f3bd39e062b4a87d611b0702e5": {
+      "task": "build the claude based AI sales tool for on-call script prompting and post-call analysis",
+      "assignee_name": "Mark 'Morpheus' Manaog",
+      "assignee_slack_mention": "@Mark 'Morpheus' Manaog",
+      "assigned_date": "2026-05-19",
+      "due_date": "2026-06-01",
+      "message_ts": "1779211637.808079",
+      "source_message": "@Mark 'Morpheus' Manaog build the claude based AI sales tool for on-call script prompting and post-c",
+      "assigneeId": "U023F61R16F",
+      "messageTs": "1779211637.808079",
+      "completed": false,
+      "completedAt": null,
+      "firstSeenAt": "2026-05-19T18:01:04.837Z"
     }
   },
   "scheduled": {
@@ -3130,6 +3144,244 @@
       "task": "test/solve problem of getting leads from jotform chatbot or move AI chat system to GHL",
       "assignee": "Mark 'Morpheus' Manaog",
       "reminderDate": "2026-06-01"
+    },
+    "cd7a15f3bd39e062b4a87d611b0702e5|midpoint|2026-05-25": {
+      "scheduledAt": "2026-05-19T18:01:05.630Z",
+      "type": "midpoint",
+      "task": "build the claude based AI sales tool for on-call script prompting and post-call analysis",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-05-25"
+    },
+    "cd7a15f3bd39e062b4a87d611b0702e5|nag|2026-05-30": {
+      "scheduledAt": "2026-05-19T18:01:06.360Z",
+      "type": "nag",
+      "task": "build the claude based AI sales tool for on-call script prompting and post-call analysis",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-05-30"
+    },
+    "cd7a15f3bd39e062b4a87d611b0702e5|nag|2026-05-31": {
+      "scheduledAt": "2026-05-19T18:01:07.062Z",
+      "type": "nag",
+      "task": "build the claude based AI sales tool for on-call script prompting and post-call analysis",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-05-31"
+    },
+    "cd7a15f3bd39e062b4a87d611b0702e5|due|2026-06-01": {
+      "scheduledAt": "2026-05-19T18:01:07.769Z",
+      "type": "due",
+      "task": "build the claude based AI sales tool for on-call script prompting and post-call analysis",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-06-01"
+    },
+    "cd7a15f3bd39e062b4a87d611b0702e5|overdue|2026-06-02": {
+      "scheduledAt": "2026-05-19T18:01:08.472Z",
+      "type": "overdue",
+      "task": "build the claude based AI sales tool for on-call script prompting and post-call analysis",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-06-02"
+    },
+    "cd7a15f3bd39e062b4a87d611b0702e5|overdue|2026-06-03": {
+      "scheduledAt": "2026-05-19T18:01:09.187Z",
+      "type": "overdue",
+      "task": "build the claude based AI sales tool for on-call script prompting and post-call analysis",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-06-03"
+    },
+    "cd7a15f3bd39e062b4a87d611b0702e5|overdue|2026-06-04": {
+      "scheduledAt": "2026-05-19T18:01:09.899Z",
+      "type": "overdue",
+      "task": "build the claude based AI sales tool for on-call script prompting and post-call analysis",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-06-04"
+    },
+    "cd7a15f3bd39e062b4a87d611b0702e5|overdue|2026-06-05": {
+      "scheduledAt": "2026-05-19T18:01:10.626Z",
+      "type": "overdue",
+      "task": "build the claude based AI sales tool for on-call script prompting and post-call analysis",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-06-05"
+    },
+    "cd7a15f3bd39e062b4a87d611b0702e5|overdue|2026-06-06": {
+      "scheduledAt": "2026-05-19T18:01:11.300Z",
+      "type": "overdue",
+      "task": "build the claude based AI sales tool for on-call script prompting and post-call analysis",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-06-06"
+    },
+    "cd7a15f3bd39e062b4a87d611b0702e5|overdue|2026-06-07": {
+      "scheduledAt": "2026-05-19T18:01:12.015Z",
+      "type": "overdue",
+      "task": "build the claude based AI sales tool for on-call script prompting and post-call analysis",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-06-07"
+    },
+    "cd7a15f3bd39e062b4a87d611b0702e5|overdue|2026-06-08": {
+      "scheduledAt": "2026-05-19T18:01:12.768Z",
+      "type": "overdue",
+      "task": "build the claude based AI sales tool for on-call script prompting and post-call analysis",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-06-08"
+    },
+    "cd7a15f3bd39e062b4a87d611b0702e5|overdue|2026-06-09": {
+      "scheduledAt": "2026-05-19T18:01:13.516Z",
+      "type": "overdue",
+      "task": "build the claude based AI sales tool for on-call script prompting and post-call analysis",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-06-09"
+    },
+    "cd7a15f3bd39e062b4a87d611b0702e5|overdue|2026-06-10": {
+      "scheduledAt": "2026-05-19T18:01:14.295Z",
+      "type": "overdue",
+      "task": "build the claude based AI sales tool for on-call script prompting and post-call analysis",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-06-10"
+    },
+    "cd7a15f3bd39e062b4a87d611b0702e5|overdue|2026-06-11": {
+      "scheduledAt": "2026-05-19T18:01:14.984Z",
+      "type": "overdue",
+      "task": "build the claude based AI sales tool for on-call script prompting and post-call analysis",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-06-11"
+    },
+    "cd7a15f3bd39e062b4a87d611b0702e5|overdue|2026-06-12": {
+      "scheduledAt": "2026-05-19T18:01:15.749Z",
+      "type": "overdue",
+      "task": "build the claude based AI sales tool for on-call script prompting and post-call analysis",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-06-12"
+    },
+    "cd7a15f3bd39e062b4a87d611b0702e5|overdue|2026-06-13": {
+      "scheduledAt": "2026-05-19T18:01:16.492Z",
+      "type": "overdue",
+      "task": "build the claude based AI sales tool for on-call script prompting and post-call analysis",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-06-13"
+    },
+    "cd7a15f3bd39e062b4a87d611b0702e5|overdue|2026-06-14": {
+      "scheduledAt": "2026-05-19T18:01:17.178Z",
+      "type": "overdue",
+      "task": "build the claude based AI sales tool for on-call script prompting and post-call analysis",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-06-14"
+    },
+    "cd7a15f3bd39e062b4a87d611b0702e5|overdue|2026-06-15": {
+      "scheduledAt": "2026-05-19T18:01:17.874Z",
+      "type": "overdue",
+      "task": "build the claude based AI sales tool for on-call script prompting and post-call analysis",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-06-15"
+    },
+    "cd7a15f3bd39e062b4a87d611b0702e5|overdue|2026-06-16": {
+      "scheduledAt": "2026-05-19T18:01:18.607Z",
+      "type": "overdue",
+      "task": "build the claude based AI sales tool for on-call script prompting and post-call analysis",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-06-16"
+    },
+    "cd7a15f3bd39e062b4a87d611b0702e5|overdue|2026-06-17": {
+      "scheduledAt": "2026-05-19T18:01:19.318Z",
+      "type": "overdue",
+      "task": "build the claude based AI sales tool for on-call script prompting and post-call analysis",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-06-17"
+    },
+    "cd7a15f3bd39e062b4a87d611b0702e5|overdue|2026-06-18": {
+      "scheduledAt": "2026-05-19T18:01:20.019Z",
+      "type": "overdue",
+      "task": "build the claude based AI sales tool for on-call script prompting and post-call analysis",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-06-18"
+    },
+    "cd7a15f3bd39e062b4a87d611b0702e5|overdue|2026-06-19": {
+      "scheduledAt": "2026-05-19T18:01:20.714Z",
+      "type": "overdue",
+      "task": "build the claude based AI sales tool for on-call script prompting and post-call analysis",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-06-19"
+    },
+    "cd7a15f3bd39e062b4a87d611b0702e5|overdue|2026-06-20": {
+      "scheduledAt": "2026-05-19T18:01:21.404Z",
+      "type": "overdue",
+      "task": "build the claude based AI sales tool for on-call script prompting and post-call analysis",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-06-20"
+    },
+    "cd7a15f3bd39e062b4a87d611b0702e5|overdue|2026-06-21": {
+      "scheduledAt": "2026-05-19T18:01:22.106Z",
+      "type": "overdue",
+      "task": "build the claude based AI sales tool for on-call script prompting and post-call analysis",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-06-21"
+    },
+    "cd7a15f3bd39e062b4a87d611b0702e5|overdue|2026-06-22": {
+      "scheduledAt": "2026-05-19T18:01:22.785Z",
+      "type": "overdue",
+      "task": "build the claude based AI sales tool for on-call script prompting and post-call analysis",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-06-22"
+    },
+    "cd7a15f3bd39e062b4a87d611b0702e5|overdue|2026-06-23": {
+      "scheduledAt": "2026-05-19T18:01:23.471Z",
+      "type": "overdue",
+      "task": "build the claude based AI sales tool for on-call script prompting and post-call analysis",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-06-23"
+    },
+    "cd7a15f3bd39e062b4a87d611b0702e5|overdue|2026-06-24": {
+      "scheduledAt": "2026-05-19T18:01:24.445Z",
+      "type": "overdue",
+      "task": "build the claude based AI sales tool for on-call script prompting and post-call analysis",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-06-24"
+    },
+    "cd7a15f3bd39e062b4a87d611b0702e5|overdue|2026-06-25": {
+      "scheduledAt": "2026-05-19T18:01:25.156Z",
+      "type": "overdue",
+      "task": "build the claude based AI sales tool for on-call script prompting and post-call analysis",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-06-25"
+    },
+    "cd7a15f3bd39e062b4a87d611b0702e5|overdue|2026-06-26": {
+      "scheduledAt": "2026-05-19T18:01:25.831Z",
+      "type": "overdue",
+      "task": "build the claude based AI sales tool for on-call script prompting and post-call analysis",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-06-26"
+    },
+    "cd7a15f3bd39e062b4a87d611b0702e5|overdue|2026-06-27": {
+      "scheduledAt": "2026-05-19T18:01:26.535Z",
+      "type": "overdue",
+      "task": "build the claude based AI sales tool for on-call script prompting and post-call analysis",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-06-27"
+    },
+    "cd7a15f3bd39e062b4a87d611b0702e5|overdue|2026-06-28": {
+      "scheduledAt": "2026-05-19T18:01:27.247Z",
+      "type": "overdue",
+      "task": "build the claude based AI sales tool for on-call script prompting and post-call analysis",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-06-28"
+    },
+    "cd7a15f3bd39e062b4a87d611b0702e5|overdue|2026-06-29": {
+      "scheduledAt": "2026-05-19T18:01:27.956Z",
+      "type": "overdue",
+      "task": "build the claude based AI sales tool for on-call script prompting and post-call analysis",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-06-29"
+    },
+    "cd7a15f3bd39e062b4a87d611b0702e5|overdue|2026-06-30": {
+      "scheduledAt": "2026-05-19T18:01:28.650Z",
+      "type": "overdue",
+      "task": "build the claude based AI sales tool for on-call script prompting and post-call analysis",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-06-30"
+    },
+    "cd7a15f3bd39e062b4a87d611b0702e5|overdue|2026-07-01": {
+      "scheduledAt": "2026-05-19T18:01:29.339Z",
+      "type": "overdue",
+      "task": "build the claude based AI sales tool for on-call script prompting and post-call analysis",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-07-01"
     }
   },
   "scheduledMessageIds": {
@@ -6662,6 +6914,416 @@
         "channel": "C05JGF817H6",
         "messageId": "Q0B3EJHPE75"
       }
+    ],
+    "cd7a15f3bd39e062b4a87d611b0702e5": [
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B5PHP3Y7J"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0B5PHMFXAL"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0B4NTTUQ83"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B4DRAQUMD"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0B4T773QUW"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0B4NTU69LK"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B4DRAAG8P"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0B4V980LRY"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0B4X4GJDKK"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B4RTACV9T"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0B4X4JNH25"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0B4NTSEG2X"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B4X4GTFB3"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0B4NTUFGAX"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0B4YT3KJ4C"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B4NTULY5R"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0B5PHQ0KLY"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0B4RTB7FLM"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B4NTUQGHZ"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0B4V977P9Q"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0B4DRAK2TH"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B4YT55BFE"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0B4NTW0M35"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0B4NTU3P7D"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B4RTAS21K"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0B4DRBDVQF"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0B4V99GYDQ"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B4RTA8NKF"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0B4RTACW3X"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0B4DRB7KPH"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B4NTURQQK"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0B5PHR4H1N"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0B4YT54KKN"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B4V9APM1Q"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0B4T786C5C"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0B4V99ETJN"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B4T78RQVC"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0B4NTV5ZDZ"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0B4YT64U4U"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B4X4KJRB3"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0B4YT5D92Q"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0B4T78FA4W"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B4RTBGV45"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0B4NTY5NDR"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0B4NTV6D99"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B5PHRA8PJ"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0B4T7A926S"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0B4NTVN1KM"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B4V99V090"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0B4V995SM8"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0B4X4KCKDF"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B4NTW6951"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0B4DRC33GF"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0B4DRCVCBH"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B4RTCDBRB"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0B4V99B126"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0B4T7ADSGN"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B4X4K3XEV"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0B4YT6QPJ8"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0B4RTCH9HT"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B4DRD22UX"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0B4NTWNC4B"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0B4NTWHKNF"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B5PHS1G6L"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0B4V9ACKCJ"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0B4T7A6F5L"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B4X4LNDL1"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0B5PHRJA9W"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0B4DRCR45D"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B5PHT0BU0"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0B4V9998N6"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0B4RTE6U93"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B4NTX1ED9"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0B4NTWQ5B5"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0B4T7AHR6J"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B5PHSL9CG"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0B4DRDTWTH"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0B4T7A4YDC"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B4NTWT7J7"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0B4DRCNZGF"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0B5PHS3YSC"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B4V9C3XL2"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0B4X4LS8V7"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0B4RTDLKPF"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B5PHSUYGG"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0B4V9B7E2E"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0B4V9BRHS6"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B4V9A222W"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0B4T7AQD4N"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0B4T7BFVFY"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B4V9BV542"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0B5PHTAMMW"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0B4YT7B9S8"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B4NTXTEEP"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0B4X4MNDTK"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0B4RTDTP45"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B4V9CJY7L"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0B4X4N4LAV"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0B4YT6MPCL"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B4T7ARWVC"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0B4X4N6A5P"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0B4NTXN2GK"
+      }
     ]
   },
   "processedMessageTs": {
@@ -6701,8 +7363,9 @@
     "1777581159.844739": true,
     "1777562575.859269": true,
     "1777562445.100809": true,
-    "1777562437.946019": true
+    "1777562437.946019": true,
+    "1779211637.808079": true
   },
   "lastWeeklySummaryDate": "2026-W20",
-  "lastRun": "2026-05-19T09:40:25.514Z"
+  "lastRun": "2026-05-19T18:01:29.340Z"
 }
