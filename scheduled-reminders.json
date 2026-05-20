@@ -447,6 +447,20 @@
       "completed": false,
       "completedAt": null,
       "firstSeenAt": "2026-05-20T06:01:02.109Z"
+    },
+    "43a1770f7ac28ff198e957450638e6e2": {
+      "task": "Delete AGG& YCBM related Canned Response on Freshdesk",
+      "assignee_name": "Christle 'Knows All' Ochigue",
+      "assignee_slack_mention": "@Christle 'Knows All' Ochigue",
+      "assigned_date": "2026-05-20",
+      "due_date": "2026-05-22",
+      "message_ts": "1779299004.329999",
+      "source_message": "@Christle 'Knows All' Ochigue Please Delete AGG& YCBM  related Canned Response on Freshdesk by 5/22",
+      "assigneeId": "UMCPG3D8A",
+      "messageTs": "1779299004.329999",
+      "completed": false,
+      "completedAt": null,
+      "firstSeenAt": "2026-05-20T18:01:03.420Z"
     }
   },
   "scheduled": {
@@ -4131,6 +4145,236 @@
       "task": "create a claude powered CSM AI system that helps others do what you do (and yourself)",
       "assignee": "Meg 'The Sage' Scheffler",
       "reminderDate": "2026-07-02"
+    },
+    "43a1770f7ac28ff198e957450638e6e2|nag|2026-05-20": {
+      "scheduledAt": "2026-05-20T18:01:03.422Z",
+      "type": "nag",
+      "task": "Delete AGG& YCBM related Canned Response on Freshdesk",
+      "skipped": true
+    },
+    "43a1770f7ac28ff198e957450638e6e2|nag|2026-05-21": {
+      "scheduledAt": "2026-05-20T18:01:04.396Z",
+      "type": "nag",
+      "task": "Delete AGG& YCBM related Canned Response on Freshdesk",
+      "assignee": "Christle 'Knows All' Ochigue",
+      "reminderDate": "2026-05-21"
+    },
+    "43a1770f7ac28ff198e957450638e6e2|due|2026-05-22": {
+      "scheduledAt": "2026-05-20T18:01:05.056Z",
+      "type": "due",
+      "task": "Delete AGG& YCBM related Canned Response on Freshdesk",
+      "assignee": "Christle 'Knows All' Ochigue",
+      "reminderDate": "2026-05-22"
+    },
+    "43a1770f7ac28ff198e957450638e6e2|overdue|2026-05-23": {
+      "scheduledAt": "2026-05-20T18:01:05.758Z",
+      "type": "overdue",
+      "task": "Delete AGG& YCBM related Canned Response on Freshdesk",
+      "assignee": "Christle 'Knows All' Ochigue",
+      "reminderDate": "2026-05-23"
+    },
+    "43a1770f7ac28ff198e957450638e6e2|overdue|2026-05-24": {
+      "scheduledAt": "2026-05-20T18:01:06.442Z",
+      "type": "overdue",
+      "task": "Delete AGG& YCBM related Canned Response on Freshdesk",
+      "assignee": "Christle 'Knows All' Ochigue",
+      "reminderDate": "2026-05-24"
+    },
+    "43a1770f7ac28ff198e957450638e6e2|overdue|2026-05-25": {
+      "scheduledAt": "2026-05-20T18:01:07.111Z",
+      "type": "overdue",
+      "task": "Delete AGG& YCBM related Canned Response on Freshdesk",
+      "assignee": "Christle 'Knows All' Ochigue",
+      "reminderDate": "2026-05-25"
+    },
+    "43a1770f7ac28ff198e957450638e6e2|overdue|2026-05-26": {
+      "scheduledAt": "2026-05-20T18:01:07.813Z",
+      "type": "overdue",
+      "task": "Delete AGG& YCBM related Canned Response on Freshdesk",
+      "assignee": "Christle 'Knows All' Ochigue",
+      "reminderDate": "2026-05-26"
+    },
+    "43a1770f7ac28ff198e957450638e6e2|overdue|2026-05-27": {
+      "scheduledAt": "2026-05-20T18:01:08.508Z",
+      "type": "overdue",
+      "task": "Delete AGG& YCBM related Canned Response on Freshdesk",
+      "assignee": "Christle 'Knows All' Ochigue",
+      "reminderDate": "2026-05-27"
+    },
+    "43a1770f7ac28ff198e957450638e6e2|overdue|2026-05-28": {
+      "scheduledAt": "2026-05-20T18:01:09.201Z",
+      "type": "overdue",
+      "task": "Delete AGG& YCBM related Canned Response on Freshdesk",
+      "assignee": "Christle 'Knows All' Ochigue",
+      "reminderDate": "2026-05-28"
+    },
+    "43a1770f7ac28ff198e957450638e6e2|overdue|2026-05-29": {
+      "scheduledAt": "2026-05-20T18:01:09.909Z",
+      "type": "overdue",
+      "task": "Delete AGG& YCBM related Canned Response on Freshdesk",
+      "assignee": "Christle 'Knows All' Ochigue",
+      "reminderDate": "2026-05-29"
+    },
+    "43a1770f7ac28ff198e957450638e6e2|overdue|2026-05-30": {
+      "scheduledAt": "2026-05-20T18:01:10.641Z",
+      "type": "overdue",
+      "task": "Delete AGG& YCBM related Canned Response on Freshdesk",
+      "assignee": "Christle 'Knows All' Ochigue",
+      "reminderDate": "2026-05-30"
+    },
+    "43a1770f7ac28ff198e957450638e6e2|overdue|2026-05-31": {
+      "scheduledAt": "2026-05-20T18:01:11.343Z",
+      "type": "overdue",
+      "task": "Delete AGG& YCBM related Canned Response on Freshdesk",
+      "assignee": "Christle 'Knows All' Ochigue",
+      "reminderDate": "2026-05-31"
+    },
+    "43a1770f7ac28ff198e957450638e6e2|overdue|2026-06-01": {
+      "scheduledAt": "2026-05-20T18:01:12.048Z",
+      "type": "overdue",
+      "task": "Delete AGG& YCBM related Canned Response on Freshdesk",
+      "assignee": "Christle 'Knows All' Ochigue",
+      "reminderDate": "2026-06-01"
+    },
+    "43a1770f7ac28ff198e957450638e6e2|overdue|2026-06-02": {
+      "scheduledAt": "2026-05-20T18:01:12.730Z",
+      "type": "overdue",
+      "task": "Delete AGG& YCBM related Canned Response on Freshdesk",
+      "assignee": "Christle 'Knows All' Ochigue",
+      "reminderDate": "2026-06-02"
+    },
+    "43a1770f7ac28ff198e957450638e6e2|overdue|2026-06-03": {
+      "scheduledAt": "2026-05-20T18:01:13.448Z",
+      "type": "overdue",
+      "task": "Delete AGG& YCBM related Canned Response on Freshdesk",
+      "assignee": "Christle 'Knows All' Ochigue",
+      "reminderDate": "2026-06-03"
+    },
+    "43a1770f7ac28ff198e957450638e6e2|overdue|2026-06-04": {
+      "scheduledAt": "2026-05-20T18:01:14.129Z",
+      "type": "overdue",
+      "task": "Delete AGG& YCBM related Canned Response on Freshdesk",
+      "assignee": "Christle 'Knows All' Ochigue",
+      "reminderDate": "2026-06-04"
+    },
+    "43a1770f7ac28ff198e957450638e6e2|overdue|2026-06-05": {
+      "scheduledAt": "2026-05-20T18:01:14.838Z",
+      "type": "overdue",
+      "task": "Delete AGG& YCBM related Canned Response on Freshdesk",
+      "assignee": "Christle 'Knows All' Ochigue",
+      "reminderDate": "2026-06-05"
+    },
+    "43a1770f7ac28ff198e957450638e6e2|overdue|2026-06-06": {
+      "scheduledAt": "2026-05-20T18:01:15.541Z",
+      "type": "overdue",
+      "task": "Delete AGG& YCBM related Canned Response on Freshdesk",
+      "assignee": "Christle 'Knows All' Ochigue",
+      "reminderDate": "2026-06-06"
+    },
+    "43a1770f7ac28ff198e957450638e6e2|overdue|2026-06-07": {
+      "scheduledAt": "2026-05-20T18:01:16.236Z",
+      "type": "overdue",
+      "task": "Delete AGG& YCBM related Canned Response on Freshdesk",
+      "assignee": "Christle 'Knows All' Ochigue",
+      "reminderDate": "2026-06-07"
+    },
+    "43a1770f7ac28ff198e957450638e6e2|overdue|2026-06-08": {
+      "scheduledAt": "2026-05-20T18:01:16.914Z",
+      "type": "overdue",
+      "task": "Delete AGG& YCBM related Canned Response on Freshdesk",
+      "assignee": "Christle 'Knows All' Ochigue",
+      "reminderDate": "2026-06-08"
+    },
+    "43a1770f7ac28ff198e957450638e6e2|overdue|2026-06-09": {
+      "scheduledAt": "2026-05-20T18:01:17.656Z",
+      "type": "overdue",
+      "task": "Delete AGG& YCBM related Canned Response on Freshdesk",
+      "assignee": "Christle 'Knows All' Ochigue",
+      "reminderDate": "2026-06-09"
+    },
+    "43a1770f7ac28ff198e957450638e6e2|overdue|2026-06-10": {
+      "scheduledAt": "2026-05-20T18:01:18.341Z",
+      "type": "overdue",
+      "task": "Delete AGG& YCBM related Canned Response on Freshdesk",
+      "assignee": "Christle 'Knows All' Ochigue",
+      "reminderDate": "2026-06-10"
+    },
+    "43a1770f7ac28ff198e957450638e6e2|overdue|2026-06-11": {
+      "scheduledAt": "2026-05-20T18:01:19.025Z",
+      "type": "overdue",
+      "task": "Delete AGG& YCBM related Canned Response on Freshdesk",
+      "assignee": "Christle 'Knows All' Ochigue",
+      "reminderDate": "2026-06-11"
+    },
+    "43a1770f7ac28ff198e957450638e6e2|overdue|2026-06-12": {
+      "scheduledAt": "2026-05-20T18:01:19.696Z",
+      "type": "overdue",
+      "task": "Delete AGG& YCBM related Canned Response on Freshdesk",
+      "assignee": "Christle 'Knows All' Ochigue",
+      "reminderDate": "2026-06-12"
+    },
+    "43a1770f7ac28ff198e957450638e6e2|overdue|2026-06-13": {
+      "scheduledAt": "2026-05-20T18:01:20.355Z",
+      "type": "overdue",
+      "task": "Delete AGG& YCBM related Canned Response on Freshdesk",
+      "assignee": "Christle 'Knows All' Ochigue",
+      "reminderDate": "2026-06-13"
+    },
+    "43a1770f7ac28ff198e957450638e6e2|overdue|2026-06-14": {
+      "scheduledAt": "2026-05-20T18:01:21.036Z",
+      "type": "overdue",
+      "task": "Delete AGG& YCBM related Canned Response on Freshdesk",
+      "assignee": "Christle 'Knows All' Ochigue",
+      "reminderDate": "2026-06-14"
+    },
+    "43a1770f7ac28ff198e957450638e6e2|overdue|2026-06-15": {
+      "scheduledAt": "2026-05-20T18:01:21.729Z",
+      "type": "overdue",
+      "task": "Delete AGG& YCBM related Canned Response on Freshdesk",
+      "assignee": "Christle 'Knows All' Ochigue",
+      "reminderDate": "2026-06-15"
+    },
+    "43a1770f7ac28ff198e957450638e6e2|overdue|2026-06-16": {
+      "scheduledAt": "2026-05-20T18:01:22.423Z",
+      "type": "overdue",
+      "task": "Delete AGG& YCBM related Canned Response on Freshdesk",
+      "assignee": "Christle 'Knows All' Ochigue",
+      "reminderDate": "2026-06-16"
+    },
+    "43a1770f7ac28ff198e957450638e6e2|overdue|2026-06-17": {
+      "scheduledAt": "2026-05-20T18:01:23.114Z",
+      "type": "overdue",
+      "task": "Delete AGG& YCBM related Canned Response on Freshdesk",
+      "assignee": "Christle 'Knows All' Ochigue",
+      "reminderDate": "2026-06-17"
+    },
+    "43a1770f7ac28ff198e957450638e6e2|overdue|2026-06-18": {
+      "scheduledAt": "2026-05-20T18:01:23.825Z",
+      "type": "overdue",
+      "task": "Delete AGG& YCBM related Canned Response on Freshdesk",
+      "assignee": "Christle 'Knows All' Ochigue",
+      "reminderDate": "2026-06-18"
+    },
+    "43a1770f7ac28ff198e957450638e6e2|overdue|2026-06-19": {
+      "scheduledAt": "2026-05-20T18:01:24.548Z",
+      "type": "overdue",
+      "task": "Delete AGG& YCBM related Canned Response on Freshdesk",
+      "assignee": "Christle 'Knows All' Ochigue",
+      "reminderDate": "2026-06-19"
+    },
+    "43a1770f7ac28ff198e957450638e6e2|overdue|2026-06-20": {
+      "scheduledAt": "2026-05-20T18:01:25.199Z",
+      "type": "overdue",
+      "task": "Delete AGG& YCBM related Canned Response on Freshdesk",
+      "assignee": "Christle 'Knows All' Ochigue",
+      "reminderDate": "2026-06-20"
+    },
+    "43a1770f7ac28ff198e957450638e6e2|overdue|2026-06-21": {
+      "scheduledAt": "2026-05-20T18:01:25.883Z",
+      "type": "overdue",
+      "task": "Delete AGG& YCBM related Canned Response on Freshdesk",
+      "assignee": "Christle 'Knows All' Ochigue",
+      "reminderDate": "2026-06-21"
     }
   },
   "scheduledMessageIds": {
@@ -9291,6 +9535,392 @@
         "channel": "C05HL1VGA22",
         "messageId": "Q0B4Z7Q9KQS"
       }
+    ],
+    "43a1770f7ac28ff198e957450638e6e2": [
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B4P9LC7DM"
+      },
+      {
+        "channel": "UMCPG3D8A",
+        "messageId": "Q0B4YC56PJ7"
+      },
+      {
+        "channel": "C08R493ESAJ",
+        "messageId": "Q0B58BHS88L"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B4YC4A7NX"
+      },
+      {
+        "channel": "UMCPG3D8A",
+        "messageId": "Q0B52LZGXBQ"
+      },
+      {
+        "channel": "C08R493ESAJ",
+        "messageId": "Q0B58BJ1W5S"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B51BQ4C7P"
+      },
+      {
+        "channel": "UMCPG3D8A",
+        "messageId": "Q0B58BHKGPN"
+      },
+      {
+        "channel": "C08R493ESAJ",
+        "messageId": "Q0B52LYRR46"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B56J58D3K"
+      },
+      {
+        "channel": "UMCPG3D8A",
+        "messageId": "Q0B52LZUJNS"
+      },
+      {
+        "channel": "C08R493ESAJ",
+        "messageId": "Q0B58BHMPQU"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B52LYLBT8"
+      },
+      {
+        "channel": "UMCPG3D8A",
+        "messageId": "Q0B52LYA4FQ"
+      },
+      {
+        "channel": "C08R493ESAJ",
+        "messageId": "Q0B5Z226YAC"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B4YC568JF"
+      },
+      {
+        "channel": "UMCPG3D8A",
+        "messageId": "Q0B54NY072N"
+      },
+      {
+        "channel": "C08R493ESAJ",
+        "messageId": "Q0B58BHF468"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B58BK99GC"
+      },
+      {
+        "channel": "UMCPG3D8A",
+        "messageId": "Q0B51BQ91HT"
+      },
+      {
+        "channel": "C08R493ESAJ",
+        "messageId": "Q0B52M0V53Q"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B52M0ABKQ"
+      },
+      {
+        "channel": "UMCPG3D8A",
+        "messageId": "Q0B56J37681"
+      },
+      {
+        "channel": "C08R493ESAJ",
+        "messageId": "Q0B4YC65CV9"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B56J55MDF"
+      },
+      {
+        "channel": "UMCPG3D8A",
+        "messageId": "Q0B56J4CLG1"
+      },
+      {
+        "channel": "C08R493ESAJ",
+        "messageId": "Q0B5Z243T6U"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B56J58HA5"
+      },
+      {
+        "channel": "UMCPG3D8A",
+        "messageId": "Q0B4YC5GSJX"
+      },
+      {
+        "channel": "C08R493ESAJ",
+        "messageId": "Q0B56J5D16V"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B58BH9VTN"
+      },
+      {
+        "channel": "UMCPG3D8A",
+        "messageId": "Q0B56J51NEM"
+      },
+      {
+        "channel": "C08R493ESAJ",
+        "messageId": "Q0B58BJ6QDA"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B51BQSNCD"
+      },
+      {
+        "channel": "UMCPG3D8A",
+        "messageId": "Q0B4P9MTU07"
+      },
+      {
+        "channel": "C08R493ESAJ",
+        "messageId": "Q0B4P9LV04X"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B4P9L9HEK"
+      },
+      {
+        "channel": "UMCPG3D8A",
+        "messageId": "Q0B4P9MB03H"
+      },
+      {
+        "channel": "C08R493ESAJ",
+        "messageId": "Q0B56J4E5QR"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B58BKE11S"
+      },
+      {
+        "channel": "UMCPG3D8A",
+        "messageId": "Q0B58BJNMJ8"
+      },
+      {
+        "channel": "C08R493ESAJ",
+        "messageId": "Q0B4YC6JLUT"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B4P9MLDK9"
+      },
+      {
+        "channel": "UMCPG3D8A",
+        "messageId": "Q0B58BK1C3E"
+      },
+      {
+        "channel": "C08R493ESAJ",
+        "messageId": "Q0B5Z24QR24"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B4YC4LS59"
+      },
+      {
+        "channel": "UMCPG3D8A",
+        "messageId": "Q0B4P9MAW31"
+      },
+      {
+        "channel": "C08R493ESAJ",
+        "messageId": "Q0B54NZ7KFC"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B4YC5P49Z"
+      },
+      {
+        "channel": "UMCPG3D8A",
+        "messageId": "Q0B54P0EG82"
+      },
+      {
+        "channel": "C08R493ESAJ",
+        "messageId": "Q0B5Z239B6C"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B58BKEX0C"
+      },
+      {
+        "channel": "UMCPG3D8A",
+        "messageId": "Q0B56J6AJHX"
+      },
+      {
+        "channel": "C08R493ESAJ",
+        "messageId": "Q0B56J68WEM"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B51BSB9UM"
+      },
+      {
+        "channel": "UMCPG3D8A",
+        "messageId": "Q0B5Z24S2NL"
+      },
+      {
+        "channel": "C08R493ESAJ",
+        "messageId": "Q0B58BKQRTN"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B5Z25H072"
+      },
+      {
+        "channel": "UMCPG3D8A",
+        "messageId": "Q0B5Z23RFQQ"
+      },
+      {
+        "channel": "C08R493ESAJ",
+        "messageId": "Q0B5Z24SEHW"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B58BKET28"
+      },
+      {
+        "channel": "UMCPG3D8A",
+        "messageId": "Q0B56J6HZ6V"
+      },
+      {
+        "channel": "C08R493ESAJ",
+        "messageId": "Q0B51BS9RGD"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B56J5N2C9"
+      },
+      {
+        "channel": "UMCPG3D8A",
+        "messageId": "Q0B4P9N72S3"
+      },
+      {
+        "channel": "C08R493ESAJ",
+        "messageId": "Q0B54NZLSM8"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B54NZDN2W"
+      },
+      {
+        "channel": "UMCPG3D8A",
+        "messageId": "Q0B5Z24T0GY"
+      },
+      {
+        "channel": "C08R493ESAJ",
+        "messageId": "Q0B58BL1C7N"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B4YC71LDR"
+      },
+      {
+        "channel": "UMCPG3D8A",
+        "messageId": "Q0B58BL02N8"
+      },
+      {
+        "channel": "C08R493ESAJ",
+        "messageId": "Q0B58BM31GU"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B51BR6TMK"
+      },
+      {
+        "channel": "UMCPG3D8A",
+        "messageId": "Q0B4YC6628K"
+      },
+      {
+        "channel": "C08R493ESAJ",
+        "messageId": "Q0B5Z25DY7J"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B4YC7ESCT"
+      },
+      {
+        "channel": "UMCPG3D8A",
+        "messageId": "Q0B4YC7CS7M"
+      },
+      {
+        "channel": "C08R493ESAJ",
+        "messageId": "Q0B58BLR5QC"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B5Z26813J"
+      },
+      {
+        "channel": "UMCPG3D8A",
+        "messageId": "Q0B56J707B3"
+      },
+      {
+        "channel": "C08R493ESAJ",
+        "messageId": "Q0B52M193SS"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B52M30UF8"
+      },
+      {
+        "channel": "UMCPG3D8A",
+        "messageId": "Q0B5Z24SZPS"
+      },
+      {
+        "channel": "C08R493ESAJ",
+        "messageId": "Q0B56J71MH7"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B5Z24KS6L"
+      },
+      {
+        "channel": "UMCPG3D8A",
+        "messageId": "Q0B56J7BTR7"
+      },
+      {
+        "channel": "C08R493ESAJ",
+        "messageId": "Q0B51BT5B61"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B52M32F3Q"
+      },
+      {
+        "channel": "UMCPG3D8A",
+        "messageId": "Q0B51BT9EER"
+      },
+      {
+        "channel": "C08R493ESAJ",
+        "messageId": "Q0B5Z24UK2L"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B54P179PC"
+      },
+      {
+        "channel": "UMCPG3D8A",
+        "messageId": "Q0B4P9NU4EB"
+      },
+      {
+        "channel": "C08R493ESAJ",
+        "messageId": "Q0B56J6PEQH"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B4YC817DH"
+      },
+      {
+        "channel": "UMCPG3D8A",
+        "messageId": "Q0B56J78GP3"
+      },
+      {
+        "channel": "C08R493ESAJ",
+        "messageId": "Q0B4YC7NG11"
+      }
     ]
   },
   "processedMessageTs": {
@@ -9335,8 +9965,9 @@
     "1779236012.507559": true,
     "1779235987.388679": true,
     "1779234003.503769": true,
-    "1779233909.645159": true
+    "1779233909.645159": true,
+    "1779299004.329999": true
   },
   "lastWeeklySummaryDate": "2026-W20",
-  "lastRun": "2026-05-20T09:30:36.696Z"
+  "lastRun": "2026-05-20T18:01:25.884Z"
 }
