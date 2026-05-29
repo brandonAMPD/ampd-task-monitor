@@ -503,6 +503,62 @@
       "completed": false,
       "completedAt": null,
       "firstSeenAt": "2026-05-28T06:01:02.325Z"
+    },
+    "981c1da3a5b2756a609166f5fa4e84df": {
+      "task": "Move messages above to software channel",
+      "assignee_name": "Josh 'The Ninja' Morales",
+      "assignee_slack_mention": "@Josh 'The Ninja' Morales",
+      "assigned_date": "2026-05-29",
+      "due_date": null,
+      "message_ts": "1780023929.297819",
+      "source_message": "@Josh 'The Ninja' Morales, hey brother, can you please move the messages above to software ch",
+      "assigneeId": "U07FVUF09T7",
+      "messageTs": "1780023929.297819",
+      "completed": false,
+      "completedAt": null,
+      "firstSeenAt": "2026-05-29T06:01:08.212Z"
+    },
+    "98a17563aa0664728fb55c55b63a7854": {
+      "task": "Unify notifications fonts by editing workflow to match Eddie's signature",
+      "assignee_name": "Christle 'Knows All' Ochigue",
+      "assignee_slack_mention": "@Christle 'Knows All' Ochigue",
+      "assigned_date": "2026-05-29",
+      "due_date": null,
+      "message_ts": "1780022808.127669",
+      "source_message": "@Christle 'Knows All' Ochigue, is unifying the notifications FONTs something you can help me wi",
+      "assigneeId": "UMCPG3D8A",
+      "messageTs": "1780022808.127669",
+      "completed": false,
+      "completedAt": null,
+      "firstSeenAt": "2026-05-29T06:01:08.503Z"
+    },
+    "bdc5d942c202321e5737e6e65f9b3e5d": {
+      "task": "Research Lenderbase selling options, payment management, access & META API tracking",
+      "assignee_name": "Mark 'Morpheus' Manaog",
+      "assignee_slack_mention": "@Mark 'Morpheus' Manaog",
+      "assigned_date": "2026-05-28",
+      "due_date": "2026-06-18",
+      "message_ts": "1780009293.960119",
+      "source_message": "@Mark 'Morpheus' Manaog please make sure we know the possibilities and best ways to sell Lende",
+      "assigneeId": "U023F61R16F",
+      "messageTs": "1780009293.960119",
+      "completed": false,
+      "completedAt": null,
+      "firstSeenAt": "2026-05-29T06:01:08.609Z"
+    },
+    "876ad20e2010b34b47eaad2d3e5216dc": {
+      "task": "Create Ampd Tools & Services Quick Chat calendar (15-min call with Eddie/Jimmy)",
+      "assignee_name": "Josh 'The Ninja' Morales",
+      "assignee_slack_mention": "@Josh 'The Ninja' Morales",
+      "assigned_date": "2026-05-28",
+      "due_date": "2026-06-01",
+      "message_ts": "1780008551.710149",
+      "source_message": "@Josh 'The Ninja' Morales please make a calendar called.  Ampd Tools & Services Quick Chat.",
+      "assigneeId": "U07FVUF09T7",
+      "messageTs": "1780008551.710149",
+      "completed": true,
+      "completedAt": "2026-05-29T06:01:08.752Z",
+      "firstSeenAt": "2026-05-29T06:01:08.752Z"
     }
   },
   "scheduled": {
@@ -5124,6 +5180,258 @@
       "task": "Update homework and final strategy onboarding call Jotform forms per Claude instructions",
       "assignee": "Mark 'Morpheus' Manaog",
       "reminderDate": "2026-06-29"
+    },
+    "981c1da3a5b2756a609166f5fa4e84df|followup|2026-06-05": {
+      "scheduledAt": "2026-05-29T06:01:09.781Z",
+      "type": "followup",
+      "task": "Move messages above to software channel",
+      "assignee": "Josh 'The Ninja' Morales",
+      "reminderDate": "2026-06-05"
+    },
+    "98a17563aa0664728fb55c55b63a7854|followup|2026-06-05": {
+      "scheduledAt": "2026-05-29T06:01:10.571Z",
+      "type": "followup",
+      "task": "Unify notifications fonts by editing workflow to match Eddie's signature",
+      "assignee": "Christle 'Knows All' Ochigue",
+      "reminderDate": "2026-06-05"
+    },
+    "bdc5d942c202321e5737e6e65f9b3e5d|midpoint|2026-06-07": {
+      "scheduledAt": "2026-05-29T06:01:11.383Z",
+      "type": "midpoint",
+      "task": "Research Lenderbase selling options, payment management, access & META API tracking",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-06-07"
+    },
+    "bdc5d942c202321e5737e6e65f9b3e5d|nag|2026-06-16": {
+      "scheduledAt": "2026-05-29T06:01:12.220Z",
+      "type": "nag",
+      "task": "Research Lenderbase selling options, payment management, access & META API tracking",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-06-16"
+    },
+    "bdc5d942c202321e5737e6e65f9b3e5d|nag|2026-06-17": {
+      "scheduledAt": "2026-05-29T06:01:13.019Z",
+      "type": "nag",
+      "task": "Research Lenderbase selling options, payment management, access & META API tracking",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-06-17"
+    },
+    "bdc5d942c202321e5737e6e65f9b3e5d|due|2026-06-18": {
+      "scheduledAt": "2026-05-29T06:01:13.836Z",
+      "type": "due",
+      "task": "Research Lenderbase selling options, payment management, access & META API tracking",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-06-18"
+    },
+    "bdc5d942c202321e5737e6e65f9b3e5d|overdue|2026-06-19": {
+      "scheduledAt": "2026-05-29T06:01:14.631Z",
+      "type": "overdue",
+      "task": "Research Lenderbase selling options, payment management, access & META API tracking",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-06-19"
+    },
+    "bdc5d942c202321e5737e6e65f9b3e5d|overdue|2026-06-20": {
+      "scheduledAt": "2026-05-29T06:01:15.441Z",
+      "type": "overdue",
+      "task": "Research Lenderbase selling options, payment management, access & META API tracking",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-06-20"
+    },
+    "bdc5d942c202321e5737e6e65f9b3e5d|overdue|2026-06-21": {
+      "scheduledAt": "2026-05-29T06:01:16.235Z",
+      "type": "overdue",
+      "task": "Research Lenderbase selling options, payment management, access & META API tracking",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-06-21"
+    },
+    "bdc5d942c202321e5737e6e65f9b3e5d|overdue|2026-06-22": {
+      "scheduledAt": "2026-05-29T06:01:17.016Z",
+      "type": "overdue",
+      "task": "Research Lenderbase selling options, payment management, access & META API tracking",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-06-22"
+    },
+    "bdc5d942c202321e5737e6e65f9b3e5d|overdue|2026-06-23": {
+      "scheduledAt": "2026-05-29T06:01:17.872Z",
+      "type": "overdue",
+      "task": "Research Lenderbase selling options, payment management, access & META API tracking",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-06-23"
+    },
+    "bdc5d942c202321e5737e6e65f9b3e5d|overdue|2026-06-24": {
+      "scheduledAt": "2026-05-29T06:01:18.751Z",
+      "type": "overdue",
+      "task": "Research Lenderbase selling options, payment management, access & META API tracking",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-06-24"
+    },
+    "bdc5d942c202321e5737e6e65f9b3e5d|overdue|2026-06-25": {
+      "scheduledAt": "2026-05-29T06:01:19.538Z",
+      "type": "overdue",
+      "task": "Research Lenderbase selling options, payment management, access & META API tracking",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-06-25"
+    },
+    "bdc5d942c202321e5737e6e65f9b3e5d|overdue|2026-06-26": {
+      "scheduledAt": "2026-05-29T06:01:20.339Z",
+      "type": "overdue",
+      "task": "Research Lenderbase selling options, payment management, access & META API tracking",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-06-26"
+    },
+    "bdc5d942c202321e5737e6e65f9b3e5d|overdue|2026-06-27": {
+      "scheduledAt": "2026-05-29T06:01:21.141Z",
+      "type": "overdue",
+      "task": "Research Lenderbase selling options, payment management, access & META API tracking",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-06-27"
+    },
+    "bdc5d942c202321e5737e6e65f9b3e5d|overdue|2026-06-28": {
+      "scheduledAt": "2026-05-29T06:01:21.931Z",
+      "type": "overdue",
+      "task": "Research Lenderbase selling options, payment management, access & META API tracking",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-06-28"
+    },
+    "bdc5d942c202321e5737e6e65f9b3e5d|overdue|2026-06-29": {
+      "scheduledAt": "2026-05-29T06:01:22.746Z",
+      "type": "overdue",
+      "task": "Research Lenderbase selling options, payment management, access & META API tracking",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-06-29"
+    },
+    "bdc5d942c202321e5737e6e65f9b3e5d|overdue|2026-06-30": {
+      "scheduledAt": "2026-05-29T06:01:23.560Z",
+      "type": "overdue",
+      "task": "Research Lenderbase selling options, payment management, access & META API tracking",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-06-30"
+    },
+    "bdc5d942c202321e5737e6e65f9b3e5d|overdue|2026-07-01": {
+      "scheduledAt": "2026-05-29T06:01:24.401Z",
+      "type": "overdue",
+      "task": "Research Lenderbase selling options, payment management, access & META API tracking",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-07-01"
+    },
+    "bdc5d942c202321e5737e6e65f9b3e5d|overdue|2026-07-02": {
+      "scheduledAt": "2026-05-29T06:01:25.158Z",
+      "type": "overdue",
+      "task": "Research Lenderbase selling options, payment management, access & META API tracking",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-07-02"
+    },
+    "bdc5d942c202321e5737e6e65f9b3e5d|overdue|2026-07-03": {
+      "scheduledAt": "2026-05-29T06:01:25.969Z",
+      "type": "overdue",
+      "task": "Research Lenderbase selling options, payment management, access & META API tracking",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-07-03"
+    },
+    "bdc5d942c202321e5737e6e65f9b3e5d|overdue|2026-07-04": {
+      "scheduledAt": "2026-05-29T06:01:26.720Z",
+      "type": "overdue",
+      "task": "Research Lenderbase selling options, payment management, access & META API tracking",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-07-04"
+    },
+    "bdc5d942c202321e5737e6e65f9b3e5d|overdue|2026-07-05": {
+      "scheduledAt": "2026-05-29T06:01:27.570Z",
+      "type": "overdue",
+      "task": "Research Lenderbase selling options, payment management, access & META API tracking",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-07-05"
+    },
+    "bdc5d942c202321e5737e6e65f9b3e5d|overdue|2026-07-06": {
+      "scheduledAt": "2026-05-29T06:01:28.359Z",
+      "type": "overdue",
+      "task": "Research Lenderbase selling options, payment management, access & META API tracking",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-07-06"
+    },
+    "bdc5d942c202321e5737e6e65f9b3e5d|overdue|2026-07-07": {
+      "scheduledAt": "2026-05-29T06:01:29.145Z",
+      "type": "overdue",
+      "task": "Research Lenderbase selling options, payment management, access & META API tracking",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-07-07"
+    },
+    "bdc5d942c202321e5737e6e65f9b3e5d|overdue|2026-07-08": {
+      "scheduledAt": "2026-05-29T06:01:29.939Z",
+      "type": "overdue",
+      "task": "Research Lenderbase selling options, payment management, access & META API tracking",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-07-08"
+    },
+    "bdc5d942c202321e5737e6e65f9b3e5d|overdue|2026-07-09": {
+      "scheduledAt": "2026-05-29T06:01:30.947Z",
+      "type": "overdue",
+      "task": "Research Lenderbase selling options, payment management, access & META API tracking",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-07-09"
+    },
+    "bdc5d942c202321e5737e6e65f9b3e5d|overdue|2026-07-10": {
+      "scheduledAt": "2026-05-29T06:01:31.785Z",
+      "type": "overdue",
+      "task": "Research Lenderbase selling options, payment management, access & META API tracking",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-07-10"
+    },
+    "bdc5d942c202321e5737e6e65f9b3e5d|overdue|2026-07-11": {
+      "scheduledAt": "2026-05-29T06:01:32.617Z",
+      "type": "overdue",
+      "task": "Research Lenderbase selling options, payment management, access & META API tracking",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-07-11"
+    },
+    "bdc5d942c202321e5737e6e65f9b3e5d|overdue|2026-07-12": {
+      "scheduledAt": "2026-05-29T06:01:33.453Z",
+      "type": "overdue",
+      "task": "Research Lenderbase selling options, payment management, access & META API tracking",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-07-12"
+    },
+    "bdc5d942c202321e5737e6e65f9b3e5d|overdue|2026-07-13": {
+      "scheduledAt": "2026-05-29T06:01:34.242Z",
+      "type": "overdue",
+      "task": "Research Lenderbase selling options, payment management, access & META API tracking",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-07-13"
+    },
+    "bdc5d942c202321e5737e6e65f9b3e5d|overdue|2026-07-14": {
+      "scheduledAt": "2026-05-29T06:01:34.990Z",
+      "type": "overdue",
+      "task": "Research Lenderbase selling options, payment management, access & META API tracking",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-07-14"
+    },
+    "bdc5d942c202321e5737e6e65f9b3e5d|overdue|2026-07-15": {
+      "scheduledAt": "2026-05-29T06:01:35.741Z",
+      "type": "overdue",
+      "task": "Research Lenderbase selling options, payment management, access & META API tracking",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-07-15"
+    },
+    "bdc5d942c202321e5737e6e65f9b3e5d|overdue|2026-07-16": {
+      "scheduledAt": "2026-05-29T06:01:36.500Z",
+      "type": "overdue",
+      "task": "Research Lenderbase selling options, payment management, access & META API tracking",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-07-16"
+    },
+    "bdc5d942c202321e5737e6e65f9b3e5d|overdue|2026-07-17": {
+      "scheduledAt": "2026-05-29T06:01:37.253Z",
+      "type": "overdue",
+      "task": "Research Lenderbase selling options, payment management, access & META API tracking",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-07-17"
+    },
+    "bdc5d942c202321e5737e6e65f9b3e5d|overdue|2026-07-18": {
+      "scheduledAt": "2026-05-29T06:01:38.058Z",
+      "type": "overdue",
+      "task": "Research Lenderbase selling options, payment management, access & META API tracking",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-07-18"
     }
   },
   "scheduledMessageIds": {
@@ -9608,6 +9916,444 @@
         "channel": "C05JGF817H6",
         "messageId": "Q0B6Q8HBKTK"
       }
+    ],
+    "981c1da3a5b2756a609166f5fa4e84df": [
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B6R62FBDH"
+      },
+      {
+        "channel": "U07FVUF09T7",
+        "messageId": "Q0B7RRKEXC0"
+      },
+      {
+        "channel": "C093VPK55NF",
+        "messageId": "Q0B7RRKNYBA"
+      }
+    ],
+    "98a17563aa0664728fb55c55b63a7854": [
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B6XH5BLH0"
+      },
+      {
+        "channel": "UMCPG3D8A",
+        "messageId": "Q0B715NTD7E"
+      },
+      {
+        "channel": "C08R493ESAJ",
+        "messageId": "Q0B7RRL3WJU"
+      }
+    ],
+    "bdc5d942c202321e5737e6e65f9b3e5d": [
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B6XH6V2LA"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0B7RRLLZG8"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0B6U5RGMSR"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B7RRKQJC8"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0B7RRKMAAU"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0B6VF1FWDU"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B6G3DQJS3"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0B6U5R93AR"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0B715NNGJY"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B715P49RA"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0B6G3EAMKR"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0B6R63BSE7"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B7RRH4U80"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0B6R62L4KV"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0B6U5RHX9B"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B6VF3KY6A"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0B7RRLBQFJ"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0B6U5RJ693"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B6G3ER99D"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0B6ZC3UGE5"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0B6ZC47ACR"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B6VF2A9JS"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0B6G3E8SMD"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0B6G3E6GDV"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B715Q9ZU4"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0B6XH7CBFC"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0B6ZC438NM"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B715PPWTW"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0B6G3EARV5"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0B7RRLG9BJ"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B6ZC4SM6D"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0B715P5EG4"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0B6U5S0JDB"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B6VF2URSS"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0B6G3F102K"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0B7RRLFQ3S"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B6ZC4LXEV"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0B715Q323W"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0B6U5SBWJZ"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B6ZC5JXED"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0B715PTCAG"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0B6VF2MD1C"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B6U5RTNF7"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0B6G3ERH6K"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0B6ZC4E273"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B715Q4ZAQ"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0B715QN484"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0B6ZC4SRFT"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B6U5SNDKP"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0B7RRM5XUY"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0B6U5SNEDT"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B6G3G438F"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0B6ZC4M7CH"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0B6XH8A2SW"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B6VF3832S"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0B6R65BYKD"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0B6VF3KMTQ"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B6U5SPDFX"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0B6R64ENPM"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0B7RRMNBEU"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B6ZC5LPFT"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0B6XH8C0JW"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0B6XH7RLAE"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B7RRMGBCG"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0B715QF4VA"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0B6U5SESDB"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B6VF3PEAJ"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0B6R64RJTD"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0B6XH88V34"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B6ZC5HXPB"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0B6ZC581GR"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0B6VF3GYAJ"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B6G3G5WHM"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0B715R8C84"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0B715RHKJ8"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B6VF4151U"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0B6ZC5RLGH"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0B6VF3SWG6"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B6ZC6542D"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0B6XH845DG"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0B6G3G5R55"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B6XH963TL"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0B6ZC5FULR"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0B715RLG4U"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B6U5TF7LM"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0B7RRNFDME"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0B6XH92R1Q"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B6G3FKLTZ"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0B6VF3TWGN"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0B6VF4D01L"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B6XH8TS3U"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0B6VF4AZML"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0B6G3GMKCP"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B6XH96KS6"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0B6VF4AY22"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0B6U5TRW93"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B6U5TTDJ9"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0B6VF4RYHL"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0B6XH976PL"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B6XH8JTC2"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0B6VF46DHU"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0B6G3GD49M"
+      }
     ]
   },
   "processedMessageTs": {
@@ -9656,8 +10402,12 @@
     "1779299004.329999": true,
     "1779308726.447599": true,
     "1779308610.321399": true,
-    "1779917993.925909": true
+    "1779917993.925909": true,
+    "1780023929.297819": true,
+    "1780022808.127669": true,
+    "1780009293.960119": true,
+    "1780008551.710149": true
   },
   "lastWeeklySummaryDate": "2026-W21",
-  "lastRun": "2026-05-28T20:29:28.242Z"
+  "lastRun": "2026-05-29T06:01:38.060Z"
 }
