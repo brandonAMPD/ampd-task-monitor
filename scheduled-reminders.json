@@ -24,8 +24,8 @@
       "source_message": "@Mark 'Morpheus' Manaog please make sure Jimmy is able to see and get notified of any replies t",
       "assigneeId": "U023F61R16F",
       "messageTs": "1778596320.146219",
-      "completed": false,
-      "completedAt": null,
+      "completed": true,
+      "completedAt": "2026-05-29T18:01:11.177Z",
       "firstSeenAt": "2026-05-13T16:00:58.066Z"
     },
     "f85ad2f679f4c161ff5d72723de8362e": {
@@ -559,6 +559,20 @@
       "completed": true,
       "completedAt": "2026-05-29T06:01:08.752Z",
       "firstSeenAt": "2026-05-29T06:01:08.752Z"
+    },
+    "fdde1feb8dd32097d4582872f00abbf0": {
+      "task": "create a claude based system to direct the team on the steps to take when a client support call",
+      "assignee_name": "Brandon 'The One' Robertson",
+      "assignee_slack_mention": "@Brandon 'The One' Robertson",
+      "assigned_date": "2026-05-29",
+      "due_date": "2026-06-05",
+      "message_ts": "1780070649.199599",
+      "source_message": "@Brandon 'The One' Robertson create a claude based system to direct the team on the steps to take",
+      "assigneeId": "UMS39RAGP",
+      "messageTs": "1780070649.199599",
+      "completed": false,
+      "completedAt": null,
+      "firstSeenAt": "2026-05-29T18:01:48.148Z"
     }
   },
   "scheduled": {
@@ -5432,395 +5446,247 @@
       "task": "Research Lenderbase selling options, payment management, access & META API tracking",
       "assignee": "Mark 'Morpheus' Manaog",
       "reminderDate": "2026-07-18"
+    },
+    "fdde1feb8dd32097d4582872f00abbf0|midpoint|2026-06-01": {
+      "scheduledAt": "2026-05-29T18:01:49.218Z",
+      "type": "midpoint",
+      "task": "create a claude based system to direct the team on the steps to take when a client support call",
+      "assignee": "Brandon 'The One' Robertson",
+      "reminderDate": "2026-06-01"
+    },
+    "fdde1feb8dd32097d4582872f00abbf0|nag|2026-06-03": {
+      "scheduledAt": "2026-05-29T18:01:50.027Z",
+      "type": "nag",
+      "task": "create a claude based system to direct the team on the steps to take when a client support call",
+      "assignee": "Brandon 'The One' Robertson",
+      "reminderDate": "2026-06-03"
+    },
+    "fdde1feb8dd32097d4582872f00abbf0|nag|2026-06-04": {
+      "scheduledAt": "2026-05-29T18:01:50.839Z",
+      "type": "nag",
+      "task": "create a claude based system to direct the team on the steps to take when a client support call",
+      "assignee": "Brandon 'The One' Robertson",
+      "reminderDate": "2026-06-04"
+    },
+    "fdde1feb8dd32097d4582872f00abbf0|due|2026-06-05": {
+      "scheduledAt": "2026-05-29T18:01:51.647Z",
+      "type": "due",
+      "task": "create a claude based system to direct the team on the steps to take when a client support call",
+      "assignee": "Brandon 'The One' Robertson",
+      "reminderDate": "2026-06-05"
+    },
+    "fdde1feb8dd32097d4582872f00abbf0|overdue|2026-06-06": {
+      "scheduledAt": "2026-05-29T18:01:52.445Z",
+      "type": "overdue",
+      "task": "create a claude based system to direct the team on the steps to take when a client support call",
+      "assignee": "Brandon 'The One' Robertson",
+      "reminderDate": "2026-06-06"
+    },
+    "fdde1feb8dd32097d4582872f00abbf0|overdue|2026-06-07": {
+      "scheduledAt": "2026-05-29T18:01:53.246Z",
+      "type": "overdue",
+      "task": "create a claude based system to direct the team on the steps to take when a client support call",
+      "assignee": "Brandon 'The One' Robertson",
+      "reminderDate": "2026-06-07"
+    },
+    "fdde1feb8dd32097d4582872f00abbf0|overdue|2026-06-08": {
+      "scheduledAt": "2026-05-29T18:01:54.069Z",
+      "type": "overdue",
+      "task": "create a claude based system to direct the team on the steps to take when a client support call",
+      "assignee": "Brandon 'The One' Robertson",
+      "reminderDate": "2026-06-08"
+    },
+    "fdde1feb8dd32097d4582872f00abbf0|overdue|2026-06-09": {
+      "scheduledAt": "2026-05-29T18:01:54.871Z",
+      "type": "overdue",
+      "task": "create a claude based system to direct the team on the steps to take when a client support call",
+      "assignee": "Brandon 'The One' Robertson",
+      "reminderDate": "2026-06-09"
+    },
+    "fdde1feb8dd32097d4582872f00abbf0|overdue|2026-06-10": {
+      "scheduledAt": "2026-05-29T18:01:55.673Z",
+      "type": "overdue",
+      "task": "create a claude based system to direct the team on the steps to take when a client support call",
+      "assignee": "Brandon 'The One' Robertson",
+      "reminderDate": "2026-06-10"
+    },
+    "fdde1feb8dd32097d4582872f00abbf0|overdue|2026-06-11": {
+      "scheduledAt": "2026-05-29T18:01:56.487Z",
+      "type": "overdue",
+      "task": "create a claude based system to direct the team on the steps to take when a client support call",
+      "assignee": "Brandon 'The One' Robertson",
+      "reminderDate": "2026-06-11"
+    },
+    "fdde1feb8dd32097d4582872f00abbf0|overdue|2026-06-12": {
+      "scheduledAt": "2026-05-29T18:01:57.305Z",
+      "type": "overdue",
+      "task": "create a claude based system to direct the team on the steps to take when a client support call",
+      "assignee": "Brandon 'The One' Robertson",
+      "reminderDate": "2026-06-12"
+    },
+    "fdde1feb8dd32097d4582872f00abbf0|overdue|2026-06-13": {
+      "scheduledAt": "2026-05-29T18:01:58.120Z",
+      "type": "overdue",
+      "task": "create a claude based system to direct the team on the steps to take when a client support call",
+      "assignee": "Brandon 'The One' Robertson",
+      "reminderDate": "2026-06-13"
+    },
+    "fdde1feb8dd32097d4582872f00abbf0|overdue|2026-06-14": {
+      "scheduledAt": "2026-05-29T18:01:58.938Z",
+      "type": "overdue",
+      "task": "create a claude based system to direct the team on the steps to take when a client support call",
+      "assignee": "Brandon 'The One' Robertson",
+      "reminderDate": "2026-06-14"
+    },
+    "fdde1feb8dd32097d4582872f00abbf0|overdue|2026-06-15": {
+      "scheduledAt": "2026-05-29T18:01:59.742Z",
+      "type": "overdue",
+      "task": "create a claude based system to direct the team on the steps to take when a client support call",
+      "assignee": "Brandon 'The One' Robertson",
+      "reminderDate": "2026-06-15"
+    },
+    "fdde1feb8dd32097d4582872f00abbf0|overdue|2026-06-16": {
+      "scheduledAt": "2026-05-29T18:02:00.570Z",
+      "type": "overdue",
+      "task": "create a claude based system to direct the team on the steps to take when a client support call",
+      "assignee": "Brandon 'The One' Robertson",
+      "reminderDate": "2026-06-16"
+    },
+    "fdde1feb8dd32097d4582872f00abbf0|overdue|2026-06-17": {
+      "scheduledAt": "2026-05-29T18:02:01.388Z",
+      "type": "overdue",
+      "task": "create a claude based system to direct the team on the steps to take when a client support call",
+      "assignee": "Brandon 'The One' Robertson",
+      "reminderDate": "2026-06-17"
+    },
+    "fdde1feb8dd32097d4582872f00abbf0|overdue|2026-06-18": {
+      "scheduledAt": "2026-05-29T18:02:02.288Z",
+      "type": "overdue",
+      "task": "create a claude based system to direct the team on the steps to take when a client support call",
+      "assignee": "Brandon 'The One' Robertson",
+      "reminderDate": "2026-06-18"
+    },
+    "fdde1feb8dd32097d4582872f00abbf0|overdue|2026-06-19": {
+      "scheduledAt": "2026-05-29T18:02:03.134Z",
+      "type": "overdue",
+      "task": "create a claude based system to direct the team on the steps to take when a client support call",
+      "assignee": "Brandon 'The One' Robertson",
+      "reminderDate": "2026-06-19"
+    },
+    "fdde1feb8dd32097d4582872f00abbf0|overdue|2026-06-20": {
+      "scheduledAt": "2026-05-29T18:02:03.934Z",
+      "type": "overdue",
+      "task": "create a claude based system to direct the team on the steps to take when a client support call",
+      "assignee": "Brandon 'The One' Robertson",
+      "reminderDate": "2026-06-20"
+    },
+    "fdde1feb8dd32097d4582872f00abbf0|overdue|2026-06-21": {
+      "scheduledAt": "2026-05-29T18:02:04.784Z",
+      "type": "overdue",
+      "task": "create a claude based system to direct the team on the steps to take when a client support call",
+      "assignee": "Brandon 'The One' Robertson",
+      "reminderDate": "2026-06-21"
+    },
+    "fdde1feb8dd32097d4582872f00abbf0|overdue|2026-06-22": {
+      "scheduledAt": "2026-05-29T18:02:05.613Z",
+      "type": "overdue",
+      "task": "create a claude based system to direct the team on the steps to take when a client support call",
+      "assignee": "Brandon 'The One' Robertson",
+      "reminderDate": "2026-06-22"
+    },
+    "fdde1feb8dd32097d4582872f00abbf0|overdue|2026-06-23": {
+      "scheduledAt": "2026-05-29T18:02:06.427Z",
+      "type": "overdue",
+      "task": "create a claude based system to direct the team on the steps to take when a client support call",
+      "assignee": "Brandon 'The One' Robertson",
+      "reminderDate": "2026-06-23"
+    },
+    "fdde1feb8dd32097d4582872f00abbf0|overdue|2026-06-24": {
+      "scheduledAt": "2026-05-29T18:02:07.296Z",
+      "type": "overdue",
+      "task": "create a claude based system to direct the team on the steps to take when a client support call",
+      "assignee": "Brandon 'The One' Robertson",
+      "reminderDate": "2026-06-24"
+    },
+    "fdde1feb8dd32097d4582872f00abbf0|overdue|2026-06-25": {
+      "scheduledAt": "2026-05-29T18:02:08.116Z",
+      "type": "overdue",
+      "task": "create a claude based system to direct the team on the steps to take when a client support call",
+      "assignee": "Brandon 'The One' Robertson",
+      "reminderDate": "2026-06-25"
+    },
+    "fdde1feb8dd32097d4582872f00abbf0|overdue|2026-06-26": {
+      "scheduledAt": "2026-05-29T18:02:08.933Z",
+      "type": "overdue",
+      "task": "create a claude based system to direct the team on the steps to take when a client support call",
+      "assignee": "Brandon 'The One' Robertson",
+      "reminderDate": "2026-06-26"
+    },
+    "fdde1feb8dd32097d4582872f00abbf0|overdue|2026-06-27": {
+      "scheduledAt": "2026-05-29T18:02:09.749Z",
+      "type": "overdue",
+      "task": "create a claude based system to direct the team on the steps to take when a client support call",
+      "assignee": "Brandon 'The One' Robertson",
+      "reminderDate": "2026-06-27"
+    },
+    "fdde1feb8dd32097d4582872f00abbf0|overdue|2026-06-28": {
+      "scheduledAt": "2026-05-29T18:02:10.548Z",
+      "type": "overdue",
+      "task": "create a claude based system to direct the team on the steps to take when a client support call",
+      "assignee": "Brandon 'The One' Robertson",
+      "reminderDate": "2026-06-28"
+    },
+    "fdde1feb8dd32097d4582872f00abbf0|overdue|2026-06-29": {
+      "scheduledAt": "2026-05-29T18:02:11.348Z",
+      "type": "overdue",
+      "task": "create a claude based system to direct the team on the steps to take when a client support call",
+      "assignee": "Brandon 'The One' Robertson",
+      "reminderDate": "2026-06-29"
+    },
+    "fdde1feb8dd32097d4582872f00abbf0|overdue|2026-06-30": {
+      "scheduledAt": "2026-05-29T18:02:12.154Z",
+      "type": "overdue",
+      "task": "create a claude based system to direct the team on the steps to take when a client support call",
+      "assignee": "Brandon 'The One' Robertson",
+      "reminderDate": "2026-06-30"
+    },
+    "fdde1feb8dd32097d4582872f00abbf0|overdue|2026-07-01": {
+      "scheduledAt": "2026-05-29T18:02:12.980Z",
+      "type": "overdue",
+      "task": "create a claude based system to direct the team on the steps to take when a client support call",
+      "assignee": "Brandon 'The One' Robertson",
+      "reminderDate": "2026-07-01"
+    },
+    "fdde1feb8dd32097d4582872f00abbf0|overdue|2026-07-02": {
+      "scheduledAt": "2026-05-29T18:02:13.795Z",
+      "type": "overdue",
+      "task": "create a claude based system to direct the team on the steps to take when a client support call",
+      "assignee": "Brandon 'The One' Robertson",
+      "reminderDate": "2026-07-02"
+    },
+    "fdde1feb8dd32097d4582872f00abbf0|overdue|2026-07-03": {
+      "scheduledAt": "2026-05-29T18:02:14.608Z",
+      "type": "overdue",
+      "task": "create a claude based system to direct the team on the steps to take when a client support call",
+      "assignee": "Brandon 'The One' Robertson",
+      "reminderDate": "2026-07-03"
+    },
+    "fdde1feb8dd32097d4582872f00abbf0|overdue|2026-07-04": {
+      "scheduledAt": "2026-05-29T18:02:15.450Z",
+      "type": "overdue",
+      "task": "create a claude based system to direct the team on the steps to take when a client support call",
+      "assignee": "Brandon 'The One' Robertson",
+      "reminderDate": "2026-07-04"
+    },
+    "fdde1feb8dd32097d4582872f00abbf0|overdue|2026-07-05": {
+      "scheduledAt": "2026-05-29T18:02:16.249Z",
+      "type": "overdue",
+      "task": "create a claude based system to direct the team on the steps to take when a client support call",
+      "assignee": "Brandon 'The One' Robertson",
+      "reminderDate": "2026-07-05"
     }
   },
   "scheduledMessageIds": {
-    "a6b26d7b8de647f5ebbc2e019dd58eaa": [
-      {
-        "channel": "UMS39RAGP",
-        "messageId": "Q0B3QECPS12"
-      },
-      {
-        "channel": "U023F61R16F",
-        "messageId": "Q0B3HEC7P2R"
-      },
-      {
-        "channel": "C05JGF817H6",
-        "messageId": "Q0B35CDGW6T"
-      },
-      {
-        "channel": "UMS39RAGP",
-        "messageId": "Q0B35CDMJH5"
-      },
-      {
-        "channel": "U023F61R16F",
-        "messageId": "Q0B3EEU7ZA7"
-      },
-      {
-        "channel": "C05JGF817H6",
-        "messageId": "Q0B3JPFK2VC"
-      },
-      {
-        "channel": "UMS39RAGP",
-        "messageId": "Q0B3HEBK07P"
-      },
-      {
-        "channel": "U023F61R16F",
-        "messageId": "Q0B3NLZ1FPT"
-      },
-      {
-        "channel": "C05JGF817H6",
-        "messageId": "Q0B3QECAQ1J"
-      },
-      {
-        "channel": "UMS39RAGP",
-        "messageId": "Q0B3HECMDGV"
-      },
-      {
-        "channel": "U023F61R16F",
-        "messageId": "Q0B35CDC50F"
-      },
-      {
-        "channel": "C05JGF817H6",
-        "messageId": "Q0B3JPR5RV4"
-      },
-      {
-        "channel": "UMS39RAGP",
-        "messageId": "Q0B3JPQP25U"
-      },
-      {
-        "channel": "U023F61R16F",
-        "messageId": "Q0B3JPQS8DU"
-      },
-      {
-        "channel": "C05JGF817H6",
-        "messageId": "Q0B3LRPUMPC"
-      },
-      {
-        "channel": "UMS39RAGP",
-        "messageId": "Q0B3JPS398W"
-      },
-      {
-        "channel": "U023F61R16F",
-        "messageId": "Q0B3NM00F6D"
-      },
-      {
-        "channel": "C05JGF817H6",
-        "messageId": "Q0B3JPR5R7G"
-      },
-      {
-        "channel": "UMS39RAGP",
-        "messageId": "Q0B3QECTYMA"
-      },
-      {
-        "channel": "U023F61R16F",
-        "messageId": "Q0B3EEV9ARZ"
-      },
-      {
-        "channel": "C05JGF817H6",
-        "messageId": "Q0B3JPRGPJS"
-      },
-      {
-        "channel": "UMS39RAGP",
-        "messageId": "Q0B3EEU6Y4B"
-      },
-      {
-        "channel": "U023F61R16F",
-        "messageId": "Q0B3EEVF39R"
-      },
-      {
-        "channel": "C05JGF817H6",
-        "messageId": "Q0B3NLYCPU1"
-      },
-      {
-        "channel": "UMS39RAGP",
-        "messageId": "Q0B3NLZBT0R"
-      },
-      {
-        "channel": "U023F61R16F",
-        "messageId": "Q0B3LRP2PTL"
-      },
-      {
-        "channel": "C05JGF817H6",
-        "messageId": "Q0B3QED7NQ4"
-      },
-      {
-        "channel": "UMS39RAGP",
-        "messageId": "Q0B3JPS7BSA"
-      },
-      {
-        "channel": "U023F61R16F",
-        "messageId": "Q0B3EEV3S4B"
-      },
-      {
-        "channel": "C05JGF817H6",
-        "messageId": "Q0B3EEVB5MH"
-      },
-      {
-        "channel": "UMS39RAGP",
-        "messageId": "Q0B35CDD4T1"
-      },
-      {
-        "channel": "U023F61R16F",
-        "messageId": "Q0B3QEDKFHA"
-      },
-      {
-        "channel": "C05JGF817H6",
-        "messageId": "Q0B3EEV5ZGB"
-      },
-      {
-        "channel": "UMS39RAGP",
-        "messageId": "Q0B3EEVUG4B"
-      },
-      {
-        "channel": "U023F61R16F",
-        "messageId": "Q0B3HECNQVB"
-      },
-      {
-        "channel": "C05JGF817H6",
-        "messageId": "Q0B35CFG6SK"
-      },
-      {
-        "channel": "UMS39RAGP",
-        "messageId": "Q0B3HECLAA1"
-      },
-      {
-        "channel": "U023F61R16F",
-        "messageId": "Q0B3QEDRNE8"
-      },
-      {
-        "channel": "C05JGF817H6",
-        "messageId": "Q0B35CG5FFZ"
-      },
-      {
-        "channel": "UMS39RAGP",
-        "messageId": "Q0B3QEG197W"
-      },
-      {
-        "channel": "U023F61R16F",
-        "messageId": "Q0B3NM1706M"
-      },
-      {
-        "channel": "C05JGF817H6",
-        "messageId": "Q0B3HED01EZ"
-      },
-      {
-        "channel": "UMS39RAGP",
-        "messageId": "Q0B3NM10HNV"
-      },
-      {
-        "channel": "U023F61R16F",
-        "messageId": "Q0B3LRQLLSE"
-      },
-      {
-        "channel": "C05JGF817H6",
-        "messageId": "Q0B3LRSFG02"
-      },
-      {
-        "channel": "UMS39RAGP",
-        "messageId": "Q0B35CFSFP1"
-      },
-      {
-        "channel": "U023F61R16F",
-        "messageId": "Q0B3EEVTX0T"
-      },
-      {
-        "channel": "C05JGF817H6",
-        "messageId": "Q0B3LRR62RG"
-      },
-      {
-        "channel": "UMS39RAGP",
-        "messageId": "Q0B3LRSM2TC"
-      },
-      {
-        "channel": "U023F61R16F",
-        "messageId": "Q0B3LRRG5C2"
-      },
-      {
-        "channel": "C05JGF817H6",
-        "messageId": "Q0B3QEEUDHA"
-      },
-      {
-        "channel": "UMS39RAGP",
-        "messageId": "Q0B3QEE8AEQ"
-      },
-      {
-        "channel": "U023F61R16F",
-        "messageId": "Q0B3NM0L25P"
-      },
-      {
-        "channel": "C05JGF817H6",
-        "messageId": "Q0B35CG6UFR"
-      },
-      {
-        "channel": "UMS39RAGP",
-        "messageId": "Q0B3QEFQSN8"
-      },
-      {
-        "channel": "U023F61R16F",
-        "messageId": "Q0B3HEE29EZ"
-      },
-      {
-        "channel": "C05JGF817H6",
-        "messageId": "Q0B3LRRCWQJ"
-      },
-      {
-        "channel": "UMS39RAGP",
-        "messageId": "Q0B35CG382K"
-      },
-      {
-        "channel": "U023F61R16F",
-        "messageId": "Q0B4F4U6B16"
-      },
-      {
-        "channel": "C05JGF817H6",
-        "messageId": "Q0B35CFBA4X"
-      },
-      {
-        "channel": "UMS39RAGP",
-        "messageId": "Q0B3HEDF9UM"
-      },
-      {
-        "channel": "U023F61R16F",
-        "messageId": "Q0B3LRSUA2E"
-      },
-      {
-        "channel": "C05JGF817H6",
-        "messageId": "Q0B4F4U8WCQ"
-      },
-      {
-        "channel": "UMS39RAGP",
-        "messageId": "Q0B3NM2068Z"
-      },
-      {
-        "channel": "U023F61R16F",
-        "messageId": "Q0B35CFJXGF"
-      },
-      {
-        "channel": "C05JGF817H6",
-        "messageId": "Q0B4F4TQBME"
-      },
-      {
-        "channel": "UMS39RAGP",
-        "messageId": "Q0B3EEX6QPM"
-      },
-      {
-        "channel": "U023F61R16F",
-        "messageId": "Q0B4F4UG7PS"
-      },
-      {
-        "channel": "C05JGF817H6",
-        "messageId": "Q0B3EEVMXH9"
-      },
-      {
-        "channel": "UMS39RAGP",
-        "messageId": "Q0B3JPU4YHL"
-      },
-      {
-        "channel": "U023F61R16F",
-        "messageId": "Q0B3JPU69LN"
-      },
-      {
-        "channel": "C05JGF817H6",
-        "messageId": "Q0B3EEWAB99"
-      },
-      {
-        "channel": "UMS39RAGP",
-        "messageId": "Q0B4F4UJFLY"
-      },
-      {
-        "channel": "U023F61R16F",
-        "messageId": "Q0B3EEXLDL3"
-      },
-      {
-        "channel": "C05JGF817H6",
-        "messageId": "Q0B3HEDTJ0M"
-      },
-      {
-        "channel": "UMS39RAGP",
-        "messageId": "Q0B3HEEG7B7"
-      },
-      {
-        "channel": "U023F61R16F",
-        "messageId": "Q0B3QEFU0TW"
-      },
-      {
-        "channel": "C05JGF817H6",
-        "messageId": "Q0B3QEG9TTN"
-      },
-      {
-        "channel": "UMS39RAGP",
-        "messageId": "Q0B3LRST3A6"
-      },
-      {
-        "channel": "U023F61R16F",
-        "messageId": "Q0B3LRT35C2"
-      },
-      {
-        "channel": "C05JGF817H6",
-        "messageId": "Q0B3JPU2R54"
-      },
-      {
-        "channel": "UMS39RAGP",
-        "messageId": "Q0B35CH7FB9"
-      },
-      {
-        "channel": "U023F61R16F",
-        "messageId": "Q0B3LRSJ63U"
-      },
-      {
-        "channel": "C05JGF817H6",
-        "messageId": "Q0B3HEEQ7KP"
-      },
-      {
-        "channel": "UMS39RAGP",
-        "messageId": "Q0B4F4VT2E4"
-      },
-      {
-        "channel": "U023F61R16F",
-        "messageId": "Q0B3QEH9FC4"
-      },
-      {
-        "channel": "C05JGF817H6",
-        "messageId": "Q0B4F4VPMTJ"
-      },
-      {
-        "channel": "UMS39RAGP",
-        "messageId": "Q0B3LRTGV98"
-      },
-      {
-        "channel": "U023F61R16F",
-        "messageId": "Q0B3HEF1JCD"
-      },
-      {
-        "channel": "C05JGF817H6",
-        "messageId": "Q0B3LRSQ7H8"
-      },
-      {
-        "channel": "UMS39RAGP",
-        "messageId": "Q0B35CHPJRM"
-      },
-      {
-        "channel": "U023F61R16F",
-        "messageId": "Q0B3LRTAE5Q"
-      },
-      {
-        "channel": "C05JGF817H6",
-        "messageId": "Q0B3QEJFDGU"
-      },
-      {
-        "channel": "UMS39RAGP",
-        "messageId": "Q0B35CJ08FR"
-      },
-      {
-        "channel": "U023F61R16F",
-        "messageId": "Q0B3HEFL293"
-      },
-      {
-        "channel": "C05JGF817H6",
-        "messageId": "Q0B3HEG1J5B"
-      }
-    ],
     "f85ad2f679f4c161ff5d72723de8362e": [
       {
         "channel": "UMS39RAGP",
@@ -10354,6 +10220,280 @@
         "channel": "C05JGF817H6",
         "messageId": "Q0B6G3GD49M"
       }
+    ],
+    "fdde1feb8dd32097d4582872f00abbf0": [
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B6M48T155"
+      },
+      {
+        "channel": "C05HV4SQD6G",
+        "messageId": "Q0B6Z6H6D9B"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B72J0B1QS"
+      },
+      {
+        "channel": "C05HV4SQD6G",
+        "messageId": "Q0B74CYGC1F"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B72J1B0LS"
+      },
+      {
+        "channel": "C05HV4SQD6G",
+        "messageId": "Q0B6M492XRD"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B6M48NP71"
+      },
+      {
+        "channel": "C05HV4SQD6G",
+        "messageId": "Q0B6W6WE319"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B6M48P54P"
+      },
+      {
+        "channel": "C05HV4SQD6G",
+        "messageId": "Q0B72J1AVBL"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B74CYP06M"
+      },
+      {
+        "channel": "C05HV4SQD6G",
+        "messageId": "Q0B766JUJCU"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B6Z6HS7HB"
+      },
+      {
+        "channel": "C05HV4SQD6G",
+        "messageId": "Q0B72J1GK2N"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B72J1QE4S"
+      },
+      {
+        "channel": "C05HV4SQD6G",
+        "messageId": "Q0B6W6VTV2P"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B6M4A3C5V"
+      },
+      {
+        "channel": "C05HV4SQD6G",
+        "messageId": "Q0B72J1LNHG"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B70FXJ17G"
+      },
+      {
+        "channel": "C05HV4SQD6G",
+        "messageId": "Q0B766K1VSQ"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B70FXM7KQ"
+      },
+      {
+        "channel": "C05HV4SQD6G",
+        "messageId": "Q0B766K4QSY"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B766HHAKW"
+      },
+      {
+        "channel": "C05HV4SQD6G",
+        "messageId": "Q0B74CZR76D"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B70FXUG6A"
+      },
+      {
+        "channel": "C05HV4SQD6G",
+        "messageId": "Q0B6W6WM2EP"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B74CZ2E8H"
+      },
+      {
+        "channel": "C05HV4SQD6G",
+        "messageId": "Q0B74D05BSM"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B70FXN4EA"
+      },
+      {
+        "channel": "C05HV4SQD6G",
+        "messageId": "Q0B6Z6H042H"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B7WSGG19N"
+      },
+      {
+        "channel": "C05HV4SQD6G",
+        "messageId": "Q0B7WSG1R32"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B7WRD3TT2"
+      },
+      {
+        "channel": "C05HV4SQD6G",
+        "messageId": "Q0B6W6XCA1H"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B72J2U6LS"
+      },
+      {
+        "channel": "C05HV4SQD6G",
+        "messageId": "Q0B6W6X5JG3"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B74D0DXBK"
+      },
+      {
+        "channel": "C05HV4SQD6G",
+        "messageId": "Q0B6M4AHCUX"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B766KJ684"
+      },
+      {
+        "channel": "C05HV4SQD6G",
+        "messageId": "Q0B766L66G4"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B72J2DLD8"
+      },
+      {
+        "channel": "C05HV4SQD6G",
+        "messageId": "Q0B74D0QYN5"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B7WSHFSQG"
+      },
+      {
+        "channel": "C05HV4SQD6G",
+        "messageId": "Q0B72J30WBC"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B6W6X4TV1"
+      },
+      {
+        "channel": "C05HV4SQD6G",
+        "messageId": "Q0B6W5U0Y7M"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B74D0V2N5"
+      },
+      {
+        "channel": "C05HV4SQD6G",
+        "messageId": "Q0B70FYTY8N"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B72J3KB6E"
+      },
+      {
+        "channel": "C05HV4SQD6G",
+        "messageId": "Q0B72J27LJE"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B766LQMJQ"
+      },
+      {
+        "channel": "C05HV4SQD6G",
+        "messageId": "Q0B6W6Y0B9R"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B7WSHJUV6"
+      },
+      {
+        "channel": "C05HV4SQD6G",
+        "messageId": "Q0B70FYMKSA"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B766LJKN0"
+      },
+      {
+        "channel": "C05HV4SQD6G",
+        "messageId": "Q0B6M375M4P"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B766LSSBW"
+      },
+      {
+        "channel": "C05HV4SQD6G",
+        "messageId": "Q0B6W6Y2KJ7"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B766M1U0L"
+      },
+      {
+        "channel": "C05HV4SQD6G",
+        "messageId": "Q0B74D1C117"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B6Z6KS7GD"
+      },
+      {
+        "channel": "C05HV4SQD6G",
+        "messageId": "Q0B72J46NLS"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B6Z6L43UM"
+      },
+      {
+        "channel": "C05HV4SQD6G",
+        "messageId": "Q0B74D25JD7"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B70FZUVQE"
+      },
+      {
+        "channel": "C05HV4SQD6G",
+        "messageId": "Q0B766MM2AG"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B70FZKVK8"
+      },
+      {
+        "channel": "C05HV4SQD6G",
+        "messageId": "Q0B6Z6L20R3"
+      }
     ]
   },
   "processedMessageTs": {
@@ -10406,8 +10546,9 @@
     "1780023929.297819": true,
     "1780022808.127669": true,
     "1780009293.960119": true,
-    "1780008551.710149": true
+    "1780008551.710149": true,
+    "1780070649.199599": true
   },
   "lastWeeklySummaryDate": "2026-W22",
-  "lastRun": "2026-05-29T14:01:01.233Z"
+  "lastRun": "2026-05-29T18:02:16.250Z"
 }
