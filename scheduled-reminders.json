@@ -573,6 +573,34 @@
       "completed": false,
       "completedAt": null,
       "firstSeenAt": "2026-05-29T18:01:48.148Z"
+    },
+    "c8aeafb8fed7442019c555dd4a427f9a": {
+      "task": "Ampd, PMP and Lenderbase logo files in SVG, PNG, transparent PNG, black, white, full-color, icon",
+      "assignee_name": "Chrissy 'Queen Bee' Robertson",
+      "assignee_slack_mention": "@Chrissy 'Queen Bee' Robertson",
+      "assigned_date": "2026-06-01",
+      "due_date": "2026-06-04",
+      "message_ts": "1780341781.291039",
+      "source_message": "@Chrissy 'Queen Bee' Robertson please Ampd, PMP and Lenderbase logo files there in SVG, PNG, transpa",
+      "assigneeId": "U01M7FMPTRR",
+      "messageTs": "1780341781.291039",
+      "completed": true,
+      "completedAt": "2026-06-01T21:37:40.562Z",
+      "firstSeenAt": "2026-06-01T21:37:40.562Z"
+    },
+    "f88663da991fee0d2f976591b64f2326": {
+      "task": "update lead sheet - Chad Bonadona, put in automations",
+      "assignee_name": "Christle 'Knows All' Ochigue",
+      "assignee_slack_mention": "@Christle 'Knows All' Ochigue",
+      "assigned_date": "2026-06-01",
+      "due_date": "2026-06-04",
+      "message_ts": "1780337997.597119",
+      "source_message": "@Christle 'Knows All' Ochigue | update lead sheet - Chad Bonadona, put in automations. | Due: 6-4",
+      "assigneeId": "UMCPG3D8A",
+      "messageTs": "1780337997.597119",
+      "completed": false,
+      "completedAt": null,
+      "firstSeenAt": "2026-06-01T21:37:40.621Z"
     }
   },
   "scheduled": {
@@ -5684,6 +5712,237 @@
       "task": "create a claude based system to direct the team on the steps to take when a client support call",
       "assignee": "Brandon 'The One' Robertson",
       "reminderDate": "2026-07-05"
+    },
+    "f88663da991fee0d2f976591b64f2326|midpoint|2026-06-02": {
+      "scheduledAt": "2026-06-01T21:37:41.373Z",
+      "type": "midpoint",
+      "task": "update lead sheet - Chad Bonadona, put in automations",
+      "assignee": "Christle 'Knows All' Ochigue",
+      "reminderDate": "2026-06-02"
+    },
+    "f88663da991fee0d2f976591b64f2326|nag|2026-06-03": {
+      "scheduledAt": "2026-06-01T21:37:42.051Z",
+      "type": "nag",
+      "task": "update lead sheet - Chad Bonadona, put in automations",
+      "assignee": "Christle 'Knows All' Ochigue",
+      "reminderDate": "2026-06-03"
+    },
+    "f88663da991fee0d2f976591b64f2326|due|2026-06-04": {
+      "scheduledAt": "2026-06-01T21:37:42.787Z",
+      "type": "due",
+      "task": "update lead sheet - Chad Bonadona, put in automations",
+      "assignee": "Christle 'Knows All' Ochigue",
+      "reminderDate": "2026-06-04"
+    },
+    "f88663da991fee0d2f976591b64f2326|overdue|2026-06-05": {
+      "scheduledAt": "2026-06-01T21:37:43.473Z",
+      "type": "overdue",
+      "task": "update lead sheet - Chad Bonadona, put in automations",
+      "assignee": "Christle 'Knows All' Ochigue",
+      "reminderDate": "2026-06-05"
+    },
+    "f88663da991fee0d2f976591b64f2326|overdue|2026-06-06": {
+      "scheduledAt": "2026-06-01T21:37:44.165Z",
+      "type": "overdue",
+      "task": "update lead sheet - Chad Bonadona, put in automations",
+      "assignee": "Christle 'Knows All' Ochigue",
+      "reminderDate": "2026-06-06"
+    },
+    "f88663da991fee0d2f976591b64f2326|overdue|2026-06-07": {
+      "scheduledAt": "2026-06-01T21:37:44.835Z",
+      "type": "overdue",
+      "task": "update lead sheet - Chad Bonadona, put in automations",
+      "assignee": "Christle 'Knows All' Ochigue",
+      "reminderDate": "2026-06-07"
+    },
+    "f88663da991fee0d2f976591b64f2326|overdue|2026-06-08": {
+      "scheduledAt": "2026-06-01T21:37:45.528Z",
+      "type": "overdue",
+      "task": "update lead sheet - Chad Bonadona, put in automations",
+      "assignee": "Christle 'Knows All' Ochigue",
+      "reminderDate": "2026-06-08"
+    },
+    "f88663da991fee0d2f976591b64f2326|overdue|2026-06-09": {
+      "scheduledAt": "2026-06-01T21:37:46.221Z",
+      "type": "overdue",
+      "task": "update lead sheet - Chad Bonadona, put in automations",
+      "assignee": "Christle 'Knows All' Ochigue",
+      "reminderDate": "2026-06-09"
+    },
+    "f88663da991fee0d2f976591b64f2326|overdue|2026-06-10": {
+      "scheduledAt": "2026-06-01T21:37:46.890Z",
+      "type": "overdue",
+      "task": "update lead sheet - Chad Bonadona, put in automations",
+      "assignee": "Christle 'Knows All' Ochigue",
+      "reminderDate": "2026-06-10"
+    },
+    "f88663da991fee0d2f976591b64f2326|overdue|2026-06-11": {
+      "scheduledAt": "2026-06-01T21:37:47.612Z",
+      "type": "overdue",
+      "task": "update lead sheet - Chad Bonadona, put in automations",
+      "assignee": "Christle 'Knows All' Ochigue",
+      "reminderDate": "2026-06-11"
+    },
+    "f88663da991fee0d2f976591b64f2326|overdue|2026-06-12": {
+      "scheduledAt": "2026-06-01T21:37:48.298Z",
+      "type": "overdue",
+      "task": "update lead sheet - Chad Bonadona, put in automations",
+      "assignee": "Christle 'Knows All' Ochigue",
+      "reminderDate": "2026-06-12"
+    },
+    "f88663da991fee0d2f976591b64f2326|overdue|2026-06-13": {
+      "scheduledAt": "2026-06-01T21:37:48.982Z",
+      "type": "overdue",
+      "task": "update lead sheet - Chad Bonadona, put in automations",
+      "assignee": "Christle 'Knows All' Ochigue",
+      "reminderDate": "2026-06-13"
+    },
+    "f88663da991fee0d2f976591b64f2326|overdue|2026-06-14": {
+      "scheduledAt": "2026-06-01T21:37:49.682Z",
+      "type": "overdue",
+      "task": "update lead sheet - Chad Bonadona, put in automations",
+      "assignee": "Christle 'Knows All' Ochigue",
+      "reminderDate": "2026-06-14"
+    },
+    "f88663da991fee0d2f976591b64f2326|overdue|2026-06-15": {
+      "scheduledAt": "2026-06-01T21:37:50.434Z",
+      "type": "overdue",
+      "task": "update lead sheet - Chad Bonadona, put in automations",
+      "assignee": "Christle 'Knows All' Ochigue",
+      "reminderDate": "2026-06-15"
+    },
+    "f88663da991fee0d2f976591b64f2326|overdue|2026-06-16": {
+      "scheduledAt": "2026-06-01T21:37:51.138Z",
+      "type": "overdue",
+      "task": "update lead sheet - Chad Bonadona, put in automations",
+      "assignee": "Christle 'Knows All' Ochigue",
+      "reminderDate": "2026-06-16"
+    },
+    "f88663da991fee0d2f976591b64f2326|overdue|2026-06-17": {
+      "scheduledAt": "2026-06-01T21:37:51.828Z",
+      "type": "overdue",
+      "task": "update lead sheet - Chad Bonadona, put in automations",
+      "assignee": "Christle 'Knows All' Ochigue",
+      "reminderDate": "2026-06-17"
+    },
+    "f88663da991fee0d2f976591b64f2326|overdue|2026-06-18": {
+      "scheduledAt": "2026-06-01T21:37:52.498Z",
+      "type": "overdue",
+      "task": "update lead sheet - Chad Bonadona, put in automations",
+      "assignee": "Christle 'Knows All' Ochigue",
+      "reminderDate": "2026-06-18"
+    },
+    "f88663da991fee0d2f976591b64f2326|overdue|2026-06-19": {
+      "scheduledAt": "2026-06-01T21:37:53.199Z",
+      "type": "overdue",
+      "task": "update lead sheet - Chad Bonadona, put in automations",
+      "assignee": "Christle 'Knows All' Ochigue",
+      "reminderDate": "2026-06-19"
+    },
+    "f88663da991fee0d2f976591b64f2326|overdue|2026-06-20": {
+      "scheduledAt": "2026-06-01T21:37:53.884Z",
+      "type": "overdue",
+      "task": "update lead sheet - Chad Bonadona, put in automations",
+      "assignee": "Christle 'Knows All' Ochigue",
+      "reminderDate": "2026-06-20"
+    },
+    "f88663da991fee0d2f976591b64f2326|overdue|2026-06-21": {
+      "scheduledAt": "2026-06-01T21:37:54.558Z",
+      "type": "overdue",
+      "task": "update lead sheet - Chad Bonadona, put in automations",
+      "assignee": "Christle 'Knows All' Ochigue",
+      "reminderDate": "2026-06-21"
+    },
+    "f88663da991fee0d2f976591b64f2326|overdue|2026-06-22": {
+      "scheduledAt": "2026-06-01T21:37:55.248Z",
+      "type": "overdue",
+      "task": "update lead sheet - Chad Bonadona, put in automations",
+      "assignee": "Christle 'Knows All' Ochigue",
+      "reminderDate": "2026-06-22"
+    },
+    "f88663da991fee0d2f976591b64f2326|overdue|2026-06-23": {
+      "scheduledAt": "2026-06-01T21:37:55.956Z",
+      "type": "overdue",
+      "task": "update lead sheet - Chad Bonadona, put in automations",
+      "assignee": "Christle 'Knows All' Ochigue",
+      "reminderDate": "2026-06-23"
+    },
+    "f88663da991fee0d2f976591b64f2326|overdue|2026-06-24": {
+      "scheduledAt": "2026-06-01T21:37:56.648Z",
+      "type": "overdue",
+      "task": "update lead sheet - Chad Bonadona, put in automations",
+      "assignee": "Christle 'Knows All' Ochigue",
+      "reminderDate": "2026-06-24"
+    },
+    "f88663da991fee0d2f976591b64f2326|overdue|2026-06-25": {
+      "scheduledAt": "2026-06-01T21:37:57.374Z",
+      "type": "overdue",
+      "task": "update lead sheet - Chad Bonadona, put in automations",
+      "assignee": "Christle 'Knows All' Ochigue",
+      "reminderDate": "2026-06-25"
+    },
+    "f88663da991fee0d2f976591b64f2326|overdue|2026-06-26": {
+      "scheduledAt": "2026-06-01T21:37:58.066Z",
+      "type": "overdue",
+      "task": "update lead sheet - Chad Bonadona, put in automations",
+      "assignee": "Christle 'Knows All' Ochigue",
+      "reminderDate": "2026-06-26"
+    },
+    "f88663da991fee0d2f976591b64f2326|overdue|2026-06-27": {
+      "scheduledAt": "2026-06-01T21:37:58.732Z",
+      "type": "overdue",
+      "task": "update lead sheet - Chad Bonadona, put in automations",
+      "assignee": "Christle 'Knows All' Ochigue",
+      "reminderDate": "2026-06-27"
+    },
+    "f88663da991fee0d2f976591b64f2326|overdue|2026-06-28": {
+      "scheduledAt": "2026-06-01T21:37:59.421Z",
+      "type": "overdue",
+      "task": "update lead sheet - Chad Bonadona, put in automations",
+      "assignee": "Christle 'Knows All' Ochigue",
+      "reminderDate": "2026-06-28"
+    },
+    "f88663da991fee0d2f976591b64f2326|overdue|2026-06-29": {
+      "scheduledAt": "2026-06-01T21:38:00.096Z",
+      "type": "overdue",
+      "task": "update lead sheet - Chad Bonadona, put in automations",
+      "assignee": "Christle 'Knows All' Ochigue",
+      "reminderDate": "2026-06-29"
+    },
+    "f88663da991fee0d2f976591b64f2326|overdue|2026-06-30": {
+      "scheduledAt": "2026-06-01T21:38:00.761Z",
+      "type": "overdue",
+      "task": "update lead sheet - Chad Bonadona, put in automations",
+      "assignee": "Christle 'Knows All' Ochigue",
+      "reminderDate": "2026-06-30"
+    },
+    "f88663da991fee0d2f976591b64f2326|overdue|2026-07-01": {
+      "scheduledAt": "2026-06-01T21:38:01.415Z",
+      "type": "overdue",
+      "task": "update lead sheet - Chad Bonadona, put in automations",
+      "assignee": "Christle 'Knows All' Ochigue",
+      "reminderDate": "2026-07-01"
+    },
+    "f88663da991fee0d2f976591b64f2326|overdue|2026-07-02": {
+      "scheduledAt": "2026-06-01T21:38:02.108Z",
+      "type": "overdue",
+      "task": "update lead sheet - Chad Bonadona, put in automations",
+      "assignee": "Christle 'Knows All' Ochigue",
+      "reminderDate": "2026-07-02"
+    },
+    "f88663da991fee0d2f976591b64f2326|overdue|2026-07-03": {
+      "scheduledAt": "2026-06-01T21:38:02.795Z",
+      "type": "overdue",
+      "task": "update lead sheet - Chad Bonadona, put in automations",
+      "assignee": "Christle 'Knows All' Ochigue",
+      "reminderDate": "2026-07-03"
+    },
+    "f88663da991fee0d2f976591b64f2326|overdue|2026-07-04": {
+      "scheduledAt": "2026-06-01T21:38:03.509Z",
+      "type": "overdue",
+      "task": "update lead sheet - Chad Bonadona, put in automations",
+      "assignee": "Christle 'Knows All' Ochigue",
+      "reminderDate": "2026-07-04"
     }
   },
   "scheduledMessageIds": {
@@ -10494,6 +10753,404 @@
         "channel": "C05HV4SQD6G",
         "messageId": "Q0B6Z6L20R3"
       }
+    ],
+    "f88663da991fee0d2f976591b64f2326": [
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B7KBSF4LA"
+      },
+      {
+        "channel": "UMCPG3D8A",
+        "messageId": "Q0B8DL6K9S4"
+      },
+      {
+        "channel": "C08R493ESAJ",
+        "messageId": "Q0B73TF2C79"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B8DL76XJ4"
+      },
+      {
+        "channel": "UMCPG3D8A",
+        "messageId": "Q0B7G07M8AZ"
+      },
+      {
+        "channel": "C08R493ESAJ",
+        "messageId": "Q0B7H9PB7T8"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B8DL6PB16"
+      },
+      {
+        "channel": "UMCPG3D8A",
+        "messageId": "Q0B7KBRUH9Q"
+      },
+      {
+        "channel": "C08R493ESAJ",
+        "messageId": "Q0B7P0B9T0C"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B7M6QDPS5"
+      },
+      {
+        "channel": "UMCPG3D8A",
+        "messageId": "Q0B7P0B8ASG"
+      },
+      {
+        "channel": "C08R493ESAJ",
+        "messageId": "Q0B7M6R84UR"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B73TEPM8X"
+      },
+      {
+        "channel": "UMCPG3D8A",
+        "messageId": "Q0B7G08KGTF"
+      },
+      {
+        "channel": "C08R493ESAJ",
+        "messageId": "Q0B7KBSGL58"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B7G06MWN9"
+      },
+      {
+        "channel": "UMCPG3D8A",
+        "messageId": "Q0B7P0BQBPE"
+      },
+      {
+        "channel": "C08R493ESAJ",
+        "messageId": "Q0B7P0B7TJ8"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B73TG2DT9"
+      },
+      {
+        "channel": "UMCPG3D8A",
+        "messageId": "Q0B73TG1ZCP"
+      },
+      {
+        "channel": "C08R493ESAJ",
+        "messageId": "Q0B8DL7G0DN"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B73TF1AFR"
+      },
+      {
+        "channel": "UMCPG3D8A",
+        "messageId": "Q0B7H9P98TG"
+      },
+      {
+        "channel": "C08R493ESAJ",
+        "messageId": "Q0B7KBSB1UJ"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B7D0MV343"
+      },
+      {
+        "channel": "UMCPG3D8A",
+        "messageId": "Q0B8DL7028G"
+      },
+      {
+        "channel": "C08R493ESAJ",
+        "messageId": "Q0B7KBS2EM8"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B7KBSHX26"
+      },
+      {
+        "channel": "UMCPG3D8A",
+        "messageId": "Q0B7H9PSGDU"
+      },
+      {
+        "channel": "C08R493ESAJ",
+        "messageId": "Q0B7D0N24GK"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B7H9PASDC"
+      },
+      {
+        "channel": "UMCPG3D8A",
+        "messageId": "Q0B73TF7E5D"
+      },
+      {
+        "channel": "C08R493ESAJ",
+        "messageId": "Q0B73TEN3RD"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B7G08GY7P"
+      },
+      {
+        "channel": "UMCPG3D8A",
+        "messageId": "Q0B7M6RUTPT"
+      },
+      {
+        "channel": "C08R493ESAJ",
+        "messageId": "Q0B7H9PEP9U"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B73TG7N8P"
+      },
+      {
+        "channel": "UMCPG3D8A",
+        "messageId": "Q0B7H9QQPRU"
+      },
+      {
+        "channel": "C08R493ESAJ",
+        "messageId": "Q0B7P0CE4UC"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B7G099F5K"
+      },
+      {
+        "channel": "UMCPG3D8A",
+        "messageId": "Q0B7M6QNVMX"
+      },
+      {
+        "channel": "C08R493ESAJ",
+        "messageId": "Q0B7H9PPCPQ"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B73TFQA1M"
+      },
+      {
+        "channel": "UMCPG3D8A",
+        "messageId": "Q0B8DL91L9E"
+      },
+      {
+        "channel": "C08R493ESAJ",
+        "messageId": "Q0B73TG7MKR"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B7D0P2DUK"
+      },
+      {
+        "channel": "UMCPG3D8A",
+        "messageId": "Q0B7H9P10A2"
+      },
+      {
+        "channel": "C08R493ESAJ",
+        "messageId": "Q0B7H9PTF6J"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B7P0C38EQ"
+      },
+      {
+        "channel": "UMCPG3D8A",
+        "messageId": "Q0B7H9PNM38"
+      },
+      {
+        "channel": "C08R493ESAJ",
+        "messageId": "Q0B73TFMK39"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B7G09M2NR"
+      },
+      {
+        "channel": "UMCPG3D8A",
+        "messageId": "Q0B7M6RFGHF"
+      },
+      {
+        "channel": "C08R493ESAJ",
+        "messageId": "Q0B7P0C4RPE"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B8DL7QKPA"
+      },
+      {
+        "channel": "UMCPG3D8A",
+        "messageId": "Q0B7D0P5Q75"
+      },
+      {
+        "channel": "C08R493ESAJ",
+        "messageId": "Q0B7P0CBQLC"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B7P0C8N12"
+      },
+      {
+        "channel": "UMCPG3D8A",
+        "messageId": "Q0B7KBSTQ0J"
+      },
+      {
+        "channel": "C08R493ESAJ",
+        "messageId": "Q0B73TG77K9"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B7G0A17DK"
+      },
+      {
+        "channel": "UMCPG3D8A",
+        "messageId": "Q0B7KBTBGNN"
+      },
+      {
+        "channel": "C08R493ESAJ",
+        "messageId": "Q0B73TFTR9V"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B7M6S3T09"
+      },
+      {
+        "channel": "UMCPG3D8A",
+        "messageId": "Q0B7M6TA1HP"
+      },
+      {
+        "channel": "C08R493ESAJ",
+        "messageId": "Q0B7H9QSZPY"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B7G09L06R"
+      },
+      {
+        "channel": "UMCPG3D8A",
+        "messageId": "Q0B7D0PFNAF"
+      },
+      {
+        "channel": "C08R493ESAJ",
+        "messageId": "Q0B7G099G85"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B8DL61NHW"
+      },
+      {
+        "channel": "UMCPG3D8A",
+        "messageId": "Q0B7KBSRCEN"
+      },
+      {
+        "channel": "C08R493ESAJ",
+        "messageId": "Q0B8DL8KMQ8"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B7M6S8AKT"
+      },
+      {
+        "channel": "UMCPG3D8A",
+        "messageId": "Q0B73TGE139"
+      },
+      {
+        "channel": "C08R493ESAJ",
+        "messageId": "Q0B7G08GJ2H"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B8DL7EVPA"
+      },
+      {
+        "channel": "UMCPG3D8A",
+        "messageId": "Q0B7D0PC0RZ"
+      },
+      {
+        "channel": "C08R493ESAJ",
+        "messageId": "Q0B7D0PKMT5"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B7P0CJNCU"
+      },
+      {
+        "channel": "UMCPG3D8A",
+        "messageId": "Q0B7P0CFR0C"
+      },
+      {
+        "channel": "C08R493ESAJ",
+        "messageId": "Q0B7P0CMMB6"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B7P0C9ZRS"
+      },
+      {
+        "channel": "UMCPG3D8A",
+        "messageId": "Q0B73TGHRGF"
+      },
+      {
+        "channel": "C08R493ESAJ",
+        "messageId": "Q0B73TG685D"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B7P0CSETW"
+      },
+      {
+        "channel": "UMCPG3D8A",
+        "messageId": "Q0B7P0CVB3N"
+      },
+      {
+        "channel": "C08R493ESAJ",
+        "messageId": "Q0B7H9QSATG"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B7P0D8PRA"
+      },
+      {
+        "channel": "UMCPG3D8A",
+        "messageId": "Q0B7M6SAG1F"
+      },
+      {
+        "channel": "C08R493ESAJ",
+        "messageId": "Q0B7H9RJRN2"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B73THKMCP"
+      },
+      {
+        "channel": "UMCPG3D8A",
+        "messageId": "Q0B7M6SPX33"
+      },
+      {
+        "channel": "C08R493ESAJ",
+        "messageId": "Q0B7G09FT53"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B7D0QQLTV"
+      },
+      {
+        "channel": "UMCPG3D8A",
+        "messageId": "Q0B7G09NP8V"
+      },
+      {
+        "channel": "C08R493ESAJ",
+        "messageId": "Q0B7H9PTUF8"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B7P0CS820"
+      },
+      {
+        "channel": "UMCPG3D8A",
+        "messageId": "Q0B8DL8K3S4"
+      },
+      {
+        "channel": "C08R493ESAJ",
+        "messageId": "Q0B73TGG61M"
+      }
     ]
   },
   "processedMessageTs": {
@@ -10547,8 +11204,10 @@
     "1780022808.127669": true,
     "1780009293.960119": true,
     "1780008551.710149": true,
-    "1780070649.199599": true
+    "1780070649.199599": true,
+    "1780341781.291039": true,
+    "1780337997.597119": true
   },
   "lastWeeklySummaryDate": "2026-W22",
-  "lastRun": "2026-06-01T18:01:12.652Z"
+  "lastRun": "2026-06-01T21:38:03.511Z"
 }
