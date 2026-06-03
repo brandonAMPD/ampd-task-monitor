@@ -598,8 +598,8 @@
       "source_message": "@Christle 'Knows All' Ochigue | update lead sheet - Chad Bonadona, put in automations. | Due: 6-4",
       "assigneeId": "UMCPG3D8A",
       "messageTs": "1780337997.597119",
-      "completed": false,
-      "completedAt": null,
+      "completed": true,
+      "completedAt": "2026-06-03T18:01:04.675Z",
       "firstSeenAt": "2026-06-01T21:37:40.621Z"
     },
     "05e5581760cd566b0bc018ef2bd7a829": {
@@ -643,6 +643,34 @@
       "completed": false,
       "completedAt": null,
       "firstSeenAt": "2026-06-03T06:01:05.981Z"
+    },
+    "2e2d3b6bed52640bf2b8e32144e97aa0": {
+      "task": "remove the request form feature for each person's FD channel",
+      "assignee_name": "Christle 'Knows All' Ochigue",
+      "assignee_slack_mention": "@Christle 'Knows All' Ochigue",
+      "assigned_date": "2026-06-03",
+      "due_date": "2026-06-09",
+      "message_ts": "1780506919.959869",
+      "source_message": "@Christle 'Knows All' Ochigue remove the request form feature (turn it off at least - doesn't have",
+      "assigneeId": "UMCPG3D8A",
+      "messageTs": "1780506919.959869",
+      "completed": false,
+      "completedAt": null,
+      "firstSeenAt": "2026-06-03T18:01:46.235Z"
+    },
+    "4bd62b32dea5e20b9d80e572fc3709d7": {
+      "task": "get with josh loeb about increasing his budget and assist him more, possibly with AI in CRM",
+      "assignee_name": "Jimmy 'Suave' Flores",
+      "assignee_slack_mention": "@Jimmy 'Suave' Flores",
+      "assigned_date": "2026-06-03",
+      "due_date": "2026-06-11",
+      "message_ts": "1780501684.168879",
+      "source_message": "@Jimmy 'Suave' Flores please be sure to get with josh loeb about increasing his budget a bit out of",
+      "assigneeId": "U02773FLDN2",
+      "messageTs": "1780501684.168879",
+      "completed": false,
+      "completedAt": null,
+      "firstSeenAt": "2026-06-03T18:01:46.386Z"
     }
   },
   "scheduled": {
@@ -6453,6 +6481,482 @@
       "task": "Begin working on new projects listed in CSM folder document",
       "assignee": "Meg 'The Sage' Scheffler",
       "reminderDate": "2026-07-14"
+    },
+    "2e2d3b6bed52640bf2b8e32144e97aa0|midpoint|2026-06-06": {
+      "scheduledAt": "2026-06-03T18:01:47.395Z",
+      "type": "midpoint",
+      "task": "remove the request form feature for each person's FD channel",
+      "assignee": "Christle 'Knows All' Ochigue",
+      "reminderDate": "2026-06-06"
+    },
+    "2e2d3b6bed52640bf2b8e32144e97aa0|nag|2026-06-07": {
+      "scheduledAt": "2026-06-03T18:01:48.346Z",
+      "type": "nag",
+      "task": "remove the request form feature for each person's FD channel",
+      "assignee": "Christle 'Knows All' Ochigue",
+      "reminderDate": "2026-06-07"
+    },
+    "2e2d3b6bed52640bf2b8e32144e97aa0|nag|2026-06-08": {
+      "scheduledAt": "2026-06-03T18:01:49.298Z",
+      "type": "nag",
+      "task": "remove the request form feature for each person's FD channel",
+      "assignee": "Christle 'Knows All' Ochigue",
+      "reminderDate": "2026-06-08"
+    },
+    "2e2d3b6bed52640bf2b8e32144e97aa0|due|2026-06-09": {
+      "scheduledAt": "2026-06-03T18:01:50.284Z",
+      "type": "due",
+      "task": "remove the request form feature for each person's FD channel",
+      "assignee": "Christle 'Knows All' Ochigue",
+      "reminderDate": "2026-06-09"
+    },
+    "2e2d3b6bed52640bf2b8e32144e97aa0|overdue|2026-06-10": {
+      "scheduledAt": "2026-06-03T18:01:51.263Z",
+      "type": "overdue",
+      "task": "remove the request form feature for each person's FD channel",
+      "assignee": "Christle 'Knows All' Ochigue",
+      "reminderDate": "2026-06-10"
+    },
+    "2e2d3b6bed52640bf2b8e32144e97aa0|overdue|2026-06-11": {
+      "scheduledAt": "2026-06-03T18:01:52.258Z",
+      "type": "overdue",
+      "task": "remove the request form feature for each person's FD channel",
+      "assignee": "Christle 'Knows All' Ochigue",
+      "reminderDate": "2026-06-11"
+    },
+    "2e2d3b6bed52640bf2b8e32144e97aa0|overdue|2026-06-12": {
+      "scheduledAt": "2026-06-03T18:01:53.253Z",
+      "type": "overdue",
+      "task": "remove the request form feature for each person's FD channel",
+      "assignee": "Christle 'Knows All' Ochigue",
+      "reminderDate": "2026-06-12"
+    },
+    "2e2d3b6bed52640bf2b8e32144e97aa0|overdue|2026-06-13": {
+      "scheduledAt": "2026-06-03T18:01:54.230Z",
+      "type": "overdue",
+      "task": "remove the request form feature for each person's FD channel",
+      "assignee": "Christle 'Knows All' Ochigue",
+      "reminderDate": "2026-06-13"
+    },
+    "2e2d3b6bed52640bf2b8e32144e97aa0|overdue|2026-06-14": {
+      "scheduledAt": "2026-06-03T18:01:55.211Z",
+      "type": "overdue",
+      "task": "remove the request form feature for each person's FD channel",
+      "assignee": "Christle 'Knows All' Ochigue",
+      "reminderDate": "2026-06-14"
+    },
+    "2e2d3b6bed52640bf2b8e32144e97aa0|overdue|2026-06-15": {
+      "scheduledAt": "2026-06-03T18:01:56.154Z",
+      "type": "overdue",
+      "task": "remove the request form feature for each person's FD channel",
+      "assignee": "Christle 'Knows All' Ochigue",
+      "reminderDate": "2026-06-15"
+    },
+    "2e2d3b6bed52640bf2b8e32144e97aa0|overdue|2026-06-16": {
+      "scheduledAt": "2026-06-03T18:01:57.117Z",
+      "type": "overdue",
+      "task": "remove the request form feature for each person's FD channel",
+      "assignee": "Christle 'Knows All' Ochigue",
+      "reminderDate": "2026-06-16"
+    },
+    "2e2d3b6bed52640bf2b8e32144e97aa0|overdue|2026-06-17": {
+      "scheduledAt": "2026-06-03T18:01:58.097Z",
+      "type": "overdue",
+      "task": "remove the request form feature for each person's FD channel",
+      "assignee": "Christle 'Knows All' Ochigue",
+      "reminderDate": "2026-06-17"
+    },
+    "2e2d3b6bed52640bf2b8e32144e97aa0|overdue|2026-06-18": {
+      "scheduledAt": "2026-06-03T18:01:59.051Z",
+      "type": "overdue",
+      "task": "remove the request form feature for each person's FD channel",
+      "assignee": "Christle 'Knows All' Ochigue",
+      "reminderDate": "2026-06-18"
+    },
+    "2e2d3b6bed52640bf2b8e32144e97aa0|overdue|2026-06-19": {
+      "scheduledAt": "2026-06-03T18:02:00.024Z",
+      "type": "overdue",
+      "task": "remove the request form feature for each person's FD channel",
+      "assignee": "Christle 'Knows All' Ochigue",
+      "reminderDate": "2026-06-19"
+    },
+    "2e2d3b6bed52640bf2b8e32144e97aa0|overdue|2026-06-20": {
+      "scheduledAt": "2026-06-03T18:02:01.056Z",
+      "type": "overdue",
+      "task": "remove the request form feature for each person's FD channel",
+      "assignee": "Christle 'Knows All' Ochigue",
+      "reminderDate": "2026-06-20"
+    },
+    "2e2d3b6bed52640bf2b8e32144e97aa0|overdue|2026-06-21": {
+      "scheduledAt": "2026-06-03T18:02:02.017Z",
+      "type": "overdue",
+      "task": "remove the request form feature for each person's FD channel",
+      "assignee": "Christle 'Knows All' Ochigue",
+      "reminderDate": "2026-06-21"
+    },
+    "2e2d3b6bed52640bf2b8e32144e97aa0|overdue|2026-06-22": {
+      "scheduledAt": "2026-06-03T18:02:02.963Z",
+      "type": "overdue",
+      "task": "remove the request form feature for each person's FD channel",
+      "assignee": "Christle 'Knows All' Ochigue",
+      "reminderDate": "2026-06-22"
+    },
+    "2e2d3b6bed52640bf2b8e32144e97aa0|overdue|2026-06-23": {
+      "scheduledAt": "2026-06-03T18:02:03.938Z",
+      "type": "overdue",
+      "task": "remove the request form feature for each person's FD channel",
+      "assignee": "Christle 'Knows All' Ochigue",
+      "reminderDate": "2026-06-23"
+    },
+    "2e2d3b6bed52640bf2b8e32144e97aa0|overdue|2026-06-24": {
+      "scheduledAt": "2026-06-03T18:02:04.931Z",
+      "type": "overdue",
+      "task": "remove the request form feature for each person's FD channel",
+      "assignee": "Christle 'Knows All' Ochigue",
+      "reminderDate": "2026-06-24"
+    },
+    "2e2d3b6bed52640bf2b8e32144e97aa0|overdue|2026-06-25": {
+      "scheduledAt": "2026-06-03T18:02:05.867Z",
+      "type": "overdue",
+      "task": "remove the request form feature for each person's FD channel",
+      "assignee": "Christle 'Knows All' Ochigue",
+      "reminderDate": "2026-06-25"
+    },
+    "2e2d3b6bed52640bf2b8e32144e97aa0|overdue|2026-06-26": {
+      "scheduledAt": "2026-06-03T18:02:06.875Z",
+      "type": "overdue",
+      "task": "remove the request form feature for each person's FD channel",
+      "assignee": "Christle 'Knows All' Ochigue",
+      "reminderDate": "2026-06-26"
+    },
+    "2e2d3b6bed52640bf2b8e32144e97aa0|overdue|2026-06-27": {
+      "scheduledAt": "2026-06-03T18:02:07.857Z",
+      "type": "overdue",
+      "task": "remove the request form feature for each person's FD channel",
+      "assignee": "Christle 'Knows All' Ochigue",
+      "reminderDate": "2026-06-27"
+    },
+    "2e2d3b6bed52640bf2b8e32144e97aa0|overdue|2026-06-28": {
+      "scheduledAt": "2026-06-03T18:02:08.798Z",
+      "type": "overdue",
+      "task": "remove the request form feature for each person's FD channel",
+      "assignee": "Christle 'Knows All' Ochigue",
+      "reminderDate": "2026-06-28"
+    },
+    "2e2d3b6bed52640bf2b8e32144e97aa0|overdue|2026-06-29": {
+      "scheduledAt": "2026-06-03T18:02:09.781Z",
+      "type": "overdue",
+      "task": "remove the request form feature for each person's FD channel",
+      "assignee": "Christle 'Knows All' Ochigue",
+      "reminderDate": "2026-06-29"
+    },
+    "2e2d3b6bed52640bf2b8e32144e97aa0|overdue|2026-06-30": {
+      "scheduledAt": "2026-06-03T18:02:10.742Z",
+      "type": "overdue",
+      "task": "remove the request form feature for each person's FD channel",
+      "assignee": "Christle 'Knows All' Ochigue",
+      "reminderDate": "2026-06-30"
+    },
+    "2e2d3b6bed52640bf2b8e32144e97aa0|overdue|2026-07-01": {
+      "scheduledAt": "2026-06-03T18:02:11.737Z",
+      "type": "overdue",
+      "task": "remove the request form feature for each person's FD channel",
+      "assignee": "Christle 'Knows All' Ochigue",
+      "reminderDate": "2026-07-01"
+    },
+    "2e2d3b6bed52640bf2b8e32144e97aa0|overdue|2026-07-02": {
+      "scheduledAt": "2026-06-03T18:02:12.739Z",
+      "type": "overdue",
+      "task": "remove the request form feature for each person's FD channel",
+      "assignee": "Christle 'Knows All' Ochigue",
+      "reminderDate": "2026-07-02"
+    },
+    "2e2d3b6bed52640bf2b8e32144e97aa0|overdue|2026-07-03": {
+      "scheduledAt": "2026-06-03T18:02:13.750Z",
+      "type": "overdue",
+      "task": "remove the request form feature for each person's FD channel",
+      "assignee": "Christle 'Knows All' Ochigue",
+      "reminderDate": "2026-07-03"
+    },
+    "2e2d3b6bed52640bf2b8e32144e97aa0|overdue|2026-07-04": {
+      "scheduledAt": "2026-06-03T18:02:14.716Z",
+      "type": "overdue",
+      "task": "remove the request form feature for each person's FD channel",
+      "assignee": "Christle 'Knows All' Ochigue",
+      "reminderDate": "2026-07-04"
+    },
+    "2e2d3b6bed52640bf2b8e32144e97aa0|overdue|2026-07-05": {
+      "scheduledAt": "2026-06-03T18:02:15.700Z",
+      "type": "overdue",
+      "task": "remove the request form feature for each person's FD channel",
+      "assignee": "Christle 'Knows All' Ochigue",
+      "reminderDate": "2026-07-05"
+    },
+    "2e2d3b6bed52640bf2b8e32144e97aa0|overdue|2026-07-06": {
+      "scheduledAt": "2026-06-03T18:02:16.671Z",
+      "type": "overdue",
+      "task": "remove the request form feature for each person's FD channel",
+      "assignee": "Christle 'Knows All' Ochigue",
+      "reminderDate": "2026-07-06"
+    },
+    "2e2d3b6bed52640bf2b8e32144e97aa0|overdue|2026-07-07": {
+      "scheduledAt": "2026-06-03T18:02:17.655Z",
+      "type": "overdue",
+      "task": "remove the request form feature for each person's FD channel",
+      "assignee": "Christle 'Knows All' Ochigue",
+      "reminderDate": "2026-07-07"
+    },
+    "2e2d3b6bed52640bf2b8e32144e97aa0|overdue|2026-07-08": {
+      "scheduledAt": "2026-06-03T18:02:18.658Z",
+      "type": "overdue",
+      "task": "remove the request form feature for each person's FD channel",
+      "assignee": "Christle 'Knows All' Ochigue",
+      "reminderDate": "2026-07-08"
+    },
+    "2e2d3b6bed52640bf2b8e32144e97aa0|overdue|2026-07-09": {
+      "scheduledAt": "2026-06-03T18:02:19.627Z",
+      "type": "overdue",
+      "task": "remove the request form feature for each person's FD channel",
+      "assignee": "Christle 'Knows All' Ochigue",
+      "reminderDate": "2026-07-09"
+    },
+    "4bd62b32dea5e20b9d80e572fc3709d7|midpoint|2026-06-07": {
+      "scheduledAt": "2026-06-03T18:02:20.618Z",
+      "type": "midpoint",
+      "task": "get with josh loeb about increasing his budget and assist him more, possibly with AI in CRM",
+      "assignee": "Jimmy 'Suave' Flores",
+      "reminderDate": "2026-06-07"
+    },
+    "4bd62b32dea5e20b9d80e572fc3709d7|nag|2026-06-09": {
+      "scheduledAt": "2026-06-03T18:02:21.578Z",
+      "type": "nag",
+      "task": "get with josh loeb about increasing his budget and assist him more, possibly with AI in CRM",
+      "assignee": "Jimmy 'Suave' Flores",
+      "reminderDate": "2026-06-09"
+    },
+    "4bd62b32dea5e20b9d80e572fc3709d7|nag|2026-06-10": {
+      "scheduledAt": "2026-06-03T18:02:22.567Z",
+      "type": "nag",
+      "task": "get with josh loeb about increasing his budget and assist him more, possibly with AI in CRM",
+      "assignee": "Jimmy 'Suave' Flores",
+      "reminderDate": "2026-06-10"
+    },
+    "4bd62b32dea5e20b9d80e572fc3709d7|due|2026-06-11": {
+      "scheduledAt": "2026-06-03T18:02:23.601Z",
+      "type": "due",
+      "task": "get with josh loeb about increasing his budget and assist him more, possibly with AI in CRM",
+      "assignee": "Jimmy 'Suave' Flores",
+      "reminderDate": "2026-06-11"
+    },
+    "4bd62b32dea5e20b9d80e572fc3709d7|overdue|2026-06-12": {
+      "scheduledAt": "2026-06-03T18:02:24.586Z",
+      "type": "overdue",
+      "task": "get with josh loeb about increasing his budget and assist him more, possibly with AI in CRM",
+      "assignee": "Jimmy 'Suave' Flores",
+      "reminderDate": "2026-06-12"
+    },
+    "4bd62b32dea5e20b9d80e572fc3709d7|overdue|2026-06-13": {
+      "scheduledAt": "2026-06-03T18:02:25.550Z",
+      "type": "overdue",
+      "task": "get with josh loeb about increasing his budget and assist him more, possibly with AI in CRM",
+      "assignee": "Jimmy 'Suave' Flores",
+      "reminderDate": "2026-06-13"
+    },
+    "4bd62b32dea5e20b9d80e572fc3709d7|overdue|2026-06-14": {
+      "scheduledAt": "2026-06-03T18:02:26.516Z",
+      "type": "overdue",
+      "task": "get with josh loeb about increasing his budget and assist him more, possibly with AI in CRM",
+      "assignee": "Jimmy 'Suave' Flores",
+      "reminderDate": "2026-06-14"
+    },
+    "4bd62b32dea5e20b9d80e572fc3709d7|overdue|2026-06-15": {
+      "scheduledAt": "2026-06-03T18:02:27.503Z",
+      "type": "overdue",
+      "task": "get with josh loeb about increasing his budget and assist him more, possibly with AI in CRM",
+      "assignee": "Jimmy 'Suave' Flores",
+      "reminderDate": "2026-06-15"
+    },
+    "4bd62b32dea5e20b9d80e572fc3709d7|overdue|2026-06-16": {
+      "scheduledAt": "2026-06-03T18:02:28.520Z",
+      "type": "overdue",
+      "task": "get with josh loeb about increasing his budget and assist him more, possibly with AI in CRM",
+      "assignee": "Jimmy 'Suave' Flores",
+      "reminderDate": "2026-06-16"
+    },
+    "4bd62b32dea5e20b9d80e572fc3709d7|overdue|2026-06-17": {
+      "scheduledAt": "2026-06-03T18:02:29.487Z",
+      "type": "overdue",
+      "task": "get with josh loeb about increasing his budget and assist him more, possibly with AI in CRM",
+      "assignee": "Jimmy 'Suave' Flores",
+      "reminderDate": "2026-06-17"
+    },
+    "4bd62b32dea5e20b9d80e572fc3709d7|overdue|2026-06-18": {
+      "scheduledAt": "2026-06-03T18:02:30.440Z",
+      "type": "overdue",
+      "task": "get with josh loeb about increasing his budget and assist him more, possibly with AI in CRM",
+      "assignee": "Jimmy 'Suave' Flores",
+      "reminderDate": "2026-06-18"
+    },
+    "4bd62b32dea5e20b9d80e572fc3709d7|overdue|2026-06-19": {
+      "scheduledAt": "2026-06-03T18:02:31.441Z",
+      "type": "overdue",
+      "task": "get with josh loeb about increasing his budget and assist him more, possibly with AI in CRM",
+      "assignee": "Jimmy 'Suave' Flores",
+      "reminderDate": "2026-06-19"
+    },
+    "4bd62b32dea5e20b9d80e572fc3709d7|overdue|2026-06-20": {
+      "scheduledAt": "2026-06-03T18:02:32.442Z",
+      "type": "overdue",
+      "task": "get with josh loeb about increasing his budget and assist him more, possibly with AI in CRM",
+      "assignee": "Jimmy 'Suave' Flores",
+      "reminderDate": "2026-06-20"
+    },
+    "4bd62b32dea5e20b9d80e572fc3709d7|overdue|2026-06-21": {
+      "scheduledAt": "2026-06-03T18:02:33.520Z",
+      "type": "overdue",
+      "task": "get with josh loeb about increasing his budget and assist him more, possibly with AI in CRM",
+      "assignee": "Jimmy 'Suave' Flores",
+      "reminderDate": "2026-06-21"
+    },
+    "4bd62b32dea5e20b9d80e572fc3709d7|overdue|2026-06-22": {
+      "scheduledAt": "2026-06-03T18:02:34.520Z",
+      "type": "overdue",
+      "task": "get with josh loeb about increasing his budget and assist him more, possibly with AI in CRM",
+      "assignee": "Jimmy 'Suave' Flores",
+      "reminderDate": "2026-06-22"
+    },
+    "4bd62b32dea5e20b9d80e572fc3709d7|overdue|2026-06-23": {
+      "scheduledAt": "2026-06-03T18:02:35.553Z",
+      "type": "overdue",
+      "task": "get with josh loeb about increasing his budget and assist him more, possibly with AI in CRM",
+      "assignee": "Jimmy 'Suave' Flores",
+      "reminderDate": "2026-06-23"
+    },
+    "4bd62b32dea5e20b9d80e572fc3709d7|overdue|2026-06-24": {
+      "scheduledAt": "2026-06-03T18:02:36.486Z",
+      "type": "overdue",
+      "task": "get with josh loeb about increasing his budget and assist him more, possibly with AI in CRM",
+      "assignee": "Jimmy 'Suave' Flores",
+      "reminderDate": "2026-06-24"
+    },
+    "4bd62b32dea5e20b9d80e572fc3709d7|overdue|2026-06-25": {
+      "scheduledAt": "2026-06-03T18:02:37.438Z",
+      "type": "overdue",
+      "task": "get with josh loeb about increasing his budget and assist him more, possibly with AI in CRM",
+      "assignee": "Jimmy 'Suave' Flores",
+      "reminderDate": "2026-06-25"
+    },
+    "4bd62b32dea5e20b9d80e572fc3709d7|overdue|2026-06-26": {
+      "scheduledAt": "2026-06-03T18:02:38.411Z",
+      "type": "overdue",
+      "task": "get with josh loeb about increasing his budget and assist him more, possibly with AI in CRM",
+      "assignee": "Jimmy 'Suave' Flores",
+      "reminderDate": "2026-06-26"
+    },
+    "4bd62b32dea5e20b9d80e572fc3709d7|overdue|2026-06-27": {
+      "scheduledAt": "2026-06-03T18:02:39.381Z",
+      "type": "overdue",
+      "task": "get with josh loeb about increasing his budget and assist him more, possibly with AI in CRM",
+      "assignee": "Jimmy 'Suave' Flores",
+      "reminderDate": "2026-06-27"
+    },
+    "4bd62b32dea5e20b9d80e572fc3709d7|overdue|2026-06-28": {
+      "scheduledAt": "2026-06-03T18:02:40.371Z",
+      "type": "overdue",
+      "task": "get with josh loeb about increasing his budget and assist him more, possibly with AI in CRM",
+      "assignee": "Jimmy 'Suave' Flores",
+      "reminderDate": "2026-06-28"
+    },
+    "4bd62b32dea5e20b9d80e572fc3709d7|overdue|2026-06-29": {
+      "scheduledAt": "2026-06-03T18:02:41.320Z",
+      "type": "overdue",
+      "task": "get with josh loeb about increasing his budget and assist him more, possibly with AI in CRM",
+      "assignee": "Jimmy 'Suave' Flores",
+      "reminderDate": "2026-06-29"
+    },
+    "4bd62b32dea5e20b9d80e572fc3709d7|overdue|2026-06-30": {
+      "scheduledAt": "2026-06-03T18:02:42.268Z",
+      "type": "overdue",
+      "task": "get with josh loeb about increasing his budget and assist him more, possibly with AI in CRM",
+      "assignee": "Jimmy 'Suave' Flores",
+      "reminderDate": "2026-06-30"
+    },
+    "4bd62b32dea5e20b9d80e572fc3709d7|overdue|2026-07-01": {
+      "scheduledAt": "2026-06-03T18:02:43.251Z",
+      "type": "overdue",
+      "task": "get with josh loeb about increasing his budget and assist him more, possibly with AI in CRM",
+      "assignee": "Jimmy 'Suave' Flores",
+      "reminderDate": "2026-07-01"
+    },
+    "4bd62b32dea5e20b9d80e572fc3709d7|overdue|2026-07-02": {
+      "scheduledAt": "2026-06-03T18:02:44.236Z",
+      "type": "overdue",
+      "task": "get with josh loeb about increasing his budget and assist him more, possibly with AI in CRM",
+      "assignee": "Jimmy 'Suave' Flores",
+      "reminderDate": "2026-07-02"
+    },
+    "4bd62b32dea5e20b9d80e572fc3709d7|overdue|2026-07-03": {
+      "scheduledAt": "2026-06-03T18:02:45.234Z",
+      "type": "overdue",
+      "task": "get with josh loeb about increasing his budget and assist him more, possibly with AI in CRM",
+      "assignee": "Jimmy 'Suave' Flores",
+      "reminderDate": "2026-07-03"
+    },
+    "4bd62b32dea5e20b9d80e572fc3709d7|overdue|2026-07-04": {
+      "scheduledAt": "2026-06-03T18:02:46.204Z",
+      "type": "overdue",
+      "task": "get with josh loeb about increasing his budget and assist him more, possibly with AI in CRM",
+      "assignee": "Jimmy 'Suave' Flores",
+      "reminderDate": "2026-07-04"
+    },
+    "4bd62b32dea5e20b9d80e572fc3709d7|overdue|2026-07-05": {
+      "scheduledAt": "2026-06-03T18:02:47.199Z",
+      "type": "overdue",
+      "task": "get with josh loeb about increasing his budget and assist him more, possibly with AI in CRM",
+      "assignee": "Jimmy 'Suave' Flores",
+      "reminderDate": "2026-07-05"
+    },
+    "4bd62b32dea5e20b9d80e572fc3709d7|overdue|2026-07-06": {
+      "scheduledAt": "2026-06-03T18:02:48.210Z",
+      "type": "overdue",
+      "task": "get with josh loeb about increasing his budget and assist him more, possibly with AI in CRM",
+      "assignee": "Jimmy 'Suave' Flores",
+      "reminderDate": "2026-07-06"
+    },
+    "4bd62b32dea5e20b9d80e572fc3709d7|overdue|2026-07-07": {
+      "scheduledAt": "2026-06-03T18:02:49.221Z",
+      "type": "overdue",
+      "task": "get with josh loeb about increasing his budget and assist him more, possibly with AI in CRM",
+      "assignee": "Jimmy 'Suave' Flores",
+      "reminderDate": "2026-07-07"
+    },
+    "4bd62b32dea5e20b9d80e572fc3709d7|overdue|2026-07-08": {
+      "scheduledAt": "2026-06-03T18:02:50.188Z",
+      "type": "overdue",
+      "task": "get with josh loeb about increasing his budget and assist him more, possibly with AI in CRM",
+      "assignee": "Jimmy 'Suave' Flores",
+      "reminderDate": "2026-07-08"
+    },
+    "4bd62b32dea5e20b9d80e572fc3709d7|overdue|2026-07-09": {
+      "scheduledAt": "2026-06-03T18:02:51.156Z",
+      "type": "overdue",
+      "task": "get with josh loeb about increasing his budget and assist him more, possibly with AI in CRM",
+      "assignee": "Jimmy 'Suave' Flores",
+      "reminderDate": "2026-07-09"
+    },
+    "4bd62b32dea5e20b9d80e572fc3709d7|overdue|2026-07-10": {
+      "scheduledAt": "2026-06-03T18:02:52.102Z",
+      "type": "overdue",
+      "task": "get with josh loeb about increasing his budget and assist him more, possibly with AI in CRM",
+      "assignee": "Jimmy 'Suave' Flores",
+      "reminderDate": "2026-07-10"
+    },
+    "4bd62b32dea5e20b9d80e572fc3709d7|overdue|2026-07-11": {
+      "scheduledAt": "2026-06-03T18:02:53.113Z",
+      "type": "overdue",
+      "task": "get with josh loeb about increasing his budget and assist him more, possibly with AI in CRM",
+      "assignee": "Jimmy 'Suave' Flores",
+      "reminderDate": "2026-07-11"
     }
   },
   "scheduledMessageIds": {
@@ -11264,404 +11768,6 @@
         "messageId": "Q0B6Z6L20R3"
       }
     ],
-    "f88663da991fee0d2f976591b64f2326": [
-      {
-        "channel": "UMS39RAGP",
-        "messageId": "Q0B7KBSF4LA"
-      },
-      {
-        "channel": "UMCPG3D8A",
-        "messageId": "Q0B8DL6K9S4"
-      },
-      {
-        "channel": "C08R493ESAJ",
-        "messageId": "Q0B73TF2C79"
-      },
-      {
-        "channel": "UMS39RAGP",
-        "messageId": "Q0B8DL76XJ4"
-      },
-      {
-        "channel": "UMCPG3D8A",
-        "messageId": "Q0B7G07M8AZ"
-      },
-      {
-        "channel": "C08R493ESAJ",
-        "messageId": "Q0B7H9PB7T8"
-      },
-      {
-        "channel": "UMS39RAGP",
-        "messageId": "Q0B8DL6PB16"
-      },
-      {
-        "channel": "UMCPG3D8A",
-        "messageId": "Q0B7KBRUH9Q"
-      },
-      {
-        "channel": "C08R493ESAJ",
-        "messageId": "Q0B7P0B9T0C"
-      },
-      {
-        "channel": "UMS39RAGP",
-        "messageId": "Q0B7M6QDPS5"
-      },
-      {
-        "channel": "UMCPG3D8A",
-        "messageId": "Q0B7P0B8ASG"
-      },
-      {
-        "channel": "C08R493ESAJ",
-        "messageId": "Q0B7M6R84UR"
-      },
-      {
-        "channel": "UMS39RAGP",
-        "messageId": "Q0B73TEPM8X"
-      },
-      {
-        "channel": "UMCPG3D8A",
-        "messageId": "Q0B7G08KGTF"
-      },
-      {
-        "channel": "C08R493ESAJ",
-        "messageId": "Q0B7KBSGL58"
-      },
-      {
-        "channel": "UMS39RAGP",
-        "messageId": "Q0B7G06MWN9"
-      },
-      {
-        "channel": "UMCPG3D8A",
-        "messageId": "Q0B7P0BQBPE"
-      },
-      {
-        "channel": "C08R493ESAJ",
-        "messageId": "Q0B7P0B7TJ8"
-      },
-      {
-        "channel": "UMS39RAGP",
-        "messageId": "Q0B73TG2DT9"
-      },
-      {
-        "channel": "UMCPG3D8A",
-        "messageId": "Q0B73TG1ZCP"
-      },
-      {
-        "channel": "C08R493ESAJ",
-        "messageId": "Q0B8DL7G0DN"
-      },
-      {
-        "channel": "UMS39RAGP",
-        "messageId": "Q0B73TF1AFR"
-      },
-      {
-        "channel": "UMCPG3D8A",
-        "messageId": "Q0B7H9P98TG"
-      },
-      {
-        "channel": "C08R493ESAJ",
-        "messageId": "Q0B7KBSB1UJ"
-      },
-      {
-        "channel": "UMS39RAGP",
-        "messageId": "Q0B7D0MV343"
-      },
-      {
-        "channel": "UMCPG3D8A",
-        "messageId": "Q0B8DL7028G"
-      },
-      {
-        "channel": "C08R493ESAJ",
-        "messageId": "Q0B7KBS2EM8"
-      },
-      {
-        "channel": "UMS39RAGP",
-        "messageId": "Q0B7KBSHX26"
-      },
-      {
-        "channel": "UMCPG3D8A",
-        "messageId": "Q0B7H9PSGDU"
-      },
-      {
-        "channel": "C08R493ESAJ",
-        "messageId": "Q0B7D0N24GK"
-      },
-      {
-        "channel": "UMS39RAGP",
-        "messageId": "Q0B7H9PASDC"
-      },
-      {
-        "channel": "UMCPG3D8A",
-        "messageId": "Q0B73TF7E5D"
-      },
-      {
-        "channel": "C08R493ESAJ",
-        "messageId": "Q0B73TEN3RD"
-      },
-      {
-        "channel": "UMS39RAGP",
-        "messageId": "Q0B7G08GY7P"
-      },
-      {
-        "channel": "UMCPG3D8A",
-        "messageId": "Q0B7M6RUTPT"
-      },
-      {
-        "channel": "C08R493ESAJ",
-        "messageId": "Q0B7H9PEP9U"
-      },
-      {
-        "channel": "UMS39RAGP",
-        "messageId": "Q0B73TG7N8P"
-      },
-      {
-        "channel": "UMCPG3D8A",
-        "messageId": "Q0B7H9QQPRU"
-      },
-      {
-        "channel": "C08R493ESAJ",
-        "messageId": "Q0B7P0CE4UC"
-      },
-      {
-        "channel": "UMS39RAGP",
-        "messageId": "Q0B7G099F5K"
-      },
-      {
-        "channel": "UMCPG3D8A",
-        "messageId": "Q0B7M6QNVMX"
-      },
-      {
-        "channel": "C08R493ESAJ",
-        "messageId": "Q0B7H9PPCPQ"
-      },
-      {
-        "channel": "UMS39RAGP",
-        "messageId": "Q0B73TFQA1M"
-      },
-      {
-        "channel": "UMCPG3D8A",
-        "messageId": "Q0B8DL91L9E"
-      },
-      {
-        "channel": "C08R493ESAJ",
-        "messageId": "Q0B73TG7MKR"
-      },
-      {
-        "channel": "UMS39RAGP",
-        "messageId": "Q0B7D0P2DUK"
-      },
-      {
-        "channel": "UMCPG3D8A",
-        "messageId": "Q0B7H9P10A2"
-      },
-      {
-        "channel": "C08R493ESAJ",
-        "messageId": "Q0B7H9PTF6J"
-      },
-      {
-        "channel": "UMS39RAGP",
-        "messageId": "Q0B7P0C38EQ"
-      },
-      {
-        "channel": "UMCPG3D8A",
-        "messageId": "Q0B7H9PNM38"
-      },
-      {
-        "channel": "C08R493ESAJ",
-        "messageId": "Q0B73TFMK39"
-      },
-      {
-        "channel": "UMS39RAGP",
-        "messageId": "Q0B7G09M2NR"
-      },
-      {
-        "channel": "UMCPG3D8A",
-        "messageId": "Q0B7M6RFGHF"
-      },
-      {
-        "channel": "C08R493ESAJ",
-        "messageId": "Q0B7P0C4RPE"
-      },
-      {
-        "channel": "UMS39RAGP",
-        "messageId": "Q0B8DL7QKPA"
-      },
-      {
-        "channel": "UMCPG3D8A",
-        "messageId": "Q0B7D0P5Q75"
-      },
-      {
-        "channel": "C08R493ESAJ",
-        "messageId": "Q0B7P0CBQLC"
-      },
-      {
-        "channel": "UMS39RAGP",
-        "messageId": "Q0B7P0C8N12"
-      },
-      {
-        "channel": "UMCPG3D8A",
-        "messageId": "Q0B7KBSTQ0J"
-      },
-      {
-        "channel": "C08R493ESAJ",
-        "messageId": "Q0B73TG77K9"
-      },
-      {
-        "channel": "UMS39RAGP",
-        "messageId": "Q0B7G0A17DK"
-      },
-      {
-        "channel": "UMCPG3D8A",
-        "messageId": "Q0B7KBTBGNN"
-      },
-      {
-        "channel": "C08R493ESAJ",
-        "messageId": "Q0B73TFTR9V"
-      },
-      {
-        "channel": "UMS39RAGP",
-        "messageId": "Q0B7M6S3T09"
-      },
-      {
-        "channel": "UMCPG3D8A",
-        "messageId": "Q0B7M6TA1HP"
-      },
-      {
-        "channel": "C08R493ESAJ",
-        "messageId": "Q0B7H9QSZPY"
-      },
-      {
-        "channel": "UMS39RAGP",
-        "messageId": "Q0B7G09L06R"
-      },
-      {
-        "channel": "UMCPG3D8A",
-        "messageId": "Q0B7D0PFNAF"
-      },
-      {
-        "channel": "C08R493ESAJ",
-        "messageId": "Q0B7G099G85"
-      },
-      {
-        "channel": "UMS39RAGP",
-        "messageId": "Q0B8DL61NHW"
-      },
-      {
-        "channel": "UMCPG3D8A",
-        "messageId": "Q0B7KBSRCEN"
-      },
-      {
-        "channel": "C08R493ESAJ",
-        "messageId": "Q0B8DL8KMQ8"
-      },
-      {
-        "channel": "UMS39RAGP",
-        "messageId": "Q0B7M6S8AKT"
-      },
-      {
-        "channel": "UMCPG3D8A",
-        "messageId": "Q0B73TGE139"
-      },
-      {
-        "channel": "C08R493ESAJ",
-        "messageId": "Q0B7G08GJ2H"
-      },
-      {
-        "channel": "UMS39RAGP",
-        "messageId": "Q0B8DL7EVPA"
-      },
-      {
-        "channel": "UMCPG3D8A",
-        "messageId": "Q0B7D0PC0RZ"
-      },
-      {
-        "channel": "C08R493ESAJ",
-        "messageId": "Q0B7D0PKMT5"
-      },
-      {
-        "channel": "UMS39RAGP",
-        "messageId": "Q0B7P0CJNCU"
-      },
-      {
-        "channel": "UMCPG3D8A",
-        "messageId": "Q0B7P0CFR0C"
-      },
-      {
-        "channel": "C08R493ESAJ",
-        "messageId": "Q0B7P0CMMB6"
-      },
-      {
-        "channel": "UMS39RAGP",
-        "messageId": "Q0B7P0C9ZRS"
-      },
-      {
-        "channel": "UMCPG3D8A",
-        "messageId": "Q0B73TGHRGF"
-      },
-      {
-        "channel": "C08R493ESAJ",
-        "messageId": "Q0B73TG685D"
-      },
-      {
-        "channel": "UMS39RAGP",
-        "messageId": "Q0B7P0CSETW"
-      },
-      {
-        "channel": "UMCPG3D8A",
-        "messageId": "Q0B7P0CVB3N"
-      },
-      {
-        "channel": "C08R493ESAJ",
-        "messageId": "Q0B7H9QSATG"
-      },
-      {
-        "channel": "UMS39RAGP",
-        "messageId": "Q0B7P0D8PRA"
-      },
-      {
-        "channel": "UMCPG3D8A",
-        "messageId": "Q0B7M6SAG1F"
-      },
-      {
-        "channel": "C08R493ESAJ",
-        "messageId": "Q0B7H9RJRN2"
-      },
-      {
-        "channel": "UMS39RAGP",
-        "messageId": "Q0B73THKMCP"
-      },
-      {
-        "channel": "UMCPG3D8A",
-        "messageId": "Q0B7M6SPX33"
-      },
-      {
-        "channel": "C08R493ESAJ",
-        "messageId": "Q0B7G09FT53"
-      },
-      {
-        "channel": "UMS39RAGP",
-        "messageId": "Q0B7D0QQLTV"
-      },
-      {
-        "channel": "UMCPG3D8A",
-        "messageId": "Q0B7G09NP8V"
-      },
-      {
-        "channel": "C08R493ESAJ",
-        "messageId": "Q0B7H9PTUF8"
-      },
-      {
-        "channel": "UMS39RAGP",
-        "messageId": "Q0B7P0CS820"
-      },
-      {
-        "channel": "UMCPG3D8A",
-        "messageId": "Q0B8DL8K3S4"
-      },
-      {
-        "channel": "C08R493ESAJ",
-        "messageId": "Q0B73TGG61M"
-      }
-    ],
     "05e5581760cd566b0bc018ef2bd7a829": [
       {
         "channel": "UMS39RAGP",
@@ -12455,6 +12561,826 @@
         "channel": "C05HL1VGA22",
         "messageId": "Q0B8117QSJG"
       }
+    ],
+    "2e2d3b6bed52640bf2b8e32144e97aa0": [
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B7ZMCDTTP"
+      },
+      {
+        "channel": "UMCPG3D8A",
+        "messageId": "Q0B8XBY93L0"
+      },
+      {
+        "channel": "C08R493ESAJ",
+        "messageId": "Q0B833FLK6E"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B7WMWHG0K"
+      },
+      {
+        "channel": "UMCPG3D8A",
+        "messageId": "Q0B8XBYTMDE"
+      },
+      {
+        "channel": "C08R493ESAJ",
+        "messageId": "Q0B811D5B46"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B7ZMDP79T"
+      },
+      {
+        "channel": "UMCPG3D8A",
+        "messageId": "Q0B8XBZ86EL"
+      },
+      {
+        "channel": "C08R493ESAJ",
+        "messageId": "Q0B8XBYD6MN"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B86MLC1S8"
+      },
+      {
+        "channel": "UMCPG3D8A",
+        "messageId": "Q0B8XBZAR2L"
+      },
+      {
+        "channel": "C08R493ESAJ",
+        "messageId": "Q0B7MK407B9"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B8XBY556U"
+      },
+      {
+        "channel": "UMCPG3D8A",
+        "messageId": "Q0B7ZMEPMJR"
+      },
+      {
+        "channel": "C08R493ESAJ",
+        "messageId": "Q0B8XBYG80Y"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B8XBY0JM6"
+      },
+      {
+        "channel": "UMCPG3D8A",
+        "messageId": "Q0B7ZMEE413"
+      },
+      {
+        "channel": "C08R493ESAJ",
+        "messageId": "Q0B7WMXLAHZ"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B7WMX76AF"
+      },
+      {
+        "channel": "UMCPG3D8A",
+        "messageId": "Q0B7WMX889H"
+      },
+      {
+        "channel": "C08R493ESAJ",
+        "messageId": "Q0B7WMX509H"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B84TZEQHX"
+      },
+      {
+        "channel": "UMCPG3D8A",
+        "messageId": "Q0B8XBZH19N"
+      },
+      {
+        "channel": "C08R493ESAJ",
+        "messageId": "Q0B833FJJ9Y"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B7ZME8Y5T"
+      },
+      {
+        "channel": "UMCPG3D8A",
+        "messageId": "Q0B84U1941X"
+      },
+      {
+        "channel": "C08R493ESAJ",
+        "messageId": "Q0B84TZKLGZ"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B84U01AMP"
+      },
+      {
+        "channel": "UMCPG3D8A",
+        "messageId": "Q0B7ZMG3TMK"
+      },
+      {
+        "channel": "C08R493ESAJ",
+        "messageId": "Q0B7MK4J8FR"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B7WMXAWD9"
+      },
+      {
+        "channel": "UMCPG3D8A",
+        "messageId": "Q0B86MLHCH2"
+      },
+      {
+        "channel": "C08R493ESAJ",
+        "messageId": "Q0B7ZMF3BRB"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B7MK55Z39"
+      },
+      {
+        "channel": "UMCPG3D8A",
+        "messageId": "Q0B7WMX8483"
+      },
+      {
+        "channel": "C08R493ESAJ",
+        "messageId": "Q0B811EF954"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B7ZMF166R"
+      },
+      {
+        "channel": "UMCPG3D8A",
+        "messageId": "Q0B811G7MSS"
+      },
+      {
+        "channel": "C08R493ESAJ",
+        "messageId": "Q0B7MK5L3PZ"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B833HDUBC"
+      },
+      {
+        "channel": "UMCPG3D8A",
+        "messageId": "Q0B8XC091H6"
+      },
+      {
+        "channel": "C08R493ESAJ",
+        "messageId": "Q0B7MK3T92B"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B833J33M0"
+      },
+      {
+        "channel": "UMCPG3D8A",
+        "messageId": "Q0B84U06G1F"
+      },
+      {
+        "channel": "C08R493ESAJ",
+        "messageId": "Q0B833H87B4"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B84U19YTT"
+      },
+      {
+        "channel": "UMCPG3D8A",
+        "messageId": "Q0B84U03001"
+      },
+      {
+        "channel": "C08R493ESAJ",
+        "messageId": "Q0B7WMYKX1R"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B8XC1C9CG"
+      },
+      {
+        "channel": "UMCPG3D8A",
+        "messageId": "Q0B833J5W9G"
+      },
+      {
+        "channel": "C08R493ESAJ",
+        "messageId": "Q0B8XC0PTL0"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B84U0KRUH"
+      },
+      {
+        "channel": "UMCPG3D8A",
+        "messageId": "Q0B84U0S665"
+      },
+      {
+        "channel": "C08R493ESAJ",
+        "messageId": "Q0B7ZMGTJKX"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B86MMRY2Y"
+      },
+      {
+        "channel": "UMCPG3D8A",
+        "messageId": "Q0B7ZMGJ4VB"
+      },
+      {
+        "channel": "C08R493ESAJ",
+        "messageId": "Q0B7MK5JB39"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B7MK5RM1D"
+      },
+      {
+        "channel": "UMCPG3D8A",
+        "messageId": "Q0B84U1D7PT"
+      },
+      {
+        "channel": "C08R493ESAJ",
+        "messageId": "Q0B7MK5M5SB"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B84U1MC81"
+      },
+      {
+        "channel": "UMCPG3D8A",
+        "messageId": "Q0B7WMYJEUT"
+      },
+      {
+        "channel": "C08R493ESAJ",
+        "messageId": "Q0B8XC0LADN"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B86MMQ0R2"
+      },
+      {
+        "channel": "UMCPG3D8A",
+        "messageId": "Q0B7WMZB97D"
+      },
+      {
+        "channel": "C08R493ESAJ",
+        "messageId": "Q0B7ZMGCWNR"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B7ZMGJM0V"
+      },
+      {
+        "channel": "UMCPG3D8A",
+        "messageId": "Q0B811KDDCN"
+      },
+      {
+        "channel": "C08R493ESAJ",
+        "messageId": "Q0B7ZMGQC21"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B84U29SDP"
+      },
+      {
+        "channel": "UMCPG3D8A",
+        "messageId": "Q0B7MK79JRM"
+      },
+      {
+        "channel": "C08R493ESAJ",
+        "messageId": "Q0B833K2Y1Y"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B811GEDEJ"
+      },
+      {
+        "channel": "UMCPG3D8A",
+        "messageId": "Q0B86MP1TJQ"
+      },
+      {
+        "channel": "C08R493ESAJ",
+        "messageId": "Q0B84U1KZPT"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B7WN02KRR"
+      },
+      {
+        "channel": "UMCPG3D8A",
+        "messageId": "Q0B84U27NKT"
+      },
+      {
+        "channel": "C08R493ESAJ",
+        "messageId": "Q0B86MNT39A"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B8XC1UJSC"
+      },
+      {
+        "channel": "UMCPG3D8A",
+        "messageId": "Q0B811GK1QE"
+      },
+      {
+        "channel": "C08R493ESAJ",
+        "messageId": "Q0B84U22ZRP"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B7WMZHR43"
+      },
+      {
+        "channel": "UMCPG3D8A",
+        "messageId": "Q0B7ZMHKF9B"
+      },
+      {
+        "channel": "C08R493ESAJ",
+        "messageId": "Q0B833K1UR0"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B7WN0KVEX"
+      },
+      {
+        "channel": "UMCPG3D8A",
+        "messageId": "Q0B811HGD1U"
+      },
+      {
+        "channel": "C08R493ESAJ",
+        "messageId": "Q0B7WN0HNBD"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B833KE27L"
+      },
+      {
+        "channel": "UMCPG3D8A",
+        "messageId": "Q0B833LHQHG"
+      },
+      {
+        "channel": "C08R493ESAJ",
+        "messageId": "Q0B8XC2FJBS"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B86MPFJ12"
+      },
+      {
+        "channel": "UMCPG3D8A",
+        "messageId": "Q0B86MPV9J8"
+      },
+      {
+        "channel": "C08R493ESAJ",
+        "messageId": "Q0B833LSB6W"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B84U3HJ81"
+      },
+      {
+        "channel": "UMCPG3D8A",
+        "messageId": "Q0B84U3295F"
+      },
+      {
+        "channel": "C08R493ESAJ",
+        "messageId": "Q0B833LAZMY"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B7ZMHL8JZ"
+      },
+      {
+        "channel": "UMCPG3D8A",
+        "messageId": "Q0B84U35Y3B"
+      },
+      {
+        "channel": "C08R493ESAJ",
+        "messageId": "Q0B811JBH3Q"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B84U331C1"
+      },
+      {
+        "channel": "UMCPG3D8A",
+        "messageId": "Q0B7MK8STNK"
+      },
+      {
+        "channel": "C08R493ESAJ",
+        "messageId": "Q0B833LH09G"
+      }
+    ],
+    "4bd62b32dea5e20b9d80e572fc3709d7": [
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B833LJJHG"
+      },
+      {
+        "channel": "U02773FLDN2",
+        "messageId": "Q0B7MK97VGX"
+      },
+      {
+        "channel": "C097208ALLF",
+        "messageId": "Q0B811JNUQN"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B811KALUE"
+      },
+      {
+        "channel": "U02773FLDN2",
+        "messageId": "Q0B8XC2HADN"
+      },
+      {
+        "channel": "C097208ALLF",
+        "messageId": "Q0B8XC3286L"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B7MK8G4H5"
+      },
+      {
+        "channel": "U02773FLDN2",
+        "messageId": "Q0B7ZMJLJCV"
+      },
+      {
+        "channel": "C097208ALLF",
+        "messageId": "Q0B7ZMJET9B"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B7WN1JM27"
+      },
+      {
+        "channel": "U02773FLDN2",
+        "messageId": "Q0B811K9TSA"
+      },
+      {
+        "channel": "C097208ALLF",
+        "messageId": "Q0B84U4R56D"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B86MQ6CCC"
+      },
+      {
+        "channel": "U02773FLDN2",
+        "messageId": "Q0B7WN1GHMH"
+      },
+      {
+        "channel": "C097208ALLF",
+        "messageId": "Q0B833M8FKL"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B7WN14MGT"
+      },
+      {
+        "channel": "U02773FLDN2",
+        "messageId": "Q0B811KCWLW"
+      },
+      {
+        "channel": "C097208ALLF",
+        "messageId": "Q0B84U51VR7"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B84U4CNEM"
+      },
+      {
+        "channel": "U02773FLDN2",
+        "messageId": "Q0B86MRC0S0"
+      },
+      {
+        "channel": "C097208ALLF",
+        "messageId": "Q0B833N9V7U"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B7ZMKDN93"
+      },
+      {
+        "channel": "U02773FLDN2",
+        "messageId": "Q0B7ZMLD1NH"
+      },
+      {
+        "channel": "C097208ALLF",
+        "messageId": "Q0B833MES6N"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B7WN2EEHZ"
+      },
+      {
+        "channel": "U02773FLDN2",
+        "messageId": "Q0B7MK96AH5"
+      },
+      {
+        "channel": "C097208ALLF",
+        "messageId": "Q0B86MRC3EY"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B811L60VC"
+      },
+      {
+        "channel": "U02773FLDN2",
+        "messageId": "Q0B7ZMKLL93"
+      },
+      {
+        "channel": "C097208ALLF",
+        "messageId": "Q0B7ZMKK7CM"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B86MS9W04"
+      },
+      {
+        "channel": "U02773FLDN2",
+        "messageId": "Q0B7WN33V43"
+      },
+      {
+        "channel": "C097208ALLF",
+        "messageId": "Q0B84U4LLC9"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B86MSB7SQ"
+      },
+      {
+        "channel": "U02773FLDN2",
+        "messageId": "Q0B7WN3CP27"
+      },
+      {
+        "channel": "C097208ALLF",
+        "messageId": "Q0B86MRKRLL"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B833NNQSE"
+      },
+      {
+        "channel": "U02773FLDN2",
+        "messageId": "Q0B7ZMLRHHT"
+      },
+      {
+        "channel": "C097208ALLF",
+        "messageId": "Q0B86MR03BN"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B8XC4N940"
+      },
+      {
+        "channel": "U02773FLDN2",
+        "messageId": "Q0B84U5L1LH"
+      },
+      {
+        "channel": "C097208ALLF",
+        "messageId": "Q0B7MK9USVD"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B833NE4AW"
+      },
+      {
+        "channel": "U02773FLDN2",
+        "messageId": "Q0B86MRHGUU"
+      },
+      {
+        "channel": "C097208ALLF",
+        "messageId": "Q0B86MRUNLU"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B811M7ZFG"
+      },
+      {
+        "channel": "U02773FLDN2",
+        "messageId": "Q0B7MKB637H"
+      },
+      {
+        "channel": "C097208ALLF",
+        "messageId": "Q0B84U64EN5"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B84U5TA2V"
+      },
+      {
+        "channel": "U02773FLDN2",
+        "messageId": "Q0B8XC548G0"
+      },
+      {
+        "channel": "C097208ALLF",
+        "messageId": "Q0B86MS7X44"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B811M4LRL"
+      },
+      {
+        "channel": "U02773FLDN2",
+        "messageId": "Q0B84U68UAV"
+      },
+      {
+        "channel": "C097208ALLF",
+        "messageId": "Q0B7ZMMM4MT"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B811LQLT0"
+      },
+      {
+        "channel": "U02773FLDN2",
+        "messageId": "Q0B8XC5QMFA"
+      },
+      {
+        "channel": "C097208ALLF",
+        "messageId": "Q0B8XC49HUY"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B7MKARPPH"
+      },
+      {
+        "channel": "U02773FLDN2",
+        "messageId": "Q0B7MKBM2B1"
+      },
+      {
+        "channel": "C097208ALLF",
+        "messageId": "Q0B8XC550RW"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B86MTA5U4"
+      },
+      {
+        "channel": "U02773FLDN2",
+        "messageId": "Q0B7WN3BAP5"
+      },
+      {
+        "channel": "C097208ALLF",
+        "messageId": "Q0B86MTADPW"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B8XC5HCBS"
+      },
+      {
+        "channel": "U02773FLDN2",
+        "messageId": "Q0B7ZMMS613"
+      },
+      {
+        "channel": "C097208ALLF",
+        "messageId": "Q0B811M06RL"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B7WN4AV27"
+      },
+      {
+        "channel": "U02773FLDN2",
+        "messageId": "Q0B833NQBTL"
+      },
+      {
+        "channel": "C097208ALLF",
+        "messageId": "Q0B7MKBMST1"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B833NUYUS"
+      },
+      {
+        "channel": "U02773FLDN2",
+        "messageId": "Q0B7ZMNDV9B"
+      },
+      {
+        "channel": "C097208ALLF",
+        "messageId": "Q0B7ZMNG5J9"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B7ZMMBW21"
+      },
+      {
+        "channel": "U02773FLDN2",
+        "messageId": "Q0B86MUB2MS"
+      },
+      {
+        "channel": "C097208ALLF",
+        "messageId": "Q0B7WN4DFFV"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B7MKB9V7H"
+      },
+      {
+        "channel": "U02773FLDN2",
+        "messageId": "Q0B7WN4QMQB"
+      },
+      {
+        "channel": "C097208ALLF",
+        "messageId": "Q0B7ZMNT66R"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B7MKCJ807"
+      },
+      {
+        "channel": "U02773FLDN2",
+        "messageId": "Q0B8XC6BZTJ"
+      },
+      {
+        "channel": "C097208ALLF",
+        "messageId": "Q0B8XC7JLGG"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B7ZMP5FPX"
+      },
+      {
+        "channel": "U02773FLDN2",
+        "messageId": "Q0B7WN5NBUK"
+      },
+      {
+        "channel": "C097208ALLF",
+        "messageId": "Q0B86MU5RGU"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B8XC6SV1N"
+      },
+      {
+        "channel": "U02773FLDN2",
+        "messageId": "Q0B7MKB77BR"
+      },
+      {
+        "channel": "C097208ALLF",
+        "messageId": "Q0B833RAWAE"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B7MKCFNLF"
+      },
+      {
+        "channel": "U02773FLDN2",
+        "messageId": "Q0B8XC8CDLG"
+      },
+      {
+        "channel": "C097208ALLF",
+        "messageId": "Q0B86MTENLC"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B86MV9SS0"
+      },
+      {
+        "channel": "U02773FLDN2",
+        "messageId": "Q0B84U7NK33"
+      },
+      {
+        "channel": "C097208ALLF",
+        "messageId": "Q0B86MV5FE0"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B8XC8B01W"
+      },
+      {
+        "channel": "U02773FLDN2",
+        "messageId": "Q0B7WN4S4P5"
+      },
+      {
+        "channel": "C097208ALLF",
+        "messageId": "Q0B86MV9K7E"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B8XC7R1K2"
+      },
+      {
+        "channel": "U02773FLDN2",
+        "messageId": "Q0B86MUCX7W"
+      },
+      {
+        "channel": "C097208ALLF",
+        "messageId": "Q0B811PMGCE"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B84U7SS3B"
+      },
+      {
+        "channel": "U02773FLDN2",
+        "messageId": "Q0B833RME3U"
+      },
+      {
+        "channel": "C097208ALLF",
+        "messageId": "Q0B86MU94SY"
+      }
     ]
   },
   "processedMessageTs": {
@@ -12514,8 +13440,11 @@
     "1780428158.941049": true,
     "1780438552.266309": true,
     "1780436955.214539": true,
-    "1780436621.528629": true
+    "1780436621.528629": true,
+    "1780508669.987269": true,
+    "1780506919.959869": true,
+    "1780501684.168879": true
   },
   "lastWeeklySummaryDate": "2026-W22",
-  "lastRun": "2026-06-03T10:56:34.757Z"
+  "lastRun": "2026-06-03T18:02:53.114Z"
 }
