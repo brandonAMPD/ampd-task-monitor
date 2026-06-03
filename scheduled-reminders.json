@@ -615,6 +615,34 @@
       "completed": false,
       "completedAt": null,
       "firstSeenAt": "2026-06-02T20:55:01.929Z"
+    },
+    "9fa416b03fa720e40fbef6757c215708": {
+      "task": "Check if claude is giving the same answer for Paul Lenskold latest update",
+      "assignee_name": "Brandon 'The One' Robertson",
+      "assignee_slack_mention": "@Brandon 'The One' Robertson",
+      "assigned_date": "2026-06-02",
+      "due_date": null,
+      "message_ts": "1780438552.266309",
+      "source_message": "Got it! also, on Project , the CSM email writer ( temp name) • It can start pulling latest updates on",
+      "assigneeId": "UMS39RAGP",
+      "messageTs": "1780438552.266309",
+      "completed": false,
+      "completedAt": null,
+      "firstSeenAt": "2026-06-03T06:01:05.858Z"
+    },
+    "e91aab254819576966361729294b675f": {
+      "task": "Begin working on new projects listed in CSM folder document",
+      "assignee_name": "Meg 'The Sage' Scheffler",
+      "assignee_slack_mention": "@Meg 'The Sage' Scheffler",
+      "assigned_date": "2026-06-02",
+      "due_date": "2026-06-14",
+      "message_ts": "1780436621.528629",
+      "source_message": "@Meg 'The Sage' Scheffler begin working on your new projects listed in this document (housed in the CSM",
+      "assigneeId": "U05FE9QNFSQ",
+      "messageTs": "1780436621.528629",
+      "completed": false,
+      "completedAt": null,
+      "firstSeenAt": "2026-06-03T06:01:05.981Z"
     }
   },
   "scheduled": {
@@ -6180,6 +6208,251 @@
       "task": "resolve Paul's CRM automation issues",
       "assignee": "Josh 'The Ninja' Morales",
       "reminderDate": "2026-07-03"
+    },
+    "9fa416b03fa720e40fbef6757c215708|followup|2026-06-09": {
+      "scheduledAt": "2026-06-03T06:01:06.625Z",
+      "type": "followup",
+      "task": "Check if claude is giving the same answer for Paul Lenskold latest update",
+      "assignee": "Brandon 'The One' Robertson",
+      "reminderDate": "2026-06-09"
+    },
+    "e91aab254819576966361729294b675f|midpoint|2026-06-08": {
+      "scheduledAt": "2026-06-03T06:01:07.332Z",
+      "type": "midpoint",
+      "task": "Begin working on new projects listed in CSM folder document",
+      "assignee": "Meg 'The Sage' Scheffler",
+      "reminderDate": "2026-06-08"
+    },
+    "e91aab254819576966361729294b675f|nag|2026-06-12": {
+      "scheduledAt": "2026-06-03T06:01:08.038Z",
+      "type": "nag",
+      "task": "Begin working on new projects listed in CSM folder document",
+      "assignee": "Meg 'The Sage' Scheffler",
+      "reminderDate": "2026-06-12"
+    },
+    "e91aab254819576966361729294b675f|nag|2026-06-13": {
+      "scheduledAt": "2026-06-03T06:01:09.211Z",
+      "type": "nag",
+      "task": "Begin working on new projects listed in CSM folder document",
+      "assignee": "Meg 'The Sage' Scheffler",
+      "reminderDate": "2026-06-13"
+    },
+    "e91aab254819576966361729294b675f|due|2026-06-14": {
+      "scheduledAt": "2026-06-03T06:01:09.894Z",
+      "type": "due",
+      "task": "Begin working on new projects listed in CSM folder document",
+      "assignee": "Meg 'The Sage' Scheffler",
+      "reminderDate": "2026-06-14"
+    },
+    "e91aab254819576966361729294b675f|overdue|2026-06-15": {
+      "scheduledAt": "2026-06-03T06:01:10.592Z",
+      "type": "overdue",
+      "task": "Begin working on new projects listed in CSM folder document",
+      "assignee": "Meg 'The Sage' Scheffler",
+      "reminderDate": "2026-06-15"
+    },
+    "e91aab254819576966361729294b675f|overdue|2026-06-16": {
+      "scheduledAt": "2026-06-03T06:01:11.268Z",
+      "type": "overdue",
+      "task": "Begin working on new projects listed in CSM folder document",
+      "assignee": "Meg 'The Sage' Scheffler",
+      "reminderDate": "2026-06-16"
+    },
+    "e91aab254819576966361729294b675f|overdue|2026-06-17": {
+      "scheduledAt": "2026-06-03T06:01:11.950Z",
+      "type": "overdue",
+      "task": "Begin working on new projects listed in CSM folder document",
+      "assignee": "Meg 'The Sage' Scheffler",
+      "reminderDate": "2026-06-17"
+    },
+    "e91aab254819576966361729294b675f|overdue|2026-06-18": {
+      "scheduledAt": "2026-06-03T06:01:12.651Z",
+      "type": "overdue",
+      "task": "Begin working on new projects listed in CSM folder document",
+      "assignee": "Meg 'The Sage' Scheffler",
+      "reminderDate": "2026-06-18"
+    },
+    "e91aab254819576966361729294b675f|overdue|2026-06-19": {
+      "scheduledAt": "2026-06-03T06:01:13.379Z",
+      "type": "overdue",
+      "task": "Begin working on new projects listed in CSM folder document",
+      "assignee": "Meg 'The Sage' Scheffler",
+      "reminderDate": "2026-06-19"
+    },
+    "e91aab254819576966361729294b675f|overdue|2026-06-20": {
+      "scheduledAt": "2026-06-03T06:01:14.074Z",
+      "type": "overdue",
+      "task": "Begin working on new projects listed in CSM folder document",
+      "assignee": "Meg 'The Sage' Scheffler",
+      "reminderDate": "2026-06-20"
+    },
+    "e91aab254819576966361729294b675f|overdue|2026-06-21": {
+      "scheduledAt": "2026-06-03T06:01:14.767Z",
+      "type": "overdue",
+      "task": "Begin working on new projects listed in CSM folder document",
+      "assignee": "Meg 'The Sage' Scheffler",
+      "reminderDate": "2026-06-21"
+    },
+    "e91aab254819576966361729294b675f|overdue|2026-06-22": {
+      "scheduledAt": "2026-06-03T06:01:15.575Z",
+      "type": "overdue",
+      "task": "Begin working on new projects listed in CSM folder document",
+      "assignee": "Meg 'The Sage' Scheffler",
+      "reminderDate": "2026-06-22"
+    },
+    "e91aab254819576966361729294b675f|overdue|2026-06-23": {
+      "scheduledAt": "2026-06-03T06:01:16.252Z",
+      "type": "overdue",
+      "task": "Begin working on new projects listed in CSM folder document",
+      "assignee": "Meg 'The Sage' Scheffler",
+      "reminderDate": "2026-06-23"
+    },
+    "e91aab254819576966361729294b675f|overdue|2026-06-24": {
+      "scheduledAt": "2026-06-03T06:01:16.935Z",
+      "type": "overdue",
+      "task": "Begin working on new projects listed in CSM folder document",
+      "assignee": "Meg 'The Sage' Scheffler",
+      "reminderDate": "2026-06-24"
+    },
+    "e91aab254819576966361729294b675f|overdue|2026-06-25": {
+      "scheduledAt": "2026-06-03T06:01:17.615Z",
+      "type": "overdue",
+      "task": "Begin working on new projects listed in CSM folder document",
+      "assignee": "Meg 'The Sage' Scheffler",
+      "reminderDate": "2026-06-25"
+    },
+    "e91aab254819576966361729294b675f|overdue|2026-06-26": {
+      "scheduledAt": "2026-06-03T06:01:18.284Z",
+      "type": "overdue",
+      "task": "Begin working on new projects listed in CSM folder document",
+      "assignee": "Meg 'The Sage' Scheffler",
+      "reminderDate": "2026-06-26"
+    },
+    "e91aab254819576966361729294b675f|overdue|2026-06-27": {
+      "scheduledAt": "2026-06-03T06:01:18.963Z",
+      "type": "overdue",
+      "task": "Begin working on new projects listed in CSM folder document",
+      "assignee": "Meg 'The Sage' Scheffler",
+      "reminderDate": "2026-06-27"
+    },
+    "e91aab254819576966361729294b675f|overdue|2026-06-28": {
+      "scheduledAt": "2026-06-03T06:01:19.650Z",
+      "type": "overdue",
+      "task": "Begin working on new projects listed in CSM folder document",
+      "assignee": "Meg 'The Sage' Scheffler",
+      "reminderDate": "2026-06-28"
+    },
+    "e91aab254819576966361729294b675f|overdue|2026-06-29": {
+      "scheduledAt": "2026-06-03T06:01:20.321Z",
+      "type": "overdue",
+      "task": "Begin working on new projects listed in CSM folder document",
+      "assignee": "Meg 'The Sage' Scheffler",
+      "reminderDate": "2026-06-29"
+    },
+    "e91aab254819576966361729294b675f|overdue|2026-06-30": {
+      "scheduledAt": "2026-06-03T06:01:20.995Z",
+      "type": "overdue",
+      "task": "Begin working on new projects listed in CSM folder document",
+      "assignee": "Meg 'The Sage' Scheffler",
+      "reminderDate": "2026-06-30"
+    },
+    "e91aab254819576966361729294b675f|overdue|2026-07-01": {
+      "scheduledAt": "2026-06-03T06:01:21.710Z",
+      "type": "overdue",
+      "task": "Begin working on new projects listed in CSM folder document",
+      "assignee": "Meg 'The Sage' Scheffler",
+      "reminderDate": "2026-07-01"
+    },
+    "e91aab254819576966361729294b675f|overdue|2026-07-02": {
+      "scheduledAt": "2026-06-03T06:01:22.472Z",
+      "type": "overdue",
+      "task": "Begin working on new projects listed in CSM folder document",
+      "assignee": "Meg 'The Sage' Scheffler",
+      "reminderDate": "2026-07-02"
+    },
+    "e91aab254819576966361729294b675f|overdue|2026-07-03": {
+      "scheduledAt": "2026-06-03T06:01:23.136Z",
+      "type": "overdue",
+      "task": "Begin working on new projects listed in CSM folder document",
+      "assignee": "Meg 'The Sage' Scheffler",
+      "reminderDate": "2026-07-03"
+    },
+    "e91aab254819576966361729294b675f|overdue|2026-07-04": {
+      "scheduledAt": "2026-06-03T06:01:24.010Z",
+      "type": "overdue",
+      "task": "Begin working on new projects listed in CSM folder document",
+      "assignee": "Meg 'The Sage' Scheffler",
+      "reminderDate": "2026-07-04"
+    },
+    "e91aab254819576966361729294b675f|overdue|2026-07-05": {
+      "scheduledAt": "2026-06-03T06:01:24.691Z",
+      "type": "overdue",
+      "task": "Begin working on new projects listed in CSM folder document",
+      "assignee": "Meg 'The Sage' Scheffler",
+      "reminderDate": "2026-07-05"
+    },
+    "e91aab254819576966361729294b675f|overdue|2026-07-06": {
+      "scheduledAt": "2026-06-03T06:01:25.401Z",
+      "type": "overdue",
+      "task": "Begin working on new projects listed in CSM folder document",
+      "assignee": "Meg 'The Sage' Scheffler",
+      "reminderDate": "2026-07-06"
+    },
+    "e91aab254819576966361729294b675f|overdue|2026-07-07": {
+      "scheduledAt": "2026-06-03T06:01:26.092Z",
+      "type": "overdue",
+      "task": "Begin working on new projects listed in CSM folder document",
+      "assignee": "Meg 'The Sage' Scheffler",
+      "reminderDate": "2026-07-07"
+    },
+    "e91aab254819576966361729294b675f|overdue|2026-07-08": {
+      "scheduledAt": "2026-06-03T06:01:26.751Z",
+      "type": "overdue",
+      "task": "Begin working on new projects listed in CSM folder document",
+      "assignee": "Meg 'The Sage' Scheffler",
+      "reminderDate": "2026-07-08"
+    },
+    "e91aab254819576966361729294b675f|overdue|2026-07-09": {
+      "scheduledAt": "2026-06-03T06:01:27.419Z",
+      "type": "overdue",
+      "task": "Begin working on new projects listed in CSM folder document",
+      "assignee": "Meg 'The Sage' Scheffler",
+      "reminderDate": "2026-07-09"
+    },
+    "e91aab254819576966361729294b675f|overdue|2026-07-10": {
+      "scheduledAt": "2026-06-03T06:01:28.084Z",
+      "type": "overdue",
+      "task": "Begin working on new projects listed in CSM folder document",
+      "assignee": "Meg 'The Sage' Scheffler",
+      "reminderDate": "2026-07-10"
+    },
+    "e91aab254819576966361729294b675f|overdue|2026-07-11": {
+      "scheduledAt": "2026-06-03T06:01:28.771Z",
+      "type": "overdue",
+      "task": "Begin working on new projects listed in CSM folder document",
+      "assignee": "Meg 'The Sage' Scheffler",
+      "reminderDate": "2026-07-11"
+    },
+    "e91aab254819576966361729294b675f|overdue|2026-07-12": {
+      "scheduledAt": "2026-06-03T06:01:29.581Z",
+      "type": "overdue",
+      "task": "Begin working on new projects listed in CSM folder document",
+      "assignee": "Meg 'The Sage' Scheffler",
+      "reminderDate": "2026-07-12"
+    },
+    "e91aab254819576966361729294b675f|overdue|2026-07-13": {
+      "scheduledAt": "2026-06-03T06:01:30.266Z",
+      "type": "overdue",
+      "task": "Begin working on new projects listed in CSM folder document",
+      "assignee": "Meg 'The Sage' Scheffler",
+      "reminderDate": "2026-07-13"
+    },
+    "e91aab254819576966361729294b675f|overdue|2026-07-14": {
+      "scheduledAt": "2026-06-03T06:01:30.970Z",
+      "type": "overdue",
+      "task": "Begin working on new projects listed in CSM folder document",
+      "assignee": "Meg 'The Sage' Scheffler",
+      "reminderDate": "2026-07-14"
     }
   },
   "scheduledMessageIds": {
@@ -11762,6 +12035,426 @@
         "channel": "C093VPK55NF",
         "messageId": "Q0B7UMJSCTC"
       }
+    ],
+    "9fa416b03fa720e40fbef6757c215708": [
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B7U11UN05"
+      },
+      {
+        "channel": "C05HV4SQD6G",
+        "messageId": "Q0B7FU38RHV"
+      }
+    ],
+    "e91aab254819576966361729294b675f": [
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B7XCGTE4A"
+      },
+      {
+        "channel": "U05FE9QNFSQ",
+        "messageId": "Q0B7FU32ZAT"
+      },
+      {
+        "channel": "C05HL1VGA22",
+        "messageId": "Q0B8RM0L95W"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B7FU38XD5"
+      },
+      {
+        "channel": "U05FE9QNFSQ",
+        "messageId": "Q0B7FU36GDD"
+      },
+      {
+        "channel": "C05HL1VGA22",
+        "messageId": "Q0B7XCHGQ4S"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B7VAA4DM4"
+      },
+      {
+        "channel": "U05FE9QNFSQ",
+        "messageId": "Q0B81152RFE"
+      },
+      {
+        "channel": "C05HL1VGA22",
+        "messageId": "Q0B7R1GKJFM"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B7XCHU37C"
+      },
+      {
+        "channel": "U05FE9QNFSQ",
+        "messageId": "Q0B7XCDBUP4"
+      },
+      {
+        "channel": "C05HL1VGA22",
+        "messageId": "Q0B7U12JNUV"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B7XCHR8HG"
+      },
+      {
+        "channel": "U05FE9QNFSQ",
+        "messageId": "Q0B8115QCTE"
+      },
+      {
+        "channel": "C05HL1VGA22",
+        "messageId": "Q0B7U12CYUD"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B7Z7K1L8Z"
+      },
+      {
+        "channel": "U05FE9QNFSQ",
+        "messageId": "Q0B7U12HMPX"
+      },
+      {
+        "channel": "C05HL1VGA22",
+        "messageId": "Q0B7R1FPCM9"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B7R1GUJ1Z"
+      },
+      {
+        "channel": "U05FE9QNFSQ",
+        "messageId": "Q0B7XCJAWHY"
+      },
+      {
+        "channel": "C05HL1VGA22",
+        "messageId": "Q0B8RM0LB4Y"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B8115DCAY"
+      },
+      {
+        "channel": "U05FE9QNFSQ",
+        "messageId": "Q0B8RM17V1N"
+      },
+      {
+        "channel": "C05HL1VGA22",
+        "messageId": "Q0B8115BK9S"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B7FU442J3"
+      },
+      {
+        "channel": "U05FE9QNFSQ",
+        "messageId": "Q0B7Z7KDNM7"
+      },
+      {
+        "channel": "C05HL1VGA22",
+        "messageId": "Q0B7XCJ29AN"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B7U127KPX"
+      },
+      {
+        "channel": "U05FE9QNFSQ",
+        "messageId": "Q0B7R1HQ8LT"
+      },
+      {
+        "channel": "C05HL1VGA22",
+        "messageId": "Q0B7Z7KTSG1"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B7XCGFBRQ"
+      },
+      {
+        "channel": "U05FE9QNFSQ",
+        "messageId": "Q0B7XCJ3ZBL"
+      },
+      {
+        "channel": "C05HL1VGA22",
+        "messageId": "Q0B7XCJE1SN"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B8116DQ68"
+      },
+      {
+        "channel": "U05FE9QNFSQ",
+        "messageId": "Q0B7XCHTWAE"
+      },
+      {
+        "channel": "C05HL1VGA22",
+        "messageId": "Q0B7VADS07Q"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B7VAESSHL"
+      },
+      {
+        "channel": "U05FE9QNFSQ",
+        "messageId": "Q0B8RLZNS8Y"
+      },
+      {
+        "channel": "C05HL1VGA22",
+        "messageId": "Q0B7R1H1C7M"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B7VABVA22"
+      },
+      {
+        "channel": "U05FE9QNFSQ",
+        "messageId": "Q0B7FU4HYK1"
+      },
+      {
+        "channel": "C05HL1VGA22",
+        "messageId": "Q0B7FU4JV5M"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B8RM1DB96"
+      },
+      {
+        "channel": "U05FE9QNFSQ",
+        "messageId": "Q0B7XCK2R7U"
+      },
+      {
+        "channel": "C05HL1VGA22",
+        "messageId": "Q0B7XCJS89G"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B7XCJKXPU"
+      },
+      {
+        "channel": "U05FE9QNFSQ",
+        "messageId": "Q0B7FU5EN07"
+      },
+      {
+        "channel": "C05HL1VGA22",
+        "messageId": "Q0B7U138H3P"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B7VAEKNFQ"
+      },
+      {
+        "channel": "U05FE9QNFSQ",
+        "messageId": "Q0B8116L41J"
+      },
+      {
+        "channel": "C05HL1VGA22",
+        "messageId": "Q0B7VAF0C8N"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B8RM266HE"
+      },
+      {
+        "channel": "U05FE9QNFSQ",
+        "messageId": "Q0B7FU4R2PR"
+      },
+      {
+        "channel": "C05HL1VGA22",
+        "messageId": "Q0B8RM22Q2U"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B7R1HHUDR"
+      },
+      {
+        "channel": "U05FE9QNFSQ",
+        "messageId": "Q0B81160AGL"
+      },
+      {
+        "channel": "C05HL1VGA22",
+        "messageId": "Q0B7XCJV5UJ"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B8116FRHA"
+      },
+      {
+        "channel": "U05FE9QNFSQ",
+        "messageId": "Q0B8RM223B2"
+      },
+      {
+        "channel": "C05HL1VGA22",
+        "messageId": "Q0B811748BE"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B7FU4QV55"
+      },
+      {
+        "channel": "U05FE9QNFSQ",
+        "messageId": "Q0B7Z7KTSQ1"
+      },
+      {
+        "channel": "C05HL1VGA22",
+        "messageId": "Q0B7R1HDFQB"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B7U13T4RK"
+      },
+      {
+        "channel": "U05FE9QNFSQ",
+        "messageId": "Q0B8116U3QU"
+      },
+      {
+        "channel": "C05HL1VGA22",
+        "messageId": "Q0B7FU4JQ3Z"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B8113C24C"
+      },
+      {
+        "channel": "U05FE9QNFSQ",
+        "messageId": "Q0B7R1JCTQB"
+      },
+      {
+        "channel": "C05HL1VGA22",
+        "messageId": "Q0B7Z7L9Z7T"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B7FU5CYLX"
+      },
+      {
+        "channel": "U05FE9QNFSQ",
+        "messageId": "Q0B7VAF0JJJ"
+      },
+      {
+        "channel": "C05HL1VGA22",
+        "messageId": "Q0B8116GT28"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B7XCK76EN"
+      },
+      {
+        "channel": "U05FE9QNFSQ",
+        "messageId": "Q0B7Z7LBKLZ"
+      },
+      {
+        "channel": "C05HL1VGA22",
+        "messageId": "Q0B7R1HQ07M"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B7U13Q813"
+      },
+      {
+        "channel": "U05FE9QNFSQ",
+        "messageId": "Q0B7XCKKSHG"
+      },
+      {
+        "channel": "C05HL1VGA22",
+        "messageId": "Q0B7VAFA006"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B7XCKDVQS"
+      },
+      {
+        "channel": "U05FE9QNFSQ",
+        "messageId": "Q0B7U13KBJ9"
+      },
+      {
+        "channel": "C05HL1VGA22",
+        "messageId": "Q0B7FU5UWNT"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B8117SKRS"
+      },
+      {
+        "channel": "U05FE9QNFSQ",
+        "messageId": "Q0B81176MK6"
+      },
+      {
+        "channel": "C05HL1VGA22",
+        "messageId": "Q0B7U13T60M"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B7XCKQN7L"
+      },
+      {
+        "channel": "U05FE9QNFSQ",
+        "messageId": "Q0B8117445S"
+      },
+      {
+        "channel": "C05HL1VGA22",
+        "messageId": "Q0B7FU5AB5M"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B7Z7M2Y1F"
+      },
+      {
+        "channel": "U05FE9QNFSQ",
+        "messageId": "Q0B8117T620"
+      },
+      {
+        "channel": "C05HL1VGA22",
+        "messageId": "Q0B7Z7LE7CZ"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B8RM45XHN"
+      },
+      {
+        "channel": "U05FE9QNFSQ",
+        "messageId": "Q0B7R1J91PD"
+      },
+      {
+        "channel": "C05HL1VGA22",
+        "messageId": "Q0B7Z7MBGM7"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B7VAGA7TQ"
+      },
+      {
+        "channel": "U05FE9QNFSQ",
+        "messageId": "Q0B7R1J54CT"
+      },
+      {
+        "channel": "C05HL1VGA22",
+        "messageId": "Q0B7XCL625Q"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B8RM3PYAC"
+      },
+      {
+        "channel": "U05FE9QNFSQ",
+        "messageId": "Q0B7FU6GD7Z"
+      },
+      {
+        "channel": "C05HL1VGA22",
+        "messageId": "Q0B7FU6HQNT"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B7R1K2RR9"
+      },
+      {
+        "channel": "U05FE9QNFSQ",
+        "messageId": "Q0B7FU61SMD"
+      },
+      {
+        "channel": "C05HL1VGA22",
+        "messageId": "Q0B8117QSJG"
+      }
     ]
   },
   "processedMessageTs": {
@@ -11818,8 +12511,11 @@
     "1780070649.199599": true,
     "1780341781.291039": true,
     "1780337997.597119": true,
-    "1780428158.941049": true
+    "1780428158.941049": true,
+    "1780438552.266309": true,
+    "1780436955.214539": true,
+    "1780436621.528629": true
   },
   "lastWeeklySummaryDate": "2026-W22",
-  "lastRun": "2026-06-02T20:55:33.296Z"
+  "lastRun": "2026-06-03T06:01:30.971Z"
 }
