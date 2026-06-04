@@ -699,6 +699,48 @@
       "completed": false,
       "completedAt": null,
       "firstSeenAt": "2026-06-03T21:20:59.849Z"
+    },
+    "9627f88e4c96e1c7eedfa9af41e9d531": {
+      "task": "make sure all clients have the longterm campaign",
+      "assignee_name": "Josh 'The Ninja' Morales",
+      "assignee_slack_mention": "@Josh 'The Ninja' Morales",
+      "assigned_date": "2026-06-03",
+      "due_date": null,
+      "message_ts": "1780525588.873959",
+      "source_message": "@Josh 'The Ninja' Morales @Eddie 'Rockstar' Monarrez @Christle 'Knows All' Ochigue we do need to ma",
+      "assigneeId": "U07FVUF09T7",
+      "messageTs": "1780525588.873959",
+      "completed": false,
+      "completedAt": null,
+      "firstSeenAt": "2026-06-04T06:01:09.001Z"
+    },
+    "91e642df8eb676890287f231fb0a23ec": {
+      "task": "make sure all clients have the longterm campaign",
+      "assignee_name": "Eddie 'Rockstar' Monarrez",
+      "assignee_slack_mention": "@Eddie 'Rockstar' Monarrez",
+      "assigned_date": "2026-06-03",
+      "due_date": null,
+      "message_ts": "1780525588.873959",
+      "source_message": "@Josh 'The Ninja' Morales @Eddie 'Rockstar' Monarrez @Christle 'Knows All' Ochigue we do need to ma",
+      "assigneeId": "U02LFUG2WLR",
+      "messageTs": "1780525588.873959",
+      "completed": false,
+      "completedAt": null,
+      "firstSeenAt": "2026-06-04T06:01:09.061Z"
+    },
+    "004eccadf983c7669c32ad2dc756f001": {
+      "task": "make sure all clients have the longterm campaign",
+      "assignee_name": "Christle 'Knows All' Ochigue",
+      "assignee_slack_mention": "@Christle 'Knows All' Ochigue",
+      "assigned_date": "2026-06-03",
+      "due_date": null,
+      "message_ts": "1780525588.873959",
+      "source_message": "@Josh 'The Ninja' Morales @Eddie 'Rockstar' Monarrez @Christle 'Knows All' Ochigue we do need to ma",
+      "assigneeId": "UMCPG3D8A",
+      "messageTs": "1780525588.873959",
+      "completed": false,
+      "completedAt": null,
+      "firstSeenAt": "2026-06-04T06:01:09.123Z"
     }
   },
   "scheduled": {
@@ -6999,6 +7041,27 @@
       "task": "ensure there is a campaign for LKongterm stage in CRM template account",
       "assignee": "Christle 'Knows All' Ochigue",
       "reminderDate": "2026-06-10"
+    },
+    "9627f88e4c96e1c7eedfa9af41e9d531|followup|2026-06-10": {
+      "scheduledAt": "2026-06-04T06:01:10.239Z",
+      "type": "followup",
+      "task": "make sure all clients have the longterm campaign",
+      "assignee": "Josh 'The Ninja' Morales",
+      "reminderDate": "2026-06-10"
+    },
+    "91e642df8eb676890287f231fb0a23ec|followup|2026-06-10": {
+      "scheduledAt": "2026-06-04T06:01:10.922Z",
+      "type": "followup",
+      "task": "make sure all clients have the longterm campaign",
+      "assignee": "Eddie 'Rockstar' Monarrez",
+      "reminderDate": "2026-06-10"
+    },
+    "004eccadf983c7669c32ad2dc756f001|followup|2026-06-10": {
+      "scheduledAt": "2026-06-04T06:01:11.618Z",
+      "type": "followup",
+      "task": "make sure all clients have the longterm campaign",
+      "assignee": "Christle 'Knows All' Ochigue",
+      "reminderDate": "2026-06-10"
     }
   },
   "scheduledMessageIds": {
@@ -12631,6 +12694,48 @@
         "channel": "C08R493ESAJ",
         "messageId": "Q0B8883N1L4"
       }
+    ],
+    "9627f88e4c96e1c7eedfa9af41e9d531": [
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B7RNX47TR"
+      },
+      {
+        "channel": "U07FVUF09T7",
+        "messageId": "Q0B892CHE49"
+      },
+      {
+        "channel": "C093VPK55NF",
+        "messageId": "Q0B8779CFDY"
+      }
+    ],
+    "91e642df8eb676890287f231fb0a23ec": [
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B8556PC78"
+      },
+      {
+        "channel": "U02LFUG2WLR",
+        "messageId": "Q0B8ARCN7RA"
+      },
+      {
+        "channel": "C05HPPDCSS1",
+        "messageId": "Q0B80RQ5USF"
+      }
+    ],
+    "004eccadf983c7669c32ad2dc756f001": [
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B8ARD2LP6"
+      },
+      {
+        "channel": "UMCPG3D8A",
+        "messageId": "Q0B80RQ8VDZ"
+      },
+      {
+        "channel": "C08R493ESAJ",
+        "messageId": "Q0B80RPSUGK"
+      }
     ]
   },
   "processedMessageTs": {
@@ -12694,8 +12799,9 @@
     "1780508669.987269": true,
     "1780506919.959869": true,
     "1780501684.168879": true,
-    "1780519095.138299": true
+    "1780519095.138299": true,
+    "1780525588.873959": true
   },
   "lastWeeklySummaryDate": "2026-W22",
-  "lastRun": "2026-06-03T21:21:01.771Z"
+  "lastRun": "2026-06-04T06:01:11.619Z"
 }
