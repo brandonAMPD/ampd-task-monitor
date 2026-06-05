@@ -514,8 +514,8 @@
       "source_message": "@Josh 'The Ninja' Morales, hey brother, can you please move the messages above to software ch",
       "assigneeId": "U07FVUF09T7",
       "messageTs": "1780023929.297819",
-      "completed": false,
-      "completedAt": null,
+      "completed": true,
+      "completedAt": "2026-06-05T09:44:27.226Z",
       "firstSeenAt": "2026-05-29T06:01:08.212Z"
     },
     "98a17563aa0664728fb55c55b63a7854": {
@@ -10217,20 +10217,6 @@
         "messageId": "Q0B56K6TJQ6"
       }
     ],
-    "981c1da3a5b2756a609166f5fa4e84df": [
-      {
-        "channel": "UMS39RAGP",
-        "messageId": "Q0B6R62FBDH"
-      },
-      {
-        "channel": "U07FVUF09T7",
-        "messageId": "Q0B7RRKEXC0"
-      },
-      {
-        "channel": "C093VPK55NF",
-        "messageId": "Q0B7RRKNYBA"
-      }
-    ],
     "bdc5d942c202321e5737e6e65f9b3e5d": [
       {
         "channel": "UMS39RAGP",
@@ -12668,5 +12654,5 @@
     "1780613392.542709": true
   },
   "lastWeeklySummaryDate": "2026-W22",
-  "lastRun": "2026-06-05T06:01:47.846Z"
+  "lastRun": "2026-06-05T09:44:33.535Z"
 }
