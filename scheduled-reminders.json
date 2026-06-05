@@ -769,6 +769,20 @@
       "completed": true,
       "completedAt": "2026-06-05T14:01:06.736Z",
       "firstSeenAt": "2026-06-05T06:01:22.804Z"
+    },
+    "a9ac460855821d4630a74279b5140e1b": {
+      "task": "address and solve calendar syncing issue Julie McCown is having",
+      "assignee_name": "Josh 'The Ninja' Morales",
+      "assignee_slack_mention": "@Josh 'The Ninja' Morales",
+      "assigned_date": "2026-06-05",
+      "due_date": "2026-06-11",
+      "message_ts": "1780689256.055439",
+      "source_message": "@Josh 'The Ninja' Morales be sure to address and solve (if possible) the calendar syncing issue Julie",
+      "assigneeId": "U07FVUF09T7",
+      "messageTs": "1780689256.055439",
+      "completed": false,
+      "completedAt": null,
+      "firstSeenAt": "2026-06-05T20:00:54.726Z"
     }
   },
   "scheduled": {
@@ -7566,6 +7580,244 @@
       "task": "Create Book A Demo button on website CRM section with provided link",
       "assignee": "Liz' La Task-Killer' Zavala",
       "reminderDate": "2026-07-10"
+    },
+    "a9ac460855821d4630a74279b5140e1b|midpoint|2026-06-08": {
+      "scheduledAt": "2026-06-05T20:00:55.943Z",
+      "type": "midpoint",
+      "task": "address and solve calendar syncing issue Julie McCown is having",
+      "assignee": "Josh 'The Ninja' Morales",
+      "reminderDate": "2026-06-08"
+    },
+    "a9ac460855821d4630a74279b5140e1b|nag|2026-06-09": {
+      "scheduledAt": "2026-06-05T20:00:56.852Z",
+      "type": "nag",
+      "task": "address and solve calendar syncing issue Julie McCown is having",
+      "assignee": "Josh 'The Ninja' Morales",
+      "reminderDate": "2026-06-09"
+    },
+    "a9ac460855821d4630a74279b5140e1b|nag|2026-06-10": {
+      "scheduledAt": "2026-06-05T20:00:57.795Z",
+      "type": "nag",
+      "task": "address and solve calendar syncing issue Julie McCown is having",
+      "assignee": "Josh 'The Ninja' Morales",
+      "reminderDate": "2026-06-10"
+    },
+    "a9ac460855821d4630a74279b5140e1b|due|2026-06-11": {
+      "scheduledAt": "2026-06-05T20:00:58.705Z",
+      "type": "due",
+      "task": "address and solve calendar syncing issue Julie McCown is having",
+      "assignee": "Josh 'The Ninja' Morales",
+      "reminderDate": "2026-06-11"
+    },
+    "a9ac460855821d4630a74279b5140e1b|overdue|2026-06-12": {
+      "scheduledAt": "2026-06-05T20:00:59.595Z",
+      "type": "overdue",
+      "task": "address and solve calendar syncing issue Julie McCown is having",
+      "assignee": "Josh 'The Ninja' Morales",
+      "reminderDate": "2026-06-12"
+    },
+    "a9ac460855821d4630a74279b5140e1b|overdue|2026-06-13": {
+      "scheduledAt": "2026-06-05T20:01:00.501Z",
+      "type": "overdue",
+      "task": "address and solve calendar syncing issue Julie McCown is having",
+      "assignee": "Josh 'The Ninja' Morales",
+      "reminderDate": "2026-06-13"
+    },
+    "a9ac460855821d4630a74279b5140e1b|overdue|2026-06-14": {
+      "scheduledAt": "2026-06-05T20:01:01.422Z",
+      "type": "overdue",
+      "task": "address and solve calendar syncing issue Julie McCown is having",
+      "assignee": "Josh 'The Ninja' Morales",
+      "reminderDate": "2026-06-14"
+    },
+    "a9ac460855821d4630a74279b5140e1b|overdue|2026-06-15": {
+      "scheduledAt": "2026-06-05T20:01:02.320Z",
+      "type": "overdue",
+      "task": "address and solve calendar syncing issue Julie McCown is having",
+      "assignee": "Josh 'The Ninja' Morales",
+      "reminderDate": "2026-06-15"
+    },
+    "a9ac460855821d4630a74279b5140e1b|overdue|2026-06-16": {
+      "scheduledAt": "2026-06-05T20:01:03.242Z",
+      "type": "overdue",
+      "task": "address and solve calendar syncing issue Julie McCown is having",
+      "assignee": "Josh 'The Ninja' Morales",
+      "reminderDate": "2026-06-16"
+    },
+    "a9ac460855821d4630a74279b5140e1b|overdue|2026-06-17": {
+      "scheduledAt": "2026-06-05T20:01:04.137Z",
+      "type": "overdue",
+      "task": "address and solve calendar syncing issue Julie McCown is having",
+      "assignee": "Josh 'The Ninja' Morales",
+      "reminderDate": "2026-06-17"
+    },
+    "a9ac460855821d4630a74279b5140e1b|overdue|2026-06-18": {
+      "scheduledAt": "2026-06-05T20:01:05.031Z",
+      "type": "overdue",
+      "task": "address and solve calendar syncing issue Julie McCown is having",
+      "assignee": "Josh 'The Ninja' Morales",
+      "reminderDate": "2026-06-18"
+    },
+    "a9ac460855821d4630a74279b5140e1b|overdue|2026-06-19": {
+      "scheduledAt": "2026-06-05T20:01:05.938Z",
+      "type": "overdue",
+      "task": "address and solve calendar syncing issue Julie McCown is having",
+      "assignee": "Josh 'The Ninja' Morales",
+      "reminderDate": "2026-06-19"
+    },
+    "a9ac460855821d4630a74279b5140e1b|overdue|2026-06-20": {
+      "scheduledAt": "2026-06-05T20:01:06.856Z",
+      "type": "overdue",
+      "task": "address and solve calendar syncing issue Julie McCown is having",
+      "assignee": "Josh 'The Ninja' Morales",
+      "reminderDate": "2026-06-20"
+    },
+    "a9ac460855821d4630a74279b5140e1b|overdue|2026-06-21": {
+      "scheduledAt": "2026-06-05T20:01:07.738Z",
+      "type": "overdue",
+      "task": "address and solve calendar syncing issue Julie McCown is having",
+      "assignee": "Josh 'The Ninja' Morales",
+      "reminderDate": "2026-06-21"
+    },
+    "a9ac460855821d4630a74279b5140e1b|overdue|2026-06-22": {
+      "scheduledAt": "2026-06-05T20:01:08.676Z",
+      "type": "overdue",
+      "task": "address and solve calendar syncing issue Julie McCown is having",
+      "assignee": "Josh 'The Ninja' Morales",
+      "reminderDate": "2026-06-22"
+    },
+    "a9ac460855821d4630a74279b5140e1b|overdue|2026-06-23": {
+      "scheduledAt": "2026-06-05T20:01:09.570Z",
+      "type": "overdue",
+      "task": "address and solve calendar syncing issue Julie McCown is having",
+      "assignee": "Josh 'The Ninja' Morales",
+      "reminderDate": "2026-06-23"
+    },
+    "a9ac460855821d4630a74279b5140e1b|overdue|2026-06-24": {
+      "scheduledAt": "2026-06-05T20:01:10.486Z",
+      "type": "overdue",
+      "task": "address and solve calendar syncing issue Julie McCown is having",
+      "assignee": "Josh 'The Ninja' Morales",
+      "reminderDate": "2026-06-24"
+    },
+    "a9ac460855821d4630a74279b5140e1b|overdue|2026-06-25": {
+      "scheduledAt": "2026-06-05T20:01:11.416Z",
+      "type": "overdue",
+      "task": "address and solve calendar syncing issue Julie McCown is having",
+      "assignee": "Josh 'The Ninja' Morales",
+      "reminderDate": "2026-06-25"
+    },
+    "a9ac460855821d4630a74279b5140e1b|overdue|2026-06-26": {
+      "scheduledAt": "2026-06-05T20:01:12.330Z",
+      "type": "overdue",
+      "task": "address and solve calendar syncing issue Julie McCown is having",
+      "assignee": "Josh 'The Ninja' Morales",
+      "reminderDate": "2026-06-26"
+    },
+    "a9ac460855821d4630a74279b5140e1b|overdue|2026-06-27": {
+      "scheduledAt": "2026-06-05T20:01:13.232Z",
+      "type": "overdue",
+      "task": "address and solve calendar syncing issue Julie McCown is having",
+      "assignee": "Josh 'The Ninja' Morales",
+      "reminderDate": "2026-06-27"
+    },
+    "a9ac460855821d4630a74279b5140e1b|overdue|2026-06-28": {
+      "scheduledAt": "2026-06-05T20:01:14.138Z",
+      "type": "overdue",
+      "task": "address and solve calendar syncing issue Julie McCown is having",
+      "assignee": "Josh 'The Ninja' Morales",
+      "reminderDate": "2026-06-28"
+    },
+    "a9ac460855821d4630a74279b5140e1b|overdue|2026-06-29": {
+      "scheduledAt": "2026-06-05T20:01:15.052Z",
+      "type": "overdue",
+      "task": "address and solve calendar syncing issue Julie McCown is having",
+      "assignee": "Josh 'The Ninja' Morales",
+      "reminderDate": "2026-06-29"
+    },
+    "a9ac460855821d4630a74279b5140e1b|overdue|2026-06-30": {
+      "scheduledAt": "2026-06-05T20:01:15.959Z",
+      "type": "overdue",
+      "task": "address and solve calendar syncing issue Julie McCown is having",
+      "assignee": "Josh 'The Ninja' Morales",
+      "reminderDate": "2026-06-30"
+    },
+    "a9ac460855821d4630a74279b5140e1b|overdue|2026-07-01": {
+      "scheduledAt": "2026-06-05T20:01:16.904Z",
+      "type": "overdue",
+      "task": "address and solve calendar syncing issue Julie McCown is having",
+      "assignee": "Josh 'The Ninja' Morales",
+      "reminderDate": "2026-07-01"
+    },
+    "a9ac460855821d4630a74279b5140e1b|overdue|2026-07-02": {
+      "scheduledAt": "2026-06-05T20:01:17.845Z",
+      "type": "overdue",
+      "task": "address and solve calendar syncing issue Julie McCown is having",
+      "assignee": "Josh 'The Ninja' Morales",
+      "reminderDate": "2026-07-02"
+    },
+    "a9ac460855821d4630a74279b5140e1b|overdue|2026-07-03": {
+      "scheduledAt": "2026-06-05T20:01:18.743Z",
+      "type": "overdue",
+      "task": "address and solve calendar syncing issue Julie McCown is having",
+      "assignee": "Josh 'The Ninja' Morales",
+      "reminderDate": "2026-07-03"
+    },
+    "a9ac460855821d4630a74279b5140e1b|overdue|2026-07-04": {
+      "scheduledAt": "2026-06-05T20:01:19.683Z",
+      "type": "overdue",
+      "task": "address and solve calendar syncing issue Julie McCown is having",
+      "assignee": "Josh 'The Ninja' Morales",
+      "reminderDate": "2026-07-04"
+    },
+    "a9ac460855821d4630a74279b5140e1b|overdue|2026-07-05": {
+      "scheduledAt": "2026-06-05T20:01:20.602Z",
+      "type": "overdue",
+      "task": "address and solve calendar syncing issue Julie McCown is having",
+      "assignee": "Josh 'The Ninja' Morales",
+      "reminderDate": "2026-07-05"
+    },
+    "a9ac460855821d4630a74279b5140e1b|overdue|2026-07-06": {
+      "scheduledAt": "2026-06-05T20:01:21.559Z",
+      "type": "overdue",
+      "task": "address and solve calendar syncing issue Julie McCown is having",
+      "assignee": "Josh 'The Ninja' Morales",
+      "reminderDate": "2026-07-06"
+    },
+    "a9ac460855821d4630a74279b5140e1b|overdue|2026-07-07": {
+      "scheduledAt": "2026-06-05T20:01:22.467Z",
+      "type": "overdue",
+      "task": "address and solve calendar syncing issue Julie McCown is having",
+      "assignee": "Josh 'The Ninja' Morales",
+      "reminderDate": "2026-07-07"
+    },
+    "a9ac460855821d4630a74279b5140e1b|overdue|2026-07-08": {
+      "scheduledAt": "2026-06-05T20:01:23.404Z",
+      "type": "overdue",
+      "task": "address and solve calendar syncing issue Julie McCown is having",
+      "assignee": "Josh 'The Ninja' Morales",
+      "reminderDate": "2026-07-08"
+    },
+    "a9ac460855821d4630a74279b5140e1b|overdue|2026-07-09": {
+      "scheduledAt": "2026-06-05T20:01:24.331Z",
+      "type": "overdue",
+      "task": "address and solve calendar syncing issue Julie McCown is having",
+      "assignee": "Josh 'The Ninja' Morales",
+      "reminderDate": "2026-07-09"
+    },
+    "a9ac460855821d4630a74279b5140e1b|overdue|2026-07-10": {
+      "scheduledAt": "2026-06-05T20:01:25.243Z",
+      "type": "overdue",
+      "task": "address and solve calendar syncing issue Julie McCown is having",
+      "assignee": "Josh 'The Ninja' Morales",
+      "reminderDate": "2026-07-10"
+    },
+    "a9ac460855821d4630a74279b5140e1b|overdue|2026-07-11": {
+      "scheduledAt": "2026-06-05T20:01:26.151Z",
+      "type": "overdue",
+      "task": "address and solve calendar syncing issue Julie McCown is having",
+      "assignee": "Josh 'The Ninja' Morales",
+      "reminderDate": "2026-07-11"
     }
   },
   "scheduledMessageIds": {
@@ -12174,6 +12426,416 @@
         "channel": "C08R493ESAJ",
         "messageId": "Q0B80RPSUGK"
       }
+    ],
+    "a9ac460855821d4630a74279b5140e1b": [
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B8NKSJ6JW"
+      },
+      {
+        "channel": "U07FVUF09T7",
+        "messageId": "Q0B8QEW37DF"
+      },
+      {
+        "channel": "C093VPK55NF",
+        "messageId": "Q0B8NKTDCQ2"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B875X6MN3"
+      },
+      {
+        "channel": "U07FVUF09T7",
+        "messageId": "Q0B9GU73UG0"
+      },
+      {
+        "channel": "C093VPK55NF",
+        "messageId": "Q0B8G8RUH9R"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B8NKU0126"
+      },
+      {
+        "channel": "U07FVUF09T7",
+        "messageId": "Q0B8NKTPM1Q"
+      },
+      {
+        "channel": "C093VPK55NF",
+        "messageId": "Q0B8K8C2Y9K"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B8LHSCPF0"
+      },
+      {
+        "channel": "U07FVUF09T7",
+        "messageId": "Q0B8NKU5XNW"
+      },
+      {
+        "channel": "C093VPK55NF",
+        "messageId": "Q0B8S8F7G2Y"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B8LHR6E4E"
+      },
+      {
+        "channel": "U07FVUF09T7",
+        "messageId": "Q0B8G8S4HPD"
+      },
+      {
+        "channel": "C093VPK55NF",
+        "messageId": "Q0B8LHR3X2S"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B8NKU8ABU"
+      },
+      {
+        "channel": "U07FVUF09T7",
+        "messageId": "Q0B8G8SJW2X"
+      },
+      {
+        "channel": "C093VPK55NF",
+        "messageId": "Q0B8K8CNZAR"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B8G8SLPQB"
+      },
+      {
+        "channel": "U07FVUF09T7",
+        "messageId": "Q0B8S8EGWJG"
+      },
+      {
+        "channel": "C093VPK55NF",
+        "messageId": "Q0B8S8FRDA8"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B875Z38ET"
+      },
+      {
+        "channel": "U07FVUF09T7",
+        "messageId": "Q0B9GU7K45N"
+      },
+      {
+        "channel": "C093VPK55NF",
+        "messageId": "Q0B8S8EE4R2"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B8NKUEKL2"
+      },
+      {
+        "channel": "U07FVUF09T7",
+        "messageId": "Q0B8NKVBC10"
+      },
+      {
+        "channel": "C093VPK55NF",
+        "messageId": "Q0B9GU80ZKJ"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B9GU8KBEC"
+      },
+      {
+        "channel": "U07FVUF09T7",
+        "messageId": "Q0B8S8G7R52"
+      },
+      {
+        "channel": "C093VPK55NF",
+        "messageId": "Q0B8QEU7QGZ"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B9GU88J64"
+      },
+      {
+        "channel": "U07FVUF09T7",
+        "messageId": "Q0B8G8TA6TD"
+      },
+      {
+        "channel": "C093VPK55NF",
+        "messageId": "Q0B8LHT1TQW"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B8QEY54MP"
+      },
+      {
+        "channel": "U07FVUF09T7",
+        "messageId": "Q0B8S8FFC7N"
+      },
+      {
+        "channel": "C093VPK55NF",
+        "messageId": "Q0B8NKVJRMG"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B8K8D643X"
+      },
+      {
+        "channel": "U07FVUF09T7",
+        "messageId": "Q0B8NKV88D8"
+      },
+      {
+        "channel": "C093VPK55NF",
+        "messageId": "Q0B8LHSPDB8"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B8LHU63ML"
+      },
+      {
+        "channel": "U07FVUF09T7",
+        "messageId": "Q0B8QEXS6KT"
+      },
+      {
+        "channel": "C093VPK55NF",
+        "messageId": "Q0B8LHRUZHC"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B8S8GKJ3W"
+      },
+      {
+        "channel": "U07FVUF09T7",
+        "messageId": "Q0B8S8GPAP6"
+      },
+      {
+        "channel": "C093VPK55NF",
+        "messageId": "Q0B8NKW5B3L"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B8NKUQHFU"
+      },
+      {
+        "channel": "U07FVUF09T7",
+        "messageId": "Q0B9GU8J3U0"
+      },
+      {
+        "channel": "C093VPK55NF",
+        "messageId": "Q0B9GU8R74Y"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B875ZJTPH"
+      },
+      {
+        "channel": "U07FVUF09T7",
+        "messageId": "Q0B8QEXKMUZ"
+      },
+      {
+        "channel": "C093VPK55NF",
+        "messageId": "Q0B9GU8PP2L"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B87605MQF"
+      },
+      {
+        "channel": "U07FVUF09T7",
+        "messageId": "Q0B8K8D302Z"
+      },
+      {
+        "channel": "C093VPK55NF",
+        "messageId": "Q0B9GU966V6"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B8QEZ9EEM"
+      },
+      {
+        "channel": "U07FVUF09T7",
+        "messageId": "Q0B8K8EBCKF"
+      },
+      {
+        "channel": "C093VPK55NF",
+        "messageId": "Q0B9GU9E88Y"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B8LHU1MBQ"
+      },
+      {
+        "channel": "U07FVUF09T7",
+        "messageId": "Q0B8LHU1KP0"
+      },
+      {
+        "channel": "C093VPK55NF",
+        "messageId": "Q0B8LHTPX6J"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B8S8HLUVA"
+      },
+      {
+        "channel": "U07FVUF09T7",
+        "messageId": "Q0B8S8GBL84"
+      },
+      {
+        "channel": "C093VPK55NF",
+        "messageId": "Q0B8S8GRDRA"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B8G8V898T"
+      },
+      {
+        "channel": "U07FVUF09T7",
+        "messageId": "Q0B8760J48P"
+      },
+      {
+        "channel": "C093VPK55NF",
+        "messageId": "Q0B9GUASX40"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B8S8GSUKW"
+      },
+      {
+        "channel": "U07FVUF09T7",
+        "messageId": "Q0B8NKUUMU2"
+      },
+      {
+        "channel": "C093VPK55NF",
+        "messageId": "Q0B8760AZC7"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B8NKWF3U2"
+      },
+      {
+        "channel": "U07FVUF09T7",
+        "messageId": "Q0B8LHV5V8E"
+      },
+      {
+        "channel": "C093VPK55NF",
+        "messageId": "Q0B8QEZHU8Z"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B9GUA13PA"
+      },
+      {
+        "channel": "U07FVUF09T7",
+        "messageId": "Q0B8LHUMMLN"
+      },
+      {
+        "channel": "C093VPK55NF",
+        "messageId": "Q0B8G8U97DH"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B8NKX1N4A"
+      },
+      {
+        "channel": "U07FVUF09T7",
+        "messageId": "Q0B9GUAD1QQ"
+      },
+      {
+        "channel": "C093VPK55NF",
+        "messageId": "Q0B8K8E05HB"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B8S8J1C5S"
+      },
+      {
+        "channel": "U07FVUF09T7",
+        "messageId": "Q0B8S8JDJ12"
+      },
+      {
+        "channel": "C093VPK55NF",
+        "messageId": "Q0B8K8EUPN1"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B8K8FC0BF"
+      },
+      {
+        "channel": "U07FVUF09T7",
+        "messageId": "Q0B8S8H5YF6"
+      },
+      {
+        "channel": "C093VPK55NF",
+        "messageId": "Q0B8S8JBELU"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B8K8FMGUD"
+      },
+      {
+        "channel": "U07FVUF09T7",
+        "messageId": "Q0B8K8FMESH"
+      },
+      {
+        "channel": "C093VPK55NF",
+        "messageId": "Q0B8761DM2B"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B8S8JDSA0"
+      },
+      {
+        "channel": "U07FVUF09T7",
+        "messageId": "Q0B9GUB9YKA"
+      },
+      {
+        "channel": "C093VPK55NF",
+        "messageId": "Q0B8S8JS068"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B8G8W9ZPV"
+      },
+      {
+        "channel": "U07FVUF09T7",
+        "messageId": "Q0B8S8JKACC"
+      },
+      {
+        "channel": "C093VPK55NF",
+        "messageId": "Q0B8S8HPXFW"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B8761M0H5"
+      },
+      {
+        "channel": "U07FVUF09T7",
+        "messageId": "Q0B8S8K3WAG"
+      },
+      {
+        "channel": "C093VPK55NF",
+        "messageId": "Q0B8NKWMC5Q"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B8K8FFF1T"
+      },
+      {
+        "channel": "U07FVUF09T7",
+        "messageId": "Q0B9GUB5PMW"
+      },
+      {
+        "channel": "C093VPK55NF",
+        "messageId": "Q0B87611AP9"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B8S8JAFDJ"
+      },
+      {
+        "channel": "U07FVUF09T7",
+        "messageId": "Q0B8LHVRWF8"
+      },
+      {
+        "channel": "C093VPK55NF",
+        "messageId": "Q0B876213B9"
+      }
     ]
   },
   "processedMessageTs": {
@@ -12241,8 +12903,9 @@
     "1780525588.873959": true,
     "1780584564.071739": true,
     "1780613647.609629": true,
-    "1780613392.542709": true
+    "1780613392.542709": true,
+    "1780689256.055439": true
   },
   "lastWeeklySummaryDate": "2026-W23",
-  "lastRun": "2026-06-05T18:01:01.556Z"
+  "lastRun": "2026-06-05T20:01:26.152Z"
 }
