@@ -696,8 +696,8 @@
       "source_message": "@Eddie 'Rockstar' Monarrez @Christle 'Knows All' Ochigue We dont have a campaign for LKongterm stag",
       "assigneeId": "UMCPG3D8A",
       "messageTs": "1780519095.138299",
-      "completed": false,
-      "completedAt": null,
+      "completed": true,
+      "completedAt": "2026-06-06T18:01:03.708Z",
       "firstSeenAt": "2026-06-03T21:20:59.849Z"
     },
     "9627f88e4c96e1c7eedfa9af41e9d531": {
@@ -11961,20 +11961,6 @@
         "messageId": "Q0B82HBD63Y"
       }
     ],
-    "1259eb41d4594f1fca66a0c58bb905f4": [
-      {
-        "channel": "UMS39RAGP",
-        "messageId": "Q0B7P5MNAB1"
-      },
-      {
-        "channel": "UMCPG3D8A",
-        "messageId": "Q0B8YTWQT2L"
-      },
-      {
-        "channel": "C08R493ESAJ",
-        "messageId": "Q0B8883N1L4"
-      }
-    ],
     "9627f88e4c96e1c7eedfa9af41e9d531": [
       {
         "channel": "UMS39RAGP",
@@ -12497,5 +12483,5 @@
     "1780689256.055439": true
   },
   "lastWeeklySummaryDate": "2026-W23",
-  "lastRun": "2026-06-06T08:32:41.652Z"
+  "lastRun": "2026-06-06T18:01:08.946Z"
 }
