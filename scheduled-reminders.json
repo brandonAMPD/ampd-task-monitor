@@ -738,8 +738,8 @@
       "source_message": "@Josh 'The Ninja' Morales @Eddie 'Rockstar' Monarrez @Christle 'Knows All' Ochigue we do need to ma",
       "assigneeId": "UMCPG3D8A",
       "messageTs": "1780525588.873959",
-      "completed": false,
-      "completedAt": null,
+      "completed": true,
+      "completedAt": "2026-06-08T20:24:00.875Z",
       "firstSeenAt": "2026-06-04T06:01:09.123Z"
     },
     "dba182dad5cb35586da97764a6581692": {
@@ -797,6 +797,20 @@
       "completed": false,
       "completedAt": null,
       "firstSeenAt": "2026-06-08T18:01:20.618Z"
+    },
+    "5e0876e19ac2321d993c4b6091826ccc": {
+      "task": "Review added General written step by step instructions and new doc with general questions",
+      "assignee_name": "Brandon 'The One' Robertson",
+      "assignee_slack_mention": "@Brandon 'The One' Robertson",
+      "assigned_date": "2026-06-08",
+      "due_date": null,
+      "message_ts": "1780945431.036449",
+      "source_message": "• @Brandon 'The One' Robertson I added the General written step by step instructions - added a ne",
+      "assigneeId": "UMS39RAGP",
+      "messageTs": "1780945431.036449",
+      "completed": false,
+      "completedAt": null,
+      "firstSeenAt": "2026-06-08T20:24:08.704Z"
     }
   },
   "scheduled": {
@@ -8070,6 +8084,13 @@
       "task": "Review and identify missing items for CRM training page, create doc with specific bullets",
       "assignee": "Meg 'The Sage' Scheffler",
       "reminderDate": "2026-07-18"
+    },
+    "5e0876e19ac2321d993c4b6091826ccc|followup|2026-06-15": {
+      "scheduledAt": "2026-06-08T20:24:09.868Z",
+      "type": "followup",
+      "task": "Review added General written step by step instructions and new doc with general questions",
+      "assignee": "Brandon 'The One' Robertson",
+      "reminderDate": "2026-06-15"
     }
   },
   "scheduledMessageIds": {
@@ -12241,20 +12262,6 @@
         "messageId": "Q0B80RQ5USF"
       }
     ],
-    "004eccadf983c7669c32ad2dc756f001": [
-      {
-        "channel": "UMS39RAGP",
-        "messageId": "Q0B8ARD2LP6"
-      },
-      {
-        "channel": "UMCPG3D8A",
-        "messageId": "Q0B80RQ8VDZ"
-      },
-      {
-        "channel": "C08R493ESAJ",
-        "messageId": "Q0B80RPSUGK"
-      }
-    ],
     "a9ac460855821d4630a74279b5140e1b": [
       {
         "channel": "UMS39RAGP",
@@ -13074,6 +13081,16 @@
         "channel": "C05HL1VGA22",
         "messageId": "Q0B90CPF0S1"
       }
+    ],
+    "5e0876e19ac2321d993c4b6091826ccc": [
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B94SRNNUA"
+      },
+      {
+        "channel": "C05HV4SQD6G",
+        "messageId": "Q0B96MVCRBK"
+      }
     ]
   },
   "processedMessageTs": {
@@ -13143,8 +13160,9 @@
     "1780613647.609629": true,
     "1780613392.542709": true,
     "1780689256.055439": true,
-    "1780938629.128129": true
+    "1780938629.128129": true,
+    "1780945431.036449": true
   },
   "lastWeeklySummaryDate": "2026-W23",
-  "lastRun": "2026-06-08T18:01:46.607Z"
+  "lastRun": "2026-06-08T20:24:09.870Z"
 }
