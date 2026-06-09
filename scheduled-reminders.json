@@ -808,8 +808,8 @@
       "source_message": "• @Brandon 'The One' Robertson I added the General written step by step instructions - added a ne",
       "assigneeId": "UMS39RAGP",
       "messageTs": "1780945431.036449",
-      "completed": false,
-      "completedAt": null,
+      "completed": true,
+      "completedAt": "2026-06-09T06:01:02.813Z",
       "firstSeenAt": "2026-06-08T20:24:08.704Z"
     }
   },
@@ -13081,16 +13081,6 @@
         "channel": "C05HL1VGA22",
         "messageId": "Q0B90CPF0S1"
       }
-    ],
-    "5e0876e19ac2321d993c4b6091826ccc": [
-      {
-        "channel": "UMS39RAGP",
-        "messageId": "Q0B94SRNNUA"
-      },
-      {
-        "channel": "C05HV4SQD6G",
-        "messageId": "Q0B96MVCRBK"
-      }
     ]
   },
   "processedMessageTs": {
@@ -13164,5 +13154,5 @@
     "1780945431.036449": true
   },
   "lastWeeklySummaryDate": "2026-W23",
-  "lastRun": "2026-06-08T20:24:09.870Z"
+  "lastRun": "2026-06-09T06:01:05.505Z"
 }
