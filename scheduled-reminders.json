@@ -570,8 +570,8 @@
       "source_message": "@Brandon 'The One' Robertson create a claude based system to direct the team on the steps to take",
       "assigneeId": "UMS39RAGP",
       "messageTs": "1780070649.199599",
-      "completed": false,
-      "completedAt": null,
+      "completed": true,
+      "completedAt": "2026-06-10T18:01:08.145Z",
       "firstSeenAt": "2026-05-29T18:01:48.148Z"
     },
     "c8aeafb8fed7442019c555dd4a427f9a": {
@@ -811,6 +811,20 @@
       "completed": true,
       "completedAt": "2026-06-09T06:01:02.813Z",
       "firstSeenAt": "2026-06-08T20:24:08.704Z"
+    },
+    "d0f0ba8c89a9c8e5dc16a2d48966c51e": {
+      "task": "build email and text snippets for sending case study playlist out immediately after a bls sales call",
+      "assignee_name": "Jimmy 'Suave' Flores",
+      "assignee_slack_mention": "@Jimmy 'Suave' Flores",
+      "assigned_date": "2026-06-10",
+      "due_date": "2026-06-10",
+      "message_ts": "1781107756.247389",
+      "source_message": "@Jimmy 'Suave' Flores build email and text snippets for sending case study playlist out immediatel",
+      "assigneeId": "U02773FLDN2",
+      "messageTs": "1781107756.247389",
+      "completed": false,
+      "completedAt": null,
+      "firstSeenAt": "2026-06-10T18:01:28.203Z"
     }
   },
   "scheduled": {
@@ -8091,6 +8105,222 @@
       "task": "Review added General written step by step instructions and new doc with general questions",
       "assignee": "Brandon 'The One' Robertson",
       "reminderDate": "2026-06-15"
+    },
+    "d0f0ba8c89a9c8e5dc16a2d48966c51e|due|2026-06-10": {
+      "scheduledAt": "2026-06-10T18:01:28.205Z",
+      "type": "due",
+      "task": "build email and text snippets for sending case study playlist out immediately after a bls sales call",
+      "skipped": true
+    },
+    "d0f0ba8c89a9c8e5dc16a2d48966c51e|overdue|2026-06-11": {
+      "scheduledAt": "2026-06-10T18:01:28.905Z",
+      "type": "overdue",
+      "task": "build email and text snippets for sending case study playlist out immediately after a bls sales call",
+      "assignee": "Jimmy 'Suave' Flores",
+      "reminderDate": "2026-06-11"
+    },
+    "d0f0ba8c89a9c8e5dc16a2d48966c51e|overdue|2026-06-12": {
+      "scheduledAt": "2026-06-10T18:01:29.586Z",
+      "type": "overdue",
+      "task": "build email and text snippets for sending case study playlist out immediately after a bls sales call",
+      "assignee": "Jimmy 'Suave' Flores",
+      "reminderDate": "2026-06-12"
+    },
+    "d0f0ba8c89a9c8e5dc16a2d48966c51e|overdue|2026-06-13": {
+      "scheduledAt": "2026-06-10T18:01:30.268Z",
+      "type": "overdue",
+      "task": "build email and text snippets for sending case study playlist out immediately after a bls sales call",
+      "assignee": "Jimmy 'Suave' Flores",
+      "reminderDate": "2026-06-13"
+    },
+    "d0f0ba8c89a9c8e5dc16a2d48966c51e|overdue|2026-06-14": {
+      "scheduledAt": "2026-06-10T18:01:30.960Z",
+      "type": "overdue",
+      "task": "build email and text snippets for sending case study playlist out immediately after a bls sales call",
+      "assignee": "Jimmy 'Suave' Flores",
+      "reminderDate": "2026-06-14"
+    },
+    "d0f0ba8c89a9c8e5dc16a2d48966c51e|overdue|2026-06-15": {
+      "scheduledAt": "2026-06-10T18:01:31.645Z",
+      "type": "overdue",
+      "task": "build email and text snippets for sending case study playlist out immediately after a bls sales call",
+      "assignee": "Jimmy 'Suave' Flores",
+      "reminderDate": "2026-06-15"
+    },
+    "d0f0ba8c89a9c8e5dc16a2d48966c51e|overdue|2026-06-16": {
+      "scheduledAt": "2026-06-10T18:01:32.324Z",
+      "type": "overdue",
+      "task": "build email and text snippets for sending case study playlist out immediately after a bls sales call",
+      "assignee": "Jimmy 'Suave' Flores",
+      "reminderDate": "2026-06-16"
+    },
+    "d0f0ba8c89a9c8e5dc16a2d48966c51e|overdue|2026-06-17": {
+      "scheduledAt": "2026-06-10T18:01:33.010Z",
+      "type": "overdue",
+      "task": "build email and text snippets for sending case study playlist out immediately after a bls sales call",
+      "assignee": "Jimmy 'Suave' Flores",
+      "reminderDate": "2026-06-17"
+    },
+    "d0f0ba8c89a9c8e5dc16a2d48966c51e|overdue|2026-06-18": {
+      "scheduledAt": "2026-06-10T18:01:33.727Z",
+      "type": "overdue",
+      "task": "build email and text snippets for sending case study playlist out immediately after a bls sales call",
+      "assignee": "Jimmy 'Suave' Flores",
+      "reminderDate": "2026-06-18"
+    },
+    "d0f0ba8c89a9c8e5dc16a2d48966c51e|overdue|2026-06-19": {
+      "scheduledAt": "2026-06-10T18:01:34.406Z",
+      "type": "overdue",
+      "task": "build email and text snippets for sending case study playlist out immediately after a bls sales call",
+      "assignee": "Jimmy 'Suave' Flores",
+      "reminderDate": "2026-06-19"
+    },
+    "d0f0ba8c89a9c8e5dc16a2d48966c51e|overdue|2026-06-20": {
+      "scheduledAt": "2026-06-10T18:01:35.123Z",
+      "type": "overdue",
+      "task": "build email and text snippets for sending case study playlist out immediately after a bls sales call",
+      "assignee": "Jimmy 'Suave' Flores",
+      "reminderDate": "2026-06-20"
+    },
+    "d0f0ba8c89a9c8e5dc16a2d48966c51e|overdue|2026-06-21": {
+      "scheduledAt": "2026-06-10T18:01:35.809Z",
+      "type": "overdue",
+      "task": "build email and text snippets for sending case study playlist out immediately after a bls sales call",
+      "assignee": "Jimmy 'Suave' Flores",
+      "reminderDate": "2026-06-21"
+    },
+    "d0f0ba8c89a9c8e5dc16a2d48966c51e|overdue|2026-06-22": {
+      "scheduledAt": "2026-06-10T18:01:36.488Z",
+      "type": "overdue",
+      "task": "build email and text snippets for sending case study playlist out immediately after a bls sales call",
+      "assignee": "Jimmy 'Suave' Flores",
+      "reminderDate": "2026-06-22"
+    },
+    "d0f0ba8c89a9c8e5dc16a2d48966c51e|overdue|2026-06-23": {
+      "scheduledAt": "2026-06-10T18:01:37.191Z",
+      "type": "overdue",
+      "task": "build email and text snippets for sending case study playlist out immediately after a bls sales call",
+      "assignee": "Jimmy 'Suave' Flores",
+      "reminderDate": "2026-06-23"
+    },
+    "d0f0ba8c89a9c8e5dc16a2d48966c51e|overdue|2026-06-24": {
+      "scheduledAt": "2026-06-10T18:01:37.923Z",
+      "type": "overdue",
+      "task": "build email and text snippets for sending case study playlist out immediately after a bls sales call",
+      "assignee": "Jimmy 'Suave' Flores",
+      "reminderDate": "2026-06-24"
+    },
+    "d0f0ba8c89a9c8e5dc16a2d48966c51e|overdue|2026-06-25": {
+      "scheduledAt": "2026-06-10T18:01:38.674Z",
+      "type": "overdue",
+      "task": "build email and text snippets for sending case study playlist out immediately after a bls sales call",
+      "assignee": "Jimmy 'Suave' Flores",
+      "reminderDate": "2026-06-25"
+    },
+    "d0f0ba8c89a9c8e5dc16a2d48966c51e|overdue|2026-06-26": {
+      "scheduledAt": "2026-06-10T18:01:39.368Z",
+      "type": "overdue",
+      "task": "build email and text snippets for sending case study playlist out immediately after a bls sales call",
+      "assignee": "Jimmy 'Suave' Flores",
+      "reminderDate": "2026-06-26"
+    },
+    "d0f0ba8c89a9c8e5dc16a2d48966c51e|overdue|2026-06-27": {
+      "scheduledAt": "2026-06-10T18:01:40.091Z",
+      "type": "overdue",
+      "task": "build email and text snippets for sending case study playlist out immediately after a bls sales call",
+      "assignee": "Jimmy 'Suave' Flores",
+      "reminderDate": "2026-06-27"
+    },
+    "d0f0ba8c89a9c8e5dc16a2d48966c51e|overdue|2026-06-28": {
+      "scheduledAt": "2026-06-10T18:01:40.776Z",
+      "type": "overdue",
+      "task": "build email and text snippets for sending case study playlist out immediately after a bls sales call",
+      "assignee": "Jimmy 'Suave' Flores",
+      "reminderDate": "2026-06-28"
+    },
+    "d0f0ba8c89a9c8e5dc16a2d48966c51e|overdue|2026-06-29": {
+      "scheduledAt": "2026-06-10T18:01:41.502Z",
+      "type": "overdue",
+      "task": "build email and text snippets for sending case study playlist out immediately after a bls sales call",
+      "assignee": "Jimmy 'Suave' Flores",
+      "reminderDate": "2026-06-29"
+    },
+    "d0f0ba8c89a9c8e5dc16a2d48966c51e|overdue|2026-06-30": {
+      "scheduledAt": "2026-06-10T18:01:42.174Z",
+      "type": "overdue",
+      "task": "build email and text snippets for sending case study playlist out immediately after a bls sales call",
+      "assignee": "Jimmy 'Suave' Flores",
+      "reminderDate": "2026-06-30"
+    },
+    "d0f0ba8c89a9c8e5dc16a2d48966c51e|overdue|2026-07-01": {
+      "scheduledAt": "2026-06-10T18:01:42.845Z",
+      "type": "overdue",
+      "task": "build email and text snippets for sending case study playlist out immediately after a bls sales call",
+      "assignee": "Jimmy 'Suave' Flores",
+      "reminderDate": "2026-07-01"
+    },
+    "d0f0ba8c89a9c8e5dc16a2d48966c51e|overdue|2026-07-02": {
+      "scheduledAt": "2026-06-10T18:01:43.526Z",
+      "type": "overdue",
+      "task": "build email and text snippets for sending case study playlist out immediately after a bls sales call",
+      "assignee": "Jimmy 'Suave' Flores",
+      "reminderDate": "2026-07-02"
+    },
+    "d0f0ba8c89a9c8e5dc16a2d48966c51e|overdue|2026-07-03": {
+      "scheduledAt": "2026-06-10T18:01:44.242Z",
+      "type": "overdue",
+      "task": "build email and text snippets for sending case study playlist out immediately after a bls sales call",
+      "assignee": "Jimmy 'Suave' Flores",
+      "reminderDate": "2026-07-03"
+    },
+    "d0f0ba8c89a9c8e5dc16a2d48966c51e|overdue|2026-07-04": {
+      "scheduledAt": "2026-06-10T18:01:44.904Z",
+      "type": "overdue",
+      "task": "build email and text snippets for sending case study playlist out immediately after a bls sales call",
+      "assignee": "Jimmy 'Suave' Flores",
+      "reminderDate": "2026-07-04"
+    },
+    "d0f0ba8c89a9c8e5dc16a2d48966c51e|overdue|2026-07-05": {
+      "scheduledAt": "2026-06-10T18:01:45.614Z",
+      "type": "overdue",
+      "task": "build email and text snippets for sending case study playlist out immediately after a bls sales call",
+      "assignee": "Jimmy 'Suave' Flores",
+      "reminderDate": "2026-07-05"
+    },
+    "d0f0ba8c89a9c8e5dc16a2d48966c51e|overdue|2026-07-06": {
+      "scheduledAt": "2026-06-10T18:01:46.277Z",
+      "type": "overdue",
+      "task": "build email and text snippets for sending case study playlist out immediately after a bls sales call",
+      "assignee": "Jimmy 'Suave' Flores",
+      "reminderDate": "2026-07-06"
+    },
+    "d0f0ba8c89a9c8e5dc16a2d48966c51e|overdue|2026-07-07": {
+      "scheduledAt": "2026-06-10T18:01:46.944Z",
+      "type": "overdue",
+      "task": "build email and text snippets for sending case study playlist out immediately after a bls sales call",
+      "assignee": "Jimmy 'Suave' Flores",
+      "reminderDate": "2026-07-07"
+    },
+    "d0f0ba8c89a9c8e5dc16a2d48966c51e|overdue|2026-07-08": {
+      "scheduledAt": "2026-06-10T18:01:47.654Z",
+      "type": "overdue",
+      "task": "build email and text snippets for sending case study playlist out immediately after a bls sales call",
+      "assignee": "Jimmy 'Suave' Flores",
+      "reminderDate": "2026-07-08"
+    },
+    "d0f0ba8c89a9c8e5dc16a2d48966c51e|overdue|2026-07-09": {
+      "scheduledAt": "2026-06-10T18:01:48.356Z",
+      "type": "overdue",
+      "task": "build email and text snippets for sending case study playlist out immediately after a bls sales call",
+      "assignee": "Jimmy 'Suave' Flores",
+      "reminderDate": "2026-07-09"
+    },
+    "d0f0ba8c89a9c8e5dc16a2d48966c51e|overdue|2026-07-10": {
+      "scheduledAt": "2026-06-10T18:01:49.065Z",
+      "type": "overdue",
+      "task": "build email and text snippets for sending case study playlist out immediately after a bls sales call",
+      "assignee": "Jimmy 'Suave' Flores",
+      "reminderDate": "2026-07-10"
     }
   },
   "scheduledMessageIds": {
@@ -9920,280 +10150,6 @@
       {
         "channel": "C05JGF817H6",
         "messageId": "Q0B6G3GD49M"
-      }
-    ],
-    "fdde1feb8dd32097d4582872f00abbf0": [
-      {
-        "channel": "UMS39RAGP",
-        "messageId": "Q0B6M48T155"
-      },
-      {
-        "channel": "C05HV4SQD6G",
-        "messageId": "Q0B6Z6H6D9B"
-      },
-      {
-        "channel": "UMS39RAGP",
-        "messageId": "Q0B72J0B1QS"
-      },
-      {
-        "channel": "C05HV4SQD6G",
-        "messageId": "Q0B74CYGC1F"
-      },
-      {
-        "channel": "UMS39RAGP",
-        "messageId": "Q0B72J1B0LS"
-      },
-      {
-        "channel": "C05HV4SQD6G",
-        "messageId": "Q0B6M492XRD"
-      },
-      {
-        "channel": "UMS39RAGP",
-        "messageId": "Q0B6M48NP71"
-      },
-      {
-        "channel": "C05HV4SQD6G",
-        "messageId": "Q0B6W6WE319"
-      },
-      {
-        "channel": "UMS39RAGP",
-        "messageId": "Q0B6M48P54P"
-      },
-      {
-        "channel": "C05HV4SQD6G",
-        "messageId": "Q0B72J1AVBL"
-      },
-      {
-        "channel": "UMS39RAGP",
-        "messageId": "Q0B74CYP06M"
-      },
-      {
-        "channel": "C05HV4SQD6G",
-        "messageId": "Q0B766JUJCU"
-      },
-      {
-        "channel": "UMS39RAGP",
-        "messageId": "Q0B6Z6HS7HB"
-      },
-      {
-        "channel": "C05HV4SQD6G",
-        "messageId": "Q0B72J1GK2N"
-      },
-      {
-        "channel": "UMS39RAGP",
-        "messageId": "Q0B72J1QE4S"
-      },
-      {
-        "channel": "C05HV4SQD6G",
-        "messageId": "Q0B6W6VTV2P"
-      },
-      {
-        "channel": "UMS39RAGP",
-        "messageId": "Q0B6M4A3C5V"
-      },
-      {
-        "channel": "C05HV4SQD6G",
-        "messageId": "Q0B72J1LNHG"
-      },
-      {
-        "channel": "UMS39RAGP",
-        "messageId": "Q0B70FXJ17G"
-      },
-      {
-        "channel": "C05HV4SQD6G",
-        "messageId": "Q0B766K1VSQ"
-      },
-      {
-        "channel": "UMS39RAGP",
-        "messageId": "Q0B70FXM7KQ"
-      },
-      {
-        "channel": "C05HV4SQD6G",
-        "messageId": "Q0B766K4QSY"
-      },
-      {
-        "channel": "UMS39RAGP",
-        "messageId": "Q0B766HHAKW"
-      },
-      {
-        "channel": "C05HV4SQD6G",
-        "messageId": "Q0B74CZR76D"
-      },
-      {
-        "channel": "UMS39RAGP",
-        "messageId": "Q0B70FXUG6A"
-      },
-      {
-        "channel": "C05HV4SQD6G",
-        "messageId": "Q0B6W6WM2EP"
-      },
-      {
-        "channel": "UMS39RAGP",
-        "messageId": "Q0B74CZ2E8H"
-      },
-      {
-        "channel": "C05HV4SQD6G",
-        "messageId": "Q0B74D05BSM"
-      },
-      {
-        "channel": "UMS39RAGP",
-        "messageId": "Q0B70FXN4EA"
-      },
-      {
-        "channel": "C05HV4SQD6G",
-        "messageId": "Q0B6Z6H042H"
-      },
-      {
-        "channel": "UMS39RAGP",
-        "messageId": "Q0B7WSGG19N"
-      },
-      {
-        "channel": "C05HV4SQD6G",
-        "messageId": "Q0B7WSG1R32"
-      },
-      {
-        "channel": "UMS39RAGP",
-        "messageId": "Q0B7WRD3TT2"
-      },
-      {
-        "channel": "C05HV4SQD6G",
-        "messageId": "Q0B6W6XCA1H"
-      },
-      {
-        "channel": "UMS39RAGP",
-        "messageId": "Q0B72J2U6LS"
-      },
-      {
-        "channel": "C05HV4SQD6G",
-        "messageId": "Q0B6W6X5JG3"
-      },
-      {
-        "channel": "UMS39RAGP",
-        "messageId": "Q0B74D0DXBK"
-      },
-      {
-        "channel": "C05HV4SQD6G",
-        "messageId": "Q0B6M4AHCUX"
-      },
-      {
-        "channel": "UMS39RAGP",
-        "messageId": "Q0B766KJ684"
-      },
-      {
-        "channel": "C05HV4SQD6G",
-        "messageId": "Q0B766L66G4"
-      },
-      {
-        "channel": "UMS39RAGP",
-        "messageId": "Q0B72J2DLD8"
-      },
-      {
-        "channel": "C05HV4SQD6G",
-        "messageId": "Q0B74D0QYN5"
-      },
-      {
-        "channel": "UMS39RAGP",
-        "messageId": "Q0B7WSHFSQG"
-      },
-      {
-        "channel": "C05HV4SQD6G",
-        "messageId": "Q0B72J30WBC"
-      },
-      {
-        "channel": "UMS39RAGP",
-        "messageId": "Q0B6W6X4TV1"
-      },
-      {
-        "channel": "C05HV4SQD6G",
-        "messageId": "Q0B6W5U0Y7M"
-      },
-      {
-        "channel": "UMS39RAGP",
-        "messageId": "Q0B74D0V2N5"
-      },
-      {
-        "channel": "C05HV4SQD6G",
-        "messageId": "Q0B70FYTY8N"
-      },
-      {
-        "channel": "UMS39RAGP",
-        "messageId": "Q0B72J3KB6E"
-      },
-      {
-        "channel": "C05HV4SQD6G",
-        "messageId": "Q0B72J27LJE"
-      },
-      {
-        "channel": "UMS39RAGP",
-        "messageId": "Q0B766LQMJQ"
-      },
-      {
-        "channel": "C05HV4SQD6G",
-        "messageId": "Q0B6W6Y0B9R"
-      },
-      {
-        "channel": "UMS39RAGP",
-        "messageId": "Q0B7WSHJUV6"
-      },
-      {
-        "channel": "C05HV4SQD6G",
-        "messageId": "Q0B70FYMKSA"
-      },
-      {
-        "channel": "UMS39RAGP",
-        "messageId": "Q0B766LJKN0"
-      },
-      {
-        "channel": "C05HV4SQD6G",
-        "messageId": "Q0B6M375M4P"
-      },
-      {
-        "channel": "UMS39RAGP",
-        "messageId": "Q0B766LSSBW"
-      },
-      {
-        "channel": "C05HV4SQD6G",
-        "messageId": "Q0B6W6Y2KJ7"
-      },
-      {
-        "channel": "UMS39RAGP",
-        "messageId": "Q0B766M1U0L"
-      },
-      {
-        "channel": "C05HV4SQD6G",
-        "messageId": "Q0B74D1C117"
-      },
-      {
-        "channel": "UMS39RAGP",
-        "messageId": "Q0B6Z6KS7GD"
-      },
-      {
-        "channel": "C05HV4SQD6G",
-        "messageId": "Q0B72J46NLS"
-      },
-      {
-        "channel": "UMS39RAGP",
-        "messageId": "Q0B6Z6L43UM"
-      },
-      {
-        "channel": "C05HV4SQD6G",
-        "messageId": "Q0B74D25JD7"
-      },
-      {
-        "channel": "UMS39RAGP",
-        "messageId": "Q0B70FZUVQE"
-      },
-      {
-        "channel": "C05HV4SQD6G",
-        "messageId": "Q0B766MM2AG"
-      },
-      {
-        "channel": "UMS39RAGP",
-        "messageId": "Q0B70FZKVK8"
-      },
-      {
-        "channel": "C05HV4SQD6G",
-        "messageId": "Q0B6Z6L20R3"
       }
     ],
     "05e5581760cd566b0bc018ef2bd7a829": [
@@ -12261,6 +12217,368 @@
         "channel": "C05HL1VGA22",
         "messageId": "Q0B90CPF0S1"
       }
+    ],
+    "d0f0ba8c89a9c8e5dc16a2d48966c51e": [
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B9L41S6GM"
+      },
+      {
+        "channel": "U02773FLDN2",
+        "messageId": "Q0B9RAWRT6V"
+      },
+      {
+        "channel": "C097208ALLF",
+        "messageId": "Q0B9PFJMCGJ"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B9RAXFJGZ"
+      },
+      {
+        "channel": "U02773FLDN2",
+        "messageId": "Q0B981R5L9M"
+      },
+      {
+        "channel": "C097208ALLF",
+        "messageId": "Q0B9RAX9R4Z"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B9PFHTJKC"
+      },
+      {
+        "channel": "U02773FLDN2",
+        "messageId": "Q0B981S4GLX"
+      },
+      {
+        "channel": "C097208ALLF",
+        "messageId": "Q0B9L42RCFP"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B9PFJRCE6"
+      },
+      {
+        "channel": "U02773FLDN2",
+        "messageId": "Q0B9PFJB8RY"
+      },
+      {
+        "channel": "C097208ALLF",
+        "messageId": "Q0B9MDHJT70"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B9T4F6KN0"
+      },
+      {
+        "channel": "U02773FLDN2",
+        "messageId": "Q0B9RAY335X"
+      },
+      {
+        "channel": "C097208ALLF",
+        "messageId": "Q0B9H4SHUG3"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B9RAXD16D"
+      },
+      {
+        "channel": "U02773FLDN2",
+        "messageId": "Q0BAHQ0HF08"
+      },
+      {
+        "channel": "C097208ALLF",
+        "messageId": "Q0B9L42UTHT"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B9PFJJK7U"
+      },
+      {
+        "channel": "U02773FLDN2",
+        "messageId": "Q0B9PFK2TMG"
+      },
+      {
+        "channel": "C097208ALLF",
+        "messageId": "Q0B9T4FHD6G"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B9MDHKTM4"
+      },
+      {
+        "channel": "U02773FLDN2",
+        "messageId": "Q0B9RAXQK4H"
+      },
+      {
+        "channel": "C097208ALLF",
+        "messageId": "Q0B9L41QFEH"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B9MDJ50TY"
+      },
+      {
+        "channel": "U02773FLDN2",
+        "messageId": "Q0B9T4F2MT6"
+      },
+      {
+        "channel": "C097208ALLF",
+        "messageId": "Q0BAHQ0J4PJ"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BAHQ0BG8G"
+      },
+      {
+        "channel": "U02773FLDN2",
+        "messageId": "Q0B9H4TESTD"
+      },
+      {
+        "channel": "C097208ALLF",
+        "messageId": "Q0B9MDJ3VDL"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B9T4H0JGL"
+      },
+      {
+        "channel": "U02773FLDN2",
+        "messageId": "Q0B981SJ2T1"
+      },
+      {
+        "channel": "C097208ALLF",
+        "messageId": "Q0B9MDJ3MDL"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B9L426VE1"
+      },
+      {
+        "channel": "U02773FLDN2",
+        "messageId": "Q0B9RAYG3ED"
+      },
+      {
+        "channel": "C097208ALLF",
+        "messageId": "Q0B9RAYL8GZ"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B9L42MQ3X"
+      },
+      {
+        "channel": "U02773FLDN2",
+        "messageId": "Q0BAHQ1K8JU"
+      },
+      {
+        "channel": "C097208ALLF",
+        "messageId": "Q0B9RAYQX5F"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B9MDKHNQN"
+      },
+      {
+        "channel": "U02773FLDN2",
+        "messageId": "Q0B9L438UUD"
+      },
+      {
+        "channel": "C097208ALLF",
+        "messageId": "Q0B9L43APLM"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B9T4HTC3E"
+      },
+      {
+        "channel": "U02773FLDN2",
+        "messageId": "Q0B9T4HH1S8"
+      },
+      {
+        "channel": "C097208ALLF",
+        "messageId": "Q0BAHQ1TV24"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B9T4H9RKN"
+      },
+      {
+        "channel": "U02773FLDN2",
+        "messageId": "Q0B981TEAFR"
+      },
+      {
+        "channel": "C097208ALLF",
+        "messageId": "Q0B9H4V5WH1"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B9PFM1H42"
+      },
+      {
+        "channel": "U02773FLDN2",
+        "messageId": "Q0B9L42DLJH"
+      },
+      {
+        "channel": "C097208ALLF",
+        "messageId": "Q0B9H4TRV8B"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B9H4UQBRR"
+      },
+      {
+        "channel": "U02773FLDN2",
+        "messageId": "Q0B9H4UGJSF"
+      },
+      {
+        "channel": "C097208ALLF",
+        "messageId": "Q0BAHQ1EUHW"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B9MDK81P0"
+      },
+      {
+        "channel": "U02773FLDN2",
+        "messageId": "Q0B9PFM4D0S"
+      },
+      {
+        "channel": "C097208ALLF",
+        "messageId": "Q0B9MDKLYBG"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B9MDK1Y5U"
+      },
+      {
+        "channel": "U02773FLDN2",
+        "messageId": "Q0B9RAZD55X"
+      },
+      {
+        "channel": "C097208ALLF",
+        "messageId": "Q0B9H4V71LK"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B9PFLHN1Y"
+      },
+      {
+        "channel": "U02773FLDN2",
+        "messageId": "Q0B981U8W6T"
+      },
+      {
+        "channel": "C097208ALLF",
+        "messageId": "Q0B9L433E3F"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B9PFKS150"
+      },
+      {
+        "channel": "U02773FLDN2",
+        "messageId": "Q0B9T4J3WLU"
+      },
+      {
+        "channel": "C097208ALLF",
+        "messageId": "Q0B9H4W27PD"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BAHQ2LT7S"
+      },
+      {
+        "channel": "U02773FLDN2",
+        "messageId": "Q0BAHQ1GW56"
+      },
+      {
+        "channel": "C097208ALLF",
+        "messageId": "Q0B981U00EB"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B9RAYBXBK"
+      },
+      {
+        "channel": "U02773FLDN2",
+        "messageId": "Q0B9T4HJQJY"
+      },
+      {
+        "channel": "C097208ALLF",
+        "messageId": "Q0B9PFL9RFU"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B981USSP9"
+      },
+      {
+        "channel": "U02773FLDN2",
+        "messageId": "Q0B981THTST"
+      },
+      {
+        "channel": "C097208ALLF",
+        "messageId": "Q0B9PFM4GCS"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B9H4VDMNF"
+      },
+      {
+        "channel": "U02773FLDN2",
+        "messageId": "Q0B9MDKLZC6"
+      },
+      {
+        "channel": "C097208ALLF",
+        "messageId": "Q0B981U91GF"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B9T4HTEHJ"
+      },
+      {
+        "channel": "U02773FLDN2",
+        "messageId": "Q0B981U599D"
+      },
+      {
+        "channel": "C097208ALLF",
+        "messageId": "Q0B9L44HHRT"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B9RB04X41"
+      },
+      {
+        "channel": "U02773FLDN2",
+        "messageId": "Q0B9PFMTXS6"
+      },
+      {
+        "channel": "C097208ALLF",
+        "messageId": "Q0B9T4J8T2Q"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B9T4HSTNY"
+      },
+      {
+        "channel": "U02773FLDN2",
+        "messageId": "Q0B9PFMK0US"
+      },
+      {
+        "channel": "C097208ALLF",
+        "messageId": "Q0B981U7TQX"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BAHQ37BUY"
+      },
+      {
+        "channel": "U02773FLDN2",
+        "messageId": "Q0B9PFM5410"
+      },
+      {
+        "channel": "C097208ALLF",
+        "messageId": "Q0B9T4JJ09J"
+      }
     ]
   },
   "processedMessageTs": {
@@ -12331,8 +12649,9 @@
     "1780613392.542709": true,
     "1780689256.055439": true,
     "1780938629.128129": true,
-    "1780945431.036449": true
+    "1780945431.036449": true,
+    "1781107756.247389": true
   },
   "lastWeeklySummaryDate": "2026-W23",
-  "lastRun": "2026-06-10T09:57:19.390Z"
+  "lastRun": "2026-06-10T18:01:49.066Z"
 }
