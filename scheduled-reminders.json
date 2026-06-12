@@ -878,8 +878,8 @@
       "source_message": "@Christle 'Knows All' Ochigue we're still missing the links to the calendar in the calendar s",
       "assigneeId": "UMCPG3D8A",
       "messageTs": "1781220290.453009",
-      "completed": false,
-      "completedAt": null,
+      "completed": true,
+      "completedAt": "2026-06-12T20:16:07.127Z",
       "firstSeenAt": "2026-06-12T06:01:19.331Z"
     },
     "59cef72665cb91edffb6cbb5db8efd03": {
@@ -895,6 +895,34 @@
       "completed": false,
       "completedAt": null,
       "firstSeenAt": "2026-06-12T18:01:49.861Z"
+    },
+    "c28f22403bf8c7f7d6929d7f8cd9f7fa": {
+      "task": "Create a quick message that Christle can use to connect and send to BLS bookings from linkedin profile",
+      "assignee_name": "Chrissy 'Queen Bee' Robertson",
+      "assignee_slack_mention": "@Chrissy 'Queen Bee' Robertson",
+      "assigned_date": "2026-06-12",
+      "due_date": "2026-06-19",
+      "message_ts": "1781292359.862189",
+      "source_message": "@Chrissy 'Queen Bee' Robertson please create a quick message that Christle can use to connect and se",
+      "assigneeId": "U01M7FMPTRR",
+      "messageTs": "1781292359.862189",
+      "completed": false,
+      "completedAt": null,
+      "firstSeenAt": "2026-06-12T20:16:37.055Z"
+    },
+    "37d83173e22498a06131921746163fe9": {
+      "task": "Build automated way to send BLS booking name/email or linkedin profile to Christle",
+      "assignee_name": "Mark 'Morpheus' Manaog",
+      "assignee_slack_mention": "@Mark 'Morpheus' Manaog",
+      "assigned_date": "2026-06-12",
+      "due_date": "2026-06-19",
+      "message_ts": "1781292299.731879",
+      "source_message": "@Mark 'Morpheus' Manaog please build an automated way to either just send the name and email of a B",
+      "assigneeId": "U023F61R16F",
+      "messageTs": "1781292299.731879",
+      "completed": false,
+      "completedAt": null,
+      "firstSeenAt": "2026-06-12T20:16:37.128Z"
     }
   },
   "scheduled": {
@@ -9266,6 +9294,482 @@
       "task": "setup the process for sending LB invite to new bls clients through homework onboarding form",
       "assignee": "Brandon 'The One' Robertson",
       "reminderDate": "2026-06-19"
+    },
+    "c28f22403bf8c7f7d6929d7f8cd9f7fa|midpoint|2026-06-15": {
+      "scheduledAt": "2026-06-12T20:16:37.917Z",
+      "type": "midpoint",
+      "task": "Create a quick message that Christle can use to connect and send to BLS bookings from linkedin profile",
+      "assignee": "Chrissy 'Queen Bee' Robertson",
+      "reminderDate": "2026-06-15"
+    },
+    "c28f22403bf8c7f7d6929d7f8cd9f7fa|nag|2026-06-17": {
+      "scheduledAt": "2026-06-12T20:16:38.661Z",
+      "type": "nag",
+      "task": "Create a quick message that Christle can use to connect and send to BLS bookings from linkedin profile",
+      "assignee": "Chrissy 'Queen Bee' Robertson",
+      "reminderDate": "2026-06-17"
+    },
+    "c28f22403bf8c7f7d6929d7f8cd9f7fa|nag|2026-06-18": {
+      "scheduledAt": "2026-06-12T20:16:39.401Z",
+      "type": "nag",
+      "task": "Create a quick message that Christle can use to connect and send to BLS bookings from linkedin profile",
+      "assignee": "Chrissy 'Queen Bee' Robertson",
+      "reminderDate": "2026-06-18"
+    },
+    "c28f22403bf8c7f7d6929d7f8cd9f7fa|due|2026-06-19": {
+      "scheduledAt": "2026-06-12T20:16:40.111Z",
+      "type": "due",
+      "task": "Create a quick message that Christle can use to connect and send to BLS bookings from linkedin profile",
+      "assignee": "Chrissy 'Queen Bee' Robertson",
+      "reminderDate": "2026-06-19"
+    },
+    "c28f22403bf8c7f7d6929d7f8cd9f7fa|overdue|2026-06-20": {
+      "scheduledAt": "2026-06-12T20:16:40.857Z",
+      "type": "overdue",
+      "task": "Create a quick message that Christle can use to connect and send to BLS bookings from linkedin profile",
+      "assignee": "Chrissy 'Queen Bee' Robertson",
+      "reminderDate": "2026-06-20"
+    },
+    "c28f22403bf8c7f7d6929d7f8cd9f7fa|overdue|2026-06-21": {
+      "scheduledAt": "2026-06-12T20:16:41.585Z",
+      "type": "overdue",
+      "task": "Create a quick message that Christle can use to connect and send to BLS bookings from linkedin profile",
+      "assignee": "Chrissy 'Queen Bee' Robertson",
+      "reminderDate": "2026-06-21"
+    },
+    "c28f22403bf8c7f7d6929d7f8cd9f7fa|overdue|2026-06-22": {
+      "scheduledAt": "2026-06-12T20:16:42.316Z",
+      "type": "overdue",
+      "task": "Create a quick message that Christle can use to connect and send to BLS bookings from linkedin profile",
+      "assignee": "Chrissy 'Queen Bee' Robertson",
+      "reminderDate": "2026-06-22"
+    },
+    "c28f22403bf8c7f7d6929d7f8cd9f7fa|overdue|2026-06-23": {
+      "scheduledAt": "2026-06-12T20:16:43.055Z",
+      "type": "overdue",
+      "task": "Create a quick message that Christle can use to connect and send to BLS bookings from linkedin profile",
+      "assignee": "Chrissy 'Queen Bee' Robertson",
+      "reminderDate": "2026-06-23"
+    },
+    "c28f22403bf8c7f7d6929d7f8cd9f7fa|overdue|2026-06-24": {
+      "scheduledAt": "2026-06-12T20:16:43.794Z",
+      "type": "overdue",
+      "task": "Create a quick message that Christle can use to connect and send to BLS bookings from linkedin profile",
+      "assignee": "Chrissy 'Queen Bee' Robertson",
+      "reminderDate": "2026-06-24"
+    },
+    "c28f22403bf8c7f7d6929d7f8cd9f7fa|overdue|2026-06-25": {
+      "scheduledAt": "2026-06-12T20:16:44.512Z",
+      "type": "overdue",
+      "task": "Create a quick message that Christle can use to connect and send to BLS bookings from linkedin profile",
+      "assignee": "Chrissy 'Queen Bee' Robertson",
+      "reminderDate": "2026-06-25"
+    },
+    "c28f22403bf8c7f7d6929d7f8cd9f7fa|overdue|2026-06-26": {
+      "scheduledAt": "2026-06-12T20:16:45.260Z",
+      "type": "overdue",
+      "task": "Create a quick message that Christle can use to connect and send to BLS bookings from linkedin profile",
+      "assignee": "Chrissy 'Queen Bee' Robertson",
+      "reminderDate": "2026-06-26"
+    },
+    "c28f22403bf8c7f7d6929d7f8cd9f7fa|overdue|2026-06-27": {
+      "scheduledAt": "2026-06-12T20:16:45.989Z",
+      "type": "overdue",
+      "task": "Create a quick message that Christle can use to connect and send to BLS bookings from linkedin profile",
+      "assignee": "Chrissy 'Queen Bee' Robertson",
+      "reminderDate": "2026-06-27"
+    },
+    "c28f22403bf8c7f7d6929d7f8cd9f7fa|overdue|2026-06-28": {
+      "scheduledAt": "2026-06-12T20:16:46.727Z",
+      "type": "overdue",
+      "task": "Create a quick message that Christle can use to connect and send to BLS bookings from linkedin profile",
+      "assignee": "Chrissy 'Queen Bee' Robertson",
+      "reminderDate": "2026-06-28"
+    },
+    "c28f22403bf8c7f7d6929d7f8cd9f7fa|overdue|2026-06-29": {
+      "scheduledAt": "2026-06-12T20:16:47.470Z",
+      "type": "overdue",
+      "task": "Create a quick message that Christle can use to connect and send to BLS bookings from linkedin profile",
+      "assignee": "Chrissy 'Queen Bee' Robertson",
+      "reminderDate": "2026-06-29"
+    },
+    "c28f22403bf8c7f7d6929d7f8cd9f7fa|overdue|2026-06-30": {
+      "scheduledAt": "2026-06-12T20:16:48.208Z",
+      "type": "overdue",
+      "task": "Create a quick message that Christle can use to connect and send to BLS bookings from linkedin profile",
+      "assignee": "Chrissy 'Queen Bee' Robertson",
+      "reminderDate": "2026-06-30"
+    },
+    "c28f22403bf8c7f7d6929d7f8cd9f7fa|overdue|2026-07-01": {
+      "scheduledAt": "2026-06-12T20:16:48.959Z",
+      "type": "overdue",
+      "task": "Create a quick message that Christle can use to connect and send to BLS bookings from linkedin profile",
+      "assignee": "Chrissy 'Queen Bee' Robertson",
+      "reminderDate": "2026-07-01"
+    },
+    "c28f22403bf8c7f7d6929d7f8cd9f7fa|overdue|2026-07-02": {
+      "scheduledAt": "2026-06-12T20:16:49.692Z",
+      "type": "overdue",
+      "task": "Create a quick message that Christle can use to connect and send to BLS bookings from linkedin profile",
+      "assignee": "Chrissy 'Queen Bee' Robertson",
+      "reminderDate": "2026-07-02"
+    },
+    "c28f22403bf8c7f7d6929d7f8cd9f7fa|overdue|2026-07-03": {
+      "scheduledAt": "2026-06-12T20:16:50.437Z",
+      "type": "overdue",
+      "task": "Create a quick message that Christle can use to connect and send to BLS bookings from linkedin profile",
+      "assignee": "Chrissy 'Queen Bee' Robertson",
+      "reminderDate": "2026-07-03"
+    },
+    "c28f22403bf8c7f7d6929d7f8cd9f7fa|overdue|2026-07-04": {
+      "scheduledAt": "2026-06-12T20:16:51.156Z",
+      "type": "overdue",
+      "task": "Create a quick message that Christle can use to connect and send to BLS bookings from linkedin profile",
+      "assignee": "Chrissy 'Queen Bee' Robertson",
+      "reminderDate": "2026-07-04"
+    },
+    "c28f22403bf8c7f7d6929d7f8cd9f7fa|overdue|2026-07-05": {
+      "scheduledAt": "2026-06-12T20:16:51.902Z",
+      "type": "overdue",
+      "task": "Create a quick message that Christle can use to connect and send to BLS bookings from linkedin profile",
+      "assignee": "Chrissy 'Queen Bee' Robertson",
+      "reminderDate": "2026-07-05"
+    },
+    "c28f22403bf8c7f7d6929d7f8cd9f7fa|overdue|2026-07-06": {
+      "scheduledAt": "2026-06-12T20:16:52.669Z",
+      "type": "overdue",
+      "task": "Create a quick message that Christle can use to connect and send to BLS bookings from linkedin profile",
+      "assignee": "Chrissy 'Queen Bee' Robertson",
+      "reminderDate": "2026-07-06"
+    },
+    "c28f22403bf8c7f7d6929d7f8cd9f7fa|overdue|2026-07-07": {
+      "scheduledAt": "2026-06-12T20:16:53.412Z",
+      "type": "overdue",
+      "task": "Create a quick message that Christle can use to connect and send to BLS bookings from linkedin profile",
+      "assignee": "Chrissy 'Queen Bee' Robertson",
+      "reminderDate": "2026-07-07"
+    },
+    "c28f22403bf8c7f7d6929d7f8cd9f7fa|overdue|2026-07-08": {
+      "scheduledAt": "2026-06-12T20:16:54.148Z",
+      "type": "overdue",
+      "task": "Create a quick message that Christle can use to connect and send to BLS bookings from linkedin profile",
+      "assignee": "Chrissy 'Queen Bee' Robertson",
+      "reminderDate": "2026-07-08"
+    },
+    "c28f22403bf8c7f7d6929d7f8cd9f7fa|overdue|2026-07-09": {
+      "scheduledAt": "2026-06-12T20:16:54.892Z",
+      "type": "overdue",
+      "task": "Create a quick message that Christle can use to connect and send to BLS bookings from linkedin profile",
+      "assignee": "Chrissy 'Queen Bee' Robertson",
+      "reminderDate": "2026-07-09"
+    },
+    "c28f22403bf8c7f7d6929d7f8cd9f7fa|overdue|2026-07-10": {
+      "scheduledAt": "2026-06-12T20:16:55.680Z",
+      "type": "overdue",
+      "task": "Create a quick message that Christle can use to connect and send to BLS bookings from linkedin profile",
+      "assignee": "Chrissy 'Queen Bee' Robertson",
+      "reminderDate": "2026-07-10"
+    },
+    "c28f22403bf8c7f7d6929d7f8cd9f7fa|overdue|2026-07-11": {
+      "scheduledAt": "2026-06-12T20:16:56.411Z",
+      "type": "overdue",
+      "task": "Create a quick message that Christle can use to connect and send to BLS bookings from linkedin profile",
+      "assignee": "Chrissy 'Queen Bee' Robertson",
+      "reminderDate": "2026-07-11"
+    },
+    "c28f22403bf8c7f7d6929d7f8cd9f7fa|overdue|2026-07-12": {
+      "scheduledAt": "2026-06-12T20:16:57.163Z",
+      "type": "overdue",
+      "task": "Create a quick message that Christle can use to connect and send to BLS bookings from linkedin profile",
+      "assignee": "Chrissy 'Queen Bee' Robertson",
+      "reminderDate": "2026-07-12"
+    },
+    "c28f22403bf8c7f7d6929d7f8cd9f7fa|overdue|2026-07-13": {
+      "scheduledAt": "2026-06-12T20:16:57.896Z",
+      "type": "overdue",
+      "task": "Create a quick message that Christle can use to connect and send to BLS bookings from linkedin profile",
+      "assignee": "Chrissy 'Queen Bee' Robertson",
+      "reminderDate": "2026-07-13"
+    },
+    "c28f22403bf8c7f7d6929d7f8cd9f7fa|overdue|2026-07-14": {
+      "scheduledAt": "2026-06-12T20:16:58.627Z",
+      "type": "overdue",
+      "task": "Create a quick message that Christle can use to connect and send to BLS bookings from linkedin profile",
+      "assignee": "Chrissy 'Queen Bee' Robertson",
+      "reminderDate": "2026-07-14"
+    },
+    "c28f22403bf8c7f7d6929d7f8cd9f7fa|overdue|2026-07-15": {
+      "scheduledAt": "2026-06-12T20:16:59.362Z",
+      "type": "overdue",
+      "task": "Create a quick message that Christle can use to connect and send to BLS bookings from linkedin profile",
+      "assignee": "Chrissy 'Queen Bee' Robertson",
+      "reminderDate": "2026-07-15"
+    },
+    "c28f22403bf8c7f7d6929d7f8cd9f7fa|overdue|2026-07-16": {
+      "scheduledAt": "2026-06-12T20:17:00.092Z",
+      "type": "overdue",
+      "task": "Create a quick message that Christle can use to connect and send to BLS bookings from linkedin profile",
+      "assignee": "Chrissy 'Queen Bee' Robertson",
+      "reminderDate": "2026-07-16"
+    },
+    "c28f22403bf8c7f7d6929d7f8cd9f7fa|overdue|2026-07-17": {
+      "scheduledAt": "2026-06-12T20:17:00.810Z",
+      "type": "overdue",
+      "task": "Create a quick message that Christle can use to connect and send to BLS bookings from linkedin profile",
+      "assignee": "Chrissy 'Queen Bee' Robertson",
+      "reminderDate": "2026-07-17"
+    },
+    "c28f22403bf8c7f7d6929d7f8cd9f7fa|overdue|2026-07-18": {
+      "scheduledAt": "2026-06-12T20:17:01.551Z",
+      "type": "overdue",
+      "task": "Create a quick message that Christle can use to connect and send to BLS bookings from linkedin profile",
+      "assignee": "Chrissy 'Queen Bee' Robertson",
+      "reminderDate": "2026-07-18"
+    },
+    "c28f22403bf8c7f7d6929d7f8cd9f7fa|overdue|2026-07-19": {
+      "scheduledAt": "2026-06-12T20:17:02.333Z",
+      "type": "overdue",
+      "task": "Create a quick message that Christle can use to connect and send to BLS bookings from linkedin profile",
+      "assignee": "Chrissy 'Queen Bee' Robertson",
+      "reminderDate": "2026-07-19"
+    },
+    "37d83173e22498a06131921746163fe9|midpoint|2026-06-15": {
+      "scheduledAt": "2026-06-12T20:17:03.094Z",
+      "type": "midpoint",
+      "task": "Build automated way to send BLS booking name/email or linkedin profile to Christle",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-06-15"
+    },
+    "37d83173e22498a06131921746163fe9|nag|2026-06-17": {
+      "scheduledAt": "2026-06-12T20:17:03.841Z",
+      "type": "nag",
+      "task": "Build automated way to send BLS booking name/email or linkedin profile to Christle",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-06-17"
+    },
+    "37d83173e22498a06131921746163fe9|nag|2026-06-18": {
+      "scheduledAt": "2026-06-12T20:17:04.591Z",
+      "type": "nag",
+      "task": "Build automated way to send BLS booking name/email or linkedin profile to Christle",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-06-18"
+    },
+    "37d83173e22498a06131921746163fe9|due|2026-06-19": {
+      "scheduledAt": "2026-06-12T20:17:05.326Z",
+      "type": "due",
+      "task": "Build automated way to send BLS booking name/email or linkedin profile to Christle",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-06-19"
+    },
+    "37d83173e22498a06131921746163fe9|overdue|2026-06-20": {
+      "scheduledAt": "2026-06-12T20:17:06.041Z",
+      "type": "overdue",
+      "task": "Build automated way to send BLS booking name/email or linkedin profile to Christle",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-06-20"
+    },
+    "37d83173e22498a06131921746163fe9|overdue|2026-06-21": {
+      "scheduledAt": "2026-06-12T20:17:06.795Z",
+      "type": "overdue",
+      "task": "Build automated way to send BLS booking name/email or linkedin profile to Christle",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-06-21"
+    },
+    "37d83173e22498a06131921746163fe9|overdue|2026-06-22": {
+      "scheduledAt": "2026-06-12T20:17:07.523Z",
+      "type": "overdue",
+      "task": "Build automated way to send BLS booking name/email or linkedin profile to Christle",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-06-22"
+    },
+    "37d83173e22498a06131921746163fe9|overdue|2026-06-23": {
+      "scheduledAt": "2026-06-12T20:17:08.666Z",
+      "type": "overdue",
+      "task": "Build automated way to send BLS booking name/email or linkedin profile to Christle",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-06-23"
+    },
+    "37d83173e22498a06131921746163fe9|overdue|2026-06-24": {
+      "scheduledAt": "2026-06-12T20:17:09.397Z",
+      "type": "overdue",
+      "task": "Build automated way to send BLS booking name/email or linkedin profile to Christle",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-06-24"
+    },
+    "37d83173e22498a06131921746163fe9|overdue|2026-06-25": {
+      "scheduledAt": "2026-06-12T20:17:10.141Z",
+      "type": "overdue",
+      "task": "Build automated way to send BLS booking name/email or linkedin profile to Christle",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-06-25"
+    },
+    "37d83173e22498a06131921746163fe9|overdue|2026-06-26": {
+      "scheduledAt": "2026-06-12T20:17:10.885Z",
+      "type": "overdue",
+      "task": "Build automated way to send BLS booking name/email or linkedin profile to Christle",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-06-26"
+    },
+    "37d83173e22498a06131921746163fe9|overdue|2026-06-27": {
+      "scheduledAt": "2026-06-12T20:17:11.610Z",
+      "type": "overdue",
+      "task": "Build automated way to send BLS booking name/email or linkedin profile to Christle",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-06-27"
+    },
+    "37d83173e22498a06131921746163fe9|overdue|2026-06-28": {
+      "scheduledAt": "2026-06-12T20:17:12.393Z",
+      "type": "overdue",
+      "task": "Build automated way to send BLS booking name/email or linkedin profile to Christle",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-06-28"
+    },
+    "37d83173e22498a06131921746163fe9|overdue|2026-06-29": {
+      "scheduledAt": "2026-06-12T20:17:13.165Z",
+      "type": "overdue",
+      "task": "Build automated way to send BLS booking name/email or linkedin profile to Christle",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-06-29"
+    },
+    "37d83173e22498a06131921746163fe9|overdue|2026-06-30": {
+      "scheduledAt": "2026-06-12T20:17:13.918Z",
+      "type": "overdue",
+      "task": "Build automated way to send BLS booking name/email or linkedin profile to Christle",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-06-30"
+    },
+    "37d83173e22498a06131921746163fe9|overdue|2026-07-01": {
+      "scheduledAt": "2026-06-12T20:17:14.662Z",
+      "type": "overdue",
+      "task": "Build automated way to send BLS booking name/email or linkedin profile to Christle",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-07-01"
+    },
+    "37d83173e22498a06131921746163fe9|overdue|2026-07-02": {
+      "scheduledAt": "2026-06-12T20:17:15.375Z",
+      "type": "overdue",
+      "task": "Build automated way to send BLS booking name/email or linkedin profile to Christle",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-07-02"
+    },
+    "37d83173e22498a06131921746163fe9|overdue|2026-07-03": {
+      "scheduledAt": "2026-06-12T20:17:16.143Z",
+      "type": "overdue",
+      "task": "Build automated way to send BLS booking name/email or linkedin profile to Christle",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-07-03"
+    },
+    "37d83173e22498a06131921746163fe9|overdue|2026-07-04": {
+      "scheduledAt": "2026-06-12T20:17:16.872Z",
+      "type": "overdue",
+      "task": "Build automated way to send BLS booking name/email or linkedin profile to Christle",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-07-04"
+    },
+    "37d83173e22498a06131921746163fe9|overdue|2026-07-05": {
+      "scheduledAt": "2026-06-12T20:17:17.602Z",
+      "type": "overdue",
+      "task": "Build automated way to send BLS booking name/email or linkedin profile to Christle",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-07-05"
+    },
+    "37d83173e22498a06131921746163fe9|overdue|2026-07-06": {
+      "scheduledAt": "2026-06-12T20:17:18.329Z",
+      "type": "overdue",
+      "task": "Build automated way to send BLS booking name/email or linkedin profile to Christle",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-07-06"
+    },
+    "37d83173e22498a06131921746163fe9|overdue|2026-07-07": {
+      "scheduledAt": "2026-06-12T20:17:19.075Z",
+      "type": "overdue",
+      "task": "Build automated way to send BLS booking name/email or linkedin profile to Christle",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-07-07"
+    },
+    "37d83173e22498a06131921746163fe9|overdue|2026-07-08": {
+      "scheduledAt": "2026-06-12T20:17:19.824Z",
+      "type": "overdue",
+      "task": "Build automated way to send BLS booking name/email or linkedin profile to Christle",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-07-08"
+    },
+    "37d83173e22498a06131921746163fe9|overdue|2026-07-09": {
+      "scheduledAt": "2026-06-12T20:17:20.556Z",
+      "type": "overdue",
+      "task": "Build automated way to send BLS booking name/email or linkedin profile to Christle",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-07-09"
+    },
+    "37d83173e22498a06131921746163fe9|overdue|2026-07-10": {
+      "scheduledAt": "2026-06-12T20:17:21.288Z",
+      "type": "overdue",
+      "task": "Build automated way to send BLS booking name/email or linkedin profile to Christle",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-07-10"
+    },
+    "37d83173e22498a06131921746163fe9|overdue|2026-07-11": {
+      "scheduledAt": "2026-06-12T20:17:22.023Z",
+      "type": "overdue",
+      "task": "Build automated way to send BLS booking name/email or linkedin profile to Christle",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-07-11"
+    },
+    "37d83173e22498a06131921746163fe9|overdue|2026-07-12": {
+      "scheduledAt": "2026-06-12T20:17:22.751Z",
+      "type": "overdue",
+      "task": "Build automated way to send BLS booking name/email or linkedin profile to Christle",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-07-12"
+    },
+    "37d83173e22498a06131921746163fe9|overdue|2026-07-13": {
+      "scheduledAt": "2026-06-12T20:17:23.839Z",
+      "type": "overdue",
+      "task": "Build automated way to send BLS booking name/email or linkedin profile to Christle",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-07-13"
+    },
+    "37d83173e22498a06131921746163fe9|overdue|2026-07-14": {
+      "scheduledAt": "2026-06-12T20:17:24.560Z",
+      "type": "overdue",
+      "task": "Build automated way to send BLS booking name/email or linkedin profile to Christle",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-07-14"
+    },
+    "37d83173e22498a06131921746163fe9|overdue|2026-07-15": {
+      "scheduledAt": "2026-06-12T20:17:25.279Z",
+      "type": "overdue",
+      "task": "Build automated way to send BLS booking name/email or linkedin profile to Christle",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-07-15"
+    },
+    "37d83173e22498a06131921746163fe9|overdue|2026-07-16": {
+      "scheduledAt": "2026-06-12T20:17:25.998Z",
+      "type": "overdue",
+      "task": "Build automated way to send BLS booking name/email or linkedin profile to Christle",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-07-16"
+    },
+    "37d83173e22498a06131921746163fe9|overdue|2026-07-17": {
+      "scheduledAt": "2026-06-12T20:17:26.715Z",
+      "type": "overdue",
+      "task": "Build automated way to send BLS booking name/email or linkedin profile to Christle",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-07-17"
+    },
+    "37d83173e22498a06131921746163fe9|overdue|2026-07-18": {
+      "scheduledAt": "2026-06-12T20:17:28.122Z",
+      "type": "overdue",
+      "task": "Build automated way to send BLS booking name/email or linkedin profile to Christle",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-07-18"
+    },
+    "37d83173e22498a06131921746163fe9|overdue|2026-07-19": {
+      "scheduledAt": "2026-06-12T20:17:28.846Z",
+      "type": "overdue",
+      "task": "Build automated way to send BLS booking name/email or linkedin profile to Christle",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-07-19"
     }
   },
   "scheduledMessageIds": {
@@ -12797,380 +13301,6 @@
         "messageId": "Q0BA00R16AZ"
       }
     ],
-    "3580d672e84a98df6d8b7586e45cbe68": [
-      {
-        "channel": "UMS39RAGP",
-        "messageId": "Q0B9X1D35B5"
-      },
-      {
-        "channel": "UMCPG3D8A",
-        "messageId": "Q0B9X1GQHEF"
-      },
-      {
-        "channel": "C08R493ESAJ",
-        "messageId": "Q0BAXLS34KA"
-      },
-      {
-        "channel": "UMS39RAGP",
-        "messageId": "Q0BA1A917T8"
-      },
-      {
-        "channel": "UMCPG3D8A",
-        "messageId": "Q0BA1A9LWLW"
-      },
-      {
-        "channel": "C08R493ESAJ",
-        "messageId": "Q0BA00QTT45"
-      },
-      {
-        "channel": "UMS39RAGP",
-        "messageId": "Q0BA7140AR2"
-      },
-      {
-        "channel": "UMCPG3D8A",
-        "messageId": "Q0BA3C9CA82"
-      },
-      {
-        "channel": "C08R493ESAJ",
-        "messageId": "Q0B9X1H2AUB"
-      },
-      {
-        "channel": "UMS39RAGP",
-        "messageId": "Q0B9MTUU0PR"
-      },
-      {
-        "channel": "UMCPG3D8A",
-        "messageId": "Q0BA00RFKUM"
-      },
-      {
-        "channel": "C08R493ESAJ",
-        "messageId": "Q0BA00RB0E9"
-      },
-      {
-        "channel": "UMS39RAGP",
-        "messageId": "Q0B9X1HJFD1"
-      },
-      {
-        "channel": "UMCPG3D8A",
-        "messageId": "Q0B9MTUK1M5"
-      },
-      {
-        "channel": "C08R493ESAJ",
-        "messageId": "Q0BA714TYJG"
-      },
-      {
-        "channel": "UMS39RAGP",
-        "messageId": "Q0BA7150FU4"
-      },
-      {
-        "channel": "UMCPG3D8A",
-        "messageId": "Q0B9MTUMSPR"
-      },
-      {
-        "channel": "C08R493ESAJ",
-        "messageId": "Q0BA1A9UU0N"
-      },
-      {
-        "channel": "UMS39RAGP",
-        "messageId": "Q0B9MTVKERM"
-      },
-      {
-        "channel": "UMCPG3D8A",
-        "messageId": "Q0BA57J275F"
-      },
-      {
-        "channel": "C08R493ESAJ",
-        "messageId": "Q0B9X1HKLRH"
-      },
-      {
-        "channel": "UMS39RAGP",
-        "messageId": "Q0BA714GJRJ"
-      },
-      {
-        "channel": "UMCPG3D8A",
-        "messageId": "Q0BA3CA4J2E"
-      },
-      {
-        "channel": "C08R493ESAJ",
-        "messageId": "Q0B9X1J0AD9"
-      },
-      {
-        "channel": "UMS39RAGP",
-        "messageId": "Q0B9X1JB7MH"
-      },
-      {
-        "channel": "UMCPG3D8A",
-        "messageId": "Q0BA3C93NCA"
-      },
-      {
-        "channel": "C08R493ESAJ",
-        "messageId": "Q0BA1AA5Y2J"
-      },
-      {
-        "channel": "UMS39RAGP",
-        "messageId": "Q0BA57J4KLZ"
-      },
-      {
-        "channel": "UMCPG3D8A",
-        "messageId": "Q0BA00SD2JH"
-      },
-      {
-        "channel": "C08R493ESAJ",
-        "messageId": "Q0BA00S93NH"
-      },
-      {
-        "channel": "UMS39RAGP",
-        "messageId": "Q0BA57JJNLR"
-      },
-      {
-        "channel": "UMCPG3D8A",
-        "messageId": "Q0BA57JV4N5"
-      },
-      {
-        "channel": "C08R493ESAJ",
-        "messageId": "Q0BAXLSPX5E"
-      },
-      {
-        "channel": "UMS39RAGP",
-        "messageId": "Q0BA3C9EFPU"
-      },
-      {
-        "channel": "UMCPG3D8A",
-        "messageId": "Q0BA3CA8WJW"
-      },
-      {
-        "channel": "C08R493ESAJ",
-        "messageId": "Q0BA3CA15EE"
-      },
-      {
-        "channel": "UMS39RAGP",
-        "messageId": "Q0BA57K2GEM"
-      },
-      {
-        "channel": "UMCPG3D8A",
-        "messageId": "Q0B9MTVRZ8F"
-      },
-      {
-        "channel": "C08R493ESAJ",
-        "messageId": "Q0BA3CA25RQ"
-      },
-      {
-        "channel": "UMS39RAGP",
-        "messageId": "Q0BAXLTA89E"
-      },
-      {
-        "channel": "UMCPG3D8A",
-        "messageId": "Q0BA57J85KK"
-      },
-      {
-        "channel": "C08R493ESAJ",
-        "messageId": "Q0B9MTVHL31"
-      },
-      {
-        "channel": "UMS39RAGP",
-        "messageId": "Q0BA3C9SW58"
-      },
-      {
-        "channel": "UMCPG3D8A",
-        "messageId": "Q0BA57KNS1X"
-      },
-      {
-        "channel": "C08R493ESAJ",
-        "messageId": "Q0BA00SUGMB"
-      },
-      {
-        "channel": "UMS39RAGP",
-        "messageId": "Q0BAXLU3ASU"
-      },
-      {
-        "channel": "UMCPG3D8A",
-        "messageId": "Q0BA1A7N014"
-      },
-      {
-        "channel": "C08R493ESAJ",
-        "messageId": "Q0B9MTVRN31"
-      },
-      {
-        "channel": "UMS39RAGP",
-        "messageId": "Q0BA57JQLTB"
-      },
-      {
-        "channel": "UMCPG3D8A",
-        "messageId": "Q0BAXLSKY6L"
-      },
-      {
-        "channel": "C08R493ESAJ",
-        "messageId": "Q0BA714SM0U"
-      },
-      {
-        "channel": "UMS39RAGP",
-        "messageId": "Q0BA00T2JLD"
-      },
-      {
-        "channel": "UMCPG3D8A",
-        "messageId": "Q0BA71619FE"
-      },
-      {
-        "channel": "C08R493ESAJ",
-        "messageId": "Q0BA3CAKWKU"
-      },
-      {
-        "channel": "UMS39RAGP",
-        "messageId": "Q0BAXLT9M1N"
-      },
-      {
-        "channel": "UMCPG3D8A",
-        "messageId": "Q0BA00SM0LV"
-      },
-      {
-        "channel": "C08R493ESAJ",
-        "messageId": "Q0BA3CA7410"
-      },
-      {
-        "channel": "UMS39RAGP",
-        "messageId": "Q0BA1ABF0KY"
-      },
-      {
-        "channel": "UMCPG3D8A",
-        "messageId": "Q0BA57KQJRF"
-      },
-      {
-        "channel": "C08R493ESAJ",
-        "messageId": "Q0BA57KHXDX"
-      },
-      {
-        "channel": "UMS39RAGP",
-        "messageId": "Q0BA3CAA0KC"
-      },
-      {
-        "channel": "UMCPG3D8A",
-        "messageId": "Q0BA7165X28"
-      },
-      {
-        "channel": "C08R493ESAJ",
-        "messageId": "Q0BAXLTN88G"
-      },
-      {
-        "channel": "UMS39RAGP",
-        "messageId": "Q0B9X1JQM99"
-      },
-      {
-        "channel": "UMCPG3D8A",
-        "messageId": "Q0BA57K55PT"
-      },
-      {
-        "channel": "C08R493ESAJ",
-        "messageId": "Q0BA3CB08PL"
-      },
-      {
-        "channel": "UMS39RAGP",
-        "messageId": "Q0B9X1K99HR"
-      },
-      {
-        "channel": "UMCPG3D8A",
-        "messageId": "Q0BA3CB2V26"
-      },
-      {
-        "channel": "C08R493ESAJ",
-        "messageId": "Q0B9X1KA63V"
-      },
-      {
-        "channel": "UMS39RAGP",
-        "messageId": "Q0BA715V36Y"
-      },
-      {
-        "channel": "UMCPG3D8A",
-        "messageId": "Q0B9MTWGE6T"
-      },
-      {
-        "channel": "C08R493ESAJ",
-        "messageId": "Q0BA7163G2G"
-      },
-      {
-        "channel": "UMS39RAGP",
-        "messageId": "Q0B9MTWUE07"
-      },
-      {
-        "channel": "UMCPG3D8A",
-        "messageId": "Q0BAXLTTV32"
-      },
-      {
-        "channel": "C08R493ESAJ",
-        "messageId": "Q0BAXLV9E0G"
-      },
-      {
-        "channel": "UMS39RAGP",
-        "messageId": "Q0BA57L2AFK"
-      },
-      {
-        "channel": "UMCPG3D8A",
-        "messageId": "Q0BA00T23FX"
-      },
-      {
-        "channel": "C08R493ESAJ",
-        "messageId": "Q0BAXLUDK8Q"
-      },
-      {
-        "channel": "UMS39RAGP",
-        "messageId": "Q0BA00TNVLM"
-      },
-      {
-        "channel": "UMCPG3D8A",
-        "messageId": "Q0B9MTXCSDV"
-      },
-      {
-        "channel": "C08R493ESAJ",
-        "messageId": "Q0BA716QF7W"
-      },
-      {
-        "channel": "UMS39RAGP",
-        "messageId": "Q0BA3CAU7FU"
-      },
-      {
-        "channel": "UMCPG3D8A",
-        "messageId": "Q0BA3CBNKPU"
-      },
-      {
-        "channel": "C08R493ESAJ",
-        "messageId": "Q0B9MTA205D"
-      },
-      {
-        "channel": "UMS39RAGP",
-        "messageId": "Q0BA7177N7N"
-      },
-      {
-        "channel": "UMCPG3D8A",
-        "messageId": "Q0B9MTXE44X"
-      },
-      {
-        "channel": "C08R493ESAJ",
-        "messageId": "Q0BA00UDBEH"
-      },
-      {
-        "channel": "UMS39RAGP",
-        "messageId": "Q0B9X1L01S7"
-      },
-      {
-        "channel": "UMCPG3D8A",
-        "messageId": "Q0BA00U9HE1"
-      },
-      {
-        "channel": "C08R493ESAJ",
-        "messageId": "Q0B9MTXMWFR"
-      },
-      {
-        "channel": "UMS39RAGP",
-        "messageId": "Q0BA3CC5PFU"
-      },
-      {
-        "channel": "UMCPG3D8A",
-        "messageId": "Q0BA00TT2DB"
-      },
-      {
-        "channel": "C08R493ESAJ",
-        "messageId": "Q0BA3CBPS1Y"
-      }
-    ],
     "59cef72665cb91edffb6cbb5db8efd03": [
       {
         "channel": "UMS39RAGP",
@@ -13179,6 +13309,826 @@
       {
         "channel": "C05HV4SQD6G",
         "messageId": "Q0BA6GYLQ6S"
+      }
+    ],
+    "c28f22403bf8c7f7d6929d7f8cd9f7fa": [
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BA7F81CNS"
+      },
+      {
+        "channel": "U01M7FMPTRR",
+        "messageId": "Q0BA36KDX1R"
+      },
+      {
+        "channel": "C08RNTW55JM",
+        "messageId": "Q0BA9HB20CA"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BB3RRRUQG"
+      },
+      {
+        "channel": "U01M7FMPTRR",
+        "messageId": "Q0BA9HB8WQ2"
+      },
+      {
+        "channel": "C08RNTW55JM",
+        "messageId": "Q0BA9HBS89G"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BAD677XJQ"
+      },
+      {
+        "channel": "U01M7FMPTRR",
+        "messageId": "Q0BABCLFZ4Z"
+      },
+      {
+        "channel": "C08RNTW55JM",
+        "messageId": "Q0BAD67002Y"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BA7F89FF0"
+      },
+      {
+        "channel": "U01M7FMPTRR",
+        "messageId": "Q0BABCLAS81"
+      },
+      {
+        "channel": "C08RNTW55JM",
+        "messageId": "Q0BAD66PV1A"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BA9HBNV0A"
+      },
+      {
+        "channel": "U01M7FMPTRR",
+        "messageId": "Q0BAD683MEY"
+      },
+      {
+        "channel": "C08RNTW55JM",
+        "messageId": "Q0BA9HCCQCA"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BB3RS1YD6"
+      },
+      {
+        "channel": "U01M7FMPTRR",
+        "messageId": "Q0BA7F89JTG"
+      },
+      {
+        "channel": "C08RNTW55JM",
+        "messageId": "Q0B9U3HM6SK"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BA36MCMFD"
+      },
+      {
+        "channel": "U01M7FMPTRR",
+        "messageId": "Q0BABCLDM9P"
+      },
+      {
+        "channel": "C08RNTW55JM",
+        "messageId": "Q0BABCLEKLH"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BABCLT0L9"
+      },
+      {
+        "channel": "U01M7FMPTRR",
+        "messageId": "Q0BA36LEXBM"
+      },
+      {
+        "channel": "C08RNTW55JM",
+        "messageId": "Q0BA7F8S3GW"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BA7F93DL6"
+      },
+      {
+        "channel": "U01M7FMPTRR",
+        "messageId": "Q0BA65UKH5K"
+      },
+      {
+        "channel": "C08RNTW55JM",
+        "messageId": "Q0B9U3J3FTR"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BA7F965RC"
+      },
+      {
+        "channel": "U01M7FMPTRR",
+        "messageId": "Q0BA9HBTB5Y"
+      },
+      {
+        "channel": "C08RNTW55JM",
+        "messageId": "Q0BA7F94606"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BA36M8FD1"
+      },
+      {
+        "channel": "U01M7FMPTRR",
+        "messageId": "Q0BA7F8NQ8N"
+      },
+      {
+        "channel": "C08RNTW55JM",
+        "messageId": "Q0BABCM1EV7"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BABCMA201"
+      },
+      {
+        "channel": "U01M7FMPTRR",
+        "messageId": "Q0BA65VFNLD"
+      },
+      {
+        "channel": "C08RNTW55JM",
+        "messageId": "Q0BB3RSFG9E"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BABCMN8QZ"
+      },
+      {
+        "channel": "U01M7FMPTRR",
+        "messageId": "Q0B9U3HTSB1"
+      },
+      {
+        "channel": "C08RNTW55JM",
+        "messageId": "Q0BA7F8T9D4"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BA7F9JR3Q"
+      },
+      {
+        "channel": "U01M7FMPTRR",
+        "messageId": "Q0BA7F9NQS2"
+      },
+      {
+        "channel": "C08RNTW55JM",
+        "messageId": "Q0BA9HCUQ9G"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BABCMG389"
+      },
+      {
+        "channel": "U01M7FMPTRR",
+        "messageId": "Q0BA65V2PBP"
+      },
+      {
+        "channel": "C08RNTW55JM",
+        "messageId": "Q0B9U3J2FST"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BA7F9QJVC"
+      },
+      {
+        "channel": "U01M7FMPTRR",
+        "messageId": "Q0BA9HD496E"
+      },
+      {
+        "channel": "C08RNTW55JM",
+        "messageId": "Q0BAD68BWJ0"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BA7F93014"
+      },
+      {
+        "channel": "U01M7FMPTRR",
+        "messageId": "Q0BB3RSFWG0"
+      },
+      {
+        "channel": "C08RNTW55JM",
+        "messageId": "Q0BA65VGUJH"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BA7FAA35L"
+      },
+      {
+        "channel": "U01M7FMPTRR",
+        "messageId": "Q0BA9HD6P8S"
+      },
+      {
+        "channel": "C08RNTW55JM",
+        "messageId": "Q0BA36MC15Z"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BA65VB0AZ"
+      },
+      {
+        "channel": "U01M7FMPTRR",
+        "messageId": "Q0BB3RT5P3J"
+      },
+      {
+        "channel": "C08RNTW55JM",
+        "messageId": "Q0BABCNBHH7"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B9U3JNMPZ"
+      },
+      {
+        "channel": "U01M7FMPTRR",
+        "messageId": "Q0BABCME8M7"
+      },
+      {
+        "channel": "C08RNTW55JM",
+        "messageId": "Q0BA9HD89SN"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BAD69705S"
+      },
+      {
+        "channel": "U01M7FMPTRR",
+        "messageId": "Q0BA65VKWN9"
+      },
+      {
+        "channel": "C08RNTW55JM",
+        "messageId": "Q0B9U3JQERM"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BA65V8MD3"
+      },
+      {
+        "channel": "U01M7FMPTRR",
+        "messageId": "Q0BA9HDSQ9G"
+      },
+      {
+        "channel": "C08RNTW55JM",
+        "messageId": "Q0BA65VH8KX"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BAD68HLJG"
+      },
+      {
+        "channel": "U01M7FMPTRR",
+        "messageId": "Q0BA9HD835G"
+      },
+      {
+        "channel": "C08RNTW55JM",
+        "messageId": "Q0B9U3JLWFR"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BB3RTKTNC"
+      },
+      {
+        "channel": "U01M7FMPTRR",
+        "messageId": "Q0BA7FABNP8"
+      },
+      {
+        "channel": "C08RNTW55JM",
+        "messageId": "Q0BB3RTCF9N"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BA7FAKYR4"
+      },
+      {
+        "channel": "U01M7FMPTRR",
+        "messageId": "Q0BA7FAG6BG"
+      },
+      {
+        "channel": "C08RNTW55JM",
+        "messageId": "Q0BB3RT36G0"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BB3RT8GEL"
+      },
+      {
+        "channel": "U01M7FMPTRR",
+        "messageId": "Q0BA7FASPQE"
+      },
+      {
+        "channel": "C08RNTW55JM",
+        "messageId": "Q0BA9HDEWDQ"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BA7FARM5L"
+      },
+      {
+        "channel": "U01M7FMPTRR",
+        "messageId": "Q0BB3RTDE7J"
+      },
+      {
+        "channel": "C08RNTW55JM",
+        "messageId": "Q0BA7FA2PC6"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BAD697K36"
+      },
+      {
+        "channel": "U01M7FMPTRR",
+        "messageId": "Q0BA36ML0RZ"
+      },
+      {
+        "channel": "C08RNTW55JM",
+        "messageId": "Q0BA65W4KB7"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B9U3K7XRV"
+      },
+      {
+        "channel": "U01M7FMPTRR",
+        "messageId": "Q0BA36P7YBV"
+      },
+      {
+        "channel": "C08RNTW55JM",
+        "messageId": "Q0BA7FAL6FQ"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BB3RU1LE4"
+      },
+      {
+        "channel": "U01M7FMPTRR",
+        "messageId": "Q0B9U3K02LX"
+      },
+      {
+        "channel": "C08RNTW55JM",
+        "messageId": "Q0BA36N4CBD"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BABCNJQDP"
+      },
+      {
+        "channel": "U01M7FMPTRR",
+        "messageId": "Q0B9U3KCDQX"
+      },
+      {
+        "channel": "C08RNTW55JM",
+        "messageId": "Q0BB3RTES6L"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B9U3KN5T9"
+      },
+      {
+        "channel": "U01M7FMPTRR",
+        "messageId": "Q0BB3RU4ZCY"
+      },
+      {
+        "channel": "C08RNTW55JM",
+        "messageId": "Q0BA7FBD6LW"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BA7FAR830"
+      },
+      {
+        "channel": "U01M7FMPTRR",
+        "messageId": "Q0BABCP3RMF"
+      },
+      {
+        "channel": "C08RNTW55JM",
+        "messageId": "Q0B9U3K5JAK"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BAD69N6CU"
+      },
+      {
+        "channel": "U01M7FMPTRR",
+        "messageId": "Q0BABCNGC7K"
+      },
+      {
+        "channel": "C08RNTW55JM",
+        "messageId": "Q0B9U3KLQ79"
+      }
+    ],
+    "37d83173e22498a06131921746163fe9": [
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BB3RU0SRW"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0BA36LEQE7"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0BA9HEB4P4"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BA65W10BX"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0BABCP77C1"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0BA65W25PF"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BB3RS50HW"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0BABCNKHEV"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0BA9HF6NMQ"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BAD6A58J0"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0BB3RU4VCY"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0B9U3KPQMV"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BB3RU8C3A"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0BA9HE072N"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0BA9HEKDPC"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BA7FBR92S"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0B9U3L871V"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0BAD6A1KD2"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BA65X0GSH"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0BABCPDDUH"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0BA36NJPFV"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BAD6AAGF6"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0BB3RUQXL0"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0B9U3LRSA3"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BA36NGJ9H"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0BA9HETSAW"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0BB3RV51GQ"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BB3RV1B4Y"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0BA9HFETV0"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0BA36PLCP5"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BAD6ADSA0"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0BA7FC0VAA"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0BA7FBU5EJ"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BA9HF5E66"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0BAD6AARGC"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0BAD6B18DS"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BA65Y04DB"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0BA7FC6PNJ"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0B9U3LKGHM"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BA65YDD4M"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0BA9HFKC5Q"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0BABCQ1KQR"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BABCPV0TT"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0BA36Q9MTM"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0BA36P1U2X"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BABCQKV7T"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0BAD6BDN1J"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0BB3RV8140"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BA36Q6WTV"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0BA65XAXAR"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0BA36PFWM9"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BA36PMKQB"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0BA36MFTK5"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0BA7FCL4KG"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BABCQ60KT"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0B9U3LPTSB"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0BB3RV2Y1E"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BABCQB7NV"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0BA9HFBDNW"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0B9U3M1QKH"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B9U3MR95M"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0BABCQM4V7"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0BA9HG167L"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BABCQKL3B"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0BA9HFNFHQ"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0BABCQS01F"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BA9HGM326"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0BA9HG26RY"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0BB3RV5JAC"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BA7FC0NJ2"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0B9U3MEYA3"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0BB3RVLGJC"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BA9HGC1M0"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0BA7FD5R8W"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0BAD6BFMHS"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BAD6C5HB6"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0BA7FDBGTG"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0BA65YQYAH"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BB3RVLA3S"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0BA65Z4929"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0BA7FDD17Y"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BA7FCTLTG"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0B9U3MK0BZ"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0BABCRKB9P"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BA65YTKA9"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0BABCQN2E5"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0BA9HGKAKC"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BB3RWBA3A"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0BA9HGAJDQ"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0B9U3N8S5V"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BA7FD8G0N"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0BABCQRNRX"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0BAD6CA11S"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BB3RWFD5W"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0BA65YMXAR"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0BB3RWCBR6"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0B9U3N7PU7"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0BABCRHLRF"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0BA9HGUF0A"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BB3RWT4N4"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0BA36R4P5Z"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0BA36RBDPV"
       }
     ]
   },
@@ -13256,8 +14206,10 @@
     "1781220889.434549": true,
     "1781220879.638889": true,
     "1781220290.453009": true,
-    "1781275879.821679": true
+    "1781275879.821679": true,
+    "1781292359.862189": true,
+    "1781292299.731879": true
   },
   "lastWeeklySummaryDate": "2026-W24",
-  "lastRun": "2026-06-12T18:01:50.758Z"
+  "lastRun": "2026-06-12T20:17:28.847Z"
 }
