@@ -1105,6 +1105,20 @@
       "completed": false,
       "completedAt": null,
       "firstSeenAt": "2026-07-14T14:36:29.995Z"
+    },
+    "51cb0797db82cb2d86844eded99b3344": {
+      "task": "Complete the short list of tutorials needed for AW GHL",
+      "assignee_name": "Josh 'The Ninja' Morales",
+      "assignee_slack_mention": "@Josh 'The Ninja' Morales",
+      "assigned_date": "2026-07-14",
+      "due_date": "2026-07-17",
+      "message_ts": "1784040816.009229",
+      "source_message": "@Josh 'The Ninja' Morales please complete the short list of tutorials needed for AW GHL here https://dovetail",
+      "assigneeId": "U07FVUF09T7",
+      "messageTs": "1784040816.009229",
+      "completed": false,
+      "completedAt": null,
+      "firstSeenAt": "2026-07-14T18:01:53.611Z"
     }
   },
   "scheduled": {
@@ -11709,6 +11723,237 @@
       "task": "Build webform automations and workflows and add webform to AW site",
       "assignee": "Mark 'Morpheus' Manaog",
       "reminderDate": "2026-08-06"
+    },
+    "51cb0797db82cb2d86844eded99b3344|midpoint|2026-07-15": {
+      "scheduledAt": "2026-07-14T18:02:24.325Z",
+      "type": "midpoint",
+      "task": "Complete the short list of tutorials needed for AW GHL",
+      "assignee": "Josh 'The Ninja' Morales",
+      "reminderDate": "2026-07-15"
+    },
+    "51cb0797db82cb2d86844eded99b3344|nag|2026-07-16": {
+      "scheduledAt": "2026-07-14T18:02:25.363Z",
+      "type": "nag",
+      "task": "Complete the short list of tutorials needed for AW GHL",
+      "assignee": "Josh 'The Ninja' Morales",
+      "reminderDate": "2026-07-16"
+    },
+    "51cb0797db82cb2d86844eded99b3344|due|2026-07-17": {
+      "scheduledAt": "2026-07-14T18:02:26.391Z",
+      "type": "due",
+      "task": "Complete the short list of tutorials needed for AW GHL",
+      "assignee": "Josh 'The Ninja' Morales",
+      "reminderDate": "2026-07-17"
+    },
+    "51cb0797db82cb2d86844eded99b3344|overdue|2026-07-18": {
+      "scheduledAt": "2026-07-14T18:02:27.385Z",
+      "type": "overdue",
+      "task": "Complete the short list of tutorials needed for AW GHL",
+      "assignee": "Josh 'The Ninja' Morales",
+      "reminderDate": "2026-07-18"
+    },
+    "51cb0797db82cb2d86844eded99b3344|overdue|2026-07-19": {
+      "scheduledAt": "2026-07-14T18:02:28.401Z",
+      "type": "overdue",
+      "task": "Complete the short list of tutorials needed for AW GHL",
+      "assignee": "Josh 'The Ninja' Morales",
+      "reminderDate": "2026-07-19"
+    },
+    "51cb0797db82cb2d86844eded99b3344|overdue|2026-07-20": {
+      "scheduledAt": "2026-07-14T18:02:29.586Z",
+      "type": "overdue",
+      "task": "Complete the short list of tutorials needed for AW GHL",
+      "assignee": "Josh 'The Ninja' Morales",
+      "reminderDate": "2026-07-20"
+    },
+    "51cb0797db82cb2d86844eded99b3344|overdue|2026-07-21": {
+      "scheduledAt": "2026-07-14T18:02:30.577Z",
+      "type": "overdue",
+      "task": "Complete the short list of tutorials needed for AW GHL",
+      "assignee": "Josh 'The Ninja' Morales",
+      "reminderDate": "2026-07-21"
+    },
+    "51cb0797db82cb2d86844eded99b3344|overdue|2026-07-22": {
+      "scheduledAt": "2026-07-14T18:02:31.582Z",
+      "type": "overdue",
+      "task": "Complete the short list of tutorials needed for AW GHL",
+      "assignee": "Josh 'The Ninja' Morales",
+      "reminderDate": "2026-07-22"
+    },
+    "51cb0797db82cb2d86844eded99b3344|overdue|2026-07-23": {
+      "scheduledAt": "2026-07-14T18:02:32.686Z",
+      "type": "overdue",
+      "task": "Complete the short list of tutorials needed for AW GHL",
+      "assignee": "Josh 'The Ninja' Morales",
+      "reminderDate": "2026-07-23"
+    },
+    "51cb0797db82cb2d86844eded99b3344|overdue|2026-07-24": {
+      "scheduledAt": "2026-07-14T18:02:33.678Z",
+      "type": "overdue",
+      "task": "Complete the short list of tutorials needed for AW GHL",
+      "assignee": "Josh 'The Ninja' Morales",
+      "reminderDate": "2026-07-24"
+    },
+    "51cb0797db82cb2d86844eded99b3344|overdue|2026-07-25": {
+      "scheduledAt": "2026-07-14T18:02:34.734Z",
+      "type": "overdue",
+      "task": "Complete the short list of tutorials needed for AW GHL",
+      "assignee": "Josh 'The Ninja' Morales",
+      "reminderDate": "2026-07-25"
+    },
+    "51cb0797db82cb2d86844eded99b3344|overdue|2026-07-26": {
+      "scheduledAt": "2026-07-14T18:02:35.747Z",
+      "type": "overdue",
+      "task": "Complete the short list of tutorials needed for AW GHL",
+      "assignee": "Josh 'The Ninja' Morales",
+      "reminderDate": "2026-07-26"
+    },
+    "51cb0797db82cb2d86844eded99b3344|overdue|2026-07-27": {
+      "scheduledAt": "2026-07-14T18:02:36.782Z",
+      "type": "overdue",
+      "task": "Complete the short list of tutorials needed for AW GHL",
+      "assignee": "Josh 'The Ninja' Morales",
+      "reminderDate": "2026-07-27"
+    },
+    "51cb0797db82cb2d86844eded99b3344|overdue|2026-07-28": {
+      "scheduledAt": "2026-07-14T18:02:37.776Z",
+      "type": "overdue",
+      "task": "Complete the short list of tutorials needed for AW GHL",
+      "assignee": "Josh 'The Ninja' Morales",
+      "reminderDate": "2026-07-28"
+    },
+    "51cb0797db82cb2d86844eded99b3344|overdue|2026-07-29": {
+      "scheduledAt": "2026-07-14T18:02:38.792Z",
+      "type": "overdue",
+      "task": "Complete the short list of tutorials needed for AW GHL",
+      "assignee": "Josh 'The Ninja' Morales",
+      "reminderDate": "2026-07-29"
+    },
+    "51cb0797db82cb2d86844eded99b3344|overdue|2026-07-30": {
+      "scheduledAt": "2026-07-14T18:02:39.759Z",
+      "type": "overdue",
+      "task": "Complete the short list of tutorials needed for AW GHL",
+      "assignee": "Josh 'The Ninja' Morales",
+      "reminderDate": "2026-07-30"
+    },
+    "51cb0797db82cb2d86844eded99b3344|overdue|2026-07-31": {
+      "scheduledAt": "2026-07-14T18:02:40.791Z",
+      "type": "overdue",
+      "task": "Complete the short list of tutorials needed for AW GHL",
+      "assignee": "Josh 'The Ninja' Morales",
+      "reminderDate": "2026-07-31"
+    },
+    "51cb0797db82cb2d86844eded99b3344|overdue|2026-08-01": {
+      "scheduledAt": "2026-07-14T18:02:41.870Z",
+      "type": "overdue",
+      "task": "Complete the short list of tutorials needed for AW GHL",
+      "assignee": "Josh 'The Ninja' Morales",
+      "reminderDate": "2026-08-01"
+    },
+    "51cb0797db82cb2d86844eded99b3344|overdue|2026-08-02": {
+      "scheduledAt": "2026-07-14T18:02:42.860Z",
+      "type": "overdue",
+      "task": "Complete the short list of tutorials needed for AW GHL",
+      "assignee": "Josh 'The Ninja' Morales",
+      "reminderDate": "2026-08-02"
+    },
+    "51cb0797db82cb2d86844eded99b3344|overdue|2026-08-03": {
+      "scheduledAt": "2026-07-14T18:02:43.862Z",
+      "type": "overdue",
+      "task": "Complete the short list of tutorials needed for AW GHL",
+      "assignee": "Josh 'The Ninja' Morales",
+      "reminderDate": "2026-08-03"
+    },
+    "51cb0797db82cb2d86844eded99b3344|overdue|2026-08-04": {
+      "scheduledAt": "2026-07-14T18:02:44.891Z",
+      "type": "overdue",
+      "task": "Complete the short list of tutorials needed for AW GHL",
+      "assignee": "Josh 'The Ninja' Morales",
+      "reminderDate": "2026-08-04"
+    },
+    "51cb0797db82cb2d86844eded99b3344|overdue|2026-08-05": {
+      "scheduledAt": "2026-07-14T18:02:45.882Z",
+      "type": "overdue",
+      "task": "Complete the short list of tutorials needed for AW GHL",
+      "assignee": "Josh 'The Ninja' Morales",
+      "reminderDate": "2026-08-05"
+    },
+    "51cb0797db82cb2d86844eded99b3344|overdue|2026-08-06": {
+      "scheduledAt": "2026-07-14T18:02:46.877Z",
+      "type": "overdue",
+      "task": "Complete the short list of tutorials needed for AW GHL",
+      "assignee": "Josh 'The Ninja' Morales",
+      "reminderDate": "2026-08-06"
+    },
+    "51cb0797db82cb2d86844eded99b3344|overdue|2026-08-07": {
+      "scheduledAt": "2026-07-14T18:02:47.882Z",
+      "type": "overdue",
+      "task": "Complete the short list of tutorials needed for AW GHL",
+      "assignee": "Josh 'The Ninja' Morales",
+      "reminderDate": "2026-08-07"
+    },
+    "51cb0797db82cb2d86844eded99b3344|overdue|2026-08-08": {
+      "scheduledAt": "2026-07-14T18:02:48.888Z",
+      "type": "overdue",
+      "task": "Complete the short list of tutorials needed for AW GHL",
+      "assignee": "Josh 'The Ninja' Morales",
+      "reminderDate": "2026-08-08"
+    },
+    "51cb0797db82cb2d86844eded99b3344|overdue|2026-08-09": {
+      "scheduledAt": "2026-07-14T18:02:49.849Z",
+      "type": "overdue",
+      "task": "Complete the short list of tutorials needed for AW GHL",
+      "assignee": "Josh 'The Ninja' Morales",
+      "reminderDate": "2026-08-09"
+    },
+    "51cb0797db82cb2d86844eded99b3344|overdue|2026-08-10": {
+      "scheduledAt": "2026-07-14T18:02:50.830Z",
+      "type": "overdue",
+      "task": "Complete the short list of tutorials needed for AW GHL",
+      "assignee": "Josh 'The Ninja' Morales",
+      "reminderDate": "2026-08-10"
+    },
+    "51cb0797db82cb2d86844eded99b3344|overdue|2026-08-11": {
+      "scheduledAt": "2026-07-14T18:02:51.876Z",
+      "type": "overdue",
+      "task": "Complete the short list of tutorials needed for AW GHL",
+      "assignee": "Josh 'The Ninja' Morales",
+      "reminderDate": "2026-08-11"
+    },
+    "51cb0797db82cb2d86844eded99b3344|overdue|2026-08-12": {
+      "scheduledAt": "2026-07-14T18:02:52.903Z",
+      "type": "overdue",
+      "task": "Complete the short list of tutorials needed for AW GHL",
+      "assignee": "Josh 'The Ninja' Morales",
+      "reminderDate": "2026-08-12"
+    },
+    "51cb0797db82cb2d86844eded99b3344|overdue|2026-08-13": {
+      "scheduledAt": "2026-07-14T18:02:53.909Z",
+      "type": "overdue",
+      "task": "Complete the short list of tutorials needed for AW GHL",
+      "assignee": "Josh 'The Ninja' Morales",
+      "reminderDate": "2026-08-13"
+    },
+    "51cb0797db82cb2d86844eded99b3344|overdue|2026-08-14": {
+      "scheduledAt": "2026-07-14T18:02:54.880Z",
+      "type": "overdue",
+      "task": "Complete the short list of tutorials needed for AW GHL",
+      "assignee": "Josh 'The Ninja' Morales",
+      "reminderDate": "2026-08-14"
+    },
+    "51cb0797db82cb2d86844eded99b3344|overdue|2026-08-15": {
+      "scheduledAt": "2026-07-14T18:02:55.893Z",
+      "type": "overdue",
+      "task": "Complete the short list of tutorials needed for AW GHL",
+      "assignee": "Josh 'The Ninja' Morales",
+      "reminderDate": "2026-08-15"
+    },
+    "51cb0797db82cb2d86844eded99b3344|overdue|2026-08-16": {
+      "scheduledAt": "2026-07-14T18:02:56.890Z",
+      "type": "overdue",
+      "task": "Complete the short list of tutorials needed for AW GHL",
+      "assignee": "Josh 'The Ninja' Morales",
+      "reminderDate": "2026-08-16"
     }
   },
   "scheduledMessageIds": {
@@ -15801,6 +16046,404 @@
         "channel": "C05JGF817H6",
         "messageId": "Q0BJ36GJXCG"
       }
+    ],
+    "51cb0797db82cb2d86844eded99b3344": [
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BH7ADJT7F"
+      },
+      {
+        "channel": "U07FVUF09T7",
+        "messageId": "Q0BH4BV3KMZ"
+      },
+      {
+        "channel": "C093VPK55NF",
+        "messageId": "Q0BH8K6DPV4"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BHCGNJBQR"
+      },
+      {
+        "channel": "U07FVUF09T7",
+        "messageId": "Q0BJ4UVGPB2"
+      },
+      {
+        "channel": "C093VPK55NF",
+        "messageId": "Q0BHCGMQRTK"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BHCGP2KQR"
+      },
+      {
+        "channel": "U07FVUF09T7",
+        "messageId": "Q0BJ4UV7X88"
+      },
+      {
+        "channel": "C093VPK55NF",
+        "messageId": "Q0BH7ACR0DB"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BHEAUQY04"
+      },
+      {
+        "channel": "U07FVUF09T7",
+        "messageId": "Q0BGV8GBDQF"
+      },
+      {
+        "channel": "C093VPK55NF",
+        "messageId": "Q0BH8K6M6LW"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BJ4UW1YAU"
+      },
+      {
+        "channel": "U07FVUF09T7",
+        "messageId": "Q0BHCGP1E6M"
+      },
+      {
+        "channel": "C093VPK55NF",
+        "messageId": "Q0BJ4UVHJCQ"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BH7AE8KPF"
+      },
+      {
+        "channel": "U07FVUF09T7",
+        "messageId": "Q0BGV8G9W15"
+      },
+      {
+        "channel": "C093VPK55NF",
+        "messageId": "Q0BGV8GPB63"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BHEAV7HHA"
+      },
+      {
+        "channel": "U07FVUF09T7",
+        "messageId": "Q0BHEARMYCC"
+      },
+      {
+        "channel": "C093VPK55NF",
+        "messageId": "Q0BH7AE9G9K"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BHAK9EWN6"
+      },
+      {
+        "channel": "U07FVUF09T7",
+        "messageId": "Q0BGV8GPJA3"
+      },
+      {
+        "channel": "C093VPK55NF",
+        "messageId": "Q0BH4BVN41Z"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BHAK9QDUJ"
+      },
+      {
+        "channel": "U07FVUF09T7",
+        "messageId": "Q0BHCGPEMUZ"
+      },
+      {
+        "channel": "C093VPK55NF",
+        "messageId": "Q0BGV8CGG31"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BHCGPV9KK"
+      },
+      {
+        "channel": "U07FVUF09T7",
+        "messageId": "Q0BHAK974N6"
+      },
+      {
+        "channel": "C093VPK55NF",
+        "messageId": "Q0BHCGPUQNM"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BH4BWTLRH"
+      },
+      {
+        "channel": "U07FVUF09T7",
+        "messageId": "Q0BH7AET65T"
+      },
+      {
+        "channel": "C093VPK55NF",
+        "messageId": "Q0BH4BWFLE7"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BHCGP5FPT"
+      },
+      {
+        "channel": "U07FVUF09T7",
+        "messageId": "Q0BH4BX71FV"
+      },
+      {
+        "channel": "C093VPK55NF",
+        "messageId": "Q0BJ4UXRGSU"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BJ4UXG1A4"
+      },
+      {
+        "channel": "U07FVUF09T7",
+        "messageId": "Q0BJ4UX2BL0"
+      },
+      {
+        "channel": "C093VPK55NF",
+        "messageId": "Q0BH8K3N3CN"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BH8K8PZQW"
+      },
+      {
+        "channel": "U07FVUF09T7",
+        "messageId": "Q0BJ4UY9ZMW"
+      },
+      {
+        "channel": "C093VPK55NF",
+        "messageId": "Q0BHCGQJTUH"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BGV8K904F"
+      },
+      {
+        "channel": "U07FVUF09T7",
+        "messageId": "Q0BHEAVT0EQ"
+      },
+      {
+        "channel": "C093VPK55NF",
+        "messageId": "Q0BGV8J799D"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BH7AFT4JH"
+      },
+      {
+        "channel": "U07FVUF09T7",
+        "messageId": "Q0BH8K8HTSS"
+      },
+      {
+        "channel": "C093VPK55NF",
+        "messageId": "Q0BGV8J26BH"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BH7AFDA4D"
+      },
+      {
+        "channel": "U07FVUF09T7",
+        "messageId": "Q0BGV8J2HQX"
+      },
+      {
+        "channel": "C093VPK55NF",
+        "messageId": "Q0BGV8J26KZ"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BJ4UUC6E4"
+      },
+      {
+        "channel": "U07FVUF09T7",
+        "messageId": "Q0BJ4UY9Y64"
+      },
+      {
+        "channel": "C093VPK55NF",
+        "messageId": "Q0BGV8JN4QP"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BH7AFFNE9"
+      },
+      {
+        "channel": "U07FVUF09T7",
+        "messageId": "Q0BJ4UY7U48"
+      },
+      {
+        "channel": "C093VPK55NF",
+        "messageId": "Q0BHAKBNPPC"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BH7AG2J85"
+      },
+      {
+        "channel": "U07FVUF09T7",
+        "messageId": "Q0BH4BY06F5"
+      },
+      {
+        "channel": "C093VPK55NF",
+        "messageId": "Q0BH4BYJ1RR"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BH4BYGPDZ"
+      },
+      {
+        "channel": "U07FVUF09T7",
+        "messageId": "Q0BHEAXA3GU"
+      },
+      {
+        "channel": "C093VPK55NF",
+        "messageId": "Q0BGV8K7PJB"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BHEAX8U84"
+      },
+      {
+        "channel": "U07FVUF09T7",
+        "messageId": "Q0BJ4UYCEE4"
+      },
+      {
+        "channel": "C093VPK55NF",
+        "messageId": "Q0BHAKCCAP4"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BH7AFMB8V"
+      },
+      {
+        "channel": "U07FVUF09T7",
+        "messageId": "Q0BH8KA8A7Q"
+      },
+      {
+        "channel": "C093VPK55NF",
+        "messageId": "Q0BH7AGPNLV"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BHEAY7KUL"
+      },
+      {
+        "channel": "U07FVUF09T7",
+        "messageId": "Q0BHEAYKXA8"
+      },
+      {
+        "channel": "C093VPK55NF",
+        "messageId": "Q0BH7AGT4KF"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BHAKCHFFU"
+      },
+      {
+        "channel": "U07FVUF09T7",
+        "messageId": "Q0BGV8KGV63"
+      },
+      {
+        "channel": "C093VPK55NF",
+        "messageId": "Q0BHCGR7K33"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BHAKBJ73L"
+      },
+      {
+        "channel": "U07FVUF09T7",
+        "messageId": "Q0BH8KB7R46"
+      },
+      {
+        "channel": "C093VPK55NF",
+        "messageId": "Q0BHCGQRC2V"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BHEAYBN1J"
+      },
+      {
+        "channel": "U07FVUF09T7",
+        "messageId": "Q0BH7AH3S6R"
+      },
+      {
+        "channel": "C093VPK55NF",
+        "messageId": "Q0BHEAY8E3E"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BHAKCBDPU"
+      },
+      {
+        "channel": "U07FVUF09T7",
+        "messageId": "Q0BHAKB6X5Y"
+      },
+      {
+        "channel": "C093VPK55NF",
+        "messageId": "Q0BGV8LFW8P"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BHCGSMASV"
+      },
+      {
+        "channel": "U07FVUF09T7",
+        "messageId": "Q0BHAKCCUF4"
+      },
+      {
+        "channel": "C093VPK55NF",
+        "messageId": "Q0BHAKCV18S"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BH4BZEMV1"
+      },
+      {
+        "channel": "U07FVUF09T7",
+        "messageId": "Q0BHCGS18UR"
+      },
+      {
+        "channel": "C093VPK55NF",
+        "messageId": "Q0BHAKCK998"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BH4C03JN7"
+      },
+      {
+        "channel": "U07FVUF09T7",
+        "messageId": "Q0BH8KBBBC6"
+      },
+      {
+        "channel": "C093VPK55NF",
+        "messageId": "Q0BHAKD206N"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BJ4V05VT2"
+      },
+      {
+        "channel": "U07FVUF09T7",
+        "messageId": "Q0BH4C08PTM"
+      },
+      {
+        "channel": "C093VPK55NF",
+        "messageId": "Q0BJ4UYJ0LQ"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BHAKCN518"
+      },
+      {
+        "channel": "U07FVUF09T7",
+        "messageId": "Q0BH4C00NHZ"
+      },
+      {
+        "channel": "C093VPK55NF",
+        "messageId": "Q0BHAKD99QS"
+      }
     ]
   },
   "processedMessageTs": {
@@ -15899,8 +16542,9 @@
     "1783373059.171349": true,
     "1783372298.503229": true,
     "1783030692.914159": true,
-    "1783027379.531069": true
+    "1783027379.531069": true,
+    "1784040816.009229": true
   },
   "lastWeeklySummaryDate": "2026-W24",
-  "lastRun": "2026-07-14T14:46:20.611Z"
+  "lastRun": "2026-07-14T18:02:56.890Z"
 }
