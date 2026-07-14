@@ -350,7 +350,7 @@ async function detectCompletions(messages, userMap, existingTasks) {
     console.log('Checking main channel for completion signals...');
     try {
       const response = await claudeWithRetry({
-        model: 'claude-sonnet-4-20250514',
+        model: 'claude-sonnet-4-6',
         max_tokens: 500,
         system: `Detect completed tasks from Slack messages. Today is ${today}.
 Return ONLY valid JSON: {"completed": ["taskId1"]}
@@ -444,7 +444,7 @@ async function detectUpdates(existingTasks, state) {
 // ─── Extract tasks (chunked) ──────────────────────────────────────────────────
 async function extractTasksFromChunk(lines, today) {
   const response = await claudeWithRetry({
-    model: 'claude-sonnet-4-20250514',
+    model: 'claude-sonnet-4-6',
     max_tokens: 4000,
     system: `You extract task assignments from Slack messages. Today is ${today}.
 
