@@ -12206,6 +12206,13 @@
       "task": "Build out the affiliate program for AW CRM",
       "assignee": "Brandon 'The One' Robertson",
       "reminderDate": "2026-08-23"
+    },
+    "96d2ff7b90a185e6c54e65a290b9c5df|nag|2026-11-13": {
+      "scheduledAt": "2026-07-16T18:01:29.416Z",
+      "type": "nag",
+      "task": "Check Cloudconvert usage and look at moving to new subscription as needed",
+      "assignee": "Josh 'The Ninja' Morales",
+      "reminderDate": "2026-11-13"
     }
   },
   "scheduledMessageIds": {
@@ -14215,6 +14222,18 @@
       {
         "channel": "C093VPK55NF",
         "messageId": "Q0BHAMK71LH"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BHZBE46SG"
+      },
+      {
+        "channel": "U07FVUF09T7",
+        "messageId": "Q0BHPCJTEN7"
+      },
+      {
+        "channel": "C093VPK55NF",
+        "messageId": "Q0BHSB9NFGV"
       }
     ],
     "94fb80fe57974915ad709df6838d0e7b": [
@@ -16095,5 +16114,5 @@
     "1784126682.123279": true
   },
   "lastWeeklySummaryDate": "2026-W24",
-  "lastRun": "2026-07-16T08:10:33.614Z"
+  "lastRun": "2026-07-16T18:01:48.933Z"
 }
