@@ -12213,6 +12213,13 @@
       "task": "Check Cloudconvert usage and look at moving to new subscription as needed",
       "assignee": "Josh 'The Ninja' Morales",
       "reminderDate": "2026-11-13"
+    },
+    "96d2ff7b90a185e6c54e65a290b9c5df|nag|2026-11-14": {
+      "scheduledAt": "2026-07-17T14:01:08.953Z",
+      "type": "nag",
+      "task": "Check Cloudconvert usage and look at moving to new subscription as needed",
+      "assignee": "Josh 'The Ninja' Morales",
+      "reminderDate": "2026-11-14"
     }
   },
   "scheduledMessageIds": {
@@ -14234,6 +14241,18 @@
       {
         "channel": "C093VPK55NF",
         "messageId": "Q0BHSB9NFGV"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BJ0E5LWES"
+      },
+      {
+        "channel": "U07FVUF09T7",
+        "messageId": "Q0BJ4BNJ2CR"
+      },
+      {
+        "channel": "C093VPK55NF",
+        "messageId": "Q0BHM3FPF6K"
       }
     ],
     "94fb80fe57974915ad709df6838d0e7b": [
@@ -16113,6 +16132,6 @@
     "1784040816.009229": true,
     "1784126682.123279": true
   },
-  "lastWeeklySummaryDate": "2026-W24",
-  "lastRun": "2026-07-17T08:08:02.133Z"
+  "lastWeeklySummaryDate": "2026-W29",
+  "lastRun": "2026-07-17T14:01:36.026Z"
 }
