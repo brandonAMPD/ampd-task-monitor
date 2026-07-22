@@ -976,8 +976,8 @@
       "source_message": "@Christle 'Knows All' Ochigue finish the AW extended support campaign here https://dovetail-mktg.slack.com/archive",
       "assigneeId": "UMCPG3D8A",
       "messageTs": "1783701608.244929",
-      "completed": false,
-      "completedAt": null,
+      "completed": true,
+      "completedAt": "2026-07-22T18:01:16.577Z",
       "firstSeenAt": "2026-07-14T14:36:28.407Z"
     },
     "e913ea49a9235ae385ece09dff95efc1": {
@@ -1161,6 +1161,20 @@
       "completed": true,
       "completedAt": "2026-07-21T18:01:18.844Z",
       "firstSeenAt": "2026-07-21T06:01:19.955Z"
+    },
+    "1ff785ffdf5d735896209e293bbfdbe1": {
+      "task": "Review URLs in use/not in use; cancel renewals for unused domains expiring this year; ensure 6-7 open domains; add refiforrentals.com to list",
+      "assignee_name": "Mark 'Morpheus' Manaog",
+      "assignee_slack_mention": "@Mark 'Morpheus' Manaog",
+      "assigned_date": "2026-07-22",
+      "due_date": "2026-07-27",
+      "message_ts": "1784742278.181739",
+      "source_message": "@Mark 'Morpheus' Manaog please review what URLs we are using and not using.  any that are set for renewal",
+      "assigneeId": "U023F61R16F",
+      "messageTs": "1784742278.181739",
+      "completed": false,
+      "completedAt": null,
+      "firstSeenAt": "2026-07-22T18:01:42.499Z"
     }
   },
   "scheduled": {
@@ -12737,6 +12751,251 @@
       "task": "Check Cloudconvert usage and look at moving to new subscription as needed",
       "assignee": "Josh 'The Ninja' Morales",
       "reminderDate": "2026-11-18"
+    },
+    "96d2ff7b90a185e6c54e65a290b9c5df|overdue|2026-11-19": {
+      "scheduledAt": "2026-07-22T18:01:43.256Z",
+      "type": "overdue",
+      "task": "Check Cloudconvert usage and look at moving to new subscription as needed",
+      "assignee": "Josh 'The Ninja' Morales",
+      "reminderDate": "2026-11-19"
+    },
+    "1ff785ffdf5d735896209e293bbfdbe1|midpoint|2026-07-24": {
+      "scheduledAt": "2026-07-22T18:01:59.454Z",
+      "type": "midpoint",
+      "task": "Review URLs in use/not in use; cancel renewals for unused domains expiring this year; ensure 6-7 open domains; add refiforrentals.com to list",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-07-24"
+    },
+    "1ff785ffdf5d735896209e293bbfdbe1|nag|2026-07-25": {
+      "scheduledAt": "2026-07-22T18:02:00.135Z",
+      "type": "nag",
+      "task": "Review URLs in use/not in use; cancel renewals for unused domains expiring this year; ensure 6-7 open domains; add refiforrentals.com to list",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-07-25"
+    },
+    "1ff785ffdf5d735896209e293bbfdbe1|nag|2026-07-26": {
+      "scheduledAt": "2026-07-22T18:02:00.834Z",
+      "type": "nag",
+      "task": "Review URLs in use/not in use; cancel renewals for unused domains expiring this year; ensure 6-7 open domains; add refiforrentals.com to list",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-07-26"
+    },
+    "1ff785ffdf5d735896209e293bbfdbe1|due|2026-07-27": {
+      "scheduledAt": "2026-07-22T18:02:01.531Z",
+      "type": "due",
+      "task": "Review URLs in use/not in use; cancel renewals for unused domains expiring this year; ensure 6-7 open domains; add refiforrentals.com to list",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-07-27"
+    },
+    "1ff785ffdf5d735896209e293bbfdbe1|overdue|2026-07-28": {
+      "scheduledAt": "2026-07-22T18:02:02.226Z",
+      "type": "overdue",
+      "task": "Review URLs in use/not in use; cancel renewals for unused domains expiring this year; ensure 6-7 open domains; add refiforrentals.com to list",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-07-28"
+    },
+    "1ff785ffdf5d735896209e293bbfdbe1|overdue|2026-07-29": {
+      "scheduledAt": "2026-07-22T18:02:02.936Z",
+      "type": "overdue",
+      "task": "Review URLs in use/not in use; cancel renewals for unused domains expiring this year; ensure 6-7 open domains; add refiforrentals.com to list",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-07-29"
+    },
+    "1ff785ffdf5d735896209e293bbfdbe1|overdue|2026-07-30": {
+      "scheduledAt": "2026-07-22T18:02:03.653Z",
+      "type": "overdue",
+      "task": "Review URLs in use/not in use; cancel renewals for unused domains expiring this year; ensure 6-7 open domains; add refiforrentals.com to list",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-07-30"
+    },
+    "1ff785ffdf5d735896209e293bbfdbe1|overdue|2026-07-31": {
+      "scheduledAt": "2026-07-22T18:02:04.328Z",
+      "type": "overdue",
+      "task": "Review URLs in use/not in use; cancel renewals for unused domains expiring this year; ensure 6-7 open domains; add refiforrentals.com to list",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-07-31"
+    },
+    "1ff785ffdf5d735896209e293bbfdbe1|overdue|2026-08-01": {
+      "scheduledAt": "2026-07-22T18:02:05.026Z",
+      "type": "overdue",
+      "task": "Review URLs in use/not in use; cancel renewals for unused domains expiring this year; ensure 6-7 open domains; add refiforrentals.com to list",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-08-01"
+    },
+    "1ff785ffdf5d735896209e293bbfdbe1|overdue|2026-08-02": {
+      "scheduledAt": "2026-07-22T18:02:05.749Z",
+      "type": "overdue",
+      "task": "Review URLs in use/not in use; cancel renewals for unused domains expiring this year; ensure 6-7 open domains; add refiforrentals.com to list",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-08-02"
+    },
+    "1ff785ffdf5d735896209e293bbfdbe1|overdue|2026-08-03": {
+      "scheduledAt": "2026-07-22T18:02:06.476Z",
+      "type": "overdue",
+      "task": "Review URLs in use/not in use; cancel renewals for unused domains expiring this year; ensure 6-7 open domains; add refiforrentals.com to list",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-08-03"
+    },
+    "1ff785ffdf5d735896209e293bbfdbe1|overdue|2026-08-04": {
+      "scheduledAt": "2026-07-22T18:02:07.186Z",
+      "type": "overdue",
+      "task": "Review URLs in use/not in use; cancel renewals for unused domains expiring this year; ensure 6-7 open domains; add refiforrentals.com to list",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-08-04"
+    },
+    "1ff785ffdf5d735896209e293bbfdbe1|overdue|2026-08-05": {
+      "scheduledAt": "2026-07-22T18:02:07.887Z",
+      "type": "overdue",
+      "task": "Review URLs in use/not in use; cancel renewals for unused domains expiring this year; ensure 6-7 open domains; add refiforrentals.com to list",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-08-05"
+    },
+    "1ff785ffdf5d735896209e293bbfdbe1|overdue|2026-08-06": {
+      "scheduledAt": "2026-07-22T18:02:08.610Z",
+      "type": "overdue",
+      "task": "Review URLs in use/not in use; cancel renewals for unused domains expiring this year; ensure 6-7 open domains; add refiforrentals.com to list",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-08-06"
+    },
+    "1ff785ffdf5d735896209e293bbfdbe1|overdue|2026-08-07": {
+      "scheduledAt": "2026-07-22T18:02:09.303Z",
+      "type": "overdue",
+      "task": "Review URLs in use/not in use; cancel renewals for unused domains expiring this year; ensure 6-7 open domains; add refiforrentals.com to list",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-08-07"
+    },
+    "1ff785ffdf5d735896209e293bbfdbe1|overdue|2026-08-08": {
+      "scheduledAt": "2026-07-22T18:02:10.009Z",
+      "type": "overdue",
+      "task": "Review URLs in use/not in use; cancel renewals for unused domains expiring this year; ensure 6-7 open domains; add refiforrentals.com to list",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-08-08"
+    },
+    "1ff785ffdf5d735896209e293bbfdbe1|overdue|2026-08-09": {
+      "scheduledAt": "2026-07-22T18:02:10.738Z",
+      "type": "overdue",
+      "task": "Review URLs in use/not in use; cancel renewals for unused domains expiring this year; ensure 6-7 open domains; add refiforrentals.com to list",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-08-09"
+    },
+    "1ff785ffdf5d735896209e293bbfdbe1|overdue|2026-08-10": {
+      "scheduledAt": "2026-07-22T18:02:11.630Z",
+      "type": "overdue",
+      "task": "Review URLs in use/not in use; cancel renewals for unused domains expiring this year; ensure 6-7 open domains; add refiforrentals.com to list",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-08-10"
+    },
+    "1ff785ffdf5d735896209e293bbfdbe1|overdue|2026-08-11": {
+      "scheduledAt": "2026-07-22T18:02:12.338Z",
+      "type": "overdue",
+      "task": "Review URLs in use/not in use; cancel renewals for unused domains expiring this year; ensure 6-7 open domains; add refiforrentals.com to list",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-08-11"
+    },
+    "1ff785ffdf5d735896209e293bbfdbe1|overdue|2026-08-12": {
+      "scheduledAt": "2026-07-22T18:02:13.047Z",
+      "type": "overdue",
+      "task": "Review URLs in use/not in use; cancel renewals for unused domains expiring this year; ensure 6-7 open domains; add refiforrentals.com to list",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-08-12"
+    },
+    "1ff785ffdf5d735896209e293bbfdbe1|overdue|2026-08-13": {
+      "scheduledAt": "2026-07-22T18:02:13.743Z",
+      "type": "overdue",
+      "task": "Review URLs in use/not in use; cancel renewals for unused domains expiring this year; ensure 6-7 open domains; add refiforrentals.com to list",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-08-13"
+    },
+    "1ff785ffdf5d735896209e293bbfdbe1|overdue|2026-08-14": {
+      "scheduledAt": "2026-07-22T18:02:14.432Z",
+      "type": "overdue",
+      "task": "Review URLs in use/not in use; cancel renewals for unused domains expiring this year; ensure 6-7 open domains; add refiforrentals.com to list",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-08-14"
+    },
+    "1ff785ffdf5d735896209e293bbfdbe1|overdue|2026-08-15": {
+      "scheduledAt": "2026-07-22T18:02:15.153Z",
+      "type": "overdue",
+      "task": "Review URLs in use/not in use; cancel renewals for unused domains expiring this year; ensure 6-7 open domains; add refiforrentals.com to list",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-08-15"
+    },
+    "1ff785ffdf5d735896209e293bbfdbe1|overdue|2026-08-16": {
+      "scheduledAt": "2026-07-22T18:02:15.836Z",
+      "type": "overdue",
+      "task": "Review URLs in use/not in use; cancel renewals for unused domains expiring this year; ensure 6-7 open domains; add refiforrentals.com to list",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-08-16"
+    },
+    "1ff785ffdf5d735896209e293bbfdbe1|overdue|2026-08-17": {
+      "scheduledAt": "2026-07-22T18:02:16.577Z",
+      "type": "overdue",
+      "task": "Review URLs in use/not in use; cancel renewals for unused domains expiring this year; ensure 6-7 open domains; add refiforrentals.com to list",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-08-17"
+    },
+    "1ff785ffdf5d735896209e293bbfdbe1|overdue|2026-08-18": {
+      "scheduledAt": "2026-07-22T18:02:17.299Z",
+      "type": "overdue",
+      "task": "Review URLs in use/not in use; cancel renewals for unused domains expiring this year; ensure 6-7 open domains; add refiforrentals.com to list",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-08-18"
+    },
+    "1ff785ffdf5d735896209e293bbfdbe1|overdue|2026-08-19": {
+      "scheduledAt": "2026-07-22T18:02:17.976Z",
+      "type": "overdue",
+      "task": "Review URLs in use/not in use; cancel renewals for unused domains expiring this year; ensure 6-7 open domains; add refiforrentals.com to list",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-08-19"
+    },
+    "1ff785ffdf5d735896209e293bbfdbe1|overdue|2026-08-20": {
+      "scheduledAt": "2026-07-22T18:02:18.681Z",
+      "type": "overdue",
+      "task": "Review URLs in use/not in use; cancel renewals for unused domains expiring this year; ensure 6-7 open domains; add refiforrentals.com to list",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-08-20"
+    },
+    "1ff785ffdf5d735896209e293bbfdbe1|overdue|2026-08-21": {
+      "scheduledAt": "2026-07-22T18:02:19.391Z",
+      "type": "overdue",
+      "task": "Review URLs in use/not in use; cancel renewals for unused domains expiring this year; ensure 6-7 open domains; add refiforrentals.com to list",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-08-21"
+    },
+    "1ff785ffdf5d735896209e293bbfdbe1|overdue|2026-08-22": {
+      "scheduledAt": "2026-07-22T18:02:20.079Z",
+      "type": "overdue",
+      "task": "Review URLs in use/not in use; cancel renewals for unused domains expiring this year; ensure 6-7 open domains; add refiforrentals.com to list",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-08-22"
+    },
+    "1ff785ffdf5d735896209e293bbfdbe1|overdue|2026-08-23": {
+      "scheduledAt": "2026-07-22T18:02:20.776Z",
+      "type": "overdue",
+      "task": "Review URLs in use/not in use; cancel renewals for unused domains expiring this year; ensure 6-7 open domains; add refiforrentals.com to list",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-08-23"
+    },
+    "1ff785ffdf5d735896209e293bbfdbe1|overdue|2026-08-24": {
+      "scheduledAt": "2026-07-22T18:02:21.507Z",
+      "type": "overdue",
+      "task": "Review URLs in use/not in use; cancel renewals for unused domains expiring this year; ensure 6-7 open domains; add refiforrentals.com to list",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-08-24"
+    },
+    "1ff785ffdf5d735896209e293bbfdbe1|overdue|2026-08-25": {
+      "scheduledAt": "2026-07-22T18:02:22.194Z",
+      "type": "overdue",
+      "task": "Review URLs in use/not in use; cancel renewals for unused domains expiring this year; ensure 6-7 open domains; add refiforrentals.com to list",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-08-25"
+    },
+    "1ff785ffdf5d735896209e293bbfdbe1|overdue|2026-08-26": {
+      "scheduledAt": "2026-07-22T18:02:22.903Z",
+      "type": "overdue",
+      "task": "Review URLs in use/not in use; cancel renewals for unused domains expiring this year; ensure 6-7 open domains; add refiforrentals.com to list",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-08-26"
     }
   },
   "scheduledMessageIds": {
@@ -14384,356 +14643,6 @@
         "messageId": "Q0BJ345U82U"
       }
     ],
-    "fd3f304a62c19e3d5eaf561bf7cc482f": [
-      {
-        "channel": "UMS39RAGP",
-        "messageId": "Q0BHAMDARK3"
-      },
-      {
-        "channel": "UMCPG3D8A",
-        "messageId": "Q0BHAMD1F09"
-      },
-      {
-        "channel": "C08R493ESAJ",
-        "messageId": "Q0BGTD6UE6B"
-      },
-      {
-        "channel": "UMS39RAGP",
-        "messageId": "Q0BGTD5RLP9"
-      },
-      {
-        "channel": "UMCPG3D8A",
-        "messageId": "Q0BHAMDQ43T"
-      },
-      {
-        "channel": "C08R493ESAJ",
-        "messageId": "Q0BH6PXQSTY"
-      },
-      {
-        "channel": "UMS39RAGP",
-        "messageId": "Q0BHCFN3G92"
-      },
-      {
-        "channel": "UMCPG3D8A",
-        "messageId": "Q0BJ347790Q"
-      },
-      {
-        "channel": "C08R493ESAJ",
-        "messageId": "Q0BGTD6SXM5"
-      },
-      {
-        "channel": "UMS39RAGP",
-        "messageId": "Q0BH6PXURBQ"
-      },
-      {
-        "channel": "UMCPG3D8A",
-        "messageId": "Q0BJ346FPAL"
-      },
-      {
-        "channel": "C08R493ESAJ",
-        "messageId": "Q0BH8Q1GZTL"
-      },
-      {
-        "channel": "UMS39RAGP",
-        "messageId": "Q0BHAMEBP7T"
-      },
-      {
-        "channel": "UMCPG3D8A",
-        "messageId": "Q0BH2GLFPL3"
-      },
-      {
-        "channel": "C08R493ESAJ",
-        "messageId": "Q0BJ346LH40"
-      },
-      {
-        "channel": "UMS39RAGP",
-        "messageId": "Q0BGTD70ZRV"
-      },
-      {
-        "channel": "UMCPG3D8A",
-        "messageId": "Q0BH6PXURAS"
-      },
-      {
-        "channel": "C08R493ESAJ",
-        "messageId": "Q0BH2GMJ38T"
-      },
-      {
-        "channel": "UMS39RAGP",
-        "messageId": "Q0BHAMEA62D"
-      },
-      {
-        "channel": "UMCPG3D8A",
-        "messageId": "Q0BHAME1QTT"
-      },
-      {
-        "channel": "C08R493ESAJ",
-        "messageId": "Q0BGTD7AN23"
-      },
-      {
-        "channel": "UMS39RAGP",
-        "messageId": "Q0BH2GLG6V9"
-      },
-      {
-        "channel": "UMCPG3D8A",
-        "messageId": "Q0BH5F1AWLD"
-      },
-      {
-        "channel": "C08R493ESAJ",
-        "messageId": "Q0BGTD7K81M"
-      },
-      {
-        "channel": "UMS39RAGP",
-        "messageId": "Q0BH6PYLZRC"
-      },
-      {
-        "channel": "UMCPG3D8A",
-        "messageId": "Q0BH8Q27RMG"
-      },
-      {
-        "channel": "C08R493ESAJ",
-        "messageId": "Q0BH6PZBMP0"
-      },
-      {
-        "channel": "UMS39RAGP",
-        "messageId": "Q0BGTD8CKQF"
-      },
-      {
-        "channel": "UMCPG3D8A",
-        "messageId": "Q0BH2GMU6H1"
-      },
-      {
-        "channel": "C08R493ESAJ",
-        "messageId": "Q0BH5F5RKMK"
-      },
-      {
-        "channel": "UMS39RAGP",
-        "messageId": "Q0BGTD885T9"
-      },
-      {
-        "channel": "UMCPG3D8A",
-        "messageId": "Q0BH2GHHBEX"
-      },
-      {
-        "channel": "C08R493ESAJ",
-        "messageId": "Q0BH6PZ461L"
-      },
-      {
-        "channel": "UMS39RAGP",
-        "messageId": "Q0BH5F563MK"
-      },
-      {
-        "channel": "UMCPG3D8A",
-        "messageId": "Q0BH8Q323EE"
-      },
-      {
-        "channel": "C08R493ESAJ",
-        "messageId": "Q0BHAMF7QRX"
-      },
-      {
-        "channel": "UMS39RAGP",
-        "messageId": "Q0BH8Q2EWBC"
-      },
-      {
-        "channel": "UMCPG3D8A",
-        "messageId": "Q0BHCFNLD44"
-      },
-      {
-        "channel": "C08R493ESAJ",
-        "messageId": "Q0BJ34855A4"
-      },
-      {
-        "channel": "UMS39RAGP",
-        "messageId": "Q0BH8Q38EJW"
-      },
-      {
-        "channel": "UMCPG3D8A",
-        "messageId": "Q0BGTD8KAKZ"
-      },
-      {
-        "channel": "C08R493ESAJ",
-        "messageId": "Q0BH5F54Q85"
-      },
-      {
-        "channel": "UMS39RAGP",
-        "messageId": "Q0BH5F5M5L5"
-      },
-      {
-        "channel": "UMCPG3D8A",
-        "messageId": "Q0BH5F6KPNH"
-      },
-      {
-        "channel": "C08R493ESAJ",
-        "messageId": "Q0BHAMFSC81"
-      },
-      {
-        "channel": "UMS39RAGP",
-        "messageId": "Q0BJ348830Q"
-      },
-      {
-        "channel": "UMCPG3D8A",
-        "messageId": "Q0BJ348UWL8"
-      },
-      {
-        "channel": "C08R493ESAJ",
-        "messageId": "Q0BHAMFACQH"
-      },
-      {
-        "channel": "UMS39RAGP",
-        "messageId": "Q0BH2GP62RH"
-      },
-      {
-        "channel": "UMCPG3D8A",
-        "messageId": "Q0BH6PZGU06"
-      },
-      {
-        "channel": "C08R493ESAJ",
-        "messageId": "Q0BHAME9U49"
-      },
-      {
-        "channel": "UMS39RAGP",
-        "messageId": "Q0BH6Q0F1FY"
-      },
-      {
-        "channel": "UMCPG3D8A",
-        "messageId": "Q0BGTD9PX2T"
-      },
-      {
-        "channel": "C08R493ESAJ",
-        "messageId": "Q0BH6PZLSP8"
-      },
-      {
-        "channel": "UMS39RAGP",
-        "messageId": "Q0BJ3493WKA"
-      },
-      {
-        "channel": "UMCPG3D8A",
-        "messageId": "Q0BGTD8QBHV"
-      },
-      {
-        "channel": "C08R493ESAJ",
-        "messageId": "Q0BHAMG0B6D"
-      },
-      {
-        "channel": "UMS39RAGP",
-        "messageId": "Q0BH6PZ9TCN"
-      },
-      {
-        "channel": "UMCPG3D8A",
-        "messageId": "Q0BH5F5PWGM"
-      },
-      {
-        "channel": "C08R493ESAJ",
-        "messageId": "Q0BHCFQ7N7N"
-      },
-      {
-        "channel": "UMS39RAGP",
-        "messageId": "Q0BH2GPBBPV"
-      },
-      {
-        "channel": "UMCPG3D8A",
-        "messageId": "Q0BHAMGRQ6M"
-      },
-      {
-        "channel": "C08R493ESAJ",
-        "messageId": "Q0BHAMFFSL9"
-      },
-      {
-        "channel": "UMS39RAGP",
-        "messageId": "Q0BH8Q3R5EW"
-      },
-      {
-        "channel": "UMCPG3D8A",
-        "messageId": "Q0BHCFRJV7W"
-      },
-      {
-        "channel": "C08R493ESAJ",
-        "messageId": "Q0BJ349NX9N"
-      },
-      {
-        "channel": "UMS39RAGP",
-        "messageId": "Q0BH5F6NE21"
-      },
-      {
-        "channel": "UMCPG3D8A",
-        "messageId": "Q0BJ349GQRW"
-      },
-      {
-        "channel": "C08R493ESAJ",
-        "messageId": "Q0BH6Q16FT8"
-      },
-      {
-        "channel": "UMS39RAGP",
-        "messageId": "Q0BH5F7L97X"
-      },
-      {
-        "channel": "UMCPG3D8A",
-        "messageId": "Q0BH8Q4UTPU"
-      },
-      {
-        "channel": "C08R493ESAJ",
-        "messageId": "Q0BH2GPE543"
-      },
-      {
-        "channel": "UMS39RAGP",
-        "messageId": "Q0BGTDAFDJB"
-      },
-      {
-        "channel": "UMCPG3D8A",
-        "messageId": "Q0BJ349SU80"
-      },
-      {
-        "channel": "C08R493ESAJ",
-        "messageId": "Q0BH5F7JDJR"
-      },
-      {
-        "channel": "UMS39RAGP",
-        "messageId": "Q0BJ34ANG0Y"
-      },
-      {
-        "channel": "UMCPG3D8A",
-        "messageId": "Q0BHCFQQ8FN"
-      },
-      {
-        "channel": "C08R493ESAJ",
-        "messageId": "Q0BH6Q1EYUE"
-      },
-      {
-        "channel": "UMS39RAGP",
-        "messageId": "Q0BH6Q18Z0E"
-      },
-      {
-        "channel": "UMCPG3D8A",
-        "messageId": "Q0BH6Q1EKN2"
-      },
-      {
-        "channel": "C08R493ESAJ",
-        "messageId": "Q0BH8Q5KAF4"
-      },
-      {
-        "channel": "UMS39RAGP",
-        "messageId": "Q0BJ34A3J6L"
-      },
-      {
-        "channel": "UMCPG3D8A",
-        "messageId": "Q0BHCFQR328"
-      },
-      {
-        "channel": "C08R493ESAJ",
-        "messageId": "Q0BHAMGU7B3"
-      },
-      {
-        "channel": "UMS39RAGP",
-        "messageId": "Q0BJ349L7LG"
-      },
-      {
-        "channel": "UMCPG3D8A",
-        "messageId": "Q0BHAMHEY7K"
-      },
-      {
-        "channel": "C08R493ESAJ",
-        "messageId": "Q0BHCFSDRSQ"
-      }
-    ],
     "96d2ff7b90a185e6c54e65a290b9c5df": [
       {
         "channel": "UMS39RAGP",
@@ -14818,6 +14727,18 @@
       {
         "channel": "C093VPK55NF",
         "messageId": "Q0BKNV0G3R6"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BKYKDGB6U"
+      },
+      {
+        "channel": "U07FVUF09T7",
+        "messageId": "Q0BJNUDVCPR"
+      },
+      {
+        "channel": "C093VPK55NF",
+        "messageId": "Q0BK0VD7XK7"
       }
     ],
     "94fb80fe57974915ad709df6838d0e7b": [
@@ -16691,6 +16612,416 @@
         "channel": "C093VPK55NF",
         "messageId": "Q0BJNR31BJ8"
       }
+    ],
+    "1ff785ffdf5d735896209e293bbfdbe1": [
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BKYKF7Q4Q"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0BJNUFT44X"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0BK11DDC9K"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BJY2LBTJP"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0BK49U4DRQ"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0BK49V0YEN"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BK67JFJP3"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0BK80YABQC"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0BK11DL83X"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BK11D7HS9"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0BK11DPLMT"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0BK2A31GBY"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BK67J8Q1F"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0BK67HRWC9"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0BK49W4XU2"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BJNUF6HUP"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0BK11DM45T"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0BK67JM8G1"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BK80YL0Q4"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0BJNUGEYRM"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0BJNUGU1DM"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BK80YDJTE"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0BK49VPC6N"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0BK2A45M7Y"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BK80Y7N20"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0BK49VVDUJ"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0BK2A44P2A"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BK49V8P8S"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0BK67HRWL9"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0BJNUH6QKH"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BJNUGADPH"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0BK2A4MCHL"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0BKYKGD7PA"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BJY2JQUCT"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0BK49VRYRY"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0BK67K3Z5X"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BJY2M23TM"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0BK67JT3RP"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0BJY2KJSCT"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BJNUHJ1F1"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0BK67KFHG9"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0BK80YPWSG"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BJY2LJU6P"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0BK67K4NKT"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0BJNUGA0A3"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BK80ZB4LC"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0BK49WQCLA"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0BJNUH8ZAT"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BJNUHDZNK"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0BKYKFRWU8"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0BK2A4N4FQ"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BJNUHDTGX"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0BK49X6QKU"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0BK49XCQH0"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BJNUJ3LMD"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0BK11FQDHB"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0BK11F3PFX"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BK8106NNQ"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0BK67KKQ2V"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0BK2A5NNEA"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BK80ZPMT6"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0BK49X4QQ2"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0BK49VNR3L"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BK49X2SPL"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0BK2A5EN2J"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0BJY2M88HZ"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BJY2NLMEX"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0BK80ZFREG"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0BJNUJK0AK"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BJY2NEJBV"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0BK49XUKMG"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0BK67LKSTB"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BK11G0Z3P"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0BK810NR1A"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0BK81028VA"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BK67M5NRX"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0BK2A5L946"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0BK2A64P7Y"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BK8104PQU"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0BK80ZJZQC"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0BK8108NUU"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BK67LLTHP"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0BKYKJ3BC0"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0BK11G7EN9"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BJNUJ814P"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0BK49XNMEE"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0BJY2N1AP5"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BK2A6SWGN"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0BKYKJPKB2"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0BJY2NNFL3"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BK49XL2PL"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0BK49YBT5Y"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0BK67M5TNV"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BJNUKBGGP"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0BK11GEJSZ"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0BJNUKKTM5"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BK11HDFDK"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0BJY2MRYKV"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0BK67LF48H"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BK49YDX6E"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0BJY2NV1RR"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0BK11G8V45"
+      }
     ]
   },
   "processedMessageTs": {
@@ -16793,8 +17124,10 @@
     "1784040816.009229": true,
     "1784126682.123279": true,
     "1784565018.207189": true,
-    "1784587796.520589": true
+    "1784587796.520589": true,
+    "1784742278.181739": true,
+    "1784732792.543649": true
   },
   "lastWeeklySummaryDate": "2026-W29",
-  "lastRun": "2026-07-22T08:26:11.979Z"
+  "lastRun": "2026-07-22T18:02:22.904Z"
 }
