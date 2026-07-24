@@ -13500,6 +13500,13 @@
       "task": "Finish adding videos/articles to the CRM training page in Lovable",
       "assignee": "Josh 'The Ninja' Morales",
       "reminderDate": "2026-08-26"
+    },
+    "96d2ff7b90a185e6c54e65a290b9c5df|overdue|2026-11-21": {
+      "scheduledAt": "2026-07-24T14:01:05.988Z",
+      "type": "overdue",
+      "task": "Check Cloudconvert usage and look at moving to new subscription as needed",
+      "assignee": "Josh 'The Ninja' Morales",
+      "reminderDate": "2026-11-21"
     }
   },
   "scheduledMessageIds": {
@@ -15255,6 +15262,18 @@
       {
         "channel": "C093VPK55NF",
         "messageId": "Q0BL86L95NC"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BKQKNHMT6"
+      },
+      {
+        "channel": "U07FVUF09T7",
+        "messageId": "Q0BKNSAT57T"
+      },
+      {
+        "channel": "C093VPK55NF",
+        "messageId": "Q0BK5HJRTJT"
       }
     ],
     "94fb80fe57974915ad709df6838d0e7b": [
@@ -18454,6 +18473,6 @@
     "1784757854.944619": true,
     "1784830390.206849": true
   },
-  "lastWeeklySummaryDate": "2026-W29",
-  "lastRun": "2026-07-24T08:24:42.114Z"
+  "lastWeeklySummaryDate": "2026-W30",
+  "lastRun": "2026-07-24T14:01:20.898Z"
 }
