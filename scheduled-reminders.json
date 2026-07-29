@@ -1245,6 +1245,34 @@
       "completed": false,
       "completedAt": null,
       "firstSeenAt": "2026-07-25T06:01:26.988Z"
+    },
+    "685a50a1628059a928378d528790e207": {
+      "task": "Review tech needs for Rosenberg ticket #23079",
+      "assignee_name": "Mark 'Morpheus' Manaog",
+      "assignee_slack_mention": "@Mark 'Morpheus' Manaog",
+      "assigned_date": "2026-07-29",
+      "due_date": "2026-07-30",
+      "message_ts": "1785341537.959409",
+      "source_message": "@Mark 'Morpheus' Manaog please review the tech needs for Rosenberg https://dovetailmktg.freshdesk.",
+      "assigneeId": "U023F61R16F",
+      "messageTs": "1785341537.959409",
+      "completed": false,
+      "completedAt": null,
+      "firstSeenAt": "2026-07-29T18:01:24.991Z"
+    },
+    "882c7408c8488c1fe185fab4b863cc38": {
+      "task": "Review zoom meeting re: PMP/LB promo leads CRM breakage and workflow going forward",
+      "assignee_name": "Mark 'Morpheus' Manaog",
+      "assignee_slack_mention": "@Mark 'Morpheus' Manaog",
+      "assigned_date": "2026-07-29",
+      "due_date": "2026-07-31",
+      "message_ts": "1785340354.026279",
+      "source_message": "@Mark 'Morpheus' Manaog please review today's zoom meeting (last 20 mins or so) where we are discussing",
+      "assigneeId": "U023F61R16F",
+      "messageTs": "1785340354.026279",
+      "completed": false,
+      "completedAt": null,
+      "firstSeenAt": "2026-07-29T18:01:25.207Z"
     }
   },
   "scheduled": {
@@ -14277,6 +14305,466 @@
       "task": "Check Cloudconvert usage and look at moving to new subscription as needed",
       "assignee": "Josh 'The Ninja' Morales",
       "reminderDate": "2026-11-25"
+    },
+    "96d2ff7b90a185e6c54e65a290b9c5df|overdue|2026-11-26": {
+      "scheduledAt": "2026-07-29T18:01:26.069Z",
+      "type": "overdue",
+      "task": "Check Cloudconvert usage and look at moving to new subscription as needed",
+      "assignee": "Josh 'The Ninja' Morales",
+      "reminderDate": "2026-11-26"
+    },
+    "685a50a1628059a928378d528790e207|nag|2026-07-29": {
+      "scheduledAt": "2026-07-29T18:01:37.888Z",
+      "type": "nag",
+      "task": "Review tech needs for Rosenberg ticket #23079",
+      "skipped": true
+    },
+    "685a50a1628059a928378d528790e207|due|2026-07-30": {
+      "scheduledAt": "2026-07-29T18:01:38.618Z",
+      "type": "due",
+      "task": "Review tech needs for Rosenberg ticket #23079",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-07-30"
+    },
+    "685a50a1628059a928378d528790e207|overdue|2026-07-31": {
+      "scheduledAt": "2026-07-29T18:01:39.367Z",
+      "type": "overdue",
+      "task": "Review tech needs for Rosenberg ticket #23079",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-07-31"
+    },
+    "685a50a1628059a928378d528790e207|overdue|2026-08-01": {
+      "scheduledAt": "2026-07-29T18:01:40.068Z",
+      "type": "overdue",
+      "task": "Review tech needs for Rosenberg ticket #23079",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-08-01"
+    },
+    "685a50a1628059a928378d528790e207|overdue|2026-08-02": {
+      "scheduledAt": "2026-07-29T18:01:40.775Z",
+      "type": "overdue",
+      "task": "Review tech needs for Rosenberg ticket #23079",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-08-02"
+    },
+    "685a50a1628059a928378d528790e207|overdue|2026-08-03": {
+      "scheduledAt": "2026-07-29T18:01:41.473Z",
+      "type": "overdue",
+      "task": "Review tech needs for Rosenberg ticket #23079",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-08-03"
+    },
+    "685a50a1628059a928378d528790e207|overdue|2026-08-04": {
+      "scheduledAt": "2026-07-29T18:01:42.182Z",
+      "type": "overdue",
+      "task": "Review tech needs for Rosenberg ticket #23079",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-08-04"
+    },
+    "685a50a1628059a928378d528790e207|overdue|2026-08-05": {
+      "scheduledAt": "2026-07-29T18:01:42.882Z",
+      "type": "overdue",
+      "task": "Review tech needs for Rosenberg ticket #23079",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-08-05"
+    },
+    "685a50a1628059a928378d528790e207|overdue|2026-08-06": {
+      "scheduledAt": "2026-07-29T18:01:43.586Z",
+      "type": "overdue",
+      "task": "Review tech needs for Rosenberg ticket #23079",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-08-06"
+    },
+    "685a50a1628059a928378d528790e207|overdue|2026-08-07": {
+      "scheduledAt": "2026-07-29T18:01:44.285Z",
+      "type": "overdue",
+      "task": "Review tech needs for Rosenberg ticket #23079",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-08-07"
+    },
+    "685a50a1628059a928378d528790e207|overdue|2026-08-08": {
+      "scheduledAt": "2026-07-29T18:01:45.000Z",
+      "type": "overdue",
+      "task": "Review tech needs for Rosenberg ticket #23079",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-08-08"
+    },
+    "685a50a1628059a928378d528790e207|overdue|2026-08-09": {
+      "scheduledAt": "2026-07-29T18:01:45.676Z",
+      "type": "overdue",
+      "task": "Review tech needs for Rosenberg ticket #23079",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-08-09"
+    },
+    "685a50a1628059a928378d528790e207|overdue|2026-08-10": {
+      "scheduledAt": "2026-07-29T18:01:46.382Z",
+      "type": "overdue",
+      "task": "Review tech needs for Rosenberg ticket #23079",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-08-10"
+    },
+    "685a50a1628059a928378d528790e207|overdue|2026-08-11": {
+      "scheduledAt": "2026-07-29T18:01:47.129Z",
+      "type": "overdue",
+      "task": "Review tech needs for Rosenberg ticket #23079",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-08-11"
+    },
+    "685a50a1628059a928378d528790e207|overdue|2026-08-12": {
+      "scheduledAt": "2026-07-29T18:01:47.837Z",
+      "type": "overdue",
+      "task": "Review tech needs for Rosenberg ticket #23079",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-08-12"
+    },
+    "685a50a1628059a928378d528790e207|overdue|2026-08-13": {
+      "scheduledAt": "2026-07-29T18:01:48.538Z",
+      "type": "overdue",
+      "task": "Review tech needs for Rosenberg ticket #23079",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-08-13"
+    },
+    "685a50a1628059a928378d528790e207|overdue|2026-08-14": {
+      "scheduledAt": "2026-07-29T18:01:49.334Z",
+      "type": "overdue",
+      "task": "Review tech needs for Rosenberg ticket #23079",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-08-14"
+    },
+    "685a50a1628059a928378d528790e207|overdue|2026-08-15": {
+      "scheduledAt": "2026-07-29T18:01:50.051Z",
+      "type": "overdue",
+      "task": "Review tech needs for Rosenberg ticket #23079",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-08-15"
+    },
+    "685a50a1628059a928378d528790e207|overdue|2026-08-16": {
+      "scheduledAt": "2026-07-29T18:01:50.751Z",
+      "type": "overdue",
+      "task": "Review tech needs for Rosenberg ticket #23079",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-08-16"
+    },
+    "685a50a1628059a928378d528790e207|overdue|2026-08-17": {
+      "scheduledAt": "2026-07-29T18:01:51.459Z",
+      "type": "overdue",
+      "task": "Review tech needs for Rosenberg ticket #23079",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-08-17"
+    },
+    "685a50a1628059a928378d528790e207|overdue|2026-08-18": {
+      "scheduledAt": "2026-07-29T18:01:52.347Z",
+      "type": "overdue",
+      "task": "Review tech needs for Rosenberg ticket #23079",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-08-18"
+    },
+    "685a50a1628059a928378d528790e207|overdue|2026-08-19": {
+      "scheduledAt": "2026-07-29T18:01:53.145Z",
+      "type": "overdue",
+      "task": "Review tech needs for Rosenberg ticket #23079",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-08-19"
+    },
+    "685a50a1628059a928378d528790e207|overdue|2026-08-20": {
+      "scheduledAt": "2026-07-29T18:01:53.889Z",
+      "type": "overdue",
+      "task": "Review tech needs for Rosenberg ticket #23079",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-08-20"
+    },
+    "685a50a1628059a928378d528790e207|overdue|2026-08-21": {
+      "scheduledAt": "2026-07-29T18:01:54.678Z",
+      "type": "overdue",
+      "task": "Review tech needs for Rosenberg ticket #23079",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-08-21"
+    },
+    "685a50a1628059a928378d528790e207|overdue|2026-08-22": {
+      "scheduledAt": "2026-07-29T18:01:55.376Z",
+      "type": "overdue",
+      "task": "Review tech needs for Rosenberg ticket #23079",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-08-22"
+    },
+    "685a50a1628059a928378d528790e207|overdue|2026-08-23": {
+      "scheduledAt": "2026-07-29T18:01:56.147Z",
+      "type": "overdue",
+      "task": "Review tech needs for Rosenberg ticket #23079",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-08-23"
+    },
+    "685a50a1628059a928378d528790e207|overdue|2026-08-24": {
+      "scheduledAt": "2026-07-29T18:01:56.905Z",
+      "type": "overdue",
+      "task": "Review tech needs for Rosenberg ticket #23079",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-08-24"
+    },
+    "685a50a1628059a928378d528790e207|overdue|2026-08-25": {
+      "scheduledAt": "2026-07-29T18:01:57.601Z",
+      "type": "overdue",
+      "task": "Review tech needs for Rosenberg ticket #23079",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-08-25"
+    },
+    "685a50a1628059a928378d528790e207|overdue|2026-08-26": {
+      "scheduledAt": "2026-07-29T18:01:58.333Z",
+      "type": "overdue",
+      "task": "Review tech needs for Rosenberg ticket #23079",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-08-26"
+    },
+    "685a50a1628059a928378d528790e207|overdue|2026-08-27": {
+      "scheduledAt": "2026-07-29T18:01:59.052Z",
+      "type": "overdue",
+      "task": "Review tech needs for Rosenberg ticket #23079",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-08-27"
+    },
+    "685a50a1628059a928378d528790e207|overdue|2026-08-28": {
+      "scheduledAt": "2026-07-29T18:01:59.763Z",
+      "type": "overdue",
+      "task": "Review tech needs for Rosenberg ticket #23079",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-08-28"
+    },
+    "685a50a1628059a928378d528790e207|overdue|2026-08-29": {
+      "scheduledAt": "2026-07-29T18:02:00.501Z",
+      "type": "overdue",
+      "task": "Review tech needs for Rosenberg ticket #23079",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-08-29"
+    },
+    "882c7408c8488c1fe185fab4b863cc38|nag|2026-07-29": {
+      "scheduledAt": "2026-07-29T18:02:00.502Z",
+      "type": "nag",
+      "task": "Review zoom meeting re: PMP/LB promo leads CRM breakage and workflow going forward",
+      "skipped": true
+    },
+    "882c7408c8488c1fe185fab4b863cc38|nag|2026-07-30": {
+      "scheduledAt": "2026-07-29T18:02:01.278Z",
+      "type": "nag",
+      "task": "Review zoom meeting re: PMP/LB promo leads CRM breakage and workflow going forward",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-07-30"
+    },
+    "882c7408c8488c1fe185fab4b863cc38|due|2026-07-31": {
+      "scheduledAt": "2026-07-29T18:02:02.136Z",
+      "type": "due",
+      "task": "Review zoom meeting re: PMP/LB promo leads CRM breakage and workflow going forward",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-07-31"
+    },
+    "882c7408c8488c1fe185fab4b863cc38|overdue|2026-08-01": {
+      "scheduledAt": "2026-07-29T18:02:02.897Z",
+      "type": "overdue",
+      "task": "Review zoom meeting re: PMP/LB promo leads CRM breakage and workflow going forward",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-08-01"
+    },
+    "882c7408c8488c1fe185fab4b863cc38|overdue|2026-08-02": {
+      "scheduledAt": "2026-07-29T18:02:03.616Z",
+      "type": "overdue",
+      "task": "Review zoom meeting re: PMP/LB promo leads CRM breakage and workflow going forward",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-08-02"
+    },
+    "882c7408c8488c1fe185fab4b863cc38|overdue|2026-08-03": {
+      "scheduledAt": "2026-07-29T18:02:04.355Z",
+      "type": "overdue",
+      "task": "Review zoom meeting re: PMP/LB promo leads CRM breakage and workflow going forward",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-08-03"
+    },
+    "882c7408c8488c1fe185fab4b863cc38|overdue|2026-08-04": {
+      "scheduledAt": "2026-07-29T18:02:05.062Z",
+      "type": "overdue",
+      "task": "Review zoom meeting re: PMP/LB promo leads CRM breakage and workflow going forward",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-08-04"
+    },
+    "882c7408c8488c1fe185fab4b863cc38|overdue|2026-08-05": {
+      "scheduledAt": "2026-07-29T18:02:05.747Z",
+      "type": "overdue",
+      "task": "Review zoom meeting re: PMP/LB promo leads CRM breakage and workflow going forward",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-08-05"
+    },
+    "882c7408c8488c1fe185fab4b863cc38|overdue|2026-08-06": {
+      "scheduledAt": "2026-07-29T18:02:06.469Z",
+      "type": "overdue",
+      "task": "Review zoom meeting re: PMP/LB promo leads CRM breakage and workflow going forward",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-08-06"
+    },
+    "882c7408c8488c1fe185fab4b863cc38|overdue|2026-08-07": {
+      "scheduledAt": "2026-07-29T18:02:07.192Z",
+      "type": "overdue",
+      "task": "Review zoom meeting re: PMP/LB promo leads CRM breakage and workflow going forward",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-08-07"
+    },
+    "882c7408c8488c1fe185fab4b863cc38|overdue|2026-08-08": {
+      "scheduledAt": "2026-07-29T18:02:07.875Z",
+      "type": "overdue",
+      "task": "Review zoom meeting re: PMP/LB promo leads CRM breakage and workflow going forward",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-08-08"
+    },
+    "882c7408c8488c1fe185fab4b863cc38|overdue|2026-08-09": {
+      "scheduledAt": "2026-07-29T18:02:08.584Z",
+      "type": "overdue",
+      "task": "Review zoom meeting re: PMP/LB promo leads CRM breakage and workflow going forward",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-08-09"
+    },
+    "882c7408c8488c1fe185fab4b863cc38|overdue|2026-08-10": {
+      "scheduledAt": "2026-07-29T18:02:09.315Z",
+      "type": "overdue",
+      "task": "Review zoom meeting re: PMP/LB promo leads CRM breakage and workflow going forward",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-08-10"
+    },
+    "882c7408c8488c1fe185fab4b863cc38|overdue|2026-08-11": {
+      "scheduledAt": "2026-07-29T18:02:10.064Z",
+      "type": "overdue",
+      "task": "Review zoom meeting re: PMP/LB promo leads CRM breakage and workflow going forward",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-08-11"
+    },
+    "882c7408c8488c1fe185fab4b863cc38|overdue|2026-08-12": {
+      "scheduledAt": "2026-07-29T18:02:10.826Z",
+      "type": "overdue",
+      "task": "Review zoom meeting re: PMP/LB promo leads CRM breakage and workflow going forward",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-08-12"
+    },
+    "882c7408c8488c1fe185fab4b863cc38|overdue|2026-08-13": {
+      "scheduledAt": "2026-07-29T18:02:11.511Z",
+      "type": "overdue",
+      "task": "Review zoom meeting re: PMP/LB promo leads CRM breakage and workflow going forward",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-08-13"
+    },
+    "882c7408c8488c1fe185fab4b863cc38|overdue|2026-08-14": {
+      "scheduledAt": "2026-07-29T18:02:12.272Z",
+      "type": "overdue",
+      "task": "Review zoom meeting re: PMP/LB promo leads CRM breakage and workflow going forward",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-08-14"
+    },
+    "882c7408c8488c1fe185fab4b863cc38|overdue|2026-08-15": {
+      "scheduledAt": "2026-07-29T18:02:12.986Z",
+      "type": "overdue",
+      "task": "Review zoom meeting re: PMP/LB promo leads CRM breakage and workflow going forward",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-08-15"
+    },
+    "882c7408c8488c1fe185fab4b863cc38|overdue|2026-08-16": {
+      "scheduledAt": "2026-07-29T18:02:13.697Z",
+      "type": "overdue",
+      "task": "Review zoom meeting re: PMP/LB promo leads CRM breakage and workflow going forward",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-08-16"
+    },
+    "882c7408c8488c1fe185fab4b863cc38|overdue|2026-08-17": {
+      "scheduledAt": "2026-07-29T18:02:14.443Z",
+      "type": "overdue",
+      "task": "Review zoom meeting re: PMP/LB promo leads CRM breakage and workflow going forward",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-08-17"
+    },
+    "882c7408c8488c1fe185fab4b863cc38|overdue|2026-08-18": {
+      "scheduledAt": "2026-07-29T18:02:15.184Z",
+      "type": "overdue",
+      "task": "Review zoom meeting re: PMP/LB promo leads CRM breakage and workflow going forward",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-08-18"
+    },
+    "882c7408c8488c1fe185fab4b863cc38|overdue|2026-08-19": {
+      "scheduledAt": "2026-07-29T18:02:15.891Z",
+      "type": "overdue",
+      "task": "Review zoom meeting re: PMP/LB promo leads CRM breakage and workflow going forward",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-08-19"
+    },
+    "882c7408c8488c1fe185fab4b863cc38|overdue|2026-08-20": {
+      "scheduledAt": "2026-07-29T18:02:16.647Z",
+      "type": "overdue",
+      "task": "Review zoom meeting re: PMP/LB promo leads CRM breakage and workflow going forward",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-08-20"
+    },
+    "882c7408c8488c1fe185fab4b863cc38|overdue|2026-08-21": {
+      "scheduledAt": "2026-07-29T18:02:17.343Z",
+      "type": "overdue",
+      "task": "Review zoom meeting re: PMP/LB promo leads CRM breakage and workflow going forward",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-08-21"
+    },
+    "882c7408c8488c1fe185fab4b863cc38|overdue|2026-08-22": {
+      "scheduledAt": "2026-07-29T18:02:18.256Z",
+      "type": "overdue",
+      "task": "Review zoom meeting re: PMP/LB promo leads CRM breakage and workflow going forward",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-08-22"
+    },
+    "882c7408c8488c1fe185fab4b863cc38|overdue|2026-08-23": {
+      "scheduledAt": "2026-07-29T18:02:19.031Z",
+      "type": "overdue",
+      "task": "Review zoom meeting re: PMP/LB promo leads CRM breakage and workflow going forward",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-08-23"
+    },
+    "882c7408c8488c1fe185fab4b863cc38|overdue|2026-08-24": {
+      "scheduledAt": "2026-07-29T18:02:19.785Z",
+      "type": "overdue",
+      "task": "Review zoom meeting re: PMP/LB promo leads CRM breakage and workflow going forward",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-08-24"
+    },
+    "882c7408c8488c1fe185fab4b863cc38|overdue|2026-08-25": {
+      "scheduledAt": "2026-07-29T18:02:20.468Z",
+      "type": "overdue",
+      "task": "Review zoom meeting re: PMP/LB promo leads CRM breakage and workflow going forward",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-08-25"
+    },
+    "882c7408c8488c1fe185fab4b863cc38|overdue|2026-08-26": {
+      "scheduledAt": "2026-07-29T18:02:21.194Z",
+      "type": "overdue",
+      "task": "Review zoom meeting re: PMP/LB promo leads CRM breakage and workflow going forward",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-08-26"
+    },
+    "882c7408c8488c1fe185fab4b863cc38|overdue|2026-08-27": {
+      "scheduledAt": "2026-07-29T18:02:21.892Z",
+      "type": "overdue",
+      "task": "Review zoom meeting re: PMP/LB promo leads CRM breakage and workflow going forward",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-08-27"
+    },
+    "882c7408c8488c1fe185fab4b863cc38|overdue|2026-08-28": {
+      "scheduledAt": "2026-07-29T18:02:22.648Z",
+      "type": "overdue",
+      "task": "Review zoom meeting re: PMP/LB promo leads CRM breakage and workflow going forward",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-08-28"
+    },
+    "882c7408c8488c1fe185fab4b863cc38|overdue|2026-08-29": {
+      "scheduledAt": "2026-07-29T18:02:23.368Z",
+      "type": "overdue",
+      "task": "Review zoom meeting re: PMP/LB promo leads CRM breakage and workflow going forward",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-08-29"
+    },
+    "882c7408c8488c1fe185fab4b863cc38|overdue|2026-08-30": {
+      "scheduledAt": "2026-07-29T18:02:24.065Z",
+      "type": "overdue",
+      "task": "Review zoom meeting re: PMP/LB promo leads CRM breakage and workflow going forward",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-08-30"
     }
   },
   "scheduledMessageIds": {
@@ -16092,6 +16580,18 @@
       {
         "channel": "C093VPK55NF",
         "messageId": "Q0BLC0SV9B8"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BLPK54JBU"
+      },
+      {
+        "channel": "U07FVUF09T7",
+        "messageId": "Q0BLHBX5DDH"
+      },
+      {
+        "channel": "C093VPK55NF",
+        "messageId": "Q0BLPK4TQ74"
       }
     ],
     "94fb80fe57974915ad709df6838d0e7b": [
@@ -18785,6 +19285,766 @@
         "channel": "C05JGF817H6",
         "messageId": "Q0BKRNRGU2W"
       }
+    ],
+    "685a50a1628059a928378d528790e207": [
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BMHV3NATS"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0BLTA43U8L"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0BLLAVFQJZ"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BLHC04CEP"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0BLPK76JD8"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0BLRH636F3"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BMHV4BC1W"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0BLTA43NKW"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0BMHV5317S"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BMHV4J1NU"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0BL88AS6B1"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0BMHV4P82U"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BLPK5J0LA"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0BLTA3P9BN"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0BLMKLTE3Y"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BLPK7HQ1Y"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0BL88BJE5V"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0BLPK6UUHY"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BMHV4CJTA"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0BLPK7EL9G"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0BLHBZHB8T"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BMHV4A4L8"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0BLPK8Q01G"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0BLMKMBQF8"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BLHBZTN1Z"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0BLTA4JBEG"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0BLLAW2Z1T"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BLRH6MTC1"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0BLRH68EN5"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0BLPK86VDG"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BLPK83P7U"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0BLPK8H4GJ"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0BLTA5C292"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BLLAW4RFX"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0BLLAVUNMB"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0BLRH6E7ED"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BLMKM5RN2"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0BLMKMPF2S"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0BL88BMYB1"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BLMKMLQJJ"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0BL88BRUEB"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0BLLAW93RT"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BLMKMRDUN"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0BL88BCD55"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0BLMKM8VRC"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BMHV6RURE"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0BLLASGESZ"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0BLTA5J91S"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BMHV5SC8Y"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0BMHV5HRMW"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0BLHC1DLJF"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BLRH6P08Z"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0BLPK9DS02"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0BLPK92DMG"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BLPK93TPC"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0BLTA5M41J"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0BLTA66JTE"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BLPK9ABRQ"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0BLLAXCMFX"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0BLLAXSBLM"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BLPK9KXT4"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0BLLAXUB7X"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0BLMKN72TG"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BLPK95E3C"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0BLHC2RNV9"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0BLMKNLBB8"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BLPKABF42"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0BLPK9TVA6"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0BLTA78U4U"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BLPK9CXR8"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0BLHC1R78T"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0BLLAXFQ2Z"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BLHC1P6RH"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0BLHC1K4LB"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0BLTA6D0F6"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BLPKA2D18"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0BLHC2C1DH"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0BL88860HM"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BLMKPA8VC"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0BL88CJ6ET"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0BLHC296UT"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BLTA7CXJ8"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0BMHV8PAUQ"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0BLRH8NZTK"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BLMKPF8BG"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0BLPKA52GJ"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0BLMKP0GH4"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BLLAY18TF"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0BLPK9E70A"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0BLMKNHQRL"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BLLAYKVM3"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0BLPKA2P6E"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0BMHV6K29E"
+      }
+    ],
+    "882c7408c8488c1fe185fab4b863cc38": [
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BL88DT6BH"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0BLLAZD8R3"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0BLPKAG0QJ"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BLLAZ1JFP"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0BLPKAFY3C"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0BMHV7U34G"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BLRH93STT"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0BL88E9HHV"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0BLPKAE19Q"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BLRH98EGZ"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0BLMKQEDV4"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0BMHV87P2L"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BLMKQ47T8"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0BLRH8909X"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0BLRH4HB7T"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BLMKQ49JA"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0BLRH9STQR"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0BL88EH4LX"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BLLB0KYJZ"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0BL88EE07R"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0BLRH9U13K"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BLPKAL1D0"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0BL88F3TQF"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0BMHV867DE"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BL88EQ15M"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0BLLAZHJN9"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0BLRH9UXLH"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BL88F328P"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0BLMKR662J"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0BLLB02H1T"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BLHC4LBTM"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0BLTA952F6"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0BL88FG495"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BLTA4R0R2"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0BLMKR6JLE"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0BLHC42PAP"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BLMKRPD62"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0BLHC4TF51"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0BMHV8QL6L"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BL88FFAMV"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0BMHV9RD32"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0BLMKLL0BG"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BLHC4RU1Z"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0BLTA9ELBW"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0BL88F2D1V"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BMHV97V3J"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0BLTA9GCFN"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0BLRHAMK41"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BL88F7HT9"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0BLTA928BE"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0BLLB05869"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BLLB0DN3F"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0BLRHADJTB"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0BLMKRLX4N"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BLLB136S1"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0BMHV9MT88"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0BLHC4LWFM"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BLMKR2KC6"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0BLMKSF7KQ"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0BL88BQK7Z"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BLMKS1NJJ"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0BLRHAK4BT"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0BLHC542TD"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BMHV9HRJL"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0BLHC5NC75"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0BLMKMC24W"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BMHVA695W"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0BLTAABB1A"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0BLTA9DNF6"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BLMKSHJUE"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0BLLB14UAH"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0BLLB0GRN1"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BLMKRTNG6"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0BL88H5Q0P"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0BL88GPFNK"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BMHVAED40"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0BLHC5FG3V"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0BLRHBVCE5"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BLLB1P31T"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0BLHC6CGQK"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0BLMKTC97G"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BLRHCGENM"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0BL88GAQB1"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0BMHVAVC8Y"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BLTAB4SQ4"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0BMHVBJ12L"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0BL88GSVGF"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BLHC6H7EF"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0BLHC5QDLK"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0BLHC5QCP5"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BLHC5JJ7M"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0BL88E37AT"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0BMHVAGB5E"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BLHC6V3JP"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0BL88JCF55"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0BMHVBNNBS"
+      }
     ]
   },
   "processedMessageTs": {
@@ -18894,8 +20154,10 @@
     "1784830390.206849": true,
     "1784927171.353829": true,
     "1784927154.364169": true,
-    "1784927091.782469": true
+    "1784927091.782469": true,
+    "1785341537.959409": true,
+    "1785340354.026279": true
   },
   "lastWeeklySummaryDate": "2026-W30",
-  "lastRun": "2026-07-29T08:38:08.233Z"
+  "lastRun": "2026-07-29T18:02:24.066Z"
 }
