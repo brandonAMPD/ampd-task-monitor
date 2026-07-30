@@ -14996,6 +14996,13 @@
       "task": "Update Hector's Zoom account access (licensed meetings and phone number) to assign to richard@dovetailmktg.com",
       "assignee": "Mark 'Morpheus' Manaog",
       "reminderDate": "2026-08-29"
+    },
+    "96d2ff7b90a185e6c54e65a290b9c5df|overdue|2026-11-27": {
+      "scheduledAt": "2026-07-30T18:01:23.407Z",
+      "type": "overdue",
+      "task": "Check Cloudconvert usage and look at moving to new subscription as needed",
+      "assignee": "Josh 'The Ninja' Morales",
+      "reminderDate": "2026-11-27"
     }
   },
   "scheduledMessageIds": {
@@ -16823,6 +16830,18 @@
       {
         "channel": "C093VPK55NF",
         "messageId": "Q0BLPK4TQ74"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BMTLW6AAU"
+      },
+      {
+        "channel": "U07FVUF09T7",
+        "messageId": "Q0BLZAWMBFU"
+      },
+      {
+        "channel": "C093VPK55NF",
+        "messageId": "Q0BMTLW4XS4"
       }
     ],
     "94fb80fe57974915ad709df6838d0e7b": [
@@ -19731,5 +19750,5 @@
     "1785353482.977639": true
   },
   "lastWeeklySummaryDate": "2026-W30",
-  "lastRun": "2026-07-30T08:24:26.235Z"
+  "lastRun": "2026-07-30T18:01:39.043Z"
 }
