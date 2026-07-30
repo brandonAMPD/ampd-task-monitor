@@ -1130,8 +1130,8 @@
       "source_message": "@Brandon 'The One' Robertson build out the affiliate program for AW CRM. Due by next Friday",
       "assigneeId": "UMS39RAGP",
       "messageTs": "1784126682.123279",
-      "completed": false,
-      "completedAt": null,
+      "completed": true,
+      "completedAt": "2026-07-30T06:01:23.093Z",
       "firstSeenAt": "2026-07-15T18:02:37.670Z"
     },
     "ae6dc3fadc19d572e62251318c6d9379": {
@@ -1273,6 +1273,20 @@
       "completed": false,
       "completedAt": null,
       "firstSeenAt": "2026-07-29T18:01:25.207Z"
+    },
+    "e60a1e831c253b424751399a5e3ec002": {
+      "task": "Update Hector's Zoom account access (licensed meetings and phone number) to assign to richard@dovetailmktg.com",
+      "assignee_name": "Mark 'Morpheus' Manaog",
+      "assignee_slack_mention": "@Mark 'Morpheus' Manaog",
+      "assigned_date": "2026-07-29",
+      "due_date": "2026-07-30",
+      "message_ts": "1785353482.977639",
+      "source_message": "@Mark 'Morpheus' Manaog we're going to be bringing on Gerzain who was hector's assistant as a GHL sales rep",
+      "assigneeId": "U023F61R16F",
+      "messageTs": "1785353482.977639",
+      "completed": false,
+      "completedAt": null,
+      "firstSeenAt": "2026-07-30T06:01:52.641Z"
     }
   },
   "scheduled": {
@@ -14765,6 +14779,223 @@
       "task": "Review zoom meeting re: PMP/LB promo leads CRM breakage and workflow going forward",
       "assignee": "Mark 'Morpheus' Manaog",
       "reminderDate": "2026-08-30"
+    },
+    "e60a1e831c253b424751399a5e3ec002|due|2026-07-30": {
+      "scheduledAt": "2026-07-30T06:02:08.918Z",
+      "type": "due",
+      "task": "Update Hector's Zoom account access (licensed meetings and phone number) to assign to richard@dovetailmktg.com",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-07-30"
+    },
+    "e60a1e831c253b424751399a5e3ec002|overdue|2026-07-31": {
+      "scheduledAt": "2026-07-30T06:02:09.792Z",
+      "type": "overdue",
+      "task": "Update Hector's Zoom account access (licensed meetings and phone number) to assign to richard@dovetailmktg.com",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-07-31"
+    },
+    "e60a1e831c253b424751399a5e3ec002|overdue|2026-08-01": {
+      "scheduledAt": "2026-07-30T06:02:11.150Z",
+      "type": "overdue",
+      "task": "Update Hector's Zoom account access (licensed meetings and phone number) to assign to richard@dovetailmktg.com",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-08-01"
+    },
+    "e60a1e831c253b424751399a5e3ec002|overdue|2026-08-02": {
+      "scheduledAt": "2026-07-30T06:02:12.028Z",
+      "type": "overdue",
+      "task": "Update Hector's Zoom account access (licensed meetings and phone number) to assign to richard@dovetailmktg.com",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-08-02"
+    },
+    "e60a1e831c253b424751399a5e3ec002|overdue|2026-08-03": {
+      "scheduledAt": "2026-07-30T06:02:12.909Z",
+      "type": "overdue",
+      "task": "Update Hector's Zoom account access (licensed meetings and phone number) to assign to richard@dovetailmktg.com",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-08-03"
+    },
+    "e60a1e831c253b424751399a5e3ec002|overdue|2026-08-04": {
+      "scheduledAt": "2026-07-30T06:02:13.772Z",
+      "type": "overdue",
+      "task": "Update Hector's Zoom account access (licensed meetings and phone number) to assign to richard@dovetailmktg.com",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-08-04"
+    },
+    "e60a1e831c253b424751399a5e3ec002|overdue|2026-08-05": {
+      "scheduledAt": "2026-07-30T06:02:14.625Z",
+      "type": "overdue",
+      "task": "Update Hector's Zoom account access (licensed meetings and phone number) to assign to richard@dovetailmktg.com",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-08-05"
+    },
+    "e60a1e831c253b424751399a5e3ec002|overdue|2026-08-06": {
+      "scheduledAt": "2026-07-30T06:02:15.492Z",
+      "type": "overdue",
+      "task": "Update Hector's Zoom account access (licensed meetings and phone number) to assign to richard@dovetailmktg.com",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-08-06"
+    },
+    "e60a1e831c253b424751399a5e3ec002|overdue|2026-08-07": {
+      "scheduledAt": "2026-07-30T06:02:16.341Z",
+      "type": "overdue",
+      "task": "Update Hector's Zoom account access (licensed meetings and phone number) to assign to richard@dovetailmktg.com",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-08-07"
+    },
+    "e60a1e831c253b424751399a5e3ec002|overdue|2026-08-08": {
+      "scheduledAt": "2026-07-30T06:02:17.207Z",
+      "type": "overdue",
+      "task": "Update Hector's Zoom account access (licensed meetings and phone number) to assign to richard@dovetailmktg.com",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-08-08"
+    },
+    "e60a1e831c253b424751399a5e3ec002|overdue|2026-08-09": {
+      "scheduledAt": "2026-07-30T06:02:18.100Z",
+      "type": "overdue",
+      "task": "Update Hector's Zoom account access (licensed meetings and phone number) to assign to richard@dovetailmktg.com",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-08-09"
+    },
+    "e60a1e831c253b424751399a5e3ec002|overdue|2026-08-10": {
+      "scheduledAt": "2026-07-30T06:02:18.985Z",
+      "type": "overdue",
+      "task": "Update Hector's Zoom account access (licensed meetings and phone number) to assign to richard@dovetailmktg.com",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-08-10"
+    },
+    "e60a1e831c253b424751399a5e3ec002|overdue|2026-08-11": {
+      "scheduledAt": "2026-07-30T06:02:19.843Z",
+      "type": "overdue",
+      "task": "Update Hector's Zoom account access (licensed meetings and phone number) to assign to richard@dovetailmktg.com",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-08-11"
+    },
+    "e60a1e831c253b424751399a5e3ec002|overdue|2026-08-12": {
+      "scheduledAt": "2026-07-30T06:02:20.766Z",
+      "type": "overdue",
+      "task": "Update Hector's Zoom account access (licensed meetings and phone number) to assign to richard@dovetailmktg.com",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-08-12"
+    },
+    "e60a1e831c253b424751399a5e3ec002|overdue|2026-08-13": {
+      "scheduledAt": "2026-07-30T06:02:21.688Z",
+      "type": "overdue",
+      "task": "Update Hector's Zoom account access (licensed meetings and phone number) to assign to richard@dovetailmktg.com",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-08-13"
+    },
+    "e60a1e831c253b424751399a5e3ec002|overdue|2026-08-14": {
+      "scheduledAt": "2026-07-30T06:02:22.556Z",
+      "type": "overdue",
+      "task": "Update Hector's Zoom account access (licensed meetings and phone number) to assign to richard@dovetailmktg.com",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-08-14"
+    },
+    "e60a1e831c253b424751399a5e3ec002|overdue|2026-08-15": {
+      "scheduledAt": "2026-07-30T06:02:25.473Z",
+      "type": "overdue",
+      "task": "Update Hector's Zoom account access (licensed meetings and phone number) to assign to richard@dovetailmktg.com",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-08-15"
+    },
+    "e60a1e831c253b424751399a5e3ec002|overdue|2026-08-16": {
+      "scheduledAt": "2026-07-30T06:02:26.295Z",
+      "type": "overdue",
+      "task": "Update Hector's Zoom account access (licensed meetings and phone number) to assign to richard@dovetailmktg.com",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-08-16"
+    },
+    "e60a1e831c253b424751399a5e3ec002|overdue|2026-08-17": {
+      "scheduledAt": "2026-07-30T06:02:27.138Z",
+      "type": "overdue",
+      "task": "Update Hector's Zoom account access (licensed meetings and phone number) to assign to richard@dovetailmktg.com",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-08-17"
+    },
+    "e60a1e831c253b424751399a5e3ec002|overdue|2026-08-18": {
+      "scheduledAt": "2026-07-30T06:02:28.074Z",
+      "type": "overdue",
+      "task": "Update Hector's Zoom account access (licensed meetings and phone number) to assign to richard@dovetailmktg.com",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-08-18"
+    },
+    "e60a1e831c253b424751399a5e3ec002|overdue|2026-08-19": {
+      "scheduledAt": "2026-07-30T06:02:28.919Z",
+      "type": "overdue",
+      "task": "Update Hector's Zoom account access (licensed meetings and phone number) to assign to richard@dovetailmktg.com",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-08-19"
+    },
+    "e60a1e831c253b424751399a5e3ec002|overdue|2026-08-20": {
+      "scheduledAt": "2026-07-30T06:02:29.743Z",
+      "type": "overdue",
+      "task": "Update Hector's Zoom account access (licensed meetings and phone number) to assign to richard@dovetailmktg.com",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-08-20"
+    },
+    "e60a1e831c253b424751399a5e3ec002|overdue|2026-08-21": {
+      "scheduledAt": "2026-07-30T06:02:30.627Z",
+      "type": "overdue",
+      "task": "Update Hector's Zoom account access (licensed meetings and phone number) to assign to richard@dovetailmktg.com",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-08-21"
+    },
+    "e60a1e831c253b424751399a5e3ec002|overdue|2026-08-22": {
+      "scheduledAt": "2026-07-30T06:02:31.752Z",
+      "type": "overdue",
+      "task": "Update Hector's Zoom account access (licensed meetings and phone number) to assign to richard@dovetailmktg.com",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-08-22"
+    },
+    "e60a1e831c253b424751399a5e3ec002|overdue|2026-08-23": {
+      "scheduledAt": "2026-07-30T06:02:32.645Z",
+      "type": "overdue",
+      "task": "Update Hector's Zoom account access (licensed meetings and phone number) to assign to richard@dovetailmktg.com",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-08-23"
+    },
+    "e60a1e831c253b424751399a5e3ec002|overdue|2026-08-24": {
+      "scheduledAt": "2026-07-30T06:02:33.521Z",
+      "type": "overdue",
+      "task": "Update Hector's Zoom account access (licensed meetings and phone number) to assign to richard@dovetailmktg.com",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-08-24"
+    },
+    "e60a1e831c253b424751399a5e3ec002|overdue|2026-08-25": {
+      "scheduledAt": "2026-07-30T06:02:34.384Z",
+      "type": "overdue",
+      "task": "Update Hector's Zoom account access (licensed meetings and phone number) to assign to richard@dovetailmktg.com",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-08-25"
+    },
+    "e60a1e831c253b424751399a5e3ec002|overdue|2026-08-26": {
+      "scheduledAt": "2026-07-30T06:02:35.278Z",
+      "type": "overdue",
+      "task": "Update Hector's Zoom account access (licensed meetings and phone number) to assign to richard@dovetailmktg.com",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-08-26"
+    },
+    "e60a1e831c253b424751399a5e3ec002|overdue|2026-08-27": {
+      "scheduledAt": "2026-07-30T06:02:36.127Z",
+      "type": "overdue",
+      "task": "Update Hector's Zoom account access (licensed meetings and phone number) to assign to richard@dovetailmktg.com",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-08-27"
+    },
+    "e60a1e831c253b424751399a5e3ec002|overdue|2026-08-28": {
+      "scheduledAt": "2026-07-30T06:02:36.987Z",
+      "type": "overdue",
+      "task": "Update Hector's Zoom account access (licensed meetings and phone number) to assign to richard@dovetailmktg.com",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-08-28"
+    },
+    "e60a1e831c253b424751399a5e3ec002|overdue|2026-08-29": {
+      "scheduledAt": "2026-07-30T06:02:37.828Z",
+      "type": "overdue",
+      "task": "Update Hector's Zoom account access (licensed meetings and phone number) to assign to richard@dovetailmktg.com",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-08-29"
     }
   },
   "scheduledMessageIds": {
@@ -17408,280 +17639,6 @@
         "messageId": "Q0BHCHN3Y92"
       }
     ],
-    "48a200fd917e6ee2a27a05b9f42e5431": [
-      {
-        "channel": "UMS39RAGP",
-        "messageId": "Q0BHGU2N6JZ"
-      },
-      {
-        "channel": "C05HV4SQD6G",
-        "messageId": "Q0BHL7C46CA"
-      },
-      {
-        "channel": "UMS39RAGP",
-        "messageId": "Q0BHJ7EKMNJ"
-      },
-      {
-        "channel": "C05HV4SQD6G",
-        "messageId": "Q0BHE049JG3"
-      },
-      {
-        "channel": "UMS39RAGP",
-        "messageId": "Q0BHGU2T9DK"
-      },
-      {
-        "channel": "C05HV4SQD6G",
-        "messageId": "Q0BH4S4KTB9"
-      },
-      {
-        "channel": "UMS39RAGP",
-        "messageId": "Q0BHGU2QA2H"
-      },
-      {
-        "channel": "C05HV4SQD6G",
-        "messageId": "Q0BHPUCDVEY"
-      },
-      {
-        "channel": "UMS39RAGP",
-        "messageId": "Q0BHE05KPNF"
-      },
-      {
-        "channel": "C05HV4SQD6G",
-        "messageId": "Q0BJEH4CXK2"
-      },
-      {
-        "channel": "UMS39RAGP",
-        "messageId": "Q0BHGU3ELUV"
-      },
-      {
-        "channel": "C05HV4SQD6G",
-        "messageId": "Q0BHE052J1H"
-      },
-      {
-        "channel": "UMS39RAGP",
-        "messageId": "Q0BH4S50D7H"
-      },
-      {
-        "channel": "C05HV4SQD6G",
-        "messageId": "Q0BHJ7G41V4"
-      },
-      {
-        "channel": "UMS39RAGP",
-        "messageId": "Q0BH4S5V99V"
-      },
-      {
-        "channel": "C05HV4SQD6G",
-        "messageId": "Q0BJEH4ALE4"
-      },
-      {
-        "channel": "UMS39RAGP",
-        "messageId": "Q0BHPUE4CAY"
-      },
-      {
-        "channel": "C05HV4SQD6G",
-        "messageId": "Q0BJEH3D50Q"
-      },
-      {
-        "channel": "UMS39RAGP",
-        "messageId": "Q0BHPUDA012"
-      },
-      {
-        "channel": "C05HV4SQD6G",
-        "messageId": "Q0BHJ7GTZ1U"
-      },
-      {
-        "channel": "UMS39RAGP",
-        "messageId": "Q0BHL7E3AQ2"
-      },
-      {
-        "channel": "C05HV4SQD6G",
-        "messageId": "Q0BHGU32Y7P"
-      },
-      {
-        "channel": "UMS39RAGP",
-        "messageId": "Q0BHL7E3NJW"
-      },
-      {
-        "channel": "C05HV4SQD6G",
-        "messageId": "Q0BHJ7GNJMC"
-      },
-      {
-        "channel": "UMS39RAGP",
-        "messageId": "Q0BHL7E2Q74"
-      },
-      {
-        "channel": "C05HV4SQD6G",
-        "messageId": "Q0BHE04L6EP"
-      },
-      {
-        "channel": "UMS39RAGP",
-        "messageId": "Q0BHN4YEE49"
-      },
-      {
-        "channel": "C05HV4SQD6G",
-        "messageId": "Q0BHN4Z1S8Z"
-      },
-      {
-        "channel": "UMS39RAGP",
-        "messageId": "Q0BHL7E556W"
-      },
-      {
-        "channel": "C05HV4SQD6G",
-        "messageId": "Q0BHN4YSW3B"
-      },
-      {
-        "channel": "UMS39RAGP",
-        "messageId": "Q0BHL7EV80J"
-      },
-      {
-        "channel": "C05HV4SQD6G",
-        "messageId": "Q0BHJ7HDXB8"
-      },
-      {
-        "channel": "UMS39RAGP",
-        "messageId": "Q0BHPUEJHFW"
-      },
-      {
-        "channel": "C05HV4SQD6G",
-        "messageId": "Q0BHJ7GK81L"
-      },
-      {
-        "channel": "UMS39RAGP",
-        "messageId": "Q0BHJ7HQGGN"
-      },
-      {
-        "channel": "C05HV4SQD6G",
-        "messageId": "Q0BHPUEM2A0"
-      },
-      {
-        "channel": "UMS39RAGP",
-        "messageId": "Q0BHJ7HE7N2"
-      },
-      {
-        "channel": "C05HV4SQD6G",
-        "messageId": "Q0BJEH6MSGY"
-      },
-      {
-        "channel": "UMS39RAGP",
-        "messageId": "Q0BHN4ZURQR"
-      },
-      {
-        "channel": "C05HV4SQD6G",
-        "messageId": "Q0BHL7ERF1Q"
-      },
-      {
-        "channel": "UMS39RAGP",
-        "messageId": "Q0BHN50ADQR"
-      },
-      {
-        "channel": "C05HV4SQD6G",
-        "messageId": "Q0BHPUG1R44"
-      },
-      {
-        "channel": "UMS39RAGP",
-        "messageId": "Q0BHL7EBKBL"
-      },
-      {
-        "channel": "C05HV4SQD6G",
-        "messageId": "Q0BH4S80W5D"
-      },
-      {
-        "channel": "UMS39RAGP",
-        "messageId": "Q0BHE071A4B"
-      },
-      {
-        "channel": "C05HV4SQD6G",
-        "messageId": "Q0BHL7B1FKL"
-      },
-      {
-        "channel": "UMS39RAGP",
-        "messageId": "Q0BHE0706EP"
-      },
-      {
-        "channel": "C05HV4SQD6G",
-        "messageId": "Q0BHE05PXGB"
-      },
-      {
-        "channel": "UMS39RAGP",
-        "messageId": "Q0BHL7BEFMY"
-      },
-      {
-        "channel": "C05HV4SQD6G",
-        "messageId": "Q0BHJ7H4PTQ"
-      },
-      {
-        "channel": "UMS39RAGP",
-        "messageId": "Q0BHPUGG0E8"
-      },
-      {
-        "channel": "C05HV4SQD6G",
-        "messageId": "Q0BHJ7JUWFQ"
-      },
-      {
-        "channel": "UMS39RAGP",
-        "messageId": "Q0BHL7ES7UJ"
-      },
-      {
-        "channel": "C05HV4SQD6G",
-        "messageId": "Q0BHL7FCJSW"
-      },
-      {
-        "channel": "UMS39RAGP",
-        "messageId": "Q0BHPUF78LC"
-      },
-      {
-        "channel": "C05HV4SQD6G",
-        "messageId": "Q0BHJ7KFC7Q"
-      },
-      {
-        "channel": "UMS39RAGP",
-        "messageId": "Q0BH4S79EA3"
-      },
-      {
-        "channel": "C05HV4SQD6G",
-        "messageId": "Q0BHL7BTSR0"
-      },
-      {
-        "channel": "UMS39RAGP",
-        "messageId": "Q0BHJ7KF0EA"
-      },
-      {
-        "channel": "C05HV4SQD6G",
-        "messageId": "Q0BH4S8JXQX"
-      },
-      {
-        "channel": "UMS39RAGP",
-        "messageId": "Q0BHGU57NLD"
-      },
-      {
-        "channel": "C05HV4SQD6G",
-        "messageId": "Q0BHJ7JJV5L"
-      },
-      {
-        "channel": "UMS39RAGP",
-        "messageId": "Q0BH4S8LD8X"
-      },
-      {
-        "channel": "C05HV4SQD6G",
-        "messageId": "Q0BH4S8E0NT"
-      },
-      {
-        "channel": "UMS39RAGP",
-        "messageId": "Q0BJEH8CD5W"
-      },
-      {
-        "channel": "C05HV4SQD6G",
-        "messageId": "Q0BH4S8GW5V"
-      },
-      {
-        "channel": "UMS39RAGP",
-        "messageId": "Q0BHN519RQR"
-      },
-      {
-        "channel": "C05HV4SQD6G",
-        "messageId": "Q0BHPUG9KMJ"
-      }
-    ],
     "ae6dc3fadc19d572e62251318c6d9379": [
       {
         "channel": "UMS39RAGP",
@@ -20045,6 +20002,380 @@
         "channel": "C05JGF817H6",
         "messageId": "Q0BMHVBNNBS"
       }
+    ],
+    "e60a1e831c253b424751399a5e3ec002": [
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BLRPRTAMC"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0BLRPS3L30"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0BLVMBBLNM"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BLQEZJ45B"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0BLVMASWTT"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0BLCCE4RK9"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BLMG5K4KV"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0BLQEZN3L5"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0BLQF02U2Z"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BLCCE3XKR"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0BLCCE2D71"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0BLVMBF9B3"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BMN3WG664"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0BLQF02X45"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0BMN3WHFJ4"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BLTPC23TL"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0BLTPANN7L"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0BLVMBMX5X"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BLCCBLV0F"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0BLMG5P0CT"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0BLXEAEU4C"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BLQF0PQ8M"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0BLTPBK1AN"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0BLMG65VUK"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BLXE8KXRA"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0BLVMAA4C9"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0BLVMBGQ2D"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BLCCFDHP1"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0BLCCEUWT1"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0BLMG5T71R"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BLRPT4A0N"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0BMN3WRLMN"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0BMN3WU0DN"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BLMG6AE2X"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0BMN3X24M6"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0BMN3WKTCY"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BLQF05LJ1"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0BLRPR68VC"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0BLRPT6HF0"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BLCCF5DST"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0BLMG6VAV9"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0BLRPT94LW"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BLTPC00Q2"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0BLQF0RVLM"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0BLRPTG7QE"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BLRPTHE3G"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0BLQF18R0V"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0BLXECAJNQ"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BLCCFPUKZ"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0BLMG734NP"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0BLMG6SJRH"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BLCCFA3L7"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0BLVMCLZG9"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0BLRPTTQPQ"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BLXEC8F6Y"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0BLVMDBFJM"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0BMN3YER7A"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BLRPUBSJJ"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0BLQF1CP1B"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0BLXEBL3B6"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BLCCGNYKZ"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0BLRPU079U"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0BLTPD7SUA"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BMN3YSLGG"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0BLXEC3KM2"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0BLXEC226Q"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BLXEC79L4"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0BLMG7UXTM"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0BLTPCPPJ6"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BLCCG4ZTR"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0BLVMDDEJD"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0BLCCGV76K"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BLVMDFABT"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0BLCBL183H"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0BLQF1G5FX"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BLQF1CDNZ"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0BMN3Z6WP2"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0BLXECQFEG"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BLMG7LRNF"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0BLRPV8KFY"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0BLMG7T7LK"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BLRPUE3C6"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0BLQF2DF6Z"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0BLQF2HLJ1"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BLMG8CDD1"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0BLXED47GC"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0BLTPE0S02"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BLTPDKH4J"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0BLCCH82G7"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0BLVME92U9"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BLXEDG1M2"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0BLQF29A9K"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0BLVMDUSTT"
+      }
     ]
   },
   "processedMessageTs": {
@@ -20156,8 +20487,9 @@
     "1784927154.364169": true,
     "1784927091.782469": true,
     "1785341537.959409": true,
-    "1785340354.026279": true
+    "1785340354.026279": true,
+    "1785353482.977639": true
   },
   "lastWeeklySummaryDate": "2026-W30",
-  "lastRun": "2026-07-29T19:22:32.802Z"
+  "lastRun": "2026-07-30T06:02:37.829Z"
 }
