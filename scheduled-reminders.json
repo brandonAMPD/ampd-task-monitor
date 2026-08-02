@@ -16529,6 +16529,13 @@
       "task": "Restructure/improve client type segmentation in Freshdesk with more Type categories and client classifications",
       "assignee": "Meg 'The Sage' Scheffler",
       "reminderDate": "2026-09-06"
+    },
+    "96d2ff7b90a185e6c54e65a290b9c5df|overdue|2026-11-30": {
+      "scheduledAt": "2026-08-02T18:01:26.073Z",
+      "type": "overdue",
+      "task": "Check Cloudconvert usage and look at moving to new subscription as needed",
+      "assignee": "Josh 'The Ninja' Morales",
+      "reminderDate": "2026-11-30"
     }
   },
   "scheduledMessageIds": {
@@ -18392,6 +18399,18 @@
       {
         "channel": "C093VPK55NF",
         "messageId": "Q0BM70FTVJP"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BML5C725S"
+      },
+      {
+        "channel": "U07FVUF09T7",
+        "messageId": "Q0BM13GP955"
+      },
+      {
+        "channel": "C093VPK55NF",
+        "messageId": "Q0BML5CE1TN"
       }
     ],
     "94fb80fe57974915ad709df6838d0e7b": [
@@ -23630,5 +23649,5 @@
     "1785613253.977869": true
   },
   "lastWeeklySummaryDate": "2026-W31",
-  "lastRun": "2026-08-02T08:21:46.563Z"
+  "lastRun": "2026-08-02T18:01:35.142Z"
 }
