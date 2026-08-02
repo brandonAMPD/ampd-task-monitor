@@ -1357,6 +1357,20 @@
       "completed": false,
       "completedAt": null,
       "firstSeenAt": "2026-07-31T18:01:29.430Z"
+    },
+    "5126df325ed3a98194e249d473990c58": {
+      "task": "Restructure/improve client type segmentation in Freshdesk with more Type categories and client classifications",
+      "assignee_name": "Meg 'The Sage' Scheffler",
+      "assignee_slack_mention": "@Meg 'The Sage' Scheffler",
+      "assigned_date": "2026-08-01",
+      "due_date": "2026-08-07",
+      "message_ts": "1785613253.977869",
+      "source_message": "@Meg 'The Sage' Scheffler please start looking at restructuring/improving client type segmentation in Freshdesk.",
+      "assigneeId": "U05FE9QNFSQ",
+      "messageTs": "1785613253.977869",
+      "completed": false,
+      "completedAt": null,
+      "firstSeenAt": "2026-08-02T06:01:26.123Z"
     }
   },
   "scheduled": {
@@ -16277,6 +16291,244 @@
       "task": "Check Cloudconvert usage and look at moving to new subscription as needed",
       "assignee": "Josh 'The Ninja' Morales",
       "reminderDate": "2026-11-29"
+    },
+    "5126df325ed3a98194e249d473990c58|midpoint|2026-08-04": {
+      "scheduledAt": "2026-08-02T06:01:37.502Z",
+      "type": "midpoint",
+      "task": "Restructure/improve client type segmentation in Freshdesk with more Type categories and client classifications",
+      "assignee": "Meg 'The Sage' Scheffler",
+      "reminderDate": "2026-08-04"
+    },
+    "5126df325ed3a98194e249d473990c58|nag|2026-08-05": {
+      "scheduledAt": "2026-08-02T06:01:38.163Z",
+      "type": "nag",
+      "task": "Restructure/improve client type segmentation in Freshdesk with more Type categories and client classifications",
+      "assignee": "Meg 'The Sage' Scheffler",
+      "reminderDate": "2026-08-05"
+    },
+    "5126df325ed3a98194e249d473990c58|nag|2026-08-06": {
+      "scheduledAt": "2026-08-02T06:01:38.871Z",
+      "type": "nag",
+      "task": "Restructure/improve client type segmentation in Freshdesk with more Type categories and client classifications",
+      "assignee": "Meg 'The Sage' Scheffler",
+      "reminderDate": "2026-08-06"
+    },
+    "5126df325ed3a98194e249d473990c58|due|2026-08-07": {
+      "scheduledAt": "2026-08-02T06:01:39.958Z",
+      "type": "due",
+      "task": "Restructure/improve client type segmentation in Freshdesk with more Type categories and client classifications",
+      "assignee": "Meg 'The Sage' Scheffler",
+      "reminderDate": "2026-08-07"
+    },
+    "5126df325ed3a98194e249d473990c58|overdue|2026-08-08": {
+      "scheduledAt": "2026-08-02T06:01:40.989Z",
+      "type": "overdue",
+      "task": "Restructure/improve client type segmentation in Freshdesk with more Type categories and client classifications",
+      "assignee": "Meg 'The Sage' Scheffler",
+      "reminderDate": "2026-08-08"
+    },
+    "5126df325ed3a98194e249d473990c58|overdue|2026-08-09": {
+      "scheduledAt": "2026-08-02T06:01:41.653Z",
+      "type": "overdue",
+      "task": "Restructure/improve client type segmentation in Freshdesk with more Type categories and client classifications",
+      "assignee": "Meg 'The Sage' Scheffler",
+      "reminderDate": "2026-08-09"
+    },
+    "5126df325ed3a98194e249d473990c58|overdue|2026-08-10": {
+      "scheduledAt": "2026-08-02T06:01:42.303Z",
+      "type": "overdue",
+      "task": "Restructure/improve client type segmentation in Freshdesk with more Type categories and client classifications",
+      "assignee": "Meg 'The Sage' Scheffler",
+      "reminderDate": "2026-08-10"
+    },
+    "5126df325ed3a98194e249d473990c58|overdue|2026-08-11": {
+      "scheduledAt": "2026-08-02T06:01:42.973Z",
+      "type": "overdue",
+      "task": "Restructure/improve client type segmentation in Freshdesk with more Type categories and client classifications",
+      "assignee": "Meg 'The Sage' Scheffler",
+      "reminderDate": "2026-08-11"
+    },
+    "5126df325ed3a98194e249d473990c58|overdue|2026-08-12": {
+      "scheduledAt": "2026-08-02T06:01:43.636Z",
+      "type": "overdue",
+      "task": "Restructure/improve client type segmentation in Freshdesk with more Type categories and client classifications",
+      "assignee": "Meg 'The Sage' Scheffler",
+      "reminderDate": "2026-08-12"
+    },
+    "5126df325ed3a98194e249d473990c58|overdue|2026-08-13": {
+      "scheduledAt": "2026-08-02T06:01:44.290Z",
+      "type": "overdue",
+      "task": "Restructure/improve client type segmentation in Freshdesk with more Type categories and client classifications",
+      "assignee": "Meg 'The Sage' Scheffler",
+      "reminderDate": "2026-08-13"
+    },
+    "5126df325ed3a98194e249d473990c58|overdue|2026-08-14": {
+      "scheduledAt": "2026-08-02T06:01:44.946Z",
+      "type": "overdue",
+      "task": "Restructure/improve client type segmentation in Freshdesk with more Type categories and client classifications",
+      "assignee": "Meg 'The Sage' Scheffler",
+      "reminderDate": "2026-08-14"
+    },
+    "5126df325ed3a98194e249d473990c58|overdue|2026-08-15": {
+      "scheduledAt": "2026-08-02T06:01:45.634Z",
+      "type": "overdue",
+      "task": "Restructure/improve client type segmentation in Freshdesk with more Type categories and client classifications",
+      "assignee": "Meg 'The Sage' Scheffler",
+      "reminderDate": "2026-08-15"
+    },
+    "5126df325ed3a98194e249d473990c58|overdue|2026-08-16": {
+      "scheduledAt": "2026-08-02T06:01:46.291Z",
+      "type": "overdue",
+      "task": "Restructure/improve client type segmentation in Freshdesk with more Type categories and client classifications",
+      "assignee": "Meg 'The Sage' Scheffler",
+      "reminderDate": "2026-08-16"
+    },
+    "5126df325ed3a98194e249d473990c58|overdue|2026-08-17": {
+      "scheduledAt": "2026-08-02T06:01:46.989Z",
+      "type": "overdue",
+      "task": "Restructure/improve client type segmentation in Freshdesk with more Type categories and client classifications",
+      "assignee": "Meg 'The Sage' Scheffler",
+      "reminderDate": "2026-08-17"
+    },
+    "5126df325ed3a98194e249d473990c58|overdue|2026-08-18": {
+      "scheduledAt": "2026-08-02T06:01:47.654Z",
+      "type": "overdue",
+      "task": "Restructure/improve client type segmentation in Freshdesk with more Type categories and client classifications",
+      "assignee": "Meg 'The Sage' Scheffler",
+      "reminderDate": "2026-08-18"
+    },
+    "5126df325ed3a98194e249d473990c58|overdue|2026-08-19": {
+      "scheduledAt": "2026-08-02T06:01:48.345Z",
+      "type": "overdue",
+      "task": "Restructure/improve client type segmentation in Freshdesk with more Type categories and client classifications",
+      "assignee": "Meg 'The Sage' Scheffler",
+      "reminderDate": "2026-08-19"
+    },
+    "5126df325ed3a98194e249d473990c58|overdue|2026-08-20": {
+      "scheduledAt": "2026-08-02T06:01:49.000Z",
+      "type": "overdue",
+      "task": "Restructure/improve client type segmentation in Freshdesk with more Type categories and client classifications",
+      "assignee": "Meg 'The Sage' Scheffler",
+      "reminderDate": "2026-08-20"
+    },
+    "5126df325ed3a98194e249d473990c58|overdue|2026-08-21": {
+      "scheduledAt": "2026-08-02T06:01:49.659Z",
+      "type": "overdue",
+      "task": "Restructure/improve client type segmentation in Freshdesk with more Type categories and client classifications",
+      "assignee": "Meg 'The Sage' Scheffler",
+      "reminderDate": "2026-08-21"
+    },
+    "5126df325ed3a98194e249d473990c58|overdue|2026-08-22": {
+      "scheduledAt": "2026-08-02T06:01:50.331Z",
+      "type": "overdue",
+      "task": "Restructure/improve client type segmentation in Freshdesk with more Type categories and client classifications",
+      "assignee": "Meg 'The Sage' Scheffler",
+      "reminderDate": "2026-08-22"
+    },
+    "5126df325ed3a98194e249d473990c58|overdue|2026-08-23": {
+      "scheduledAt": "2026-08-02T06:01:51.002Z",
+      "type": "overdue",
+      "task": "Restructure/improve client type segmentation in Freshdesk with more Type categories and client classifications",
+      "assignee": "Meg 'The Sage' Scheffler",
+      "reminderDate": "2026-08-23"
+    },
+    "5126df325ed3a98194e249d473990c58|overdue|2026-08-24": {
+      "scheduledAt": "2026-08-02T06:01:51.663Z",
+      "type": "overdue",
+      "task": "Restructure/improve client type segmentation in Freshdesk with more Type categories and client classifications",
+      "assignee": "Meg 'The Sage' Scheffler",
+      "reminderDate": "2026-08-24"
+    },
+    "5126df325ed3a98194e249d473990c58|overdue|2026-08-25": {
+      "scheduledAt": "2026-08-02T06:01:52.356Z",
+      "type": "overdue",
+      "task": "Restructure/improve client type segmentation in Freshdesk with more Type categories and client classifications",
+      "assignee": "Meg 'The Sage' Scheffler",
+      "reminderDate": "2026-08-25"
+    },
+    "5126df325ed3a98194e249d473990c58|overdue|2026-08-26": {
+      "scheduledAt": "2026-08-02T06:01:53.085Z",
+      "type": "overdue",
+      "task": "Restructure/improve client type segmentation in Freshdesk with more Type categories and client classifications",
+      "assignee": "Meg 'The Sage' Scheffler",
+      "reminderDate": "2026-08-26"
+    },
+    "5126df325ed3a98194e249d473990c58|overdue|2026-08-27": {
+      "scheduledAt": "2026-08-02T06:01:53.740Z",
+      "type": "overdue",
+      "task": "Restructure/improve client type segmentation in Freshdesk with more Type categories and client classifications",
+      "assignee": "Meg 'The Sage' Scheffler",
+      "reminderDate": "2026-08-27"
+    },
+    "5126df325ed3a98194e249d473990c58|overdue|2026-08-28": {
+      "scheduledAt": "2026-08-02T06:01:54.393Z",
+      "type": "overdue",
+      "task": "Restructure/improve client type segmentation in Freshdesk with more Type categories and client classifications",
+      "assignee": "Meg 'The Sage' Scheffler",
+      "reminderDate": "2026-08-28"
+    },
+    "5126df325ed3a98194e249d473990c58|overdue|2026-08-29": {
+      "scheduledAt": "2026-08-02T06:01:55.066Z",
+      "type": "overdue",
+      "task": "Restructure/improve client type segmentation in Freshdesk with more Type categories and client classifications",
+      "assignee": "Meg 'The Sage' Scheffler",
+      "reminderDate": "2026-08-29"
+    },
+    "5126df325ed3a98194e249d473990c58|overdue|2026-08-30": {
+      "scheduledAt": "2026-08-02T06:01:55.734Z",
+      "type": "overdue",
+      "task": "Restructure/improve client type segmentation in Freshdesk with more Type categories and client classifications",
+      "assignee": "Meg 'The Sage' Scheffler",
+      "reminderDate": "2026-08-30"
+    },
+    "5126df325ed3a98194e249d473990c58|overdue|2026-08-31": {
+      "scheduledAt": "2026-08-02T06:01:56.388Z",
+      "type": "overdue",
+      "task": "Restructure/improve client type segmentation in Freshdesk with more Type categories and client classifications",
+      "assignee": "Meg 'The Sage' Scheffler",
+      "reminderDate": "2026-08-31"
+    },
+    "5126df325ed3a98194e249d473990c58|overdue|2026-09-01": {
+      "scheduledAt": "2026-08-02T06:01:57.042Z",
+      "type": "overdue",
+      "task": "Restructure/improve client type segmentation in Freshdesk with more Type categories and client classifications",
+      "assignee": "Meg 'The Sage' Scheffler",
+      "reminderDate": "2026-09-01"
+    },
+    "5126df325ed3a98194e249d473990c58|overdue|2026-09-02": {
+      "scheduledAt": "2026-08-02T06:01:57.712Z",
+      "type": "overdue",
+      "task": "Restructure/improve client type segmentation in Freshdesk with more Type categories and client classifications",
+      "assignee": "Meg 'The Sage' Scheffler",
+      "reminderDate": "2026-09-02"
+    },
+    "5126df325ed3a98194e249d473990c58|overdue|2026-09-03": {
+      "scheduledAt": "2026-08-02T06:01:58.369Z",
+      "type": "overdue",
+      "task": "Restructure/improve client type segmentation in Freshdesk with more Type categories and client classifications",
+      "assignee": "Meg 'The Sage' Scheffler",
+      "reminderDate": "2026-09-03"
+    },
+    "5126df325ed3a98194e249d473990c58|overdue|2026-09-04": {
+      "scheduledAt": "2026-08-02T06:01:59.088Z",
+      "type": "overdue",
+      "task": "Restructure/improve client type segmentation in Freshdesk with more Type categories and client classifications",
+      "assignee": "Meg 'The Sage' Scheffler",
+      "reminderDate": "2026-09-04"
+    },
+    "5126df325ed3a98194e249d473990c58|overdue|2026-09-05": {
+      "scheduledAt": "2026-08-02T06:01:59.738Z",
+      "type": "overdue",
+      "task": "Restructure/improve client type segmentation in Freshdesk with more Type categories and client classifications",
+      "assignee": "Meg 'The Sage' Scheffler",
+      "reminderDate": "2026-09-05"
+    },
+    "5126df325ed3a98194e249d473990c58|overdue|2026-09-06": {
+      "scheduledAt": "2026-08-02T06:02:00.403Z",
+      "type": "overdue",
+      "task": "Restructure/improve client type segmentation in Freshdesk with more Type categories and client classifications",
+      "assignee": "Meg 'The Sage' Scheffler",
+      "reminderDate": "2026-09-06"
     }
   },
   "scheduledMessageIds": {
@@ -22847,6 +23099,416 @@
         "channel": "C05JGF817H6",
         "messageId": "Q0BM55P0CP7"
       }
+    ],
+    "5126df325ed3a98194e249d473990c58": [
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BM8HFDG6P"
+      },
+      {
+        "channel": "U05FE9QNFSQ",
+        "messageId": "Q0BMBELK77X"
+      },
+      {
+        "channel": "C05HL1VGA22",
+        "messageId": "Q0BMCR21W3Y"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BM8HFU9PV"
+      },
+      {
+        "channel": "U05FE9QNFSQ",
+        "messageId": "Q0BMGNGHM4Z"
+      },
+      {
+        "channel": "C05HL1VGA22",
+        "messageId": "Q0BN952Q7C0"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BMEQGEK9Q"
+      },
+      {
+        "channel": "U05FE9QNFSQ",
+        "messageId": "Q0BN953GLRW"
+      },
+      {
+        "channel": "C05HL1VGA22",
+        "messageId": "Q0BM8HF9H0T"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BMCR2J738"
+      },
+      {
+        "channel": "U05FE9QNFSQ",
+        "messageId": "Q0BMJFFKHKN"
+      },
+      {
+        "channel": "C05HL1VGA22",
+        "messageId": "Q0BMJFG2JBW"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BM8HFDBEX"
+      },
+      {
+        "channel": "U05FE9QNFSQ",
+        "messageId": "Q0BMGNG6PG9"
+      },
+      {
+        "channel": "C05HL1VGA22",
+        "messageId": "Q0BMBELSFL5"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BMCR272KY"
+      },
+      {
+        "channel": "U05FE9QNFSQ",
+        "messageId": "Q0BMJFGGR52"
+      },
+      {
+        "channel": "C05HL1VGA22",
+        "messageId": "Q0BMBELLKNH"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BMJFG87C4"
+      },
+      {
+        "channel": "U05FE9QNFSQ",
+        "messageId": "Q0BLZDLNESK"
+      },
+      {
+        "channel": "C05HL1VGA22",
+        "messageId": "Q0BLZDM7RDM"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BLZDMCYB1"
+      },
+      {
+        "channel": "U05FE9QNFSQ",
+        "messageId": "Q0BMJFG482Y"
+      },
+      {
+        "channel": "C05HL1VGA22",
+        "messageId": "Q0BMBELV11T"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BM8HF52UB"
+      },
+      {
+        "channel": "U05FE9QNFSQ",
+        "messageId": "Q0BMCR1FX2A"
+      },
+      {
+        "channel": "C05HL1VGA22",
+        "messageId": "Q0BN9540SM6"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BN953M30Q"
+      },
+      {
+        "channel": "U05FE9QNFSQ",
+        "messageId": "Q0BMEQGRC74"
+      },
+      {
+        "channel": "C05HL1VGA22",
+        "messageId": "Q0BM8HFAT19"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BMBELRHJR"
+      },
+      {
+        "channel": "U05FE9QNFSQ",
+        "messageId": "Q0BMJFG4G6Q"
+      },
+      {
+        "channel": "C05HL1VGA22",
+        "messageId": "Q0BLZDME4TH"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BMGNG00DP"
+      },
+      {
+        "channel": "U05FE9QNFSQ",
+        "messageId": "Q0BM8HFPB6X"
+      },
+      {
+        "channel": "C05HL1VGA22",
+        "messageId": "Q0BMEQGS3J6"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BMGNGM57T"
+      },
+      {
+        "channel": "U05FE9QNFSQ",
+        "messageId": "Q0BMGNGHM7B"
+      },
+      {
+        "channel": "C05HL1VGA22",
+        "messageId": "Q0BMCR2FX3Q"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BMJFGFVPE"
+      },
+      {
+        "channel": "U05FE9QNFSQ",
+        "messageId": "Q0BLZDME6JK"
+      },
+      {
+        "channel": "C05HL1VGA22",
+        "messageId": "Q0BMCR32Z9C"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BMBEMDQNR"
+      },
+      {
+        "channel": "U05FE9QNFSQ",
+        "messageId": "Q0BMEQH021Y"
+      },
+      {
+        "channel": "C05HL1VGA22",
+        "messageId": "Q0BMCR2DA78"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BMEQHESPL"
+      },
+      {
+        "channel": "U05FE9QNFSQ",
+        "messageId": "Q0BMBEMPQ4V"
+      },
+      {
+        "channel": "C05HL1VGA22",
+        "messageId": "Q0BMCR2GTBQ"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BMCR2AY3Y"
+      },
+      {
+        "channel": "U05FE9QNFSQ",
+        "messageId": "Q0BM8HELV0B"
+      },
+      {
+        "channel": "C05HL1VGA22",
+        "messageId": "Q0BN95454CQ"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BMEQH3SQ2"
+      },
+      {
+        "channel": "U05FE9QNFSQ",
+        "messageId": "Q0BMCR2PL5C"
+      },
+      {
+        "channel": "C05HL1VGA22",
+        "messageId": "Q0BMJFG44DS"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BMCR42ZEJ"
+      },
+      {
+        "channel": "U05FE9QNFSQ",
+        "messageId": "Q0BMGNGUE73"
+      },
+      {
+        "channel": "C05HL1VGA22",
+        "messageId": "Q0BMEQGLWQ2"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BMGNH02HF"
+      },
+      {
+        "channel": "U05FE9QNFSQ",
+        "messageId": "Q0BMGNGP0CR"
+      },
+      {
+        "channel": "C05HL1VGA22",
+        "messageId": "Q0BMJFGLU68"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BM8HGG0AF"
+      },
+      {
+        "channel": "U05FE9QNFSQ",
+        "messageId": "Q0BMJFFSEJG"
+      },
+      {
+        "channel": "C05HL1VGA22",
+        "messageId": "Q0BLZDMC4A3"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BMCR32UCE"
+      },
+      {
+        "channel": "U05FE9QNFSQ",
+        "messageId": "Q0BMBELTKDK"
+      },
+      {
+        "channel": "C05HL1VGA22",
+        "messageId": "Q0BMGNGRH89"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BM8HG1VC3"
+      },
+      {
+        "channel": "U05FE9QNFSQ",
+        "messageId": "Q0BLZDN1TP1"
+      },
+      {
+        "channel": "C05HL1VGA22",
+        "messageId": "Q0BMCR3352S"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BN954ELBS"
+      },
+      {
+        "channel": "U05FE9QNFSQ",
+        "messageId": "Q0BMJFGM0F6"
+      },
+      {
+        "channel": "C05HL1VGA22",
+        "messageId": "Q0BN954B9TJ"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BLZDMT4LF"
+      },
+      {
+        "channel": "U05FE9QNFSQ",
+        "messageId": "Q0BMEQHAYE6"
+      },
+      {
+        "channel": "C05HL1VGA22",
+        "messageId": "Q0BN954688Y"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BMBEM5QCD"
+      },
+      {
+        "channel": "U05FE9QNFSQ",
+        "messageId": "Q0BMCR2DHD4"
+      },
+      {
+        "channel": "C05HL1VGA22",
+        "messageId": "Q0BLZDMRLKH"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BLZDN6RGF"
+      },
+      {
+        "channel": "U05FE9QNFSQ",
+        "messageId": "Q0BMJFH2M0C"
+      },
+      {
+        "channel": "C05HL1VGA22",
+        "messageId": "Q0BM8HFUHFV"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BMBEMEUA1"
+      },
+      {
+        "channel": "U05FE9QNFSQ",
+        "messageId": "Q0BLZDMSR0F"
+      },
+      {
+        "channel": "C05HL1VGA22",
+        "messageId": "Q0BN954J3DE"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BMCR2E43G"
+      },
+      {
+        "channel": "U05FE9QNFSQ",
+        "messageId": "Q0BMBEMRTPX"
+      },
+      {
+        "channel": "C05HL1VGA22",
+        "messageId": "Q0BMBEMG1EH"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BMGNH4LCR"
+      },
+      {
+        "channel": "U05FE9QNFSQ",
+        "messageId": "Q0BN9546RSL"
+      },
+      {
+        "channel": "C05HL1VGA22",
+        "messageId": "Q0BMBEM0SER"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BLZDN3ENT"
+      },
+      {
+        "channel": "U05FE9QNFSQ",
+        "messageId": "Q0BMJFHBC2Y"
+      },
+      {
+        "channel": "C05HL1VGA22",
+        "messageId": "Q0BMEQHSD4J"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BMGNGHYFK"
+      },
+      {
+        "channel": "U05FE9QNFSQ",
+        "messageId": "Q0BMJFGPZMJ"
+      },
+      {
+        "channel": "C05HL1VGA22",
+        "messageId": "Q0BM8HGCQ11"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BMCR3PE30"
+      },
+      {
+        "channel": "U05FE9QNFSQ",
+        "messageId": "Q0BM8HH9EEP"
+      },
+      {
+        "channel": "C05HL1VGA22",
+        "messageId": "Q0BLZDNLRSB"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BMEQHF010"
+      },
+      {
+        "channel": "U05FE9QNFSQ",
+        "messageId": "Q0BM8HG0RUK"
+      },
+      {
+        "channel": "C05HL1VGA22",
+        "messageId": "Q0BLZDNJL4F"
+      }
     ]
   },
   "processedMessageTs": {
@@ -22964,8 +23626,9 @@
     "1785514252.744759": true,
     "1785514250.183699": true,
     "1785514245.945119": true,
-    "1785514242.081219": true
+    "1785514242.081219": true,
+    "1785613253.977869": true
   },
   "lastWeeklySummaryDate": "2026-W31",
-  "lastRun": "2026-08-01T19:14:33.403Z"
+  "lastRun": "2026-08-02T06:02:00.404Z"
 }
