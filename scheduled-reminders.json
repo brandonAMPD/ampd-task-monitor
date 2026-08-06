@@ -1497,6 +1497,20 @@
       "completed": false,
       "completedAt": null,
       "firstSeenAt": "2026-08-05T19:40:42.691Z"
+    },
+    "a6aee7c1680693d572ae308b03a708d8": {
+      "task": "Check FRD email notification issue for client bookings (e.g. Chad's booking not triggering alert)",
+      "assignee_name": "Mark 'Morpheus' Manaog",
+      "assignee_slack_mention": "@Mark 'Morpheus' Manaog",
+      "assigned_date": "2026-08-05",
+      "due_date": null,
+      "message_ts": "1785969866.011849",
+      "source_message": "@Mark 'Morpheus' Manaog Can you check on something on FRD before whenever we ask clients to book ana appo",
+      "assigneeId": "U023F61R16F",
+      "messageTs": "1785969866.011849",
+      "completed": false,
+      "completedAt": null,
+      "firstSeenAt": "2026-08-06T06:01:38.890Z"
     }
   },
   "scheduled": {
@@ -18314,6 +18328,13 @@
       "task": "Review and consider implementing tools/features from Mike Bonn's LOS into ours",
       "assignee": "Josh 'The Ninja' Morales",
       "reminderDate": "2026-10-30"
+    },
+    "a6aee7c1680693d572ae308b03a708d8|followup|2026-08-12": {
+      "scheduledAt": "2026-08-06T06:01:47.419Z",
+      "type": "followup",
+      "task": "Check FRD email notification issue for client bookings (e.g. Chad's booking not triggering alert)",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-08-12"
     }
   },
   "scheduledMessageIds": {
@@ -26960,6 +26981,20 @@
         "channel": "C093VPK55NF",
         "messageId": "Q0BN8BKR0SJ"
       }
+    ],
+    "a6aee7c1680693d572ae308b03a708d8": [
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BP80W99A4"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0BN7D3FZJP"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0BNDKUNQF4"
+      }
     ]
   },
   "processedMessageTs": {
@@ -27090,8 +27125,9 @@
     "1785948355.721809": true,
     "1785947735.006409": true,
     "1785947494.630189": true,
-    "1785957101.373709": true
+    "1785957101.373709": true,
+    "1785969866.011849": true
   },
   "lastWeeklySummaryDate": "2026-W31",
-  "lastRun": "2026-08-05T19:41:21.065Z"
+  "lastRun": "2026-08-06T06:01:47.420Z"
 }
