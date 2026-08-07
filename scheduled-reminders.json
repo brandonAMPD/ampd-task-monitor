@@ -1539,6 +1539,20 @@
       "completed": false,
       "completedAt": null,
       "firstSeenAt": "2026-08-07T18:03:20.719Z"
+    },
+    "c4e9ec02238f436bce0ffd2d1aa5526d": {
+      "task": "Review Ampd Works Campaign Cleanup Checklist (fix merge tags, grey backgrounds, sender email)",
+      "assignee_name": "Christle 'Knows All' Ochigue",
+      "assignee_slack_mention": "@Christle 'Knows All' Ochigue",
+      "assigned_date": "2026-08-07",
+      "due_date": "2026-08-10",
+      "message_ts": "1786128299.665779",
+      "source_message": "@Christle 'Knows All' Ochigue please review this task due by Monday morning",
+      "assigneeId": "UMCPG3D8A",
+      "messageTs": "1786128299.665779",
+      "completed": false,
+      "completedAt": null,
+      "firstSeenAt": "2026-08-07T19:02:38.912Z"
     }
   },
   "scheduled": {
@@ -18846,6 +18860,237 @@
       "task": "Finish setup/notifications for new 1-on-1 CRM demo calendar",
       "assignee": "Josh 'The Ninja' Morales",
       "reminderDate": "2026-09-09"
+    },
+    "c4e9ec02238f436bce0ffd2d1aa5526d|midpoint|2026-08-08": {
+      "scheduledAt": "2026-08-07T19:02:48.646Z",
+      "type": "midpoint",
+      "task": "Review Ampd Works Campaign Cleanup Checklist (fix merge tags, grey backgrounds, sender email)",
+      "assignee": "Christle 'Knows All' Ochigue",
+      "reminderDate": "2026-08-08"
+    },
+    "c4e9ec02238f436bce0ffd2d1aa5526d|nag|2026-08-09": {
+      "scheduledAt": "2026-08-07T19:02:49.623Z",
+      "type": "nag",
+      "task": "Review Ampd Works Campaign Cleanup Checklist (fix merge tags, grey backgrounds, sender email)",
+      "assignee": "Christle 'Knows All' Ochigue",
+      "reminderDate": "2026-08-09"
+    },
+    "c4e9ec02238f436bce0ffd2d1aa5526d|due|2026-08-10": {
+      "scheduledAt": "2026-08-07T19:02:50.596Z",
+      "type": "due",
+      "task": "Review Ampd Works Campaign Cleanup Checklist (fix merge tags, grey backgrounds, sender email)",
+      "assignee": "Christle 'Knows All' Ochigue",
+      "reminderDate": "2026-08-10"
+    },
+    "c4e9ec02238f436bce0ffd2d1aa5526d|overdue|2026-08-11": {
+      "scheduledAt": "2026-08-07T19:02:51.560Z",
+      "type": "overdue",
+      "task": "Review Ampd Works Campaign Cleanup Checklist (fix merge tags, grey backgrounds, sender email)",
+      "assignee": "Christle 'Knows All' Ochigue",
+      "reminderDate": "2026-08-11"
+    },
+    "c4e9ec02238f436bce0ffd2d1aa5526d|overdue|2026-08-12": {
+      "scheduledAt": "2026-08-07T19:02:52.515Z",
+      "type": "overdue",
+      "task": "Review Ampd Works Campaign Cleanup Checklist (fix merge tags, grey backgrounds, sender email)",
+      "assignee": "Christle 'Knows All' Ochigue",
+      "reminderDate": "2026-08-12"
+    },
+    "c4e9ec02238f436bce0ffd2d1aa5526d|overdue|2026-08-13": {
+      "scheduledAt": "2026-08-07T19:02:53.483Z",
+      "type": "overdue",
+      "task": "Review Ampd Works Campaign Cleanup Checklist (fix merge tags, grey backgrounds, sender email)",
+      "assignee": "Christle 'Knows All' Ochigue",
+      "reminderDate": "2026-08-13"
+    },
+    "c4e9ec02238f436bce0ffd2d1aa5526d|overdue|2026-08-14": {
+      "scheduledAt": "2026-08-07T19:02:54.427Z",
+      "type": "overdue",
+      "task": "Review Ampd Works Campaign Cleanup Checklist (fix merge tags, grey backgrounds, sender email)",
+      "assignee": "Christle 'Knows All' Ochigue",
+      "reminderDate": "2026-08-14"
+    },
+    "c4e9ec02238f436bce0ffd2d1aa5526d|overdue|2026-08-15": {
+      "scheduledAt": "2026-08-07T19:02:55.397Z",
+      "type": "overdue",
+      "task": "Review Ampd Works Campaign Cleanup Checklist (fix merge tags, grey backgrounds, sender email)",
+      "assignee": "Christle 'Knows All' Ochigue",
+      "reminderDate": "2026-08-15"
+    },
+    "c4e9ec02238f436bce0ffd2d1aa5526d|overdue|2026-08-16": {
+      "scheduledAt": "2026-08-07T19:02:56.359Z",
+      "type": "overdue",
+      "task": "Review Ampd Works Campaign Cleanup Checklist (fix merge tags, grey backgrounds, sender email)",
+      "assignee": "Christle 'Knows All' Ochigue",
+      "reminderDate": "2026-08-16"
+    },
+    "c4e9ec02238f436bce0ffd2d1aa5526d|overdue|2026-08-17": {
+      "scheduledAt": "2026-08-07T19:02:57.330Z",
+      "type": "overdue",
+      "task": "Review Ampd Works Campaign Cleanup Checklist (fix merge tags, grey backgrounds, sender email)",
+      "assignee": "Christle 'Knows All' Ochigue",
+      "reminderDate": "2026-08-17"
+    },
+    "c4e9ec02238f436bce0ffd2d1aa5526d|overdue|2026-08-18": {
+      "scheduledAt": "2026-08-07T19:02:58.274Z",
+      "type": "overdue",
+      "task": "Review Ampd Works Campaign Cleanup Checklist (fix merge tags, grey backgrounds, sender email)",
+      "assignee": "Christle 'Knows All' Ochigue",
+      "reminderDate": "2026-08-18"
+    },
+    "c4e9ec02238f436bce0ffd2d1aa5526d|overdue|2026-08-19": {
+      "scheduledAt": "2026-08-07T19:02:59.243Z",
+      "type": "overdue",
+      "task": "Review Ampd Works Campaign Cleanup Checklist (fix merge tags, grey backgrounds, sender email)",
+      "assignee": "Christle 'Knows All' Ochigue",
+      "reminderDate": "2026-08-19"
+    },
+    "c4e9ec02238f436bce0ffd2d1aa5526d|overdue|2026-08-20": {
+      "scheduledAt": "2026-08-07T19:03:00.208Z",
+      "type": "overdue",
+      "task": "Review Ampd Works Campaign Cleanup Checklist (fix merge tags, grey backgrounds, sender email)",
+      "assignee": "Christle 'Knows All' Ochigue",
+      "reminderDate": "2026-08-20"
+    },
+    "c4e9ec02238f436bce0ffd2d1aa5526d|overdue|2026-08-21": {
+      "scheduledAt": "2026-08-07T19:03:01.184Z",
+      "type": "overdue",
+      "task": "Review Ampd Works Campaign Cleanup Checklist (fix merge tags, grey backgrounds, sender email)",
+      "assignee": "Christle 'Knows All' Ochigue",
+      "reminderDate": "2026-08-21"
+    },
+    "c4e9ec02238f436bce0ffd2d1aa5526d|overdue|2026-08-22": {
+      "scheduledAt": "2026-08-07T19:03:02.143Z",
+      "type": "overdue",
+      "task": "Review Ampd Works Campaign Cleanup Checklist (fix merge tags, grey backgrounds, sender email)",
+      "assignee": "Christle 'Knows All' Ochigue",
+      "reminderDate": "2026-08-22"
+    },
+    "c4e9ec02238f436bce0ffd2d1aa5526d|overdue|2026-08-23": {
+      "scheduledAt": "2026-08-07T19:03:03.172Z",
+      "type": "overdue",
+      "task": "Review Ampd Works Campaign Cleanup Checklist (fix merge tags, grey backgrounds, sender email)",
+      "assignee": "Christle 'Knows All' Ochigue",
+      "reminderDate": "2026-08-23"
+    },
+    "c4e9ec02238f436bce0ffd2d1aa5526d|overdue|2026-08-24": {
+      "scheduledAt": "2026-08-07T19:03:04.138Z",
+      "type": "overdue",
+      "task": "Review Ampd Works Campaign Cleanup Checklist (fix merge tags, grey backgrounds, sender email)",
+      "assignee": "Christle 'Knows All' Ochigue",
+      "reminderDate": "2026-08-24"
+    },
+    "c4e9ec02238f436bce0ffd2d1aa5526d|overdue|2026-08-25": {
+      "scheduledAt": "2026-08-07T19:03:05.116Z",
+      "type": "overdue",
+      "task": "Review Ampd Works Campaign Cleanup Checklist (fix merge tags, grey backgrounds, sender email)",
+      "assignee": "Christle 'Knows All' Ochigue",
+      "reminderDate": "2026-08-25"
+    },
+    "c4e9ec02238f436bce0ffd2d1aa5526d|overdue|2026-08-26": {
+      "scheduledAt": "2026-08-07T19:03:06.115Z",
+      "type": "overdue",
+      "task": "Review Ampd Works Campaign Cleanup Checklist (fix merge tags, grey backgrounds, sender email)",
+      "assignee": "Christle 'Knows All' Ochigue",
+      "reminderDate": "2026-08-26"
+    },
+    "c4e9ec02238f436bce0ffd2d1aa5526d|overdue|2026-08-27": {
+      "scheduledAt": "2026-08-07T19:03:07.097Z",
+      "type": "overdue",
+      "task": "Review Ampd Works Campaign Cleanup Checklist (fix merge tags, grey backgrounds, sender email)",
+      "assignee": "Christle 'Knows All' Ochigue",
+      "reminderDate": "2026-08-27"
+    },
+    "c4e9ec02238f436bce0ffd2d1aa5526d|overdue|2026-08-28": {
+      "scheduledAt": "2026-08-07T19:03:08.075Z",
+      "type": "overdue",
+      "task": "Review Ampd Works Campaign Cleanup Checklist (fix merge tags, grey backgrounds, sender email)",
+      "assignee": "Christle 'Knows All' Ochigue",
+      "reminderDate": "2026-08-28"
+    },
+    "c4e9ec02238f436bce0ffd2d1aa5526d|overdue|2026-08-29": {
+      "scheduledAt": "2026-08-07T19:03:09.059Z",
+      "type": "overdue",
+      "task": "Review Ampd Works Campaign Cleanup Checklist (fix merge tags, grey backgrounds, sender email)",
+      "assignee": "Christle 'Knows All' Ochigue",
+      "reminderDate": "2026-08-29"
+    },
+    "c4e9ec02238f436bce0ffd2d1aa5526d|overdue|2026-08-30": {
+      "scheduledAt": "2026-08-07T19:03:10.027Z",
+      "type": "overdue",
+      "task": "Review Ampd Works Campaign Cleanup Checklist (fix merge tags, grey backgrounds, sender email)",
+      "assignee": "Christle 'Knows All' Ochigue",
+      "reminderDate": "2026-08-30"
+    },
+    "c4e9ec02238f436bce0ffd2d1aa5526d|overdue|2026-08-31": {
+      "scheduledAt": "2026-08-07T19:03:10.977Z",
+      "type": "overdue",
+      "task": "Review Ampd Works Campaign Cleanup Checklist (fix merge tags, grey backgrounds, sender email)",
+      "assignee": "Christle 'Knows All' Ochigue",
+      "reminderDate": "2026-08-31"
+    },
+    "c4e9ec02238f436bce0ffd2d1aa5526d|overdue|2026-09-01": {
+      "scheduledAt": "2026-08-07T19:03:11.951Z",
+      "type": "overdue",
+      "task": "Review Ampd Works Campaign Cleanup Checklist (fix merge tags, grey backgrounds, sender email)",
+      "assignee": "Christle 'Knows All' Ochigue",
+      "reminderDate": "2026-09-01"
+    },
+    "c4e9ec02238f436bce0ffd2d1aa5526d|overdue|2026-09-02": {
+      "scheduledAt": "2026-08-07T19:03:12.901Z",
+      "type": "overdue",
+      "task": "Review Ampd Works Campaign Cleanup Checklist (fix merge tags, grey backgrounds, sender email)",
+      "assignee": "Christle 'Knows All' Ochigue",
+      "reminderDate": "2026-09-02"
+    },
+    "c4e9ec02238f436bce0ffd2d1aa5526d|overdue|2026-09-03": {
+      "scheduledAt": "2026-08-07T19:03:13.868Z",
+      "type": "overdue",
+      "task": "Review Ampd Works Campaign Cleanup Checklist (fix merge tags, grey backgrounds, sender email)",
+      "assignee": "Christle 'Knows All' Ochigue",
+      "reminderDate": "2026-09-03"
+    },
+    "c4e9ec02238f436bce0ffd2d1aa5526d|overdue|2026-09-04": {
+      "scheduledAt": "2026-08-07T19:03:14.810Z",
+      "type": "overdue",
+      "task": "Review Ampd Works Campaign Cleanup Checklist (fix merge tags, grey backgrounds, sender email)",
+      "assignee": "Christle 'Knows All' Ochigue",
+      "reminderDate": "2026-09-04"
+    },
+    "c4e9ec02238f436bce0ffd2d1aa5526d|overdue|2026-09-05": {
+      "scheduledAt": "2026-08-07T19:03:15.774Z",
+      "type": "overdue",
+      "task": "Review Ampd Works Campaign Cleanup Checklist (fix merge tags, grey backgrounds, sender email)",
+      "assignee": "Christle 'Knows All' Ochigue",
+      "reminderDate": "2026-09-05"
+    },
+    "c4e9ec02238f436bce0ffd2d1aa5526d|overdue|2026-09-06": {
+      "scheduledAt": "2026-08-07T19:03:16.768Z",
+      "type": "overdue",
+      "task": "Review Ampd Works Campaign Cleanup Checklist (fix merge tags, grey backgrounds, sender email)",
+      "assignee": "Christle 'Knows All' Ochigue",
+      "reminderDate": "2026-09-06"
+    },
+    "c4e9ec02238f436bce0ffd2d1aa5526d|overdue|2026-09-07": {
+      "scheduledAt": "2026-08-07T19:03:17.738Z",
+      "type": "overdue",
+      "task": "Review Ampd Works Campaign Cleanup Checklist (fix merge tags, grey backgrounds, sender email)",
+      "assignee": "Christle 'Knows All' Ochigue",
+      "reminderDate": "2026-09-07"
+    },
+    "c4e9ec02238f436bce0ffd2d1aa5526d|overdue|2026-09-08": {
+      "scheduledAt": "2026-08-07T19:03:18.684Z",
+      "type": "overdue",
+      "task": "Review Ampd Works Campaign Cleanup Checklist (fix merge tags, grey backgrounds, sender email)",
+      "assignee": "Christle 'Knows All' Ochigue",
+      "reminderDate": "2026-09-08"
+    },
+    "c4e9ec02238f436bce0ffd2d1aa5526d|overdue|2026-09-09": {
+      "scheduledAt": "2026-08-07T19:03:19.676Z",
+      "type": "overdue",
+      "task": "Review Ampd Works Campaign Cleanup Checklist (fix merge tags, grey backgrounds, sender email)",
+      "assignee": "Christle 'Knows All' Ochigue",
+      "reminderDate": "2026-09-09"
     }
   },
   "scheduledMessageIds": {
@@ -26224,6 +26469,404 @@
         "channel": "C093VPK55NF",
         "messageId": "Q0BNU6V7798"
       }
+    ],
+    "c4e9ec02238f436bce0ffd2d1aa5526d": [
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BNUKA4R2N"
+      },
+      {
+        "channel": "UMCPG3D8A",
+        "messageId": "Q0BNUK9JMK4"
+      },
+      {
+        "channel": "C08R493ESAJ",
+        "messageId": "Q0BNSLE2ME2"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BNSLEND3Q"
+      },
+      {
+        "channel": "UMCPG3D8A",
+        "messageId": "Q0BNNCLGFHR"
+      },
+      {
+        "channel": "C08R493ESAJ",
+        "messageId": "Q0BNR5K2JBF"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BNUKACXCJ"
+      },
+      {
+        "channel": "UMCPG3D8A",
+        "messageId": "Q0BNWHS5DR7"
+      },
+      {
+        "channel": "C08R493ESAJ",
+        "messageId": "Q0BPP0GKNTA"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BNNCMCTL3"
+      },
+      {
+        "channel": "UMCPG3D8A",
+        "messageId": "Q0BNR5JGRL5"
+      },
+      {
+        "channel": "C08R493ESAJ",
+        "messageId": "Q0BPP0GDB6C"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BNYALFHJQ"
+      },
+      {
+        "channel": "UMCPG3D8A",
+        "messageId": "Q0BPP0G8JN4"
+      },
+      {
+        "channel": "C08R493ESAJ",
+        "messageId": "Q0BNNCM6PDZ"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BND8KPGMD"
+      },
+      {
+        "channel": "UMCPG3D8A",
+        "messageId": "Q0BNUKAK2P4"
+      },
+      {
+        "channel": "C08R493ESAJ",
+        "messageId": "Q0BNWHRNPND"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BNR5K4HMK"
+      },
+      {
+        "channel": "UMCPG3D8A",
+        "messageId": "Q0BND8LCNLX"
+      },
+      {
+        "channel": "C08R493ESAJ",
+        "messageId": "Q0BNUKAUGN6"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BNWHSG4KT"
+      },
+      {
+        "channel": "UMCPG3D8A",
+        "messageId": "Q0BNSLF11KQ"
+      },
+      {
+        "channel": "C08R493ESAJ",
+        "messageId": "Q0BND8LK0LX"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BNSLET0LW"
+      },
+      {
+        "channel": "UMCPG3D8A",
+        "messageId": "Q0BNUKBCZ7U"
+      },
+      {
+        "channel": "C08R493ESAJ",
+        "messageId": "Q0BNUKB95DG"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BNUKBB57U"
+      },
+      {
+        "channel": "UMCPG3D8A",
+        "messageId": "Q0BNR5L9Y4D"
+      },
+      {
+        "channel": "C08R493ESAJ",
+        "messageId": "Q0BPP0G8E9W"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BND8LHHF1"
+      },
+      {
+        "channel": "UMCPG3D8A",
+        "messageId": "Q0BNWHSC33K"
+      },
+      {
+        "channel": "C08R493ESAJ",
+        "messageId": "Q0BNWHS7ELR"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BNR5KDG9K"
+      },
+      {
+        "channel": "UMCPG3D8A",
+        "messageId": "Q0BNUKAV7DY"
+      },
+      {
+        "channel": "C08R493ESAJ",
+        "messageId": "Q0BNUKAURRQ"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BNSLFR3CN"
+      },
+      {
+        "channel": "UMCPG3D8A",
+        "messageId": "Q0BND8K853R"
+      },
+      {
+        "channel": "C08R493ESAJ",
+        "messageId": "Q0BPP0JA03S"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BNNCNEA2X"
+      },
+      {
+        "channel": "UMCPG3D8A",
+        "messageId": "Q0BNR5KQKSR"
+      },
+      {
+        "channel": "C08R493ESAJ",
+        "messageId": "Q0BNR5KUKTP"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BNYAMH9K6"
+      },
+      {
+        "channel": "UMCPG3D8A",
+        "messageId": "Q0BNSLFCA78"
+      },
+      {
+        "channel": "C08R493ESAJ",
+        "messageId": "Q0BPP0HCKJ4"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BNR5KTVQV"
+      },
+      {
+        "channel": "UMCPG3D8A",
+        "messageId": "Q0BNR5LV085"
+      },
+      {
+        "channel": "C08R493ESAJ",
+        "messageId": "Q0BNSLFL2QN"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BND8MV52T"
+      },
+      {
+        "channel": "UMCPG3D8A",
+        "messageId": "Q0BPP0J3FUG"
+      },
+      {
+        "channel": "C08R493ESAJ",
+        "messageId": "Q0BNUKBKU66"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BNSLG9M1U"
+      },
+      {
+        "channel": "UMCPG3D8A",
+        "messageId": "Q0BNR5L40G5"
+      },
+      {
+        "channel": "C08R493ESAJ",
+        "messageId": "Q0BNYANH8BW"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BPP0JEJKS"
+      },
+      {
+        "channel": "UMCPG3D8A",
+        "messageId": "Q0BNUKCM0LS"
+      },
+      {
+        "channel": "C08R493ESAJ",
+        "messageId": "Q0BNR5LH1D3"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BPP0J99KJ"
+      },
+      {
+        "channel": "UMCPG3D8A",
+        "messageId": "Q0BNWHU5SAV"
+      },
+      {
+        "channel": "C08R493ESAJ",
+        "messageId": "Q0BNNCPF3NF"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BNUKC6666"
+      },
+      {
+        "channel": "UMCPG3D8A",
+        "messageId": "Q0BNNCP9V4K"
+      },
+      {
+        "channel": "C08R493ESAJ",
+        "messageId": "Q0BNR5LFZEZ"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BNWHUTTL1"
+      },
+      {
+        "channel": "UMCPG3D8A",
+        "messageId": "Q0BNYANHK9A"
+      },
+      {
+        "channel": "C08R493ESAJ",
+        "messageId": "Q0BNWHU8VCH"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BPP0JM6JU"
+      },
+      {
+        "channel": "UMCPG3D8A",
+        "messageId": "Q0BNR5M462Z"
+      },
+      {
+        "channel": "C08R493ESAJ",
+        "messageId": "Q0BNSLHFS6A"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BNNCQC5MZ"
+      },
+      {
+        "channel": "UMCPG3D8A",
+        "messageId": "Q0BNSLHEX70"
+      },
+      {
+        "channel": "C08R493ESAJ",
+        "messageId": "Q0BNYANTZPW"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BNWHUQ92M"
+      },
+      {
+        "channel": "UMCPG3D8A",
+        "messageId": "Q0BNWHUT6E5"
+      },
+      {
+        "channel": "C08R493ESAJ",
+        "messageId": "Q0BNYAP2HQC"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BND8NDMGF"
+      },
+      {
+        "channel": "UMCPG3D8A",
+        "messageId": "Q0BNR5MSVC5"
+      },
+      {
+        "channel": "C08R493ESAJ",
+        "messageId": "Q0BNNCQ4QSX"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BNUKD8MA6"
+      },
+      {
+        "channel": "UMCPG3D8A",
+        "messageId": "Q0BNNCPSUP5"
+      },
+      {
+        "channel": "C08R493ESAJ",
+        "messageId": "Q0BND8N7JEB"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BNYAP28SY"
+      },
+      {
+        "channel": "UMCPG3D8A",
+        "messageId": "Q0BNYANL404"
+      },
+      {
+        "channel": "C08R493ESAJ",
+        "messageId": "Q0BNYAPBM3N"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BNYAP11L4"
+      },
+      {
+        "channel": "UMCPG3D8A",
+        "messageId": "Q0BNUKD8A1Y"
+      },
+      {
+        "channel": "C08R493ESAJ",
+        "messageId": "Q0BNSLHEX2A"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BNNCQ27M1"
+      },
+      {
+        "channel": "UMCPG3D8A",
+        "messageId": "Q0BNWHUPRQR"
+      },
+      {
+        "channel": "C08R493ESAJ",
+        "messageId": "Q0BPP0KTG00"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BNYANKEGL"
+      },
+      {
+        "channel": "UMCPG3D8A",
+        "messageId": "Q0BNUKE4PK4"
+      },
+      {
+        "channel": "C08R493ESAJ",
+        "messageId": "Q0BNUKCJPK4"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BNR5N0UQ5"
+      },
+      {
+        "channel": "UMCPG3D8A",
+        "messageId": "Q0BNUKDK1EW"
+      },
+      {
+        "channel": "C08R493ESAJ",
+        "messageId": "Q0BNSLJJW4E"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BNSLJE1CN"
+      },
+      {
+        "channel": "UMCPG3D8A",
+        "messageId": "Q0BNUKDRSUS"
+      },
+      {
+        "channel": "C08R493ESAJ",
+        "messageId": "Q0BND8PTFQX"
+      }
     ]
   },
   "processedMessageTs": {
@@ -26357,8 +27000,9 @@
     "1785957101.373709": true,
     "1785969866.011849": true,
     "1786032091.938119": true,
-    "1786117185.147939": true
+    "1786117185.147939": true,
+    "1786128299.665779": true
   },
   "lastWeeklySummaryDate": "2026-W32",
-  "lastRun": "2026-08-07T18:04:00.147Z"
+  "lastRun": "2026-08-07T19:03:19.677Z"
 }
