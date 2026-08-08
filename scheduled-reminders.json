@@ -1581,6 +1581,34 @@
       "completed": false,
       "completedAt": null,
       "firstSeenAt": "2026-08-08T06:01:35.793Z"
+    },
+    "e21d29e4d105b590749c67afc2e3d7d5": {
+      "task": "Review video and help with BLS funnel calendar consolidation and workflow issues",
+      "assignee_name": "Mark 'Morpheus' Manaog",
+      "assignee_slack_mention": "@Mark 'Morpheus' Manaog",
+      "assigned_date": "2026-08-08",
+      "due_date": null,
+      "message_ts": "1786170167.117739",
+      "source_message": "@Mark 'Morpheus' Manaog @Brandon 'The One' Robertson CAN YOU HELP PLEASE, SEE VIDEO.",
+      "assigneeId": "U023F61R16F",
+      "messageTs": "1786170167.117739",
+      "completed": false,
+      "completedAt": null,
+      "firstSeenAt": "2026-08-08T06:49:59.498Z"
+    },
+    "54c3e4f25b48c54feb145ec683361076": {
+      "task": "Review video and help with BLS funnel calendar consolidation and workflow issues",
+      "assignee_name": "Brandon 'The One' Robertson",
+      "assignee_slack_mention": "@Brandon 'The One' Robertson",
+      "assigned_date": "2026-08-08",
+      "due_date": null,
+      "message_ts": "1786170167.117739",
+      "source_message": "@Mark 'Morpheus' Manaog @Brandon 'The One' Robertson CAN YOU HELP PLEASE, SEE VIDEO.",
+      "assigneeId": "UMS39RAGP",
+      "messageTs": "1786170167.117739",
+      "completed": false,
+      "completedAt": null,
+      "firstSeenAt": "2026-08-08T06:49:59.731Z"
     }
   },
   "scheduled": {
@@ -19595,6 +19623,20 @@
       "task": "Create reminder to LB users who send RFQs to suggest leaving lender reviews ~1 week after",
       "assignee": "Chrissy Robertson",
       "reminderDate": "2026-09-29"
+    },
+    "e21d29e4d105b590749c67afc2e3d7d5|followup|2026-08-15": {
+      "scheduledAt": "2026-08-08T06:50:12.586Z",
+      "type": "followup",
+      "task": "Review video and help with BLS funnel calendar consolidation and workflow issues",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-08-15"
+    },
+    "54c3e4f25b48c54feb145ec683361076|followup|2026-08-15": {
+      "scheduledAt": "2026-08-08T06:50:13.533Z",
+      "type": "followup",
+      "task": "Review video and help with BLS funnel calendar consolidation and workflow issues",
+      "assignee": "Brandon 'The One' Robertson",
+      "reminderDate": "2026-08-15"
     }
   },
   "scheduledMessageIds": {
@@ -28191,6 +28233,30 @@
         "channel": "C08RNTW55JM",
         "messageId": "Q0BNV3RSR4N"
       }
+    ],
+    "e21d29e4d105b590749c67afc2e3d7d5": [
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BNX62QGKC"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0BNX62H8QJ"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0BNTMQBPT7"
+      }
+    ],
+    "54c3e4f25b48c54feb145ec683361076": [
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BNZ4JG6E5"
+      },
+      {
+        "channel": "C05HV4SQD6G",
+        "messageId": "Q0BNFQT318X"
+      }
     ]
   },
   "processedMessageTs": {
@@ -28327,8 +28393,9 @@
     "1786117185.147939": true,
     "1786128299.665779": true,
     "1786131406.583449": true,
-    "1786131345.079979": true
+    "1786131345.079979": true,
+    "1786170167.117739": true
   },
   "lastWeeklySummaryDate": "2026-W32",
-  "lastRun": "2026-08-08T06:02:46.067Z"
+  "lastRun": "2026-08-08T06:50:13.534Z"
 }
