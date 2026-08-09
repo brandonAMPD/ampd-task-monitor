@@ -1609,6 +1609,20 @@
       "completed": false,
       "completedAt": null,
       "firstSeenAt": "2026-08-08T06:49:59.731Z"
+    },
+    "44f32c7f32bb6152166ebad3e2956720": {
+      "task": "Determine which stage calendar 'Quick chat with Ampd (multiservice)' should move to",
+      "assignee_name": "Josh 'The Ninja' Morales",
+      "assignee_slack_mention": "@Josh 'The Ninja' Morales",
+      "assigned_date": "2026-08-08",
+      "due_date": null,
+      "message_ts": "1786218815.250089",
+      "source_message": "@Josh 'The Ninja' Morales gen booking I believe",
+      "assigneeId": "U07FVUF09T7",
+      "messageTs": "1786218815.250089",
+      "completed": false,
+      "completedAt": null,
+      "firstSeenAt": "2026-08-09T06:01:36.315Z"
     }
   },
   "scheduled": {
@@ -19644,6 +19658,13 @@
       "task": "Check Cloudconvert usage and look at moving to new subscription as needed",
       "assignee": "Josh 'The Ninja' Morales",
       "reminderDate": "2026-12-06"
+    },
+    "44f32c7f32bb6152166ebad3e2956720|followup|2026-08-15": {
+      "scheduledAt": "2026-08-09T06:01:46.345Z",
+      "type": "followup",
+      "task": "Determine which stage calendar 'Quick chat with Ampd (multiservice)' should move to",
+      "assignee": "Josh 'The Ninja' Morales",
+      "reminderDate": "2026-08-15"
     }
   },
   "scheduledMessageIds": {
@@ -28276,6 +28297,20 @@
         "channel": "C05HV4SQD6G",
         "messageId": "Q0BNFQT318X"
       }
+    ],
+    "44f32c7f32bb6152166ebad3e2956720": [
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BNU30JAUT"
+      },
+      {
+        "channel": "U07FVUF09T7",
+        "messageId": "Q0BNYAU2HEJ"
+      },
+      {
+        "channel": "C093VPK55NF",
+        "messageId": "Q0BPULA5DLY"
+      }
     ]
   },
   "processedMessageTs": {
@@ -28419,8 +28454,11 @@
     "1786214217.089339": true,
     "1786214212.999749": true,
     "1786214208.737019": true,
-    "1786213969.559089": true
+    "1786213969.559089": true,
+    "1786218820.472189": true,
+    "1786218815.250089": true,
+    "1786214604.788429": true
   },
   "lastWeeklySummaryDate": "2026-W32",
-  "lastRun": "2026-08-08T18:42:44.318Z"
+  "lastRun": "2026-08-09T06:01:46.346Z"
 }
