@@ -1469,6 +1469,20 @@
       "completed": false,
       "completedAt": null,
       "firstSeenAt": "2026-08-11T18:01:39.376Z"
+    },
+    "8a5e856afa285a21cca05c2b760ae0a8": {
+      "task": "Complete email address and domain tasks per SOP doc (Lenderbase most urgent)",
+      "assignee_name": "Mark 'Morpheus' Manaog",
+      "assignee_slack_mention": "@Mark 'Morpheus' Manaog",
+      "assigned_date": "2026-08-12",
+      "due_date": "2026-09-01",
+      "message_ts": "1786493223.967559",
+      "source_message": "@Mark 'Morpheus' Manaog here's some things we need to do with email address and domains.  Sop doc:",
+      "assigneeId": "U023F61R16F",
+      "messageTs": "1786493223.967559",
+      "completed": false,
+      "completedAt": null,
+      "firstSeenAt": "2026-08-12T06:01:34.950Z"
     }
   },
   "scheduled": {
@@ -17271,6 +17285,244 @@
       "task": "Move videos off Vimeo to Sprout Video and complete Google Sheet to track and organize progress",
       "assignee": "Christle 'Knows All' Ochigue",
       "reminderDate": "2026-09-18"
+    },
+    "8a5e856afa285a21cca05c2b760ae0a8|midpoint|2026-08-22": {
+      "scheduledAt": "2026-08-12T06:01:39.778Z",
+      "type": "midpoint",
+      "task": "Complete email address and domain tasks per SOP doc (Lenderbase most urgent)",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-08-22"
+    },
+    "8a5e856afa285a21cca05c2b760ae0a8|nag|2026-08-30": {
+      "scheduledAt": "2026-08-12T06:01:40.504Z",
+      "type": "nag",
+      "task": "Complete email address and domain tasks per SOP doc (Lenderbase most urgent)",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-08-30"
+    },
+    "8a5e856afa285a21cca05c2b760ae0a8|nag|2026-08-31": {
+      "scheduledAt": "2026-08-12T06:01:41.222Z",
+      "type": "nag",
+      "task": "Complete email address and domain tasks per SOP doc (Lenderbase most urgent)",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-08-31"
+    },
+    "8a5e856afa285a21cca05c2b760ae0a8|due|2026-09-01": {
+      "scheduledAt": "2026-08-12T06:01:42.061Z",
+      "type": "due",
+      "task": "Complete email address and domain tasks per SOP doc (Lenderbase most urgent)",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-09-01"
+    },
+    "8a5e856afa285a21cca05c2b760ae0a8|overdue|2026-09-02": {
+      "scheduledAt": "2026-08-12T06:01:42.771Z",
+      "type": "overdue",
+      "task": "Complete email address and domain tasks per SOP doc (Lenderbase most urgent)",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-09-02"
+    },
+    "8a5e856afa285a21cca05c2b760ae0a8|overdue|2026-09-03": {
+      "scheduledAt": "2026-08-12T06:01:43.509Z",
+      "type": "overdue",
+      "task": "Complete email address and domain tasks per SOP doc (Lenderbase most urgent)",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-09-03"
+    },
+    "8a5e856afa285a21cca05c2b760ae0a8|overdue|2026-09-04": {
+      "scheduledAt": "2026-08-12T06:01:44.216Z",
+      "type": "overdue",
+      "task": "Complete email address and domain tasks per SOP doc (Lenderbase most urgent)",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-09-04"
+    },
+    "8a5e856afa285a21cca05c2b760ae0a8|overdue|2026-09-05": {
+      "scheduledAt": "2026-08-12T06:01:44.940Z",
+      "type": "overdue",
+      "task": "Complete email address and domain tasks per SOP doc (Lenderbase most urgent)",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-09-05"
+    },
+    "8a5e856afa285a21cca05c2b760ae0a8|overdue|2026-09-06": {
+      "scheduledAt": "2026-08-12T06:01:45.659Z",
+      "type": "overdue",
+      "task": "Complete email address and domain tasks per SOP doc (Lenderbase most urgent)",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-09-06"
+    },
+    "8a5e856afa285a21cca05c2b760ae0a8|overdue|2026-09-07": {
+      "scheduledAt": "2026-08-12T06:01:46.370Z",
+      "type": "overdue",
+      "task": "Complete email address and domain tasks per SOP doc (Lenderbase most urgent)",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-09-07"
+    },
+    "8a5e856afa285a21cca05c2b760ae0a8|overdue|2026-09-08": {
+      "scheduledAt": "2026-08-12T06:01:47.107Z",
+      "type": "overdue",
+      "task": "Complete email address and domain tasks per SOP doc (Lenderbase most urgent)",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-09-08"
+    },
+    "8a5e856afa285a21cca05c2b760ae0a8|overdue|2026-09-09": {
+      "scheduledAt": "2026-08-12T06:01:47.872Z",
+      "type": "overdue",
+      "task": "Complete email address and domain tasks per SOP doc (Lenderbase most urgent)",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-09-09"
+    },
+    "8a5e856afa285a21cca05c2b760ae0a8|overdue|2026-09-10": {
+      "scheduledAt": "2026-08-12T06:01:48.704Z",
+      "type": "overdue",
+      "task": "Complete email address and domain tasks per SOP doc (Lenderbase most urgent)",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-09-10"
+    },
+    "8a5e856afa285a21cca05c2b760ae0a8|overdue|2026-09-11": {
+      "scheduledAt": "2026-08-12T06:01:49.496Z",
+      "type": "overdue",
+      "task": "Complete email address and domain tasks per SOP doc (Lenderbase most urgent)",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-09-11"
+    },
+    "8a5e856afa285a21cca05c2b760ae0a8|overdue|2026-09-12": {
+      "scheduledAt": "2026-08-12T06:01:50.252Z",
+      "type": "overdue",
+      "task": "Complete email address and domain tasks per SOP doc (Lenderbase most urgent)",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-09-12"
+    },
+    "8a5e856afa285a21cca05c2b760ae0a8|overdue|2026-09-13": {
+      "scheduledAt": "2026-08-12T06:01:50.943Z",
+      "type": "overdue",
+      "task": "Complete email address and domain tasks per SOP doc (Lenderbase most urgent)",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-09-13"
+    },
+    "8a5e856afa285a21cca05c2b760ae0a8|overdue|2026-09-14": {
+      "scheduledAt": "2026-08-12T06:01:51.646Z",
+      "type": "overdue",
+      "task": "Complete email address and domain tasks per SOP doc (Lenderbase most urgent)",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-09-14"
+    },
+    "8a5e856afa285a21cca05c2b760ae0a8|overdue|2026-09-15": {
+      "scheduledAt": "2026-08-12T06:01:52.390Z",
+      "type": "overdue",
+      "task": "Complete email address and domain tasks per SOP doc (Lenderbase most urgent)",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-09-15"
+    },
+    "8a5e856afa285a21cca05c2b760ae0a8|overdue|2026-09-16": {
+      "scheduledAt": "2026-08-12T06:01:53.100Z",
+      "type": "overdue",
+      "task": "Complete email address and domain tasks per SOP doc (Lenderbase most urgent)",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-09-16"
+    },
+    "8a5e856afa285a21cca05c2b760ae0a8|overdue|2026-09-17": {
+      "scheduledAt": "2026-08-12T06:01:53.823Z",
+      "type": "overdue",
+      "task": "Complete email address and domain tasks per SOP doc (Lenderbase most urgent)",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-09-17"
+    },
+    "8a5e856afa285a21cca05c2b760ae0a8|overdue|2026-09-18": {
+      "scheduledAt": "2026-08-12T06:01:54.527Z",
+      "type": "overdue",
+      "task": "Complete email address and domain tasks per SOP doc (Lenderbase most urgent)",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-09-18"
+    },
+    "8a5e856afa285a21cca05c2b760ae0a8|overdue|2026-09-19": {
+      "scheduledAt": "2026-08-12T06:01:55.283Z",
+      "type": "overdue",
+      "task": "Complete email address and domain tasks per SOP doc (Lenderbase most urgent)",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-09-19"
+    },
+    "8a5e856afa285a21cca05c2b760ae0a8|overdue|2026-09-20": {
+      "scheduledAt": "2026-08-12T06:01:56.023Z",
+      "type": "overdue",
+      "task": "Complete email address and domain tasks per SOP doc (Lenderbase most urgent)",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-09-20"
+    },
+    "8a5e856afa285a21cca05c2b760ae0a8|overdue|2026-09-21": {
+      "scheduledAt": "2026-08-12T06:01:56.773Z",
+      "type": "overdue",
+      "task": "Complete email address and domain tasks per SOP doc (Lenderbase most urgent)",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-09-21"
+    },
+    "8a5e856afa285a21cca05c2b760ae0a8|overdue|2026-09-22": {
+      "scheduledAt": "2026-08-12T06:01:57.476Z",
+      "type": "overdue",
+      "task": "Complete email address and domain tasks per SOP doc (Lenderbase most urgent)",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-09-22"
+    },
+    "8a5e856afa285a21cca05c2b760ae0a8|overdue|2026-09-23": {
+      "scheduledAt": "2026-08-12T06:01:58.286Z",
+      "type": "overdue",
+      "task": "Complete email address and domain tasks per SOP doc (Lenderbase most urgent)",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-09-23"
+    },
+    "8a5e856afa285a21cca05c2b760ae0a8|overdue|2026-09-24": {
+      "scheduledAt": "2026-08-12T06:01:59.064Z",
+      "type": "overdue",
+      "task": "Complete email address and domain tasks per SOP doc (Lenderbase most urgent)",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-09-24"
+    },
+    "8a5e856afa285a21cca05c2b760ae0a8|overdue|2026-09-25": {
+      "scheduledAt": "2026-08-12T06:01:59.752Z",
+      "type": "overdue",
+      "task": "Complete email address and domain tasks per SOP doc (Lenderbase most urgent)",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-09-25"
+    },
+    "8a5e856afa285a21cca05c2b760ae0a8|overdue|2026-09-26": {
+      "scheduledAt": "2026-08-12T06:02:00.568Z",
+      "type": "overdue",
+      "task": "Complete email address and domain tasks per SOP doc (Lenderbase most urgent)",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-09-26"
+    },
+    "8a5e856afa285a21cca05c2b760ae0a8|overdue|2026-09-27": {
+      "scheduledAt": "2026-08-12T06:02:01.267Z",
+      "type": "overdue",
+      "task": "Complete email address and domain tasks per SOP doc (Lenderbase most urgent)",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-09-27"
+    },
+    "8a5e856afa285a21cca05c2b760ae0a8|overdue|2026-09-28": {
+      "scheduledAt": "2026-08-12T06:02:02.865Z",
+      "type": "overdue",
+      "task": "Complete email address and domain tasks per SOP doc (Lenderbase most urgent)",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-09-28"
+    },
+    "8a5e856afa285a21cca05c2b760ae0a8|overdue|2026-09-29": {
+      "scheduledAt": "2026-08-12T06:02:03.582Z",
+      "type": "overdue",
+      "task": "Complete email address and domain tasks per SOP doc (Lenderbase most urgent)",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-09-29"
+    },
+    "8a5e856afa285a21cca05c2b760ae0a8|overdue|2026-09-30": {
+      "scheduledAt": "2026-08-12T06:02:04.428Z",
+      "type": "overdue",
+      "task": "Complete email address and domain tasks per SOP doc (Lenderbase most urgent)",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-09-30"
+    },
+    "8a5e856afa285a21cca05c2b760ae0a8|overdue|2026-10-01": {
+      "scheduledAt": "2026-08-12T06:02:05.183Z",
+      "type": "overdue",
+      "task": "Complete email address and domain tasks per SOP doc (Lenderbase most urgent)",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-10-01"
     }
   },
   "scheduledMessageIds": {
@@ -25817,6 +26069,416 @@
         "channel": "C08R493ESAJ",
         "messageId": "Q0BPJDCHUJW"
       }
+    ],
+    "8a5e856afa285a21cca05c2b760ae0a8": [
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BPQAWUQD7"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0BPJRBPPPX"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0BPG5KAX0T"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BPQAWTMPB"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0BPQAX4Z33"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0BPG5JTBLK"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BPG5KEQ4T"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0BP71HNG23"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0BPG5GD8E7"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BPQAWLL49"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0BPS368Y12"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0BQGNVHJHE"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BPS369XUL"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0BPS35SPFE"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0BQGNVKY00"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BP71J5TK9"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0BPS371T60"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0BQGNVDE6L"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BPS36V10U"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0BPNC1QSE6"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0BPJRCDM0D"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BPQAXD5MF"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0BPQAWQ7BK"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0BPLDJGK70"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BP71GBRQX"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0BPQAXC665"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0BPQAXBBUZ"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BPG5LHBL3"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0BP71K9A15"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0BPQAX1V5F"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BPG5KFF1R"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0BPQAXH9PB"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0BPG5L2M7V"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BPS370XM2"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0BP71FFKPZ"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0BPNC29G90"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BPJR90W05"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0BQGNX64GY"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0BPS373WHJ"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BQGNX91HN"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0BPG5LAA11"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0BPQATCCGZ"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BQGNW8R7S"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0BPG5KR63D"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0BPQATR9G9"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BPQAXKHA5"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0BPNC2H5LJ"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0BPJRCPZCM"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BP71K57K9"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0BPLDKA7L6"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0BPS37LBUL"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BPNC2DRB4"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0BPLDK1B0E"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0BQGNWET4Y"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BPJRD33A9"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0BPJRDMV6H"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0BPNC2EWJE"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BPJRCS49K"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0BPS3814BE"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0BPNC2GF34"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BP71KHFV5"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0BPS36P0BW"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0BPG5M0WM9"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BPS378E1J"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0BPG5LRMGB"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0BPJRDL4DT"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BPNC30VFU"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0BPG5LTNKV"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0BQGNWSS4Q"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BQGNXBG00"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0BPG5LSW0K"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0BPJRDP537"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BPG5M313M"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0BPS37MPMJ"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0BPJRD0CVB"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BPS3543C4"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0BPQAVHKED"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0BPNC32JCS"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BPS349G4U"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0BP71L42Q7"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0BQGNWM9HN"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BQGNX64SU"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0BPQAYH541"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0BPNC38U9G"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BP71LFY07"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0BP71LCNDD"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0BPJREC405"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BPS38BDPE"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0BPLDLG9BQ"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0BPG5MR9GT"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BPJRE9S2Z"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0BQGNXJB1N"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0BPG5M6AD9"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BPNC4CQNN"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0BPJREMW1K"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0BPQAY2M89"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BPJRE5ZD3"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0BPG5MG3B5"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0BPJRE8BPX"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BPNC43Z7C"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0BPQAZBZK3"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0BPG5NFBSP"
+      }
     ]
   },
   "processedMessageTs": {
@@ -25966,8 +26628,9 @@
     "1786214604.788429": true,
     "1786464805.083599": true,
     "1786464240.619449": true,
-    "1786464198.301109": true
+    "1786464198.301109": true,
+    "1786493223.967559": true
   },
   "lastWeeklySummaryDate": "2026-W32",
-  "lastRun": "2026-08-11T19:05:46.738Z"
+  "lastRun": "2026-08-12T06:02:05.184Z"
 }
