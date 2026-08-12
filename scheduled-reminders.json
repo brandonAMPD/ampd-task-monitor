@@ -1483,6 +1483,20 @@
       "completed": false,
       "completedAt": null,
       "firstSeenAt": "2026-08-12T06:01:34.950Z"
+    },
+    "3363ecfe2dc9dea481891ed39d5b99d8": {
+      "task": "Update all new leads, purchases, bookings for sales/marketing in channel; priority: new AW funnel (purchases, demo bookings, onboarding books)",
+      "assignee_name": "Mark 'Morpheus' Manaog",
+      "assignee_slack_mention": "@Mark 'Morpheus' Manaog",
+      "assigned_date": "2026-08-12",
+      "due_date": "2026-08-18",
+      "message_ts": "1786559510.859279",
+      "source_message": "@Mark 'Morpheus' Manaog in the #C02AJ3AHHR6 channel please update all new leads, purchases, booking",
+      "assigneeId": "U023F61R16F",
+      "messageTs": "1786559510.859279",
+      "completed": false,
+      "completedAt": null,
+      "firstSeenAt": "2026-08-12T19:05:58.064Z"
     }
   },
   "scheduled": {
@@ -17530,6 +17544,244 @@
       "task": "Check Cloudconvert usage and look at moving to new subscription as needed",
       "assignee": "Josh 'The Ninja' Morales",
       "reminderDate": "2026-12-10"
+    },
+    "3363ecfe2dc9dea481891ed39d5b99d8|midpoint|2026-08-15": {
+      "scheduledAt": "2026-08-12T19:06:03.546Z",
+      "type": "midpoint",
+      "task": "Update all new leads, purchases, bookings for sales/marketing in channel; priority: new AW funnel (purchases, demo bookings, onboarding books)",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-08-15"
+    },
+    "3363ecfe2dc9dea481891ed39d5b99d8|nag|2026-08-16": {
+      "scheduledAt": "2026-08-12T19:06:04.509Z",
+      "type": "nag",
+      "task": "Update all new leads, purchases, bookings for sales/marketing in channel; priority: new AW funnel (purchases, demo bookings, onboarding books)",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-08-16"
+    },
+    "3363ecfe2dc9dea481891ed39d5b99d8|nag|2026-08-17": {
+      "scheduledAt": "2026-08-12T19:06:05.476Z",
+      "type": "nag",
+      "task": "Update all new leads, purchases, bookings for sales/marketing in channel; priority: new AW funnel (purchases, demo bookings, onboarding books)",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-08-17"
+    },
+    "3363ecfe2dc9dea481891ed39d5b99d8|due|2026-08-18": {
+      "scheduledAt": "2026-08-12T19:06:06.467Z",
+      "type": "due",
+      "task": "Update all new leads, purchases, bookings for sales/marketing in channel; priority: new AW funnel (purchases, demo bookings, onboarding books)",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-08-18"
+    },
+    "3363ecfe2dc9dea481891ed39d5b99d8|overdue|2026-08-19": {
+      "scheduledAt": "2026-08-12T19:06:07.414Z",
+      "type": "overdue",
+      "task": "Update all new leads, purchases, bookings for sales/marketing in channel; priority: new AW funnel (purchases, demo bookings, onboarding books)",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-08-19"
+    },
+    "3363ecfe2dc9dea481891ed39d5b99d8|overdue|2026-08-20": {
+      "scheduledAt": "2026-08-12T19:06:08.385Z",
+      "type": "overdue",
+      "task": "Update all new leads, purchases, bookings for sales/marketing in channel; priority: new AW funnel (purchases, demo bookings, onboarding books)",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-08-20"
+    },
+    "3363ecfe2dc9dea481891ed39d5b99d8|overdue|2026-08-21": {
+      "scheduledAt": "2026-08-12T19:06:09.344Z",
+      "type": "overdue",
+      "task": "Update all new leads, purchases, bookings for sales/marketing in channel; priority: new AW funnel (purchases, demo bookings, onboarding books)",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-08-21"
+    },
+    "3363ecfe2dc9dea481891ed39d5b99d8|overdue|2026-08-22": {
+      "scheduledAt": "2026-08-12T19:06:10.302Z",
+      "type": "overdue",
+      "task": "Update all new leads, purchases, bookings for sales/marketing in channel; priority: new AW funnel (purchases, demo bookings, onboarding books)",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-08-22"
+    },
+    "3363ecfe2dc9dea481891ed39d5b99d8|overdue|2026-08-23": {
+      "scheduledAt": "2026-08-12T19:06:11.281Z",
+      "type": "overdue",
+      "task": "Update all new leads, purchases, bookings for sales/marketing in channel; priority: new AW funnel (purchases, demo bookings, onboarding books)",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-08-23"
+    },
+    "3363ecfe2dc9dea481891ed39d5b99d8|overdue|2026-08-24": {
+      "scheduledAt": "2026-08-12T19:06:12.246Z",
+      "type": "overdue",
+      "task": "Update all new leads, purchases, bookings for sales/marketing in channel; priority: new AW funnel (purchases, demo bookings, onboarding books)",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-08-24"
+    },
+    "3363ecfe2dc9dea481891ed39d5b99d8|overdue|2026-08-25": {
+      "scheduledAt": "2026-08-12T19:06:13.286Z",
+      "type": "overdue",
+      "task": "Update all new leads, purchases, bookings for sales/marketing in channel; priority: new AW funnel (purchases, demo bookings, onboarding books)",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-08-25"
+    },
+    "3363ecfe2dc9dea481891ed39d5b99d8|overdue|2026-08-26": {
+      "scheduledAt": "2026-08-12T19:06:14.250Z",
+      "type": "overdue",
+      "task": "Update all new leads, purchases, bookings for sales/marketing in channel; priority: new AW funnel (purchases, demo bookings, onboarding books)",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-08-26"
+    },
+    "3363ecfe2dc9dea481891ed39d5b99d8|overdue|2026-08-27": {
+      "scheduledAt": "2026-08-12T19:06:15.216Z",
+      "type": "overdue",
+      "task": "Update all new leads, purchases, bookings for sales/marketing in channel; priority: new AW funnel (purchases, demo bookings, onboarding books)",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-08-27"
+    },
+    "3363ecfe2dc9dea481891ed39d5b99d8|overdue|2026-08-28": {
+      "scheduledAt": "2026-08-12T19:06:16.185Z",
+      "type": "overdue",
+      "task": "Update all new leads, purchases, bookings for sales/marketing in channel; priority: new AW funnel (purchases, demo bookings, onboarding books)",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-08-28"
+    },
+    "3363ecfe2dc9dea481891ed39d5b99d8|overdue|2026-08-29": {
+      "scheduledAt": "2026-08-12T19:06:17.170Z",
+      "type": "overdue",
+      "task": "Update all new leads, purchases, bookings for sales/marketing in channel; priority: new AW funnel (purchases, demo bookings, onboarding books)",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-08-29"
+    },
+    "3363ecfe2dc9dea481891ed39d5b99d8|overdue|2026-08-30": {
+      "scheduledAt": "2026-08-12T19:06:18.161Z",
+      "type": "overdue",
+      "task": "Update all new leads, purchases, bookings for sales/marketing in channel; priority: new AW funnel (purchases, demo bookings, onboarding books)",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-08-30"
+    },
+    "3363ecfe2dc9dea481891ed39d5b99d8|overdue|2026-08-31": {
+      "scheduledAt": "2026-08-12T19:06:19.113Z",
+      "type": "overdue",
+      "task": "Update all new leads, purchases, bookings for sales/marketing in channel; priority: new AW funnel (purchases, demo bookings, onboarding books)",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-08-31"
+    },
+    "3363ecfe2dc9dea481891ed39d5b99d8|overdue|2026-09-01": {
+      "scheduledAt": "2026-08-12T19:06:20.079Z",
+      "type": "overdue",
+      "task": "Update all new leads, purchases, bookings for sales/marketing in channel; priority: new AW funnel (purchases, demo bookings, onboarding books)",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-09-01"
+    },
+    "3363ecfe2dc9dea481891ed39d5b99d8|overdue|2026-09-02": {
+      "scheduledAt": "2026-08-12T19:06:21.072Z",
+      "type": "overdue",
+      "task": "Update all new leads, purchases, bookings for sales/marketing in channel; priority: new AW funnel (purchases, demo bookings, onboarding books)",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-09-02"
+    },
+    "3363ecfe2dc9dea481891ed39d5b99d8|overdue|2026-09-03": {
+      "scheduledAt": "2026-08-12T19:06:22.047Z",
+      "type": "overdue",
+      "task": "Update all new leads, purchases, bookings for sales/marketing in channel; priority: new AW funnel (purchases, demo bookings, onboarding books)",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-09-03"
+    },
+    "3363ecfe2dc9dea481891ed39d5b99d8|overdue|2026-09-04": {
+      "scheduledAt": "2026-08-12T19:06:23.061Z",
+      "type": "overdue",
+      "task": "Update all new leads, purchases, bookings for sales/marketing in channel; priority: new AW funnel (purchases, demo bookings, onboarding books)",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-09-04"
+    },
+    "3363ecfe2dc9dea481891ed39d5b99d8|overdue|2026-09-05": {
+      "scheduledAt": "2026-08-12T19:06:24.043Z",
+      "type": "overdue",
+      "task": "Update all new leads, purchases, bookings for sales/marketing in channel; priority: new AW funnel (purchases, demo bookings, onboarding books)",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-09-05"
+    },
+    "3363ecfe2dc9dea481891ed39d5b99d8|overdue|2026-09-06": {
+      "scheduledAt": "2026-08-12T19:06:25.014Z",
+      "type": "overdue",
+      "task": "Update all new leads, purchases, bookings for sales/marketing in channel; priority: new AW funnel (purchases, demo bookings, onboarding books)",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-09-06"
+    },
+    "3363ecfe2dc9dea481891ed39d5b99d8|overdue|2026-09-07": {
+      "scheduledAt": "2026-08-12T19:06:25.952Z",
+      "type": "overdue",
+      "task": "Update all new leads, purchases, bookings for sales/marketing in channel; priority: new AW funnel (purchases, demo bookings, onboarding books)",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-09-07"
+    },
+    "3363ecfe2dc9dea481891ed39d5b99d8|overdue|2026-09-08": {
+      "scheduledAt": "2026-08-12T19:06:26.887Z",
+      "type": "overdue",
+      "task": "Update all new leads, purchases, bookings for sales/marketing in channel; priority: new AW funnel (purchases, demo bookings, onboarding books)",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-09-08"
+    },
+    "3363ecfe2dc9dea481891ed39d5b99d8|overdue|2026-09-09": {
+      "scheduledAt": "2026-08-12T19:06:27.843Z",
+      "type": "overdue",
+      "task": "Update all new leads, purchases, bookings for sales/marketing in channel; priority: new AW funnel (purchases, demo bookings, onboarding books)",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-09-09"
+    },
+    "3363ecfe2dc9dea481891ed39d5b99d8|overdue|2026-09-10": {
+      "scheduledAt": "2026-08-12T19:06:28.781Z",
+      "type": "overdue",
+      "task": "Update all new leads, purchases, bookings for sales/marketing in channel; priority: new AW funnel (purchases, demo bookings, onboarding books)",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-09-10"
+    },
+    "3363ecfe2dc9dea481891ed39d5b99d8|overdue|2026-09-11": {
+      "scheduledAt": "2026-08-12T19:06:30.084Z",
+      "type": "overdue",
+      "task": "Update all new leads, purchases, bookings for sales/marketing in channel; priority: new AW funnel (purchases, demo bookings, onboarding books)",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-09-11"
+    },
+    "3363ecfe2dc9dea481891ed39d5b99d8|overdue|2026-09-12": {
+      "scheduledAt": "2026-08-12T19:06:31.061Z",
+      "type": "overdue",
+      "task": "Update all new leads, purchases, bookings for sales/marketing in channel; priority: new AW funnel (purchases, demo bookings, onboarding books)",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-09-12"
+    },
+    "3363ecfe2dc9dea481891ed39d5b99d8|overdue|2026-09-13": {
+      "scheduledAt": "2026-08-12T19:06:32.057Z",
+      "type": "overdue",
+      "task": "Update all new leads, purchases, bookings for sales/marketing in channel; priority: new AW funnel (purchases, demo bookings, onboarding books)",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-09-13"
+    },
+    "3363ecfe2dc9dea481891ed39d5b99d8|overdue|2026-09-14": {
+      "scheduledAt": "2026-08-12T19:06:33.272Z",
+      "type": "overdue",
+      "task": "Update all new leads, purchases, bookings for sales/marketing in channel; priority: new AW funnel (purchases, demo bookings, onboarding books)",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-09-14"
+    },
+    "3363ecfe2dc9dea481891ed39d5b99d8|overdue|2026-09-15": {
+      "scheduledAt": "2026-08-12T19:06:34.232Z",
+      "type": "overdue",
+      "task": "Update all new leads, purchases, bookings for sales/marketing in channel; priority: new AW funnel (purchases, demo bookings, onboarding books)",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-09-15"
+    },
+    "3363ecfe2dc9dea481891ed39d5b99d8|overdue|2026-09-16": {
+      "scheduledAt": "2026-08-12T19:06:35.174Z",
+      "type": "overdue",
+      "task": "Update all new leads, purchases, bookings for sales/marketing in channel; priority: new AW funnel (purchases, demo bookings, onboarding books)",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-09-16"
+    },
+    "3363ecfe2dc9dea481891ed39d5b99d8|overdue|2026-09-17": {
+      "scheduledAt": "2026-08-12T19:06:36.183Z",
+      "type": "overdue",
+      "task": "Update all new leads, purchases, bookings for sales/marketing in channel; priority: new AW funnel (purchases, demo bookings, onboarding books)",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-09-17"
     }
   },
   "scheduledMessageIds": {
@@ -26498,6 +26750,416 @@
         "channel": "C05JGF817H6",
         "messageId": "Q0BPG5NFBSP"
       }
+    ],
+    "3363ecfe2dc9dea481891ed39d5b99d8": [
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BPW8RG5RP"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0BPU9TDSTC"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0BPW8QPPKK"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BPSBE8LCE"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0BQNLN4SQ0"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0BPU9SS7K4"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BPN3DH2F5"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0BQNLNTE2U"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0BPSBF319U"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BPCUV5ZAB"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0BPW8RD0V7"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0BQNLN109E"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BPU9T14RG"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0BPQN4G26R"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0BPN3E9EN7"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BPY0Z60S0"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0BPW8S1B89"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0BQNLPDDHN"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BPQN4PZHT"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0BQNLQ4B6U"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0BPCUVQHJB"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BQNLQ8WKS"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0BQNLPDLGY"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0BQNLPDMBJ"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BPQN4SRS9"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0BPN3ESDMZ"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0BPW8S5H41"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BPQN51H61"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0BPN3FCCG3"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0BPSBFHQKY"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BPCUVBKN3"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0BPY0Z8A3E"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0BPW8SBNGZ"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BPW8TLS57"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0BPN3FJ10B"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0BPCUWAERM"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BPW8T9U9X"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0BPCUW4MPZ"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0BPSBG5A3G"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BPY0ZK5AQ"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0BPQN4V4P7"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0BPCUWQM0X"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BPQN5QWJZ"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0BPQN5BJJH"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0BPCUWJABH"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BPQN5KZ8D"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0BPSBGVA0N"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0BPY0ZKLBE"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BQNLQKSD6"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0BPW8T1WSD"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0BPQN5P4LV"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BQNLQBJN4"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0BPCUW8XK9"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0BQNLQ9N1E"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BPN3GN44B"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0BPU9V2JSE"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0BPSBGMVNJ"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BPN3GMS3V"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0BPN3GBYN7"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0BPW8U0QMP"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BPQN6EJ4D"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0BPSBGUDN2"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0BPSBH99AA"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BPQN20Q8M"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0BPQN6B2SZ"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0BPQN32X0V"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BPY10BWHJ"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0BPCUX92LF"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0BPSBGPKEJ"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BPQN6HHBP"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0BPU9WK8KC"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0BPQN6RY2H"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BPQN6DXN1"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0BPQN6NTMK"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0BPSBH88QN"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BPY1086Q4"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0BPN3FR58T"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0BPQN7BCCV"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BPQN7BU85"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0BQNLREQFJ"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0BPU9WFQRG"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BPW8U7XMF"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0BPN3HT0PM"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0BPW8TU71P"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BQNLSS9H6"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0BPQN742SZ"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0BPY123ACC"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BQNLRQ7HN"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0BPY122MM2"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0BPQN7G9T7"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BPSBJB4K0"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0BPW8URSL9"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0BPCUY60G7"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BPY11RK44"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0BPCUXS43H"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0BPU9X099Q"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BPSBK637Y"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0BPCUZ7A7R"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0BPW8USP41"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BQNLSSRFA"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0BPW8V14KB"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0BPW8V8KPT"
+      }
     ]
   },
   "processedMessageTs": {
@@ -26648,8 +27310,9 @@
     "1786464805.083599": true,
     "1786464240.619449": true,
     "1786464198.301109": true,
-    "1786493223.967559": true
+    "1786493223.967559": true,
+    "1786559510.859279": true
   },
   "lastWeeklySummaryDate": "2026-W32",
-  "lastRun": "2026-08-12T18:01:37.647Z"
+  "lastRun": "2026-08-12T19:06:36.185Z"
 }
