@@ -1511,177 +1511,23 @@
       "completed": false,
       "completedAt": null,
       "firstSeenAt": "2026-08-17T06:01:46.905Z"
+    },
+    "f97e6a88d8b1d1ebb0ad63924d4adc4f": {
+      "task": "Build campaign linked in message",
+      "assignee_name": "Christle 'Knows All' Ochigue",
+      "assignee_slack_mention": "@Christle 'Knows All' Ochigue",
+      "assigned_date": "2026-08-17",
+      "due_date": "2026-08-18",
+      "message_ts": "1787010757.812299",
+      "source_message": "@Christle 'Knows All' Ochigue build this campaign by tomorrow am https://dovetail-mktg.slack.com/arc",
+      "assigneeId": "UMCPG3D8A",
+      "messageTs": "1787010757.812299",
+      "completed": false,
+      "completedAt": null,
+      "firstSeenAt": "2026-08-18T06:01:37.084Z"
     }
   },
   "scheduled": {
-    "2b84469c9cea9cdf27250c42588b2f41|midpoint|2026-05-21": {
-      "scheduledAt": "2026-05-20T06:01:02.920Z",
-      "type": "midpoint",
-      "task": "create the cold email outreach to the lenderbase list and make sure they are all tagged as lender",
-      "assignee": "Eddie 'Rockstar' Monarrez",
-      "reminderDate": "2026-05-21"
-    },
-    "2b84469c9cea9cdf27250c42588b2f41|nag|2026-05-22": {
-      "scheduledAt": "2026-05-20T06:01:03.666Z",
-      "type": "nag",
-      "task": "create the cold email outreach to the lenderbase list and make sure they are all tagged as lender",
-      "assignee": "Eddie 'Rockstar' Monarrez",
-      "reminderDate": "2026-05-22"
-    },
-    "2b84469c9cea9cdf27250c42588b2f41|due|2026-05-23": {
-      "scheduledAt": "2026-05-20T06:01:04.413Z",
-      "type": "due",
-      "task": "create the cold email outreach to the lenderbase list and make sure they are all tagged as lender",
-      "assignee": "Eddie 'Rockstar' Monarrez",
-      "reminderDate": "2026-05-23"
-    },
-    "2b84469c9cea9cdf27250c42588b2f41|overdue|2026-05-24": {
-      "scheduledAt": "2026-05-20T06:01:05.133Z",
-      "type": "overdue",
-      "task": "create the cold email outreach to the lenderbase list and make sure they are all tagged as lender",
-      "assignee": "Eddie 'Rockstar' Monarrez",
-      "reminderDate": "2026-05-24"
-    },
-    "2b84469c9cea9cdf27250c42588b2f41|overdue|2026-05-25": {
-      "scheduledAt": "2026-05-20T06:01:05.871Z",
-      "type": "overdue",
-      "task": "create the cold email outreach to the lenderbase list and make sure they are all tagged as lender",
-      "assignee": "Eddie 'Rockstar' Monarrez",
-      "reminderDate": "2026-05-25"
-    },
-    "2b84469c9cea9cdf27250c42588b2f41|overdue|2026-05-26": {
-      "scheduledAt": "2026-05-20T06:01:06.630Z",
-      "type": "overdue",
-      "task": "create the cold email outreach to the lenderbase list and make sure they are all tagged as lender",
-      "assignee": "Eddie 'Rockstar' Monarrez",
-      "reminderDate": "2026-05-26"
-    },
-    "2b84469c9cea9cdf27250c42588b2f41|overdue|2026-05-27": {
-      "scheduledAt": "2026-05-20T06:01:07.343Z",
-      "type": "overdue",
-      "task": "create the cold email outreach to the lenderbase list and make sure they are all tagged as lender",
-      "assignee": "Eddie 'Rockstar' Monarrez",
-      "reminderDate": "2026-05-27"
-    },
-    "2b84469c9cea9cdf27250c42588b2f41|overdue|2026-05-28": {
-      "scheduledAt": "2026-05-20T06:01:08.073Z",
-      "type": "overdue",
-      "task": "create the cold email outreach to the lenderbase list and make sure they are all tagged as lender",
-      "assignee": "Eddie 'Rockstar' Monarrez",
-      "reminderDate": "2026-05-28"
-    },
-    "2b84469c9cea9cdf27250c42588b2f41|overdue|2026-05-29": {
-      "scheduledAt": "2026-05-20T06:01:08.757Z",
-      "type": "overdue",
-      "task": "create the cold email outreach to the lenderbase list and make sure they are all tagged as lender",
-      "assignee": "Eddie 'Rockstar' Monarrez",
-      "reminderDate": "2026-05-29"
-    },
-    "2b84469c9cea9cdf27250c42588b2f41|overdue|2026-05-30": {
-      "scheduledAt": "2026-05-20T06:01:09.490Z",
-      "type": "overdue",
-      "task": "create the cold email outreach to the lenderbase list and make sure they are all tagged as lender",
-      "assignee": "Eddie 'Rockstar' Monarrez",
-      "reminderDate": "2026-05-30"
-    },
-    "2b84469c9cea9cdf27250c42588b2f41|overdue|2026-05-31": {
-      "scheduledAt": "2026-05-20T06:01:10.231Z",
-      "type": "overdue",
-      "task": "create the cold email outreach to the lenderbase list and make sure they are all tagged as lender",
-      "assignee": "Eddie 'Rockstar' Monarrez",
-      "reminderDate": "2026-05-31"
-    },
-    "2b84469c9cea9cdf27250c42588b2f41|overdue|2026-06-01": {
-      "scheduledAt": "2026-05-20T06:01:11.011Z",
-      "type": "overdue",
-      "task": "create the cold email outreach to the lenderbase list and make sure they are all tagged as lender",
-      "assignee": "Eddie 'Rockstar' Monarrez",
-      "reminderDate": "2026-06-01"
-    },
-    "2b84469c9cea9cdf27250c42588b2f41|overdue|2026-06-02": {
-      "scheduledAt": "2026-05-20T06:01:11.729Z",
-      "type": "overdue",
-      "task": "create the cold email outreach to the lenderbase list and make sure they are all tagged as lender",
-      "assignee": "Eddie 'Rockstar' Monarrez",
-      "reminderDate": "2026-06-02"
-    },
-    "2b84469c9cea9cdf27250c42588b2f41|overdue|2026-06-03": {
-      "scheduledAt": "2026-05-20T06:01:12.431Z",
-      "type": "overdue",
-      "task": "create the cold email outreach to the lenderbase list and make sure they are all tagged as lender",
-      "assignee": "Eddie 'Rockstar' Monarrez",
-      "reminderDate": "2026-06-03"
-    },
-    "2b84469c9cea9cdf27250c42588b2f41|overdue|2026-06-04": {
-      "scheduledAt": "2026-05-20T06:01:13.132Z",
-      "type": "overdue",
-      "task": "create the cold email outreach to the lenderbase list and make sure they are all tagged as lender",
-      "assignee": "Eddie 'Rockstar' Monarrez",
-      "reminderDate": "2026-06-04"
-    },
-    "2b84469c9cea9cdf27250c42588b2f41|overdue|2026-06-05": {
-      "scheduledAt": "2026-05-20T06:01:13.843Z",
-      "type": "overdue",
-      "task": "create the cold email outreach to the lenderbase list and make sure they are all tagged as lender",
-      "assignee": "Eddie 'Rockstar' Monarrez",
-      "reminderDate": "2026-06-05"
-    },
-    "2b84469c9cea9cdf27250c42588b2f41|overdue|2026-06-06": {
-      "scheduledAt": "2026-05-20T06:01:14.565Z",
-      "type": "overdue",
-      "task": "create the cold email outreach to the lenderbase list and make sure they are all tagged as lender",
-      "assignee": "Eddie 'Rockstar' Monarrez",
-      "reminderDate": "2026-06-06"
-    },
-    "2b84469c9cea9cdf27250c42588b2f41|overdue|2026-06-07": {
-      "scheduledAt": "2026-05-20T06:01:15.301Z",
-      "type": "overdue",
-      "task": "create the cold email outreach to the lenderbase list and make sure they are all tagged as lender",
-      "assignee": "Eddie 'Rockstar' Monarrez",
-      "reminderDate": "2026-06-07"
-    },
-    "2b84469c9cea9cdf27250c42588b2f41|overdue|2026-06-08": {
-      "scheduledAt": "2026-05-20T06:01:16.030Z",
-      "type": "overdue",
-      "task": "create the cold email outreach to the lenderbase list and make sure they are all tagged as lender",
-      "assignee": "Eddie 'Rockstar' Monarrez",
-      "reminderDate": "2026-06-08"
-    },
-    "2b84469c9cea9cdf27250c42588b2f41|overdue|2026-06-09": {
-      "scheduledAt": "2026-05-20T06:01:16.764Z",
-      "type": "overdue",
-      "task": "create the cold email outreach to the lenderbase list and make sure they are all tagged as lender",
-      "assignee": "Eddie 'Rockstar' Monarrez",
-      "reminderDate": "2026-06-09"
-    },
-    "2b84469c9cea9cdf27250c42588b2f41|overdue|2026-06-10": {
-      "scheduledAt": "2026-05-20T06:01:17.648Z",
-      "type": "overdue",
-      "task": "create the cold email outreach to the lenderbase list and make sure they are all tagged as lender",
-      "assignee": "Eddie 'Rockstar' Monarrez",
-      "reminderDate": "2026-06-10"
-    },
-    "2b84469c9cea9cdf27250c42588b2f41|overdue|2026-06-11": {
-      "scheduledAt": "2026-05-20T06:01:18.620Z",
-      "type": "overdue",
-      "task": "create the cold email outreach to the lenderbase list and make sure they are all tagged as lender",
-      "assignee": "Eddie 'Rockstar' Monarrez",
-      "reminderDate": "2026-06-11"
-    },
-    "2b84469c9cea9cdf27250c42588b2f41|overdue|2026-06-12": {
-      "scheduledAt": "2026-05-20T06:01:19.373Z",
-      "type": "overdue",
-      "task": "create the cold email outreach to the lenderbase list and make sure they are all tagged as lender",
-      "assignee": "Eddie 'Rockstar' Monarrez",
-      "reminderDate": "2026-06-12"
-    },
-    "2b84469c9cea9cdf27250c42588b2f41|overdue|2026-06-13": {
-      "scheduledAt": "2026-05-20T06:01:20.073Z",
-      "type": "overdue",
-      "task": "create the cold email outreach to the lenderbase list and make sure they are all tagged as lender",
-      "assignee": "Eddie 'Rockstar' Monarrez",
-      "reminderDate": "2026-06-13"
-    },
     "2b84469c9cea9cdf27250c42588b2f41|overdue|2026-06-14": {
       "scheduledAt": "2026-05-20T06:01:20.847Z",
       "type": "overdue",
@@ -18069,6 +17915,223 @@
       "task": "Check Cloudconvert usage and look at moving to new subscription as needed",
       "assignee": "Josh 'The Ninja' Morales",
       "reminderDate": "2026-12-15"
+    },
+    "f97e6a88d8b1d1ebb0ad63924d4adc4f|due|2026-08-18": {
+      "scheduledAt": "2026-08-18T06:01:38.201Z",
+      "type": "due",
+      "task": "Build campaign linked in message",
+      "assignee": "Christle 'Knows All' Ochigue",
+      "reminderDate": "2026-08-18"
+    },
+    "f97e6a88d8b1d1ebb0ad63924d4adc4f|overdue|2026-08-19": {
+      "scheduledAt": "2026-08-18T06:01:38.966Z",
+      "type": "overdue",
+      "task": "Build campaign linked in message",
+      "assignee": "Christle 'Knows All' Ochigue",
+      "reminderDate": "2026-08-19"
+    },
+    "f97e6a88d8b1d1ebb0ad63924d4adc4f|overdue|2026-08-20": {
+      "scheduledAt": "2026-08-18T06:01:39.754Z",
+      "type": "overdue",
+      "task": "Build campaign linked in message",
+      "assignee": "Christle 'Knows All' Ochigue",
+      "reminderDate": "2026-08-20"
+    },
+    "f97e6a88d8b1d1ebb0ad63924d4adc4f|overdue|2026-08-21": {
+      "scheduledAt": "2026-08-18T06:01:40.482Z",
+      "type": "overdue",
+      "task": "Build campaign linked in message",
+      "assignee": "Christle 'Knows All' Ochigue",
+      "reminderDate": "2026-08-21"
+    },
+    "f97e6a88d8b1d1ebb0ad63924d4adc4f|overdue|2026-08-22": {
+      "scheduledAt": "2026-08-18T06:01:41.209Z",
+      "type": "overdue",
+      "task": "Build campaign linked in message",
+      "assignee": "Christle 'Knows All' Ochigue",
+      "reminderDate": "2026-08-22"
+    },
+    "f97e6a88d8b1d1ebb0ad63924d4adc4f|overdue|2026-08-23": {
+      "scheduledAt": "2026-08-18T06:01:41.936Z",
+      "type": "overdue",
+      "task": "Build campaign linked in message",
+      "assignee": "Christle 'Knows All' Ochigue",
+      "reminderDate": "2026-08-23"
+    },
+    "f97e6a88d8b1d1ebb0ad63924d4adc4f|overdue|2026-08-24": {
+      "scheduledAt": "2026-08-18T06:01:42.664Z",
+      "type": "overdue",
+      "task": "Build campaign linked in message",
+      "assignee": "Christle 'Knows All' Ochigue",
+      "reminderDate": "2026-08-24"
+    },
+    "f97e6a88d8b1d1ebb0ad63924d4adc4f|overdue|2026-08-25": {
+      "scheduledAt": "2026-08-18T06:01:43.430Z",
+      "type": "overdue",
+      "task": "Build campaign linked in message",
+      "assignee": "Christle 'Knows All' Ochigue",
+      "reminderDate": "2026-08-25"
+    },
+    "f97e6a88d8b1d1ebb0ad63924d4adc4f|overdue|2026-08-26": {
+      "scheduledAt": "2026-08-18T06:01:44.201Z",
+      "type": "overdue",
+      "task": "Build campaign linked in message",
+      "assignee": "Christle 'Knows All' Ochigue",
+      "reminderDate": "2026-08-26"
+    },
+    "f97e6a88d8b1d1ebb0ad63924d4adc4f|overdue|2026-08-27": {
+      "scheduledAt": "2026-08-18T06:01:44.936Z",
+      "type": "overdue",
+      "task": "Build campaign linked in message",
+      "assignee": "Christle 'Knows All' Ochigue",
+      "reminderDate": "2026-08-27"
+    },
+    "f97e6a88d8b1d1ebb0ad63924d4adc4f|overdue|2026-08-28": {
+      "scheduledAt": "2026-08-18T06:01:45.697Z",
+      "type": "overdue",
+      "task": "Build campaign linked in message",
+      "assignee": "Christle 'Knows All' Ochigue",
+      "reminderDate": "2026-08-28"
+    },
+    "f97e6a88d8b1d1ebb0ad63924d4adc4f|overdue|2026-08-29": {
+      "scheduledAt": "2026-08-18T06:01:46.444Z",
+      "type": "overdue",
+      "task": "Build campaign linked in message",
+      "assignee": "Christle 'Knows All' Ochigue",
+      "reminderDate": "2026-08-29"
+    },
+    "f97e6a88d8b1d1ebb0ad63924d4adc4f|overdue|2026-08-30": {
+      "scheduledAt": "2026-08-18T06:01:47.239Z",
+      "type": "overdue",
+      "task": "Build campaign linked in message",
+      "assignee": "Christle 'Knows All' Ochigue",
+      "reminderDate": "2026-08-30"
+    },
+    "f97e6a88d8b1d1ebb0ad63924d4adc4f|overdue|2026-08-31": {
+      "scheduledAt": "2026-08-18T06:01:47.963Z",
+      "type": "overdue",
+      "task": "Build campaign linked in message",
+      "assignee": "Christle 'Knows All' Ochigue",
+      "reminderDate": "2026-08-31"
+    },
+    "f97e6a88d8b1d1ebb0ad63924d4adc4f|overdue|2026-09-01": {
+      "scheduledAt": "2026-08-18T06:01:48.709Z",
+      "type": "overdue",
+      "task": "Build campaign linked in message",
+      "assignee": "Christle 'Knows All' Ochigue",
+      "reminderDate": "2026-09-01"
+    },
+    "f97e6a88d8b1d1ebb0ad63924d4adc4f|overdue|2026-09-02": {
+      "scheduledAt": "2026-08-18T06:01:49.608Z",
+      "type": "overdue",
+      "task": "Build campaign linked in message",
+      "assignee": "Christle 'Knows All' Ochigue",
+      "reminderDate": "2026-09-02"
+    },
+    "f97e6a88d8b1d1ebb0ad63924d4adc4f|overdue|2026-09-03": {
+      "scheduledAt": "2026-08-18T06:01:50.383Z",
+      "type": "overdue",
+      "task": "Build campaign linked in message",
+      "assignee": "Christle 'Knows All' Ochigue",
+      "reminderDate": "2026-09-03"
+    },
+    "f97e6a88d8b1d1ebb0ad63924d4adc4f|overdue|2026-09-04": {
+      "scheduledAt": "2026-08-18T06:01:51.105Z",
+      "type": "overdue",
+      "task": "Build campaign linked in message",
+      "assignee": "Christle 'Knows All' Ochigue",
+      "reminderDate": "2026-09-04"
+    },
+    "f97e6a88d8b1d1ebb0ad63924d4adc4f|overdue|2026-09-05": {
+      "scheduledAt": "2026-08-18T06:01:51.852Z",
+      "type": "overdue",
+      "task": "Build campaign linked in message",
+      "assignee": "Christle 'Knows All' Ochigue",
+      "reminderDate": "2026-09-05"
+    },
+    "f97e6a88d8b1d1ebb0ad63924d4adc4f|overdue|2026-09-06": {
+      "scheduledAt": "2026-08-18T06:01:52.613Z",
+      "type": "overdue",
+      "task": "Build campaign linked in message",
+      "assignee": "Christle 'Knows All' Ochigue",
+      "reminderDate": "2026-09-06"
+    },
+    "f97e6a88d8b1d1ebb0ad63924d4adc4f|overdue|2026-09-07": {
+      "scheduledAt": "2026-08-18T06:01:53.704Z",
+      "type": "overdue",
+      "task": "Build campaign linked in message",
+      "assignee": "Christle 'Knows All' Ochigue",
+      "reminderDate": "2026-09-07"
+    },
+    "f97e6a88d8b1d1ebb0ad63924d4adc4f|overdue|2026-09-08": {
+      "scheduledAt": "2026-08-18T06:01:54.547Z",
+      "type": "overdue",
+      "task": "Build campaign linked in message",
+      "assignee": "Christle 'Knows All' Ochigue",
+      "reminderDate": "2026-09-08"
+    },
+    "f97e6a88d8b1d1ebb0ad63924d4adc4f|overdue|2026-09-09": {
+      "scheduledAt": "2026-08-18T06:01:55.353Z",
+      "type": "overdue",
+      "task": "Build campaign linked in message",
+      "assignee": "Christle 'Knows All' Ochigue",
+      "reminderDate": "2026-09-09"
+    },
+    "f97e6a88d8b1d1ebb0ad63924d4adc4f|overdue|2026-09-10": {
+      "scheduledAt": "2026-08-18T06:01:56.073Z",
+      "type": "overdue",
+      "task": "Build campaign linked in message",
+      "assignee": "Christle 'Knows All' Ochigue",
+      "reminderDate": "2026-09-10"
+    },
+    "f97e6a88d8b1d1ebb0ad63924d4adc4f|overdue|2026-09-11": {
+      "scheduledAt": "2026-08-18T06:01:56.802Z",
+      "type": "overdue",
+      "task": "Build campaign linked in message",
+      "assignee": "Christle 'Knows All' Ochigue",
+      "reminderDate": "2026-09-11"
+    },
+    "f97e6a88d8b1d1ebb0ad63924d4adc4f|overdue|2026-09-12": {
+      "scheduledAt": "2026-08-18T06:01:57.561Z",
+      "type": "overdue",
+      "task": "Build campaign linked in message",
+      "assignee": "Christle 'Knows All' Ochigue",
+      "reminderDate": "2026-09-12"
+    },
+    "f97e6a88d8b1d1ebb0ad63924d4adc4f|overdue|2026-09-13": {
+      "scheduledAt": "2026-08-18T06:01:58.308Z",
+      "type": "overdue",
+      "task": "Build campaign linked in message",
+      "assignee": "Christle 'Knows All' Ochigue",
+      "reminderDate": "2026-09-13"
+    },
+    "f97e6a88d8b1d1ebb0ad63924d4adc4f|overdue|2026-09-14": {
+      "scheduledAt": "2026-08-18T06:01:59.096Z",
+      "type": "overdue",
+      "task": "Build campaign linked in message",
+      "assignee": "Christle 'Knows All' Ochigue",
+      "reminderDate": "2026-09-14"
+    },
+    "f97e6a88d8b1d1ebb0ad63924d4adc4f|overdue|2026-09-15": {
+      "scheduledAt": "2026-08-18T06:01:59.890Z",
+      "type": "overdue",
+      "task": "Build campaign linked in message",
+      "assignee": "Christle 'Knows All' Ochigue",
+      "reminderDate": "2026-09-15"
+    },
+    "f97e6a88d8b1d1ebb0ad63924d4adc4f|overdue|2026-09-16": {
+      "scheduledAt": "2026-08-18T06:02:00.708Z",
+      "type": "overdue",
+      "task": "Build campaign linked in message",
+      "assignee": "Christle 'Knows All' Ochigue",
+      "reminderDate": "2026-09-16"
+    },
+    "f97e6a88d8b1d1ebb0ad63924d4adc4f|overdue|2026-09-17": {
+      "scheduledAt": "2026-08-18T06:02:01.504Z",
+      "type": "overdue",
+      "task": "Build campaign linked in message",
+      "assignee": "Christle 'Knows All' Ochigue",
+      "reminderDate": "2026-09-17"
     }
   },
   "scheduledMessageIds": {
@@ -27927,6 +27990,380 @@
         "channel": "C05HV4SQD6G",
         "messageId": "Q0BQR5439S8"
       }
+    ],
+    "f97e6a88d8b1d1ebb0ad63924d4adc4f": [
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BQYHNL1Q9"
+      },
+      {
+        "channel": "UMCPG3D8A",
+        "messageId": "Q0BQF88HJRM"
+      },
+      {
+        "channel": "C08R493ESAJ",
+        "messageId": "Q0BQWJGRHNE"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BQWJGK0US"
+      },
+      {
+        "channel": "UMCPG3D8A",
+        "messageId": "Q0BQULBQHUN"
+      },
+      {
+        "channel": "C08R493ESAJ",
+        "messageId": "Q0BQWJH2U82"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BQF88AQ4X"
+      },
+      {
+        "channel": "UMCPG3D8A",
+        "messageId": "Q0BQQCALN67"
+      },
+      {
+        "channel": "C08R493ESAJ",
+        "messageId": "Q0BR09WJ9C4"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BRR0D0XKJ"
+      },
+      {
+        "channel": "UMCPG3D8A",
+        "messageId": "Q0BQWJH0SDQ"
+      },
+      {
+        "channel": "C08R493ESAJ",
+        "messageId": "Q0BQF89GGSK"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BR09V7VM2"
+      },
+      {
+        "channel": "UMCPG3D8A",
+        "messageId": "Q0BQWJH63DY"
+      },
+      {
+        "channel": "C08R493ESAJ",
+        "messageId": "Q0BQQCB4TJ7"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BQF89CECX"
+      },
+      {
+        "channel": "UMCPG3D8A",
+        "messageId": "Q0BRR0DT5PS"
+      },
+      {
+        "channel": "C08R493ESAJ",
+        "messageId": "Q0BQF89RX0F"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BQQCB5Y75"
+      },
+      {
+        "channel": "UMCPG3D8A",
+        "messageId": "Q0BRR0D2G64"
+      },
+      {
+        "channel": "C08R493ESAJ",
+        "messageId": "Q0BQWJHLV34"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BQF89N2HM"
+      },
+      {
+        "channel": "UMCPG3D8A",
+        "messageId": "Q0BQYHNV541"
+      },
+      {
+        "channel": "C08R493ESAJ",
+        "messageId": "Q0BR09WMJ2G"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BQSU1RKEH"
+      },
+      {
+        "channel": "UMCPG3D8A",
+        "messageId": "Q0BRR0DL02U"
+      },
+      {
+        "channel": "C08R493ESAJ",
+        "messageId": "Q0BQF89NXD5"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BRR0DNK24"
+      },
+      {
+        "channel": "UMCPG3D8A",
+        "messageId": "Q0BR09XB8QL"
+      },
+      {
+        "channel": "C08R493ESAJ",
+        "messageId": "Q0BRR0DGMB2"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BRR0DKU8Y"
+      },
+      {
+        "channel": "UMCPG3D8A",
+        "messageId": "Q0BRR0DBPQQ"
+      },
+      {
+        "channel": "C08R493ESAJ",
+        "messageId": "Q0BQF89HXPH"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BR09X4RL4"
+      },
+      {
+        "channel": "UMCPG3D8A",
+        "messageId": "Q0BQWJH6S02"
+      },
+      {
+        "channel": "C08R493ESAJ",
+        "messageId": "Q0BQYHPKCDP"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BQYHPKMMX"
+      },
+      {
+        "channel": "UMCPG3D8A",
+        "messageId": "Q0BQULF6NLE"
+      },
+      {
+        "channel": "C08R493ESAJ",
+        "messageId": "Q0BR09X0T0U"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BR09XGG84"
+      },
+      {
+        "channel": "UMCPG3D8A",
+        "messageId": "Q0BRR0DRF9N"
+      },
+      {
+        "channel": "C08R493ESAJ",
+        "messageId": "Q0BQF8APUA3"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BQSU29RGV"
+      },
+      {
+        "channel": "UMCPG3D8A",
+        "messageId": "Q0BQWJJ5LGJ"
+      },
+      {
+        "channel": "C08R493ESAJ",
+        "messageId": "Q0BQUL19GK0"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BQF8ACFHV"
+      },
+      {
+        "channel": "UMCPG3D8A",
+        "messageId": "Q0BQF89QSA3"
+      },
+      {
+        "channel": "C08R493ESAJ",
+        "messageId": "Q0BRR0EN056"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BQWJHUY10"
+      },
+      {
+        "channel": "UMCPG3D8A",
+        "messageId": "Q0BQULFG34N"
+      },
+      {
+        "channel": "C08R493ESAJ",
+        "messageId": "Q0BQF8A4T1D"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BR09XQPEY"
+      },
+      {
+        "channel": "UMCPG3D8A",
+        "messageId": "Q0BQSU29FJ9"
+      },
+      {
+        "channel": "C08R493ESAJ",
+        "messageId": "Q0BQYHQG0V7"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BQWJHMQ1G"
+      },
+      {
+        "channel": "UMCPG3D8A",
+        "messageId": "Q0BQF8A6UB1"
+      },
+      {
+        "channel": "C08R493ESAJ",
+        "messageId": "Q0BQF8C68J3"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BQYHQP2E5"
+      },
+      {
+        "channel": "UMCPG3D8A",
+        "messageId": "Q0BQULFNUUE"
+      },
+      {
+        "channel": "C08R493ESAJ",
+        "messageId": "Q0BQSU2FXCM"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BQSU2GYCV"
+      },
+      {
+        "channel": "UMCPG3D8A",
+        "messageId": "Q0BR09XSGBW"
+      },
+      {
+        "channel": "C08R493ESAJ",
+        "messageId": "Q0BQF8AKHCP"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BR09XUPMJ"
+      },
+      {
+        "channel": "UMCPG3D8A",
+        "messageId": "Q0BQWJJ3SH0"
+      },
+      {
+        "channel": "C08R493ESAJ",
+        "messageId": "Q0BRR0EFJEL"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BQWJJA9C2"
+      },
+      {
+        "channel": "UMCPG3D8A",
+        "messageId": "Q0BR09YS9EY"
+      },
+      {
+        "channel": "C08R493ESAJ",
+        "messageId": "Q0BQSU2KCN9"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BQYHQPA6M"
+      },
+      {
+        "channel": "UMCPG3D8A",
+        "messageId": "Q0BQWJJSS3U"
+      },
+      {
+        "channel": "C08R493ESAJ",
+        "messageId": "Q0BRR0EBVQQ"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BQULG2PHU"
+      },
+      {
+        "channel": "UMCPG3D8A",
+        "messageId": "Q0BQSU31JHK"
+      },
+      {
+        "channel": "C08R493ESAJ",
+        "messageId": "Q0BQWJJSJAE"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BQF8B1FPZ"
+      },
+      {
+        "channel": "UMCPG3D8A",
+        "messageId": "Q0BR09YSVNG"
+      },
+      {
+        "channel": "C08R493ESAJ",
+        "messageId": "Q0BQYHQ3XEV"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BQQCCPRQT"
+      },
+      {
+        "channel": "UMCPG3D8A",
+        "messageId": "Q0BQQCDA38B"
+      },
+      {
+        "channel": "C08R493ESAJ",
+        "messageId": "Q0BQULGJTKQ"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BQYHRHCGZ"
+      },
+      {
+        "channel": "UMCPG3D8A",
+        "messageId": "Q0BQQCDDXH9"
+      },
+      {
+        "channel": "C08R493ESAJ",
+        "messageId": "Q0BQSU36ZU5"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BQF8BKVFH"
+      },
+      {
+        "channel": "UMCPG3D8A",
+        "messageId": "Q0BQQCD4Z99"
+      },
+      {
+        "channel": "C08R493ESAJ",
+        "messageId": "Q0BQWJJQF1Q"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BQSU2UUUD"
+      },
+      {
+        "channel": "UMCPG3D8A",
+        "messageId": "Q0BQYHR6BED"
+      },
+      {
+        "channel": "C08R493ESAJ",
+        "messageId": "Q0BRR0FQA5N"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BQF8B2SJ3"
+      },
+      {
+        "channel": "UMCPG3D8A",
+        "messageId": "Q0BR09ZB36G"
+      },
+      {
+        "channel": "C08R493ESAJ",
+        "messageId": "Q0BQF8BUG3Z"
+      }
     ]
   },
   "processedMessageTs": {
@@ -28081,8 +28518,16 @@
     "1786559510.859279": true,
     "1786741870.660479": true,
     "1786929791.838259": true,
-    "1786929548.217449": true
+    "1786929548.217449": true,
+    "1787010757.812299": true,
+    "1787000102.929129": true,
+    "1786999787.415119": true,
+    "1786999778.377669": true,
+    "1786999760.820159": true,
+    "1786999756.057789": true,
+    "1786999739.963809": true,
+    "1786999729.978589": true
   },
   "lastWeeklySummaryDate": "2026-W33",
-  "lastRun": "2026-08-17T18:44:13.474Z"
+  "lastRun": "2026-08-18T06:02:01.505Z"
 }
