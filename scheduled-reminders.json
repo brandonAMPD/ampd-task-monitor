@@ -1298,8 +1298,8 @@
       "source_message": "@Brandon 'The One' Robertson setup payment tracker for Josh's onboarding fees by aug 13th.",
       "assigneeId": "UMS39RAGP",
       "messageTs": "1786032091.938119",
-      "completed": false,
-      "completedAt": null,
+      "completed": true,
+      "completedAt": "2026-08-19T06:01:22.894Z",
       "firstSeenAt": "2026-08-07T00:06:09.075Z"
     },
     "206a944fb3ca697c34b659f714dc4ec3": {
@@ -1525,44 +1525,37 @@
       "completed": true,
       "completedAt": "2026-08-18T18:01:14.095Z",
       "firstSeenAt": "2026-08-18T06:01:37.084Z"
+    },
+    "6d5a78cc092d9bafeda9ab79e9c66575": {
+      "task": "Check snippets in Ampd GHL and remove signature merge tag from email ones, start with CRM folder",
+      "assignee_name": "Christle Ochigue",
+      "assignee_slack_mention": "@Christle 'Knows All' Ochigue",
+      "assigned_date": "2026-08-18",
+      "due_date": "2026-08-20",
+      "message_ts": "1787096282.998359",
+      "source_message": "@Christle 'Knows All' Ochigue please check all the snippets we have in Ampd ghl and remove the signature",
+      "assigneeId": "UMCPG3D8A",
+      "messageTs": "1787096282.998359",
+      "completed": false,
+      "completedAt": null,
+      "firstSeenAt": "2026-08-19T06:01:47.892Z"
+    },
+    "9be9890801f883f1761cb6a465fa9a49": {
+      "task": "Fix V2 to be on (not previous version) and update title to reflect proper stage",
+      "assignee_name": "Mark Manaog",
+      "assignee_slack_mention": "@Mark 'Morpheus' Manaog",
+      "assigned_date": "2026-08-18",
+      "due_date": "2026-08-19",
+      "message_ts": "1787079813.376789",
+      "source_message": "@Mark 'Morpheus' Manaog please fix this or get Josh involved if necessary.  V2 should be on not the previous",
+      "assigneeId": "U023F61R16F",
+      "messageTs": "1787079813.376789",
+      "completed": false,
+      "completedAt": null,
+      "firstSeenAt": "2026-08-19T06:01:47.954Z"
     }
   },
   "scheduled": {
-    "8561d260384c3130f57f29cfb5cbcede|midpoint|2026-06-02": {
-      "scheduledAt": "2026-05-21T06:01:10.956Z",
-      "type": "midpoint",
-      "task": "Work on GMB profile update and DBA filing following document instructions",
-      "assignee": "Chrissy 'Queen Bee' Robertson",
-      "reminderDate": "2026-06-02"
-    },
-    "8561d260384c3130f57f29cfb5cbcede|nag|2026-06-13": {
-      "scheduledAt": "2026-05-21T06:01:11.941Z",
-      "type": "nag",
-      "task": "Work on GMB profile update and DBA filing following document instructions",
-      "assignee": "Chrissy 'Queen Bee' Robertson",
-      "reminderDate": "2026-06-13"
-    },
-    "8561d260384c3130f57f29cfb5cbcede|nag|2026-06-14": {
-      "scheduledAt": "2026-05-21T06:01:12.919Z",
-      "type": "nag",
-      "task": "Work on GMB profile update and DBA filing following document instructions",
-      "assignee": "Chrissy 'Queen Bee' Robertson",
-      "reminderDate": "2026-06-14"
-    },
-    "8561d260384c3130f57f29cfb5cbcede|due|2026-06-15": {
-      "scheduledAt": "2026-05-21T06:01:13.877Z",
-      "type": "due",
-      "task": "Work on GMB profile update and DBA filing following document instructions",
-      "assignee": "Chrissy 'Queen Bee' Robertson",
-      "reminderDate": "2026-06-15"
-    },
-    "8561d260384c3130f57f29cfb5cbcede|overdue|2026-06-16": {
-      "scheduledAt": "2026-05-21T06:01:14.917Z",
-      "type": "overdue",
-      "task": "Work on GMB profile update and DBA filing following document instructions",
-      "assignee": "Chrissy 'Queen Bee' Robertson",
-      "reminderDate": "2026-06-16"
-    },
     "8561d260384c3130f57f29cfb5cbcede|overdue|2026-06-17": {
       "scheduledAt": "2026-05-21T06:01:15.906Z",
       "type": "overdue",
@@ -17363,6 +17356,447 @@
       "task": "Build campaign linked in message",
       "assignee": "Christle 'Knows All' Ochigue",
       "reminderDate": "2026-09-17"
+    },
+    "6d5a78cc092d9bafeda9ab79e9c66575|nag|2026-08-19": {
+      "scheduledAt": "2026-08-19T06:01:48.685Z",
+      "type": "nag",
+      "task": "Check snippets in Ampd GHL and remove signature merge tag from email ones, start with CRM folder",
+      "assignee": "Christle Ochigue",
+      "reminderDate": "2026-08-19"
+    },
+    "6d5a78cc092d9bafeda9ab79e9c66575|due|2026-08-20": {
+      "scheduledAt": "2026-08-19T06:01:49.425Z",
+      "type": "due",
+      "task": "Check snippets in Ampd GHL and remove signature merge tag from email ones, start with CRM folder",
+      "assignee": "Christle Ochigue",
+      "reminderDate": "2026-08-20"
+    },
+    "6d5a78cc092d9bafeda9ab79e9c66575|overdue|2026-08-21": {
+      "scheduledAt": "2026-08-19T06:01:50.126Z",
+      "type": "overdue",
+      "task": "Check snippets in Ampd GHL and remove signature merge tag from email ones, start with CRM folder",
+      "assignee": "Christle Ochigue",
+      "reminderDate": "2026-08-21"
+    },
+    "6d5a78cc092d9bafeda9ab79e9c66575|overdue|2026-08-22": {
+      "scheduledAt": "2026-08-19T06:01:51.877Z",
+      "type": "overdue",
+      "task": "Check snippets in Ampd GHL and remove signature merge tag from email ones, start with CRM folder",
+      "assignee": "Christle Ochigue",
+      "reminderDate": "2026-08-22"
+    },
+    "6d5a78cc092d9bafeda9ab79e9c66575|overdue|2026-08-23": {
+      "scheduledAt": "2026-08-19T06:01:52.568Z",
+      "type": "overdue",
+      "task": "Check snippets in Ampd GHL and remove signature merge tag from email ones, start with CRM folder",
+      "assignee": "Christle Ochigue",
+      "reminderDate": "2026-08-23"
+    },
+    "6d5a78cc092d9bafeda9ab79e9c66575|overdue|2026-08-24": {
+      "scheduledAt": "2026-08-19T06:01:53.282Z",
+      "type": "overdue",
+      "task": "Check snippets in Ampd GHL and remove signature merge tag from email ones, start with CRM folder",
+      "assignee": "Christle Ochigue",
+      "reminderDate": "2026-08-24"
+    },
+    "6d5a78cc092d9bafeda9ab79e9c66575|overdue|2026-08-25": {
+      "scheduledAt": "2026-08-19T06:01:54.004Z",
+      "type": "overdue",
+      "task": "Check snippets in Ampd GHL and remove signature merge tag from email ones, start with CRM folder",
+      "assignee": "Christle Ochigue",
+      "reminderDate": "2026-08-25"
+    },
+    "6d5a78cc092d9bafeda9ab79e9c66575|overdue|2026-08-26": {
+      "scheduledAt": "2026-08-19T06:01:54.701Z",
+      "type": "overdue",
+      "task": "Check snippets in Ampd GHL and remove signature merge tag from email ones, start with CRM folder",
+      "assignee": "Christle Ochigue",
+      "reminderDate": "2026-08-26"
+    },
+    "6d5a78cc092d9bafeda9ab79e9c66575|overdue|2026-08-27": {
+      "scheduledAt": "2026-08-19T06:01:55.436Z",
+      "type": "overdue",
+      "task": "Check snippets in Ampd GHL and remove signature merge tag from email ones, start with CRM folder",
+      "assignee": "Christle Ochigue",
+      "reminderDate": "2026-08-27"
+    },
+    "6d5a78cc092d9bafeda9ab79e9c66575|overdue|2026-08-28": {
+      "scheduledAt": "2026-08-19T06:01:56.395Z",
+      "type": "overdue",
+      "task": "Check snippets in Ampd GHL and remove signature merge tag from email ones, start with CRM folder",
+      "assignee": "Christle Ochigue",
+      "reminderDate": "2026-08-28"
+    },
+    "6d5a78cc092d9bafeda9ab79e9c66575|overdue|2026-08-29": {
+      "scheduledAt": "2026-08-19T06:01:57.148Z",
+      "type": "overdue",
+      "task": "Check snippets in Ampd GHL and remove signature merge tag from email ones, start with CRM folder",
+      "assignee": "Christle Ochigue",
+      "reminderDate": "2026-08-29"
+    },
+    "6d5a78cc092d9bafeda9ab79e9c66575|overdue|2026-08-30": {
+      "scheduledAt": "2026-08-19T06:01:57.880Z",
+      "type": "overdue",
+      "task": "Check snippets in Ampd GHL and remove signature merge tag from email ones, start with CRM folder",
+      "assignee": "Christle Ochigue",
+      "reminderDate": "2026-08-30"
+    },
+    "6d5a78cc092d9bafeda9ab79e9c66575|overdue|2026-08-31": {
+      "scheduledAt": "2026-08-19T06:01:58.614Z",
+      "type": "overdue",
+      "task": "Check snippets in Ampd GHL and remove signature merge tag from email ones, start with CRM folder",
+      "assignee": "Christle Ochigue",
+      "reminderDate": "2026-08-31"
+    },
+    "6d5a78cc092d9bafeda9ab79e9c66575|overdue|2026-09-01": {
+      "scheduledAt": "2026-08-19T06:01:59.332Z",
+      "type": "overdue",
+      "task": "Check snippets in Ampd GHL and remove signature merge tag from email ones, start with CRM folder",
+      "assignee": "Christle Ochigue",
+      "reminderDate": "2026-09-01"
+    },
+    "6d5a78cc092d9bafeda9ab79e9c66575|overdue|2026-09-02": {
+      "scheduledAt": "2026-08-19T06:02:00.072Z",
+      "type": "overdue",
+      "task": "Check snippets in Ampd GHL and remove signature merge tag from email ones, start with CRM folder",
+      "assignee": "Christle Ochigue",
+      "reminderDate": "2026-09-02"
+    },
+    "6d5a78cc092d9bafeda9ab79e9c66575|overdue|2026-09-03": {
+      "scheduledAt": "2026-08-19T06:02:00.828Z",
+      "type": "overdue",
+      "task": "Check snippets in Ampd GHL and remove signature merge tag from email ones, start with CRM folder",
+      "assignee": "Christle Ochigue",
+      "reminderDate": "2026-09-03"
+    },
+    "6d5a78cc092d9bafeda9ab79e9c66575|overdue|2026-09-04": {
+      "scheduledAt": "2026-08-19T06:02:01.612Z",
+      "type": "overdue",
+      "task": "Check snippets in Ampd GHL and remove signature merge tag from email ones, start with CRM folder",
+      "assignee": "Christle Ochigue",
+      "reminderDate": "2026-09-04"
+    },
+    "6d5a78cc092d9bafeda9ab79e9c66575|overdue|2026-09-05": {
+      "scheduledAt": "2026-08-19T06:02:02.388Z",
+      "type": "overdue",
+      "task": "Check snippets in Ampd GHL and remove signature merge tag from email ones, start with CRM folder",
+      "assignee": "Christle Ochigue",
+      "reminderDate": "2026-09-05"
+    },
+    "6d5a78cc092d9bafeda9ab79e9c66575|overdue|2026-09-06": {
+      "scheduledAt": "2026-08-19T06:02:03.070Z",
+      "type": "overdue",
+      "task": "Check snippets in Ampd GHL and remove signature merge tag from email ones, start with CRM folder",
+      "assignee": "Christle Ochigue",
+      "reminderDate": "2026-09-06"
+    },
+    "6d5a78cc092d9bafeda9ab79e9c66575|overdue|2026-09-07": {
+      "scheduledAt": "2026-08-19T06:02:04.535Z",
+      "type": "overdue",
+      "task": "Check snippets in Ampd GHL and remove signature merge tag from email ones, start with CRM folder",
+      "assignee": "Christle Ochigue",
+      "reminderDate": "2026-09-07"
+    },
+    "6d5a78cc092d9bafeda9ab79e9c66575|overdue|2026-09-08": {
+      "scheduledAt": "2026-08-19T06:02:05.240Z",
+      "type": "overdue",
+      "task": "Check snippets in Ampd GHL and remove signature merge tag from email ones, start with CRM folder",
+      "assignee": "Christle Ochigue",
+      "reminderDate": "2026-09-08"
+    },
+    "6d5a78cc092d9bafeda9ab79e9c66575|overdue|2026-09-09": {
+      "scheduledAt": "2026-08-19T06:02:05.981Z",
+      "type": "overdue",
+      "task": "Check snippets in Ampd GHL and remove signature merge tag from email ones, start with CRM folder",
+      "assignee": "Christle Ochigue",
+      "reminderDate": "2026-09-09"
+    },
+    "6d5a78cc092d9bafeda9ab79e9c66575|overdue|2026-09-10": {
+      "scheduledAt": "2026-08-19T06:02:06.720Z",
+      "type": "overdue",
+      "task": "Check snippets in Ampd GHL and remove signature merge tag from email ones, start with CRM folder",
+      "assignee": "Christle Ochigue",
+      "reminderDate": "2026-09-10"
+    },
+    "6d5a78cc092d9bafeda9ab79e9c66575|overdue|2026-09-11": {
+      "scheduledAt": "2026-08-19T06:02:07.435Z",
+      "type": "overdue",
+      "task": "Check snippets in Ampd GHL and remove signature merge tag from email ones, start with CRM folder",
+      "assignee": "Christle Ochigue",
+      "reminderDate": "2026-09-11"
+    },
+    "6d5a78cc092d9bafeda9ab79e9c66575|overdue|2026-09-12": {
+      "scheduledAt": "2026-08-19T06:02:08.169Z",
+      "type": "overdue",
+      "task": "Check snippets in Ampd GHL and remove signature merge tag from email ones, start with CRM folder",
+      "assignee": "Christle Ochigue",
+      "reminderDate": "2026-09-12"
+    },
+    "6d5a78cc092d9bafeda9ab79e9c66575|overdue|2026-09-13": {
+      "scheduledAt": "2026-08-19T06:02:09.088Z",
+      "type": "overdue",
+      "task": "Check snippets in Ampd GHL and remove signature merge tag from email ones, start with CRM folder",
+      "assignee": "Christle Ochigue",
+      "reminderDate": "2026-09-13"
+    },
+    "6d5a78cc092d9bafeda9ab79e9c66575|overdue|2026-09-14": {
+      "scheduledAt": "2026-08-19T06:02:09.803Z",
+      "type": "overdue",
+      "task": "Check snippets in Ampd GHL and remove signature merge tag from email ones, start with CRM folder",
+      "assignee": "Christle Ochigue",
+      "reminderDate": "2026-09-14"
+    },
+    "6d5a78cc092d9bafeda9ab79e9c66575|overdue|2026-09-15": {
+      "scheduledAt": "2026-08-19T06:02:10.525Z",
+      "type": "overdue",
+      "task": "Check snippets in Ampd GHL and remove signature merge tag from email ones, start with CRM folder",
+      "assignee": "Christle Ochigue",
+      "reminderDate": "2026-09-15"
+    },
+    "6d5a78cc092d9bafeda9ab79e9c66575|overdue|2026-09-16": {
+      "scheduledAt": "2026-08-19T06:02:11.245Z",
+      "type": "overdue",
+      "task": "Check snippets in Ampd GHL and remove signature merge tag from email ones, start with CRM folder",
+      "assignee": "Christle Ochigue",
+      "reminderDate": "2026-09-16"
+    },
+    "6d5a78cc092d9bafeda9ab79e9c66575|overdue|2026-09-17": {
+      "scheduledAt": "2026-08-19T06:02:11.963Z",
+      "type": "overdue",
+      "task": "Check snippets in Ampd GHL and remove signature merge tag from email ones, start with CRM folder",
+      "assignee": "Christle Ochigue",
+      "reminderDate": "2026-09-17"
+    },
+    "6d5a78cc092d9bafeda9ab79e9c66575|overdue|2026-09-18": {
+      "scheduledAt": "2026-08-19T06:02:12.689Z",
+      "type": "overdue",
+      "task": "Check snippets in Ampd GHL and remove signature merge tag from email ones, start with CRM folder",
+      "assignee": "Christle Ochigue",
+      "reminderDate": "2026-09-18"
+    },
+    "6d5a78cc092d9bafeda9ab79e9c66575|overdue|2026-09-19": {
+      "scheduledAt": "2026-08-19T06:02:13.449Z",
+      "type": "overdue",
+      "task": "Check snippets in Ampd GHL and remove signature merge tag from email ones, start with CRM folder",
+      "assignee": "Christle Ochigue",
+      "reminderDate": "2026-09-19"
+    },
+    "9be9890801f883f1761cb6a465fa9a49|due|2026-08-19": {
+      "scheduledAt": "2026-08-19T06:02:14.157Z",
+      "type": "due",
+      "task": "Fix V2 to be on (not previous version) and update title to reflect proper stage",
+      "assignee": "Mark Manaog",
+      "reminderDate": "2026-08-19"
+    },
+    "9be9890801f883f1761cb6a465fa9a49|overdue|2026-08-20": {
+      "scheduledAt": "2026-08-19T06:02:14.859Z",
+      "type": "overdue",
+      "task": "Fix V2 to be on (not previous version) and update title to reflect proper stage",
+      "assignee": "Mark Manaog",
+      "reminderDate": "2026-08-20"
+    },
+    "9be9890801f883f1761cb6a465fa9a49|overdue|2026-08-21": {
+      "scheduledAt": "2026-08-19T06:02:15.570Z",
+      "type": "overdue",
+      "task": "Fix V2 to be on (not previous version) and update title to reflect proper stage",
+      "assignee": "Mark Manaog",
+      "reminderDate": "2026-08-21"
+    },
+    "9be9890801f883f1761cb6a465fa9a49|overdue|2026-08-22": {
+      "scheduledAt": "2026-08-19T06:02:16.290Z",
+      "type": "overdue",
+      "task": "Fix V2 to be on (not previous version) and update title to reflect proper stage",
+      "assignee": "Mark Manaog",
+      "reminderDate": "2026-08-22"
+    },
+    "9be9890801f883f1761cb6a465fa9a49|overdue|2026-08-23": {
+      "scheduledAt": "2026-08-19T06:02:17.044Z",
+      "type": "overdue",
+      "task": "Fix V2 to be on (not previous version) and update title to reflect proper stage",
+      "assignee": "Mark Manaog",
+      "reminderDate": "2026-08-23"
+    },
+    "9be9890801f883f1761cb6a465fa9a49|overdue|2026-08-24": {
+      "scheduledAt": "2026-08-19T06:02:17.897Z",
+      "type": "overdue",
+      "task": "Fix V2 to be on (not previous version) and update title to reflect proper stage",
+      "assignee": "Mark Manaog",
+      "reminderDate": "2026-08-24"
+    },
+    "9be9890801f883f1761cb6a465fa9a49|overdue|2026-08-25": {
+      "scheduledAt": "2026-08-19T06:02:18.639Z",
+      "type": "overdue",
+      "task": "Fix V2 to be on (not previous version) and update title to reflect proper stage",
+      "assignee": "Mark Manaog",
+      "reminderDate": "2026-08-25"
+    },
+    "9be9890801f883f1761cb6a465fa9a49|overdue|2026-08-26": {
+      "scheduledAt": "2026-08-19T06:02:19.367Z",
+      "type": "overdue",
+      "task": "Fix V2 to be on (not previous version) and update title to reflect proper stage",
+      "assignee": "Mark Manaog",
+      "reminderDate": "2026-08-26"
+    },
+    "9be9890801f883f1761cb6a465fa9a49|overdue|2026-08-27": {
+      "scheduledAt": "2026-08-19T06:02:20.121Z",
+      "type": "overdue",
+      "task": "Fix V2 to be on (not previous version) and update title to reflect proper stage",
+      "assignee": "Mark Manaog",
+      "reminderDate": "2026-08-27"
+    },
+    "9be9890801f883f1761cb6a465fa9a49|overdue|2026-08-28": {
+      "scheduledAt": "2026-08-19T06:02:20.799Z",
+      "type": "overdue",
+      "task": "Fix V2 to be on (not previous version) and update title to reflect proper stage",
+      "assignee": "Mark Manaog",
+      "reminderDate": "2026-08-28"
+    },
+    "9be9890801f883f1761cb6a465fa9a49|overdue|2026-08-29": {
+      "scheduledAt": "2026-08-19T06:02:21.481Z",
+      "type": "overdue",
+      "task": "Fix V2 to be on (not previous version) and update title to reflect proper stage",
+      "assignee": "Mark Manaog",
+      "reminderDate": "2026-08-29"
+    },
+    "9be9890801f883f1761cb6a465fa9a49|overdue|2026-08-30": {
+      "scheduledAt": "2026-08-19T06:02:22.194Z",
+      "type": "overdue",
+      "task": "Fix V2 to be on (not previous version) and update title to reflect proper stage",
+      "assignee": "Mark Manaog",
+      "reminderDate": "2026-08-30"
+    },
+    "9be9890801f883f1761cb6a465fa9a49|overdue|2026-08-31": {
+      "scheduledAt": "2026-08-19T06:02:23.049Z",
+      "type": "overdue",
+      "task": "Fix V2 to be on (not previous version) and update title to reflect proper stage",
+      "assignee": "Mark Manaog",
+      "reminderDate": "2026-08-31"
+    },
+    "9be9890801f883f1761cb6a465fa9a49|overdue|2026-09-01": {
+      "scheduledAt": "2026-08-19T06:02:23.763Z",
+      "type": "overdue",
+      "task": "Fix V2 to be on (not previous version) and update title to reflect proper stage",
+      "assignee": "Mark Manaog",
+      "reminderDate": "2026-09-01"
+    },
+    "9be9890801f883f1761cb6a465fa9a49|overdue|2026-09-02": {
+      "scheduledAt": "2026-08-19T06:02:24.510Z",
+      "type": "overdue",
+      "task": "Fix V2 to be on (not previous version) and update title to reflect proper stage",
+      "assignee": "Mark Manaog",
+      "reminderDate": "2026-09-02"
+    },
+    "9be9890801f883f1761cb6a465fa9a49|overdue|2026-09-03": {
+      "scheduledAt": "2026-08-19T06:02:25.262Z",
+      "type": "overdue",
+      "task": "Fix V2 to be on (not previous version) and update title to reflect proper stage",
+      "assignee": "Mark Manaog",
+      "reminderDate": "2026-09-03"
+    },
+    "9be9890801f883f1761cb6a465fa9a49|overdue|2026-09-04": {
+      "scheduledAt": "2026-08-19T06:02:25.989Z",
+      "type": "overdue",
+      "task": "Fix V2 to be on (not previous version) and update title to reflect proper stage",
+      "assignee": "Mark Manaog",
+      "reminderDate": "2026-09-04"
+    },
+    "9be9890801f883f1761cb6a465fa9a49|overdue|2026-09-05": {
+      "scheduledAt": "2026-08-19T06:02:26.686Z",
+      "type": "overdue",
+      "task": "Fix V2 to be on (not previous version) and update title to reflect proper stage",
+      "assignee": "Mark Manaog",
+      "reminderDate": "2026-09-05"
+    },
+    "9be9890801f883f1761cb6a465fa9a49|overdue|2026-09-06": {
+      "scheduledAt": "2026-08-19T06:02:27.393Z",
+      "type": "overdue",
+      "task": "Fix V2 to be on (not previous version) and update title to reflect proper stage",
+      "assignee": "Mark Manaog",
+      "reminderDate": "2026-09-06"
+    },
+    "9be9890801f883f1761cb6a465fa9a49|overdue|2026-09-07": {
+      "scheduledAt": "2026-08-19T06:02:28.091Z",
+      "type": "overdue",
+      "task": "Fix V2 to be on (not previous version) and update title to reflect proper stage",
+      "assignee": "Mark Manaog",
+      "reminderDate": "2026-09-07"
+    },
+    "9be9890801f883f1761cb6a465fa9a49|overdue|2026-09-08": {
+      "scheduledAt": "2026-08-19T06:02:28.787Z",
+      "type": "overdue",
+      "task": "Fix V2 to be on (not previous version) and update title to reflect proper stage",
+      "assignee": "Mark Manaog",
+      "reminderDate": "2026-09-08"
+    },
+    "9be9890801f883f1761cb6a465fa9a49|overdue|2026-09-09": {
+      "scheduledAt": "2026-08-19T06:02:29.492Z",
+      "type": "overdue",
+      "task": "Fix V2 to be on (not previous version) and update title to reflect proper stage",
+      "assignee": "Mark Manaog",
+      "reminderDate": "2026-09-09"
+    },
+    "9be9890801f883f1761cb6a465fa9a49|overdue|2026-09-10": {
+      "scheduledAt": "2026-08-19T06:02:30.245Z",
+      "type": "overdue",
+      "task": "Fix V2 to be on (not previous version) and update title to reflect proper stage",
+      "assignee": "Mark Manaog",
+      "reminderDate": "2026-09-10"
+    },
+    "9be9890801f883f1761cb6a465fa9a49|overdue|2026-09-11": {
+      "scheduledAt": "2026-08-19T06:02:30.977Z",
+      "type": "overdue",
+      "task": "Fix V2 to be on (not previous version) and update title to reflect proper stage",
+      "assignee": "Mark Manaog",
+      "reminderDate": "2026-09-11"
+    },
+    "9be9890801f883f1761cb6a465fa9a49|overdue|2026-09-12": {
+      "scheduledAt": "2026-08-19T06:02:31.690Z",
+      "type": "overdue",
+      "task": "Fix V2 to be on (not previous version) and update title to reflect proper stage",
+      "assignee": "Mark Manaog",
+      "reminderDate": "2026-09-12"
+    },
+    "9be9890801f883f1761cb6a465fa9a49|overdue|2026-09-13": {
+      "scheduledAt": "2026-08-19T06:02:32.439Z",
+      "type": "overdue",
+      "task": "Fix V2 to be on (not previous version) and update title to reflect proper stage",
+      "assignee": "Mark Manaog",
+      "reminderDate": "2026-09-13"
+    },
+    "9be9890801f883f1761cb6a465fa9a49|overdue|2026-09-14": {
+      "scheduledAt": "2026-08-19T06:02:33.139Z",
+      "type": "overdue",
+      "task": "Fix V2 to be on (not previous version) and update title to reflect proper stage",
+      "assignee": "Mark Manaog",
+      "reminderDate": "2026-09-14"
+    },
+    "9be9890801f883f1761cb6a465fa9a49|overdue|2026-09-15": {
+      "scheduledAt": "2026-08-19T06:02:34.005Z",
+      "type": "overdue",
+      "task": "Fix V2 to be on (not previous version) and update title to reflect proper stage",
+      "assignee": "Mark Manaog",
+      "reminderDate": "2026-09-15"
+    },
+    "9be9890801f883f1761cb6a465fa9a49|overdue|2026-09-16": {
+      "scheduledAt": "2026-08-19T06:02:34.748Z",
+      "type": "overdue",
+      "task": "Fix V2 to be on (not previous version) and update title to reflect proper stage",
+      "assignee": "Mark Manaog",
+      "reminderDate": "2026-09-16"
+    },
+    "9be9890801f883f1761cb6a465fa9a49|overdue|2026-09-17": {
+      "scheduledAt": "2026-08-19T06:02:35.433Z",
+      "type": "overdue",
+      "task": "Fix V2 to be on (not previous version) and update title to reflect proper stage",
+      "assignee": "Mark Manaog",
+      "reminderDate": "2026-09-17"
+    },
+    "9be9890801f883f1761cb6a465fa9a49|overdue|2026-09-18": {
+      "scheduledAt": "2026-08-19T06:02:36.142Z",
+      "type": "overdue",
+      "task": "Fix V2 to be on (not previous version) and update title to reflect proper stage",
+      "assignee": "Mark Manaog",
+      "reminderDate": "2026-09-18"
     }
   },
   "scheduledMessageIds": {
@@ -23370,280 +23804,6 @@
         "messageId": "Q0BNDKUNQF4"
       }
     ],
-    "3d08ae98adfd355cbd698348586de07f": [
-      {
-        "channel": "UMS39RAGP",
-        "messageId": "Q0BN641P5AB"
-      },
-      {
-        "channel": "C05HV4SQD6G",
-        "messageId": "Q0BPFR9FQBS"
-      },
-      {
-        "channel": "UMS39RAGP",
-        "messageId": "Q0BNJ17APMK"
-      },
-      {
-        "channel": "C05HV4SQD6G",
-        "messageId": "Q0BNF80DXGT"
-      },
-      {
-        "channel": "UMS39RAGP",
-        "messageId": "Q0BNPD4KYE5"
-      },
-      {
-        "channel": "C05HV4SQD6G",
-        "messageId": "Q0BNF80AXQT"
-      },
-      {
-        "channel": "UMS39RAGP",
-        "messageId": "Q0BNKFTHZQE"
-      },
-      {
-        "channel": "C05HV4SQD6G",
-        "messageId": "Q0BNPD5MT5X"
-      },
-      {
-        "channel": "UMS39RAGP",
-        "messageId": "Q0BNR5YT8VA"
-      },
-      {
-        "channel": "C05HV4SQD6G",
-        "messageId": "Q0BNKFTQTF0"
-      },
-      {
-        "channel": "UMS39RAGP",
-        "messageId": "Q0BNKFTUV46"
-      },
-      {
-        "channel": "C05HV4SQD6G",
-        "messageId": "Q0BNKFT8SH4"
-      },
-      {
-        "channel": "UMS39RAGP",
-        "messageId": "Q0BNR5YLUH2"
-      },
-      {
-        "channel": "C05HV4SQD6G",
-        "messageId": "Q0BPFRAFWKS"
-      },
-      {
-        "channel": "UMS39RAGP",
-        "messageId": "Q0BNPD4RLFK"
-      },
-      {
-        "channel": "C05HV4SQD6G",
-        "messageId": "Q0BNKFU0HEJ"
-      },
-      {
-        "channel": "UMS39RAGP",
-        "messageId": "Q0BNR5WSTHA"
-      },
-      {
-        "channel": "C05HV4SQD6G",
-        "messageId": "Q0BNMEP108J"
-      },
-      {
-        "channel": "UMS39RAGP",
-        "messageId": "Q0BNR5YUC4C"
-      },
-      {
-        "channel": "C05HV4SQD6G",
-        "messageId": "Q0BNKFTN738"
-      },
-      {
-        "channel": "UMS39RAGP",
-        "messageId": "Q0BNMEP9X5G"
-      },
-      {
-        "channel": "C05HV4SQD6G",
-        "messageId": "Q0BNR5ZEX7E"
-      },
-      {
-        "channel": "UMS39RAGP",
-        "messageId": "Q0BNPD5G2N5"
-      },
-      {
-        "channel": "C05HV4SQD6G",
-        "messageId": "Q0BNMEP7CLA"
-      },
-      {
-        "channel": "UMS39RAGP",
-        "messageId": "Q0BNKFU0G6A"
-      },
-      {
-        "channel": "C05HV4SQD6G",
-        "messageId": "Q0BNMEPU81Y"
-      },
-      {
-        "channel": "UMS39RAGP",
-        "messageId": "Q0BNMEPUTEE"
-      },
-      {
-        "channel": "C05HV4SQD6G",
-        "messageId": "Q0BNJ18ASER"
-      },
-      {
-        "channel": "UMS39RAGP",
-        "messageId": "Q0BNF81AWNP"
-      },
-      {
-        "channel": "C05HV4SQD6G",
-        "messageId": "Q0BNF80CJ9Z"
-      },
-      {
-        "channel": "UMS39RAGP",
-        "messageId": "Q0BNJ180N1K"
-      },
-      {
-        "channel": "C05HV4SQD6G",
-        "messageId": "Q0BNF811YE7"
-      },
-      {
-        "channel": "UMS39RAGP",
-        "messageId": "Q0BNR5ZN83E"
-      },
-      {
-        "channel": "C05HV4SQD6G",
-        "messageId": "Q0BNR60A728"
-      },
-      {
-        "channel": "UMS39RAGP",
-        "messageId": "Q0BNMEQMWFL"
-      },
-      {
-        "channel": "C05HV4SQD6G",
-        "messageId": "Q0BN643BVGF"
-      },
-      {
-        "channel": "UMS39RAGP",
-        "messageId": "Q0BPFRADXPA"
-      },
-      {
-        "channel": "C05HV4SQD6G",
-        "messageId": "Q0BNF80QTHR"
-      },
-      {
-        "channel": "UMS39RAGP",
-        "messageId": "Q0BNPD5NXB3"
-      },
-      {
-        "channel": "C05HV4SQD6G",
-        "messageId": "Q0BPFRAKR0Q"
-      },
-      {
-        "channel": "UMS39RAGP",
-        "messageId": "Q0BNPD672LR"
-      },
-      {
-        "channel": "C05HV4SQD6G",
-        "messageId": "Q0BNJ18CF37"
-      },
-      {
-        "channel": "UMS39RAGP",
-        "messageId": "Q0BN643LK9D"
-      },
-      {
-        "channel": "C05HV4SQD6G",
-        "messageId": "Q0BNF81FV4K"
-      },
-      {
-        "channel": "UMS39RAGP",
-        "messageId": "Q0BNJ18ANKX"
-      },
-      {
-        "channel": "C05HV4SQD6G",
-        "messageId": "Q0BNR6005E0"
-      },
-      {
-        "channel": "UMS39RAGP",
-        "messageId": "Q0BNKFU8SG6"
-      },
-      {
-        "channel": "C05HV4SQD6G",
-        "messageId": "Q0BPFRAN1A4"
-      },
-      {
-        "channel": "UMS39RAGP",
-        "messageId": "Q0BNMEPMP98"
-      },
-      {
-        "channel": "C05HV4SQD6G",
-        "messageId": "Q0BNR60BZ9S"
-      },
-      {
-        "channel": "UMS39RAGP",
-        "messageId": "Q0BPFRB0ZPA"
-      },
-      {
-        "channel": "C05HV4SQD6G",
-        "messageId": "Q0BNKFU4SFQ"
-      },
-      {
-        "channel": "UMS39RAGP",
-        "messageId": "Q0BNPD609FT"
-      },
-      {
-        "channel": "C05HV4SQD6G",
-        "messageId": "Q0BNPD65XGR"
-      },
-      {
-        "channel": "UMS39RAGP",
-        "messageId": "Q0BNJ19597F"
-      },
-      {
-        "channel": "C05HV4SQD6G",
-        "messageId": "Q0BNR60LPNG"
-      },
-      {
-        "channel": "UMS39RAGP",
-        "messageId": "Q0BNPD6H5EV"
-      },
-      {
-        "channel": "C05HV4SQD6G",
-        "messageId": "Q0BNF801VRR"
-      },
-      {
-        "channel": "UMS39RAGP",
-        "messageId": "Q0BNMEQFT8A"
-      },
-      {
-        "channel": "C05HV4SQD6G",
-        "messageId": "Q0BNR603BA8"
-      },
-      {
-        "channel": "UMS39RAGP",
-        "messageId": "Q0BNR60JBA8"
-      },
-      {
-        "channel": "C05HV4SQD6G",
-        "messageId": "Q0BPFRBJPAL"
-      },
-      {
-        "channel": "UMS39RAGP",
-        "messageId": "Q0BNF81FMDZ"
-      },
-      {
-        "channel": "C05HV4SQD6G",
-        "messageId": "Q0BNMEQJGAE"
-      },
-      {
-        "channel": "UMS39RAGP",
-        "messageId": "Q0BPFRBK60Y"
-      },
-      {
-        "channel": "C05HV4SQD6G",
-        "messageId": "Q0BNF81CM8T"
-      },
-      {
-        "channel": "UMS39RAGP",
-        "messageId": "Q0BNF821HDZ"
-      },
-      {
-        "channel": "C05HV4SQD6G",
-        "messageId": "Q0BNKFVBSLE"
-      }
-    ],
     "c4e9ec02238f436bce0ffd2d1aa5526d": [
       {
         "channel": "UMS39RAGP",
@@ -27221,6 +27381,766 @@
         "channel": "C05HV4SQD6G",
         "messageId": "Q0BQR5439S8"
       }
+    ],
+    "6d5a78cc092d9bafeda9ab79e9c66575": [
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BR9TCFZJ8"
+      },
+      {
+        "channel": "UMCPG3D8A",
+        "messageId": "Q0BR85USBED"
+      },
+      {
+        "channel": "C08R493ESAJ",
+        "messageId": "Q0BR66GBXMG"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BQQRT0PHV"
+      },
+      {
+        "channel": "UMCPG3D8A",
+        "messageId": "Q0BS0J1UAL8"
+      },
+      {
+        "channel": "C08R493ESAJ",
+        "messageId": "Q0BR66HNS02"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BS0J3TC3A"
+      },
+      {
+        "channel": "UMCPG3D8A",
+        "messageId": "Q0BQQRSH4JK"
+      },
+      {
+        "channel": "C08R493ESAJ",
+        "messageId": "Q0BR48NPZ8W"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BR48NR7AA"
+      },
+      {
+        "channel": "UMCPG3D8A",
+        "messageId": "Q0BS0J1BPFS"
+      },
+      {
+        "channel": "C08R493ESAJ",
+        "messageId": "Q0BR2EXMLUV"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BR66HLXEE"
+      },
+      {
+        "channel": "UMCPG3D8A",
+        "messageId": "Q0BR00C3ER1"
+      },
+      {
+        "channel": "C08R493ESAJ",
+        "messageId": "Q0BS0J2PMQQ"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BR00AQMFD"
+      },
+      {
+        "channel": "UMCPG3D8A",
+        "messageId": "Q0BR2EV8X37"
+      },
+      {
+        "channel": "C08R493ESAJ",
+        "messageId": "Q0BS0J2V3UY"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BR66E5CKC"
+      },
+      {
+        "channel": "UMCPG3D8A",
+        "messageId": "Q0BR48PKARL"
+      },
+      {
+        "channel": "C08R493ESAJ",
+        "messageId": "Q0BS0J1TG48"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BR66HS2G2"
+      },
+      {
+        "channel": "UMCPG3D8A",
+        "messageId": "Q0BR66HACJE"
+      },
+      {
+        "channel": "C08R493ESAJ",
+        "messageId": "Q0BQQRTQGJK"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BQQRTMMRV"
+      },
+      {
+        "channel": "UMCPG3D8A",
+        "messageId": "Q0BR00BCJ59"
+      },
+      {
+        "channel": "C08R493ESAJ",
+        "messageId": "Q0BR66J0Y4S"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BR2EYE00M"
+      },
+      {
+        "channel": "UMCPG3D8A",
+        "messageId": "Q0BR85VNCL9"
+      },
+      {
+        "channel": "C08R493ESAJ",
+        "messageId": "Q0BS0J28MT2"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BR85VQG2V"
+      },
+      {
+        "channel": "UMCPG3D8A",
+        "messageId": "Q0BQQRU5KC7"
+      },
+      {
+        "channel": "C08R493ESAJ",
+        "messageId": "Q0BQQRTN0KZ"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BR00CDW91"
+      },
+      {
+        "channel": "UMCPG3D8A",
+        "messageId": "Q0BR2EZ8RNZ"
+      },
+      {
+        "channel": "C08R493ESAJ",
+        "messageId": "Q0BR2EYSVB7"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BR66J8Y9G"
+      },
+      {
+        "channel": "UMCPG3D8A",
+        "messageId": "Q0BR2EYSVSR"
+      },
+      {
+        "channel": "C08R493ESAJ",
+        "messageId": "Q0BR00CCB43"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BQQRTL4AK"
+      },
+      {
+        "channel": "UMCPG3D8A",
+        "messageId": "Q0BR9TCADNY"
+      },
+      {
+        "channel": "C08R493ESAJ",
+        "messageId": "Q0BR48QE3KQ"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BR48QJDL6"
+      },
+      {
+        "channel": "UMCPG3D8A",
+        "messageId": "Q0BR48QFZJA"
+      },
+      {
+        "channel": "C08R493ESAJ",
+        "messageId": "Q0BS0J37R24"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BR00C9B8T"
+      },
+      {
+        "channel": "UMCPG3D8A",
+        "messageId": "Q0BQQRTUZ55"
+      },
+      {
+        "channel": "C08R493ESAJ",
+        "messageId": "Q0BR00CMVDZ"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BR00CB9C3"
+      },
+      {
+        "channel": "UMCPG3D8A",
+        "messageId": "Q0BQQRU6PGF"
+      },
+      {
+        "channel": "C08R493ESAJ",
+        "messageId": "Q0BR48Q2G06"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BR66HUL02"
+      },
+      {
+        "channel": "UMCPG3D8A",
+        "messageId": "Q0BR9TDCYG4"
+      },
+      {
+        "channel": "C08R493ESAJ",
+        "messageId": "Q0BQQRT9LDV"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BR48QL6F8"
+      },
+      {
+        "channel": "UMCPG3D8A",
+        "messageId": "Q0BQQRU6G3H"
+      },
+      {
+        "channel": "C08R493ESAJ",
+        "messageId": "Q0BR00CS7BM"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BR00C1ECT"
+      },
+      {
+        "channel": "UMCPG3D8A",
+        "messageId": "Q0BR48QTWPQ"
+      },
+      {
+        "channel": "C08R493ESAJ",
+        "messageId": "Q0BR2EZAMRT"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BR66GK24A"
+      },
+      {
+        "channel": "UMCPG3D8A",
+        "messageId": "Q0BS0J3H5FS"
+      },
+      {
+        "channel": "C08R493ESAJ",
+        "messageId": "Q0BR2EZB2TF"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BQQRUFB9D"
+      },
+      {
+        "channel": "UMCPG3D8A",
+        "messageId": "Q0BS0J35S5N"
+      },
+      {
+        "channel": "C08R493ESAJ",
+        "messageId": "Q0BR85WPVQR"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BS0J3Q9GQ"
+      },
+      {
+        "channel": "UMCPG3D8A",
+        "messageId": "Q0BR85WL1QR"
+      },
+      {
+        "channel": "C08R493ESAJ",
+        "messageId": "Q0BR85WKTT3"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BR66KFE1Y"
+      },
+      {
+        "channel": "UMCPG3D8A",
+        "messageId": "Q0BR00C8RGB"
+      },
+      {
+        "channel": "C08R493ESAJ",
+        "messageId": "Q0BR9TEERFE"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BQQRVMHGF"
+      },
+      {
+        "channel": "UMCPG3D8A",
+        "messageId": "Q0BR66JTTB4"
+      },
+      {
+        "channel": "C08R493ESAJ",
+        "messageId": "Q0BS0J3NBCY"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BR85W9TJM"
+      },
+      {
+        "channel": "UMCPG3D8A",
+        "messageId": "Q0BR00DHS4B"
+      },
+      {
+        "channel": "C08R493ESAJ",
+        "messageId": "Q0BS0J1S4GG"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BR9TEFKK6"
+      },
+      {
+        "channel": "UMCPG3D8A",
+        "messageId": "Q0BS0J3REJU"
+      },
+      {
+        "channel": "C08R493ESAJ",
+        "messageId": "Q0BQQRV231D"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BR66JS7C2"
+      },
+      {
+        "channel": "UMCPG3D8A",
+        "messageId": "Q0BR66K7EUA"
+      },
+      {
+        "channel": "C08R493ESAJ",
+        "messageId": "Q0BR66KF47L"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BR66KUKKL"
+      },
+      {
+        "channel": "UMCPG3D8A",
+        "messageId": "Q0BQQRU9TN3"
+      },
+      {
+        "channel": "C08R493ESAJ",
+        "messageId": "Q0BS0J46YQG"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BQQRTCGFR"
+      },
+      {
+        "channel": "UMCPG3D8A",
+        "messageId": "Q0BR9TEF6PN"
+      },
+      {
+        "channel": "C08R493ESAJ",
+        "messageId": "Q0BR00D5A2X"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BR66KH55Y"
+      },
+      {
+        "channel": "UMCPG3D8A",
+        "messageId": "Q0BQQRV3BEK"
+      },
+      {
+        "channel": "C08R493ESAJ",
+        "messageId": "Q0BR85WMKND"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BQQRVVA15"
+      },
+      {
+        "channel": "UMCPG3D8A",
+        "messageId": "Q0BR66K0NDQ"
+      },
+      {
+        "channel": "C08R493ESAJ",
+        "messageId": "Q0BR00D7DEF"
+      }
+    ],
+    "9be9890801f883f1761cb6a465fa9a49": [
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BR66L0ND8"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0BR00E5MK5"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0BR85X1J7K"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BR9TF2CG4"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0BR00DRWG3"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0BR2F0761K"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BQQRVFHMM"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0BQQRT0K63"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0BR00D6H4K"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BR66KMEP4"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0BS0J42J64"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0BR48S1NNA"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BR48S3YNS"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0BR00DKNHH"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0BR48S4BQE"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BR2F15EGM"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0BR85X5YBB"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0BQQRVT72T"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BR2F10N85"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0BR00DNAN7"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0BR48SEBK8"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BS0J5D8KS"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0BR66L2WD8"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0BR9TF6UUU"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BS0J23AEL"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0BR2F1LBUM"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0BR85YAJKT"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BR66M3SV8"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0BR48SJDFY"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0BR66LCS5Q"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BS0J21LD6"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0BQQRWCWBZ"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0BR48SNTRU"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BQQRWB6SK"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0BR9TFV8RJ"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0BR2F1CCSH"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BR9TFPJCU"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0BR9TFRFE0"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0BR9TFRGGL"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BS0J5UJ1E"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0BS0J5D7MW"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0BR48SR8MU"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BR9TFNCDS"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0BR2F1MER3"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0BR2F1JKGV"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BR66LPAJE"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0BR2F1FXRB"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0BS0J5C4LQ"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BR00FDEDR"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0BQQRWBG0P"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0BQQRWCAQ7"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BS0J5L7H6"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0BR2F1KB0D"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0BR85YMC6M"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BR48TK86A"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0BR2F19AAZ"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0BR00ELDMH"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BR48TBQGN"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0BR48TE762"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0BR00EJT7D"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BR85Z6NRF"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0BR00FEU9H"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0BR9TG3NCC"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BR00FELTD"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0BR9TG4684"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0BR00EHMEX"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BR66N04BC"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0BR00EUACB"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0BR2F2LDNH"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BR9TG4M5J"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0BR9TGHC4U"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0BR66MBP6W"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BS0J5LKEU"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0BQQRWV33R"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0BR85ZJH33"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BQQRXF7QX"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0BR00FE71R"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0BR9TG7T60"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BS0J5SN72"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0BR66NBXEE"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0BS0J6EU9E"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BS0J6JBEU"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0BR66MJ22E"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0BR00F0D51"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BQQRWTHTR"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0BR00FL16X"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0BR2F2SJAZ"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BR85ZMNG1"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0BS0J6KC3S"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0BR48UUNH4"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BR48UH62J"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0BS0J74RUY"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0BS0J6GNQG"
+      }
     ]
   },
   "processedMessageTs": {
@@ -27383,8 +28303,10 @@
     "1786999760.820159": true,
     "1786999756.057789": true,
     "1786999739.963809": true,
-    "1786999729.978589": true
+    "1786999729.978589": true,
+    "1787096282.998359": true,
+    "1787079813.376789": true
   },
   "lastWeeklySummaryDate": "2026-W33",
-  "lastRun": "2026-08-18T18:42:15.477Z"
+  "lastRun": "2026-08-19T06:02:36.143Z"
 }
