@@ -56,20 +56,6 @@
       "completedAt": "2026-06-09T18:01:14.572Z",
       "firstSeenAt": "2026-05-13T16:00:58.348Z"
     },
-    "6c5bcb32d03514d28e2e0ce0c2f653e3": {
-      "task": "update/change/create for the ampdworks.com website",
-      "assignee_name": "Liz' La Task-Killer' Zavala",
-      "assignee_slack_mention": "@Liz' La Task-Killer' Zavala",
-      "assigned_date": "2026-05-07",
-      "due_date": "2026-06-01",
-      "message_ts": "1778197673.670129",
-      "source_message": "@Liz' La Task-Killer' Zavala here's an list of things to update/change/create for the <http:",
-      "assigneeId": "U08D4RE1SKF",
-      "messageTs": "1778197673.670129",
-      "completed": true,
-      "completedAt": "2026-05-27T18:01:05.799Z",
-      "firstSeenAt": "2026-05-13T16:00:58.463Z"
-    },
     "ec9be7a7e9e2d421012b725514cab090": {
       "task": "update BLS thank you page to include call confirmation message",
       "assignee_name": "Brandon 'The One' Robertson",
@@ -1592,8 +1578,8 @@
       "source_message": "@Christle 'Knows All' Ochigue please update all the campaign emails within the CRM/LOS ampd works crm/los campaigns fo",
       "assigneeId": "UMCPG3D8A",
       "messageTs": "1787327036.910869",
-      "completed": false,
-      "completedAt": null,
+      "completed": true,
+      "completedAt": "2026-08-25T18:01:13.973Z",
       "firstSeenAt": "2026-08-21T18:01:20.885Z"
     },
     "54d6c534e163362f6e73a36f4aee05ae": {
@@ -1637,6 +1623,20 @@
       "completed": false,
       "completedAt": null,
       "firstSeenAt": "2026-08-25T06:01:43.522Z"
+    },
+    "db64f33fd2a0f835dc4b7393e34e5b24": {
+      "task": "Get info needed to bill client for additional Zapier usage (cost if they had their own Zapier)",
+      "assignee_name": "Mark 'Morpheus' Manaog",
+      "assignee_slack_mention": "@Mark 'Morpheus' Manaog",
+      "assigned_date": "2026-08-25",
+      "due_date": "2026-09-04",
+      "message_ts": "1787670245.820689",
+      "source_message": "@Mark 'Morpheus' Manaog please get me the info needed to understand what we might need to bill them",
+      "assigneeId": "U023F61R16F",
+      "messageTs": "1787670245.820689",
+      "completed": false,
+      "completedAt": null,
+      "firstSeenAt": "2026-08-25T18:01:48.153Z"
     }
   },
   "scheduled": {
@@ -19764,6 +19764,244 @@
       "task": "Replace all CRM training videos on lovable with the sprout video version",
       "assignee": "Christle 'Knows All' Ochigue",
       "reminderDate": "2026-09-24"
+    },
+    "db64f33fd2a0f835dc4b7393e34e5b24|midpoint|2026-08-30": {
+      "scheduledAt": "2026-08-25T18:01:48.960Z",
+      "type": "midpoint",
+      "task": "Get info needed to bill client for additional Zapier usage (cost if they had their own Zapier)",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-08-30"
+    },
+    "db64f33fd2a0f835dc4b7393e34e5b24|nag|2026-09-02": {
+      "scheduledAt": "2026-08-25T18:01:50.176Z",
+      "type": "nag",
+      "task": "Get info needed to bill client for additional Zapier usage (cost if they had their own Zapier)",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-09-02"
+    },
+    "db64f33fd2a0f835dc4b7393e34e5b24|nag|2026-09-03": {
+      "scheduledAt": "2026-08-25T18:01:50.933Z",
+      "type": "nag",
+      "task": "Get info needed to bill client for additional Zapier usage (cost if they had their own Zapier)",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-09-03"
+    },
+    "db64f33fd2a0f835dc4b7393e34e5b24|due|2026-09-04": {
+      "scheduledAt": "2026-08-25T18:01:51.696Z",
+      "type": "due",
+      "task": "Get info needed to bill client for additional Zapier usage (cost if they had their own Zapier)",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-09-04"
+    },
+    "db64f33fd2a0f835dc4b7393e34e5b24|overdue|2026-09-05": {
+      "scheduledAt": "2026-08-25T18:01:52.469Z",
+      "type": "overdue",
+      "task": "Get info needed to bill client for additional Zapier usage (cost if they had their own Zapier)",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-09-05"
+    },
+    "db64f33fd2a0f835dc4b7393e34e5b24|overdue|2026-09-06": {
+      "scheduledAt": "2026-08-25T18:01:53.243Z",
+      "type": "overdue",
+      "task": "Get info needed to bill client for additional Zapier usage (cost if they had their own Zapier)",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-09-06"
+    },
+    "db64f33fd2a0f835dc4b7393e34e5b24|overdue|2026-09-07": {
+      "scheduledAt": "2026-08-25T18:01:53.994Z",
+      "type": "overdue",
+      "task": "Get info needed to bill client for additional Zapier usage (cost if they had their own Zapier)",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-09-07"
+    },
+    "db64f33fd2a0f835dc4b7393e34e5b24|overdue|2026-09-08": {
+      "scheduledAt": "2026-08-25T18:01:54.777Z",
+      "type": "overdue",
+      "task": "Get info needed to bill client for additional Zapier usage (cost if they had their own Zapier)",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-09-08"
+    },
+    "db64f33fd2a0f835dc4b7393e34e5b24|overdue|2026-09-09": {
+      "scheduledAt": "2026-08-25T18:01:55.563Z",
+      "type": "overdue",
+      "task": "Get info needed to bill client for additional Zapier usage (cost if they had their own Zapier)",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-09-09"
+    },
+    "db64f33fd2a0f835dc4b7393e34e5b24|overdue|2026-09-10": {
+      "scheduledAt": "2026-08-25T18:01:56.337Z",
+      "type": "overdue",
+      "task": "Get info needed to bill client for additional Zapier usage (cost if they had their own Zapier)",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-09-10"
+    },
+    "db64f33fd2a0f835dc4b7393e34e5b24|overdue|2026-09-11": {
+      "scheduledAt": "2026-08-25T18:01:57.092Z",
+      "type": "overdue",
+      "task": "Get info needed to bill client for additional Zapier usage (cost if they had their own Zapier)",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-09-11"
+    },
+    "db64f33fd2a0f835dc4b7393e34e5b24|overdue|2026-09-12": {
+      "scheduledAt": "2026-08-25T18:01:57.885Z",
+      "type": "overdue",
+      "task": "Get info needed to bill client for additional Zapier usage (cost if they had their own Zapier)",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-09-12"
+    },
+    "db64f33fd2a0f835dc4b7393e34e5b24|overdue|2026-09-13": {
+      "scheduledAt": "2026-08-25T18:01:58.666Z",
+      "type": "overdue",
+      "task": "Get info needed to bill client for additional Zapier usage (cost if they had their own Zapier)",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-09-13"
+    },
+    "db64f33fd2a0f835dc4b7393e34e5b24|overdue|2026-09-14": {
+      "scheduledAt": "2026-08-25T18:01:59.486Z",
+      "type": "overdue",
+      "task": "Get info needed to bill client for additional Zapier usage (cost if they had their own Zapier)",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-09-14"
+    },
+    "db64f33fd2a0f835dc4b7393e34e5b24|overdue|2026-09-15": {
+      "scheduledAt": "2026-08-25T18:02:00.264Z",
+      "type": "overdue",
+      "task": "Get info needed to bill client for additional Zapier usage (cost if they had their own Zapier)",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-09-15"
+    },
+    "db64f33fd2a0f835dc4b7393e34e5b24|overdue|2026-09-16": {
+      "scheduledAt": "2026-08-25T18:02:01.099Z",
+      "type": "overdue",
+      "task": "Get info needed to bill client for additional Zapier usage (cost if they had their own Zapier)",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-09-16"
+    },
+    "db64f33fd2a0f835dc4b7393e34e5b24|overdue|2026-09-17": {
+      "scheduledAt": "2026-08-25T18:02:01.941Z",
+      "type": "overdue",
+      "task": "Get info needed to bill client for additional Zapier usage (cost if they had their own Zapier)",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-09-17"
+    },
+    "db64f33fd2a0f835dc4b7393e34e5b24|overdue|2026-09-18": {
+      "scheduledAt": "2026-08-25T18:02:02.818Z",
+      "type": "overdue",
+      "task": "Get info needed to bill client for additional Zapier usage (cost if they had their own Zapier)",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-09-18"
+    },
+    "db64f33fd2a0f835dc4b7393e34e5b24|overdue|2026-09-19": {
+      "scheduledAt": "2026-08-25T18:02:03.561Z",
+      "type": "overdue",
+      "task": "Get info needed to bill client for additional Zapier usage (cost if they had their own Zapier)",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-09-19"
+    },
+    "db64f33fd2a0f835dc4b7393e34e5b24|overdue|2026-09-20": {
+      "scheduledAt": "2026-08-25T18:02:04.390Z",
+      "type": "overdue",
+      "task": "Get info needed to bill client for additional Zapier usage (cost if they had their own Zapier)",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-09-20"
+    },
+    "db64f33fd2a0f835dc4b7393e34e5b24|overdue|2026-09-21": {
+      "scheduledAt": "2026-08-25T18:02:05.149Z",
+      "type": "overdue",
+      "task": "Get info needed to bill client for additional Zapier usage (cost if they had their own Zapier)",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-09-21"
+    },
+    "db64f33fd2a0f835dc4b7393e34e5b24|overdue|2026-09-22": {
+      "scheduledAt": "2026-08-25T18:02:06.448Z",
+      "type": "overdue",
+      "task": "Get info needed to bill client for additional Zapier usage (cost if they had their own Zapier)",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-09-22"
+    },
+    "db64f33fd2a0f835dc4b7393e34e5b24|overdue|2026-09-23": {
+      "scheduledAt": "2026-08-25T18:02:07.210Z",
+      "type": "overdue",
+      "task": "Get info needed to bill client for additional Zapier usage (cost if they had their own Zapier)",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-09-23"
+    },
+    "db64f33fd2a0f835dc4b7393e34e5b24|overdue|2026-09-24": {
+      "scheduledAt": "2026-08-25T18:02:08.009Z",
+      "type": "overdue",
+      "task": "Get info needed to bill client for additional Zapier usage (cost if they had their own Zapier)",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-09-24"
+    },
+    "db64f33fd2a0f835dc4b7393e34e5b24|overdue|2026-09-25": {
+      "scheduledAt": "2026-08-25T18:02:08.803Z",
+      "type": "overdue",
+      "task": "Get info needed to bill client for additional Zapier usage (cost if they had their own Zapier)",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-09-25"
+    },
+    "db64f33fd2a0f835dc4b7393e34e5b24|overdue|2026-09-26": {
+      "scheduledAt": "2026-08-25T18:02:09.584Z",
+      "type": "overdue",
+      "task": "Get info needed to bill client for additional Zapier usage (cost if they had their own Zapier)",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-09-26"
+    },
+    "db64f33fd2a0f835dc4b7393e34e5b24|overdue|2026-09-27": {
+      "scheduledAt": "2026-08-25T18:02:10.368Z",
+      "type": "overdue",
+      "task": "Get info needed to bill client for additional Zapier usage (cost if they had their own Zapier)",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-09-27"
+    },
+    "db64f33fd2a0f835dc4b7393e34e5b24|overdue|2026-09-28": {
+      "scheduledAt": "2026-08-25T18:02:11.128Z",
+      "type": "overdue",
+      "task": "Get info needed to bill client for additional Zapier usage (cost if they had their own Zapier)",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-09-28"
+    },
+    "db64f33fd2a0f835dc4b7393e34e5b24|overdue|2026-09-29": {
+      "scheduledAt": "2026-08-25T18:02:11.949Z",
+      "type": "overdue",
+      "task": "Get info needed to bill client for additional Zapier usage (cost if they had their own Zapier)",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-09-29"
+    },
+    "db64f33fd2a0f835dc4b7393e34e5b24|overdue|2026-09-30": {
+      "scheduledAt": "2026-08-25T18:02:12.720Z",
+      "type": "overdue",
+      "task": "Get info needed to bill client for additional Zapier usage (cost if they had their own Zapier)",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-09-30"
+    },
+    "db64f33fd2a0f835dc4b7393e34e5b24|overdue|2026-10-01": {
+      "scheduledAt": "2026-08-25T18:02:13.494Z",
+      "type": "overdue",
+      "task": "Get info needed to bill client for additional Zapier usage (cost if they had their own Zapier)",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-10-01"
+    },
+    "db64f33fd2a0f835dc4b7393e34e5b24|overdue|2026-10-02": {
+      "scheduledAt": "2026-08-25T18:02:14.239Z",
+      "type": "overdue",
+      "task": "Get info needed to bill client for additional Zapier usage (cost if they had their own Zapier)",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-10-02"
+    },
+    "db64f33fd2a0f835dc4b7393e34e5b24|overdue|2026-10-03": {
+      "scheduledAt": "2026-08-25T18:02:15.261Z",
+      "type": "overdue",
+      "task": "Get info needed to bill client for additional Zapier usage (cost if they had their own Zapier)",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-10-03"
+    },
+    "db64f33fd2a0f835dc4b7393e34e5b24|overdue|2026-10-04": {
+      "scheduledAt": "2026-08-25T18:02:16.068Z",
+      "type": "overdue",
+      "task": "Get info needed to bill client for additional Zapier usage (cost if they had their own Zapier)",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-10-04"
     }
   },
   "scheduledMessageIds": {
@@ -27579,404 +27817,6 @@
         "messageId": "Q0BRWBKR36E"
       }
     ],
-    "61d90ec1561ec14c36d6bc64f5f975f8": [
-      {
-        "channel": "UMS39RAGP",
-        "messageId": "Q0BRWBPRVH8"
-      },
-      {
-        "channel": "UMCPG3D8A",
-        "messageId": "Q0BRUE44DQE"
-      },
-      {
-        "channel": "C08R493ESAJ",
-        "messageId": "Q0BRQ5FEU5R"
-      },
-      {
-        "channel": "UMS39RAGP",
-        "messageId": "Q0BSQP6VBDE"
-      },
-      {
-        "channel": "UMCPG3D8A",
-        "messageId": "Q0BRF1JE84X"
-      },
-      {
-        "channel": "C08R493ESAJ",
-        "messageId": "Q0BS02V5T8U"
-      },
-      {
-        "channel": "UMS39RAGP",
-        "messageId": "Q0BRYAQ1VBK"
-      },
-      {
-        "channel": "UMCPG3D8A",
-        "messageId": "Q0BRUE3TBTQ"
-      },
-      {
-        "channel": "C08R493ESAJ",
-        "messageId": "Q0BRSGEGHD3"
-      },
-      {
-        "channel": "UMS39RAGP",
-        "messageId": "Q0BRYAQJ7TK"
-      },
-      {
-        "channel": "UMCPG3D8A",
-        "messageId": "Q0BRWBP4HPU"
-      },
-      {
-        "channel": "C08R493ESAJ",
-        "messageId": "Q0BRF1J22ET"
-      },
-      {
-        "channel": "UMS39RAGP",
-        "messageId": "Q0BRF1JEE8P"
-      },
-      {
-        "channel": "UMCPG3D8A",
-        "messageId": "Q0BRUE5L7AA"
-      },
-      {
-        "channel": "C08R493ESAJ",
-        "messageId": "Q0BS02Y1XEG"
-      },
-      {
-        "channel": "UMS39RAGP",
-        "messageId": "Q0BRQ5HHHQB"
-      },
-      {
-        "channel": "UMCPG3D8A",
-        "messageId": "Q0BSQP9MRKJ"
-      },
-      {
-        "channel": "C08R493ESAJ",
-        "messageId": "Q0BS02YEBCL"
-      },
-      {
-        "channel": "UMS39RAGP",
-        "messageId": "Q0BRYAS87B3"
-      },
-      {
-        "channel": "UMCPG3D8A",
-        "messageId": "Q0BRYART7RP"
-      },
-      {
-        "channel": "C08R493ESAJ",
-        "messageId": "Q0BRQ5H9Q3D"
-      },
-      {
-        "channel": "UMS39RAGP",
-        "messageId": "Q0BRQ5H3H9R"
-      },
-      {
-        "channel": "UMCPG3D8A",
-        "messageId": "Q0BRQ5HBQ7M"
-      },
-      {
-        "channel": "C08R493ESAJ",
-        "messageId": "Q0BRYARDY81"
-      },
-      {
-        "channel": "UMS39RAGP",
-        "messageId": "Q0BRYARDZ5F"
-      },
-      {
-        "channel": "UMCPG3D8A",
-        "messageId": "Q0BRYAS0917"
-      },
-      {
-        "channel": "C08R493ESAJ",
-        "messageId": "Q0BRF1LHUB1"
-      },
-      {
-        "channel": "UMS39RAGP",
-        "messageId": "Q0BRQ5HJ44T"
-      },
-      {
-        "channel": "UMCPG3D8A",
-        "messageId": "Q0BSQP93Y64"
-      },
-      {
-        "channel": "C08R493ESAJ",
-        "messageId": "Q0BS02ZG84C"
-      },
-      {
-        "channel": "UMS39RAGP",
-        "messageId": "Q0BRF1KTCMV"
-      },
-      {
-        "channel": "UMCPG3D8A",
-        "messageId": "Q0BRYASRHTK"
-      },
-      {
-        "channel": "C08R493ESAJ",
-        "messageId": "Q0BRWBSQAHG"
-      },
-      {
-        "channel": "UMS39RAGP",
-        "messageId": "Q0BRYATPLBB"
-      },
-      {
-        "channel": "UMCPG3D8A",
-        "messageId": "Q0BRF1MNVAB"
-      },
-      {
-        "channel": "C08R493ESAJ",
-        "messageId": "Q0BRF1MGSBH"
-      },
-      {
-        "channel": "UMS39RAGP",
-        "messageId": "Q0BS0310E04"
-      },
-      {
-        "channel": "UMCPG3D8A",
-        "messageId": "Q0BRQ5KEN1H"
-      },
-      {
-        "channel": "C08R493ESAJ",
-        "messageId": "Q0BRSGK037F"
-      },
-      {
-        "channel": "UMS39RAGP",
-        "messageId": "Q0BRWBU0W10"
-      },
-      {
-        "channel": "UMCPG3D8A",
-        "messageId": "Q0BRQ5M7GTV"
-      },
-      {
-        "channel": "C08R493ESAJ",
-        "messageId": "Q0BRYAVU4L9"
-      },
-      {
-        "channel": "UMS39RAGP",
-        "messageId": "Q0BRWBUPW1Y"
-      },
-      {
-        "channel": "UMCPG3D8A",
-        "messageId": "Q0BRYAVFZTK"
-      },
-      {
-        "channel": "C08R493ESAJ",
-        "messageId": "Q0BS032CT9S"
-      },
-      {
-        "channel": "UMS39RAGP",
-        "messageId": "Q0BRWBUQMNE"
-      },
-      {
-        "channel": "UMCPG3D8A",
-        "messageId": "Q0BRYAVGFLZ"
-      },
-      {
-        "channel": "C08R493ESAJ",
-        "messageId": "Q0BRF1PH29M"
-      },
-      {
-        "channel": "UMS39RAGP",
-        "messageId": "Q0BSQPCMQHW"
-      },
-      {
-        "channel": "UMCPG3D8A",
-        "messageId": "Q0BSQPCU4N4"
-      },
-      {
-        "channel": "C08R493ESAJ",
-        "messageId": "Q0BSQPD1TMW"
-      },
-      {
-        "channel": "UMS39RAGP",
-        "messageId": "Q0BRWBUU9CJ"
-      },
-      {
-        "channel": "UMCPG3D8A",
-        "messageId": "Q0BS0338SNQ"
-      },
-      {
-        "channel": "C08R493ESAJ",
-        "messageId": "Q0BS032J44C"
-      },
-      {
-        "channel": "UMS39RAGP",
-        "messageId": "Q0BRUE9MUTG"
-      },
-      {
-        "channel": "UMCPG3D8A",
-        "messageId": "Q0BRSGLPLLD"
-      },
-      {
-        "channel": "C08R493ESAJ",
-        "messageId": "Q0BRQ5LUREX"
-      },
-      {
-        "channel": "UMS39RAGP",
-        "messageId": "Q0BRUE9ST5L"
-      },
-      {
-        "channel": "UMCPG3D8A",
-        "messageId": "Q0BSQPD608Y"
-      },
-      {
-        "channel": "C08R493ESAJ",
-        "messageId": "Q0BRYAVMK33"
-      },
-      {
-        "channel": "UMS39RAGP",
-        "messageId": "Q0BRYAW482D"
-      },
-      {
-        "channel": "UMCPG3D8A",
-        "messageId": "Q0BSQPD8P40"
-      },
-      {
-        "channel": "C08R493ESAJ",
-        "messageId": "Q0BRF1QFD39"
-      },
-      {
-        "channel": "UMS39RAGP",
-        "messageId": "Q0BS033J1T6"
-      },
-      {
-        "channel": "UMCPG3D8A",
-        "messageId": "Q0BSQPDP4LQ"
-      },
-      {
-        "channel": "C08R493ESAJ",
-        "messageId": "Q0BRWBVNEDQ"
-      },
-      {
-        "channel": "UMS39RAGP",
-        "messageId": "Q0BRWBVBATC"
-      },
-      {
-        "channel": "UMCPG3D8A",
-        "messageId": "Q0BRSGM70CD"
-      },
-      {
-        "channel": "C08R493ESAJ",
-        "messageId": "Q0BRWBVPR5Y"
-      },
-      {
-        "channel": "UMS39RAGP",
-        "messageId": "Q0BRUE9TPE2"
-      },
-      {
-        "channel": "UMCPG3D8A",
-        "messageId": "Q0BRQ5N2KJ7"
-      },
-      {
-        "channel": "C08R493ESAJ",
-        "messageId": "Q0BRYAWS4P3"
-      },
-      {
-        "channel": "UMS39RAGP",
-        "messageId": "Q0BRWBVJ0G2"
-      },
-      {
-        "channel": "UMCPG3D8A",
-        "messageId": "Q0BRF1RU9B9"
-      },
-      {
-        "channel": "C08R493ESAJ",
-        "messageId": "Q0BRYAXSEJV"
-      },
-      {
-        "channel": "UMS39RAGP",
-        "messageId": "Q0BRYAXTK8R"
-      },
-      {
-        "channel": "UMCPG3D8A",
-        "messageId": "Q0BRYAY1VAM"
-      },
-      {
-        "channel": "C08R493ESAJ",
-        "messageId": "Q0BS0357AQL"
-      },
-      {
-        "channel": "UMS39RAGP",
-        "messageId": "Q0BRF1S2A87"
-      },
-      {
-        "channel": "UMCPG3D8A",
-        "messageId": "Q0BRUEBUHSS"
-      },
-      {
-        "channel": "C08R493ESAJ",
-        "messageId": "Q0BRF1Q4K0X"
-      },
-      {
-        "channel": "UMS39RAGP",
-        "messageId": "Q0BRYB0F2EM"
-      },
-      {
-        "channel": "UMCPG3D8A",
-        "messageId": "Q0BRUEDE76J"
-      },
-      {
-        "channel": "C08R493ESAJ",
-        "messageId": "Q0BRYAZL4KB"
-      },
-      {
-        "channel": "UMS39RAGP",
-        "messageId": "Q0BRQ5QV1B5"
-      },
-      {
-        "channel": "UMCPG3D8A",
-        "messageId": "Q0BRWBYHT7C"
-      },
-      {
-        "channel": "C08R493ESAJ",
-        "messageId": "Q0BRUEDS886"
-      },
-      {
-        "channel": "UMS39RAGP",
-        "messageId": "Q0BRUEDH2F8"
-      },
-      {
-        "channel": "UMCPG3D8A",
-        "messageId": "Q0BRQ5RBCCB"
-      },
-      {
-        "channel": "C08R493ESAJ",
-        "messageId": "Q0BSQPHA11N"
-      },
-      {
-        "channel": "UMS39RAGP",
-        "messageId": "Q0BRWBYURD0"
-      },
-      {
-        "channel": "UMCPG3D8A",
-        "messageId": "Q0BRF1TR6BH"
-      },
-      {
-        "channel": "C08R493ESAJ",
-        "messageId": "Q0BRSGQQ1RT"
-      },
-      {
-        "channel": "UMS39RAGP",
-        "messageId": "Q0BSQPJ1A3A"
-      },
-      {
-        "channel": "UMCPG3D8A",
-        "messageId": "Q0BS0378RT6"
-      },
-      {
-        "channel": "C08R493ESAJ",
-        "messageId": "Q0BRWBZ9AAW"
-      },
-      {
-        "channel": "UMS39RAGP",
-        "messageId": "Q0BRUEDLVC6"
-      },
-      {
-        "channel": "UMCPG3D8A",
-        "messageId": "Q0BRWBZ9G8J"
-      },
-      {
-        "channel": "C08R493ESAJ",
-        "messageId": "Q0BRWBZNGH0"
-      }
-    ],
     "8545d7b372d5a9174bcc7545a5dd9ec8": [
       {
         "channel": "UMS39RAGP",
@@ -28350,6 +28190,416 @@
         "channel": "C08R493ESAJ",
         "messageId": "Q0BSA03DX9R"
       }
+    ],
+    "db64f33fd2a0f835dc4b7393e34e5b24": [
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BSPNS9PNV"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0BTG6ANBME"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0BSKSNLAES"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BSPNSKEGZ"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0BSFHP9V9R"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0BTG69D308"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BSFHP6TFD"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0BS6E1B2R5"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0BSPNTCB33"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BTG69S49E"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0BSPNSRH0R"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0BSKSNT1C6"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BSKSMV6H4"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0BTG6B5P3J"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0BSFHP6M1R"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BSKSNG4FQ"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0BSKSNUF9C"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0BSFHNN0TD"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BSHS6G4SZ"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0BSKSNJMV4"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0BSPNUEXR7"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BSMQB2WG2"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0BSRFBAD8C"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0BSMQAP2BU"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BSKSNTX62"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0BSFHPCD1R"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0BSFHQB6TD"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BSRFB6XQU"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0BSHS71KFF"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0BSFHPNWKV"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BSPNVB9G9"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0BTG6B7BLG"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0BSKSPBXUN"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BSKSQDVQE"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0BTG6BBB08"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0BS6E2QUUX"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BS6E38HST"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0BSRFBU58U"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0BSHS71LSZ"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BSFHQEHV1"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0BSKSQBRE2"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0BSPNV7E0Z"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BSRFC3A5A"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0BSRFC5AKW"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0BSKSQB79C"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BSKSPURJS"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0BSMQBM2TU"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0BSRFCCU7N"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BSKSP9U5C"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0BSPNVQPU1"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0BSKSQ1RL6"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BSRFCH3QU"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0BSRFCGWLC"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0BSPNVN3AM"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BSMQC1LAE"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0BTG6CFKA4"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0BSMQCE46N"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BSRFCBJVA"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0BSKSQAH1U"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0BSPNVSM4H"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BSPNW4325"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0BSPNV68DP"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0BS6E3NM7H"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BS6E3PDRV"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0BSFHR1N3V"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0BTG6BQH3J"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BSKSRA206"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0BSKSR0TML"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0BSRFD30DA"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BTG6CQB0Q"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0BSFHRAVLK"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0BSMQDHJFL"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BS6E40M1V"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0BTG6DBJ0G"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0BSKSQP606"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BSKSR0K8E"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0BSKSRCBF0"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0BS6E4P1GX"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BSPNWJUTB"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0BTG6CSYCQ"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0BSRFDD3PW"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BS6E421JB"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0BSHS8PR9B"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0BSFHSBEKD"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BSHS9C2P7"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0BSKSRD8BY"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0BTG6EA7KJ"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BSRFE31L4"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0BSMQDHPSN"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0BTG6CSKLY"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BSPNWGWHX"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0BSKSS2PD4"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0BSMQD043U"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BSKSS54MU"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0BSPNWF1UH"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0BSMQDT8EN"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BTG6E6C4Q"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0BSRFDQ45S"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0BSPNWHVGR"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BSKSRD3K8"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0BS6E4AKQX"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0BSFHTFLN7"
+      }
     ]
   },
   "processedMessageTs": {
@@ -28524,8 +28774,9 @@
     "1787327036.910869": true,
     "1787326908.688369": true,
     "1787438918.705989": true,
-    "1787603590.355029": true
+    "1787603590.355029": true,
+    "1787670245.820689": true
   },
   "lastWeeklySummaryDate": "2026-W34",
-  "lastRun": "2026-08-25T06:41:59.712Z"
+  "lastRun": "2026-08-25T18:02:16.069Z"
 }
