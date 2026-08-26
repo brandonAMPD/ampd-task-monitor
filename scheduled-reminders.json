@@ -1606,8 +1606,8 @@
       "source_message": "@Christle 'Knows All' Ochigue replace all CRM training videos on lovable with the sprout video version by t",
       "assigneeId": "UMCPG3D8A",
       "messageTs": "1787603590.355029",
-      "completed": false,
-      "completedAt": null,
+      "completed": true,
+      "completedAt": "2026-08-26T18:01:24.651Z",
       "firstSeenAt": "2026-08-25T06:01:43.522Z"
     },
     "db64f33fd2a0f835dc4b7393e34e5b24": {
@@ -1634,8 +1634,8 @@
       "source_message": "@Christle 'Knows All' Ochigue update the email subject lines as noted in this task <https://dovetail-mktg.sl",
       "assigneeId": "UMCPG3D8A",
       "messageTs": "1787683715.705149",
-      "completed": false,
-      "completedAt": null,
+      "completed": true,
+      "completedAt": "2026-08-26T18:01:50.034Z",
       "firstSeenAt": "2026-08-26T06:01:33.191Z"
     },
     "af8d2014839dfdfd64abc32b093fc31c": {
@@ -1651,6 +1651,20 @@
       "completed": false,
       "completedAt": null,
       "firstSeenAt": "2026-08-26T06:43:54.749Z"
+    },
+    "9fd1bc44ce32b202bdbd37ef303530f0": {
+      "task": "Build campaign and stage within Ampd CRM Pipeline (3) per linked doc",
+      "assignee_name": "Christle Ochigue",
+      "assignee_slack_mention": "@Christle 'Knows All' Ochigue",
+      "assigned_date": "2026-08-26",
+      "due_date": "2026-08-28",
+      "message_ts": "1787754267.271519",
+      "source_message": "@Christle 'Knows All' Ochigue please build this campaign along with the stage needed for in within the",
+      "assigneeId": "UMCPG3D8A",
+      "messageTs": "1787754267.271519",
+      "completed": false,
+      "completedAt": null,
+      "firstSeenAt": "2026-08-26T18:02:23.120Z"
     }
   },
   "scheduled": {
@@ -20009,6 +20023,236 @@
       "task": "Help build document templates in GHL ampd lending sub account through the payments tab",
       "assignee": "Mark 'Morpheus' Manaog",
       "reminderDate": "2026-09-02"
+    },
+    "9fd1bc44ce32b202bdbd37ef303530f0|nag|2026-08-26": {
+      "scheduledAt": "2026-08-26T18:02:23.122Z",
+      "type": "nag",
+      "task": "Build campaign and stage within Ampd CRM Pipeline (3) per linked doc",
+      "skipped": true
+    },
+    "9fd1bc44ce32b202bdbd37ef303530f0|nag|2026-08-27": {
+      "scheduledAt": "2026-08-26T18:02:25.019Z",
+      "type": "nag",
+      "task": "Build campaign and stage within Ampd CRM Pipeline (3) per linked doc",
+      "assignee": "Christle Ochigue",
+      "reminderDate": "2026-08-27"
+    },
+    "9fd1bc44ce32b202bdbd37ef303530f0|due|2026-08-28": {
+      "scheduledAt": "2026-08-26T18:02:25.788Z",
+      "type": "due",
+      "task": "Build campaign and stage within Ampd CRM Pipeline (3) per linked doc",
+      "assignee": "Christle Ochigue",
+      "reminderDate": "2026-08-28"
+    },
+    "9fd1bc44ce32b202bdbd37ef303530f0|overdue|2026-08-29": {
+      "scheduledAt": "2026-08-26T18:02:26.596Z",
+      "type": "overdue",
+      "task": "Build campaign and stage within Ampd CRM Pipeline (3) per linked doc",
+      "assignee": "Christle Ochigue",
+      "reminderDate": "2026-08-29"
+    },
+    "9fd1bc44ce32b202bdbd37ef303530f0|overdue|2026-08-30": {
+      "scheduledAt": "2026-08-26T18:02:27.378Z",
+      "type": "overdue",
+      "task": "Build campaign and stage within Ampd CRM Pipeline (3) per linked doc",
+      "assignee": "Christle Ochigue",
+      "reminderDate": "2026-08-30"
+    },
+    "9fd1bc44ce32b202bdbd37ef303530f0|overdue|2026-08-31": {
+      "scheduledAt": "2026-08-26T18:02:28.176Z",
+      "type": "overdue",
+      "task": "Build campaign and stage within Ampd CRM Pipeline (3) per linked doc",
+      "assignee": "Christle Ochigue",
+      "reminderDate": "2026-08-31"
+    },
+    "9fd1bc44ce32b202bdbd37ef303530f0|overdue|2026-09-01": {
+      "scheduledAt": "2026-08-26T18:02:28.959Z",
+      "type": "overdue",
+      "task": "Build campaign and stage within Ampd CRM Pipeline (3) per linked doc",
+      "assignee": "Christle Ochigue",
+      "reminderDate": "2026-09-01"
+    },
+    "9fd1bc44ce32b202bdbd37ef303530f0|overdue|2026-09-02": {
+      "scheduledAt": "2026-08-26T18:02:29.772Z",
+      "type": "overdue",
+      "task": "Build campaign and stage within Ampd CRM Pipeline (3) per linked doc",
+      "assignee": "Christle Ochigue",
+      "reminderDate": "2026-09-02"
+    },
+    "9fd1bc44ce32b202bdbd37ef303530f0|overdue|2026-09-03": {
+      "scheduledAt": "2026-08-26T18:02:30.542Z",
+      "type": "overdue",
+      "task": "Build campaign and stage within Ampd CRM Pipeline (3) per linked doc",
+      "assignee": "Christle Ochigue",
+      "reminderDate": "2026-09-03"
+    },
+    "9fd1bc44ce32b202bdbd37ef303530f0|overdue|2026-09-04": {
+      "scheduledAt": "2026-08-26T18:02:31.346Z",
+      "type": "overdue",
+      "task": "Build campaign and stage within Ampd CRM Pipeline (3) per linked doc",
+      "assignee": "Christle Ochigue",
+      "reminderDate": "2026-09-04"
+    },
+    "9fd1bc44ce32b202bdbd37ef303530f0|overdue|2026-09-05": {
+      "scheduledAt": "2026-08-26T18:02:32.141Z",
+      "type": "overdue",
+      "task": "Build campaign and stage within Ampd CRM Pipeline (3) per linked doc",
+      "assignee": "Christle Ochigue",
+      "reminderDate": "2026-09-05"
+    },
+    "9fd1bc44ce32b202bdbd37ef303530f0|overdue|2026-09-06": {
+      "scheduledAt": "2026-08-26T18:02:32.926Z",
+      "type": "overdue",
+      "task": "Build campaign and stage within Ampd CRM Pipeline (3) per linked doc",
+      "assignee": "Christle Ochigue",
+      "reminderDate": "2026-09-06"
+    },
+    "9fd1bc44ce32b202bdbd37ef303530f0|overdue|2026-09-07": {
+      "scheduledAt": "2026-08-26T18:02:33.712Z",
+      "type": "overdue",
+      "task": "Build campaign and stage within Ampd CRM Pipeline (3) per linked doc",
+      "assignee": "Christle Ochigue",
+      "reminderDate": "2026-09-07"
+    },
+    "9fd1bc44ce32b202bdbd37ef303530f0|overdue|2026-09-08": {
+      "scheduledAt": "2026-08-26T18:02:34.500Z",
+      "type": "overdue",
+      "task": "Build campaign and stage within Ampd CRM Pipeline (3) per linked doc",
+      "assignee": "Christle Ochigue",
+      "reminderDate": "2026-09-08"
+    },
+    "9fd1bc44ce32b202bdbd37ef303530f0|overdue|2026-09-09": {
+      "scheduledAt": "2026-08-26T18:02:35.285Z",
+      "type": "overdue",
+      "task": "Build campaign and stage within Ampd CRM Pipeline (3) per linked doc",
+      "assignee": "Christle Ochigue",
+      "reminderDate": "2026-09-09"
+    },
+    "9fd1bc44ce32b202bdbd37ef303530f0|overdue|2026-09-10": {
+      "scheduledAt": "2026-08-26T18:02:36.086Z",
+      "type": "overdue",
+      "task": "Build campaign and stage within Ampd CRM Pipeline (3) per linked doc",
+      "assignee": "Christle Ochigue",
+      "reminderDate": "2026-09-10"
+    },
+    "9fd1bc44ce32b202bdbd37ef303530f0|overdue|2026-09-11": {
+      "scheduledAt": "2026-08-26T18:02:36.881Z",
+      "type": "overdue",
+      "task": "Build campaign and stage within Ampd CRM Pipeline (3) per linked doc",
+      "assignee": "Christle Ochigue",
+      "reminderDate": "2026-09-11"
+    },
+    "9fd1bc44ce32b202bdbd37ef303530f0|overdue|2026-09-12": {
+      "scheduledAt": "2026-08-26T18:02:37.689Z",
+      "type": "overdue",
+      "task": "Build campaign and stage within Ampd CRM Pipeline (3) per linked doc",
+      "assignee": "Christle Ochigue",
+      "reminderDate": "2026-09-12"
+    },
+    "9fd1bc44ce32b202bdbd37ef303530f0|overdue|2026-09-13": {
+      "scheduledAt": "2026-08-26T18:02:38.497Z",
+      "type": "overdue",
+      "task": "Build campaign and stage within Ampd CRM Pipeline (3) per linked doc",
+      "assignee": "Christle Ochigue",
+      "reminderDate": "2026-09-13"
+    },
+    "9fd1bc44ce32b202bdbd37ef303530f0|overdue|2026-09-14": {
+      "scheduledAt": "2026-08-26T18:02:39.293Z",
+      "type": "overdue",
+      "task": "Build campaign and stage within Ampd CRM Pipeline (3) per linked doc",
+      "assignee": "Christle Ochigue",
+      "reminderDate": "2026-09-14"
+    },
+    "9fd1bc44ce32b202bdbd37ef303530f0|overdue|2026-09-15": {
+      "scheduledAt": "2026-08-26T18:02:40.112Z",
+      "type": "overdue",
+      "task": "Build campaign and stage within Ampd CRM Pipeline (3) per linked doc",
+      "assignee": "Christle Ochigue",
+      "reminderDate": "2026-09-15"
+    },
+    "9fd1bc44ce32b202bdbd37ef303530f0|overdue|2026-09-16": {
+      "scheduledAt": "2026-08-26T18:02:40.925Z",
+      "type": "overdue",
+      "task": "Build campaign and stage within Ampd CRM Pipeline (3) per linked doc",
+      "assignee": "Christle Ochigue",
+      "reminderDate": "2026-09-16"
+    },
+    "9fd1bc44ce32b202bdbd37ef303530f0|overdue|2026-09-17": {
+      "scheduledAt": "2026-08-26T18:02:41.697Z",
+      "type": "overdue",
+      "task": "Build campaign and stage within Ampd CRM Pipeline (3) per linked doc",
+      "assignee": "Christle Ochigue",
+      "reminderDate": "2026-09-17"
+    },
+    "9fd1bc44ce32b202bdbd37ef303530f0|overdue|2026-09-18": {
+      "scheduledAt": "2026-08-26T18:02:42.487Z",
+      "type": "overdue",
+      "task": "Build campaign and stage within Ampd CRM Pipeline (3) per linked doc",
+      "assignee": "Christle Ochigue",
+      "reminderDate": "2026-09-18"
+    },
+    "9fd1bc44ce32b202bdbd37ef303530f0|overdue|2026-09-19": {
+      "scheduledAt": "2026-08-26T18:02:43.281Z",
+      "type": "overdue",
+      "task": "Build campaign and stage within Ampd CRM Pipeline (3) per linked doc",
+      "assignee": "Christle Ochigue",
+      "reminderDate": "2026-09-19"
+    },
+    "9fd1bc44ce32b202bdbd37ef303530f0|overdue|2026-09-20": {
+      "scheduledAt": "2026-08-26T18:02:44.072Z",
+      "type": "overdue",
+      "task": "Build campaign and stage within Ampd CRM Pipeline (3) per linked doc",
+      "assignee": "Christle Ochigue",
+      "reminderDate": "2026-09-20"
+    },
+    "9fd1bc44ce32b202bdbd37ef303530f0|overdue|2026-09-21": {
+      "scheduledAt": "2026-08-26T18:02:44.850Z",
+      "type": "overdue",
+      "task": "Build campaign and stage within Ampd CRM Pipeline (3) per linked doc",
+      "assignee": "Christle Ochigue",
+      "reminderDate": "2026-09-21"
+    },
+    "9fd1bc44ce32b202bdbd37ef303530f0|overdue|2026-09-22": {
+      "scheduledAt": "2026-08-26T18:02:45.636Z",
+      "type": "overdue",
+      "task": "Build campaign and stage within Ampd CRM Pipeline (3) per linked doc",
+      "assignee": "Christle Ochigue",
+      "reminderDate": "2026-09-22"
+    },
+    "9fd1bc44ce32b202bdbd37ef303530f0|overdue|2026-09-23": {
+      "scheduledAt": "2026-08-26T18:02:46.453Z",
+      "type": "overdue",
+      "task": "Build campaign and stage within Ampd CRM Pipeline (3) per linked doc",
+      "assignee": "Christle Ochigue",
+      "reminderDate": "2026-09-23"
+    },
+    "9fd1bc44ce32b202bdbd37ef303530f0|overdue|2026-09-24": {
+      "scheduledAt": "2026-08-26T18:02:47.228Z",
+      "type": "overdue",
+      "task": "Build campaign and stage within Ampd CRM Pipeline (3) per linked doc",
+      "assignee": "Christle Ochigue",
+      "reminderDate": "2026-09-24"
+    },
+    "9fd1bc44ce32b202bdbd37ef303530f0|overdue|2026-09-25": {
+      "scheduledAt": "2026-08-26T18:02:48.004Z",
+      "type": "overdue",
+      "task": "Build campaign and stage within Ampd CRM Pipeline (3) per linked doc",
+      "assignee": "Christle Ochigue",
+      "reminderDate": "2026-09-25"
+    },
+    "9fd1bc44ce32b202bdbd37ef303530f0|overdue|2026-09-26": {
+      "scheduledAt": "2026-08-26T18:02:48.810Z",
+      "type": "overdue",
+      "task": "Build campaign and stage within Ampd CRM Pipeline (3) per linked doc",
+      "assignee": "Christle Ochigue",
+      "reminderDate": "2026-09-26"
+    },
+    "9fd1bc44ce32b202bdbd37ef303530f0|overdue|2026-09-27": {
+      "scheduledAt": "2026-08-26T18:02:49.625Z",
+      "type": "overdue",
+      "task": "Build campaign and stage within Ampd CRM Pipeline (3) per linked doc",
+      "assignee": "Christle Ochigue",
+      "reminderDate": "2026-09-27"
     }
   },
   "scheduledMessageIds": {
@@ -27824,380 +28068,6 @@
         "messageId": "Q0BRWBKR36E"
       }
     ],
-    "8545d7b372d5a9174bcc7545a5dd9ec8": [
-      {
-        "channel": "UMS39RAGP",
-        "messageId": "Q0BTAHXR8PJ"
-      },
-      {
-        "channel": "UMCPG3D8A",
-        "messageId": "Q0BS0RK203H"
-      },
-      {
-        "channel": "C08R493ESAJ",
-        "messageId": "Q0BS9VDS1RR"
-      },
-      {
-        "channel": "UMS39RAGP",
-        "messageId": "Q0BTAHY92HW"
-      },
-      {
-        "channel": "UMCPG3D8A",
-        "messageId": "Q0BS0RK7YFR"
-      },
-      {
-        "channel": "C08R493ESAJ",
-        "messageId": "Q0BTAHZ0B88"
-      },
-      {
-        "channel": "UMS39RAGP",
-        "messageId": "Q0BTAHYCQMN"
-      },
-      {
-        "channel": "UMCPG3D8A",
-        "messageId": "Q0BSCA2KT29"
-      },
-      {
-        "channel": "C08R493ESAJ",
-        "messageId": "Q0BTAHXFVB2"
-      },
-      {
-        "channel": "UMS39RAGP",
-        "messageId": "Q0BSA006FU3"
-      },
-      {
-        "channel": "UMCPG3D8A",
-        "messageId": "Q0BS0RL3C31"
-      },
-      {
-        "channel": "C08R493ESAJ",
-        "messageId": "Q0BSCA2G43X"
-      },
-      {
-        "channel": "UMS39RAGP",
-        "messageId": "Q0BS0RKLK7H"
-      },
-      {
-        "channel": "UMCPG3D8A",
-        "messageId": "Q0BSKT0AV1A"
-      },
-      {
-        "channel": "C08R493ESAJ",
-        "messageId": "Q0BSE8TBGR4"
-      },
-      {
-        "channel": "UMS39RAGP",
-        "messageId": "Q0BSJ54D1FT"
-      },
-      {
-        "channel": "UMCPG3D8A",
-        "messageId": "Q0BS0RL4Z7Z"
-      },
-      {
-        "channel": "C08R493ESAJ",
-        "messageId": "Q0BSE8SFW78"
-      },
-      {
-        "channel": "UMS39RAGP",
-        "messageId": "Q0BTAHUD7KJ"
-      },
-      {
-        "channel": "UMCPG3D8A",
-        "messageId": "Q0BS0RL7GQ7"
-      },
-      {
-        "channel": "C08R493ESAJ",
-        "messageId": "Q0BSG6EPWLS"
-      },
-      {
-        "channel": "UMS39RAGP",
-        "messageId": "Q0BSG6EJFU2"
-      },
-      {
-        "channel": "UMCPG3D8A",
-        "messageId": "Q0BSA014F6F"
-      },
-      {
-        "channel": "C08R493ESAJ",
-        "messageId": "Q0BSG6EUSFL"
-      },
-      {
-        "channel": "UMS39RAGP",
-        "messageId": "Q0BSJ54PF17"
-      },
-      {
-        "channel": "UMCPG3D8A",
-        "messageId": "Q0BSE8TJL4W"
-      },
-      {
-        "channel": "C08R493ESAJ",
-        "messageId": "Q0BTAHY1GPJ"
-      },
-      {
-        "channel": "UMS39RAGP",
-        "messageId": "Q0BSKT0LUNQ"
-      },
-      {
-        "channel": "UMCPG3D8A",
-        "messageId": "Q0BS0RM2YNB"
-      },
-      {
-        "channel": "C08R493ESAJ",
-        "messageId": "Q0BSE8T1Q4W"
-      },
-      {
-        "channel": "UMS39RAGP",
-        "messageId": "Q0BTAHXN1MW"
-      },
-      {
-        "channel": "UMCPG3D8A",
-        "messageId": "Q0BSCA39GFP"
-      },
-      {
-        "channel": "C08R493ESAJ",
-        "messageId": "Q0BSKT0NG0L"
-      },
-      {
-        "channel": "UMS39RAGP",
-        "messageId": "Q0BTAHYDSQY"
-      },
-      {
-        "channel": "UMCPG3D8A",
-        "messageId": "Q0BSE8T6DRC"
-      },
-      {
-        "channel": "C08R493ESAJ",
-        "messageId": "Q0BSJ558B7T"
-      },
-      {
-        "channel": "UMS39RAGP",
-        "messageId": "Q0BSG6FP2F4"
-      },
-      {
-        "channel": "UMCPG3D8A",
-        "messageId": "Q0BSA00SGE7"
-      },
-      {
-        "channel": "C08R493ESAJ",
-        "messageId": "Q0BS0RLLB9V"
-      },
-      {
-        "channel": "UMS39RAGP",
-        "messageId": "Q0BSA01DPNF"
-      },
-      {
-        "channel": "UMCPG3D8A",
-        "messageId": "Q0BSE8TKC4E"
-      },
-      {
-        "channel": "C08R493ESAJ",
-        "messageId": "Q0BSA00AUN7"
-      },
-      {
-        "channel": "UMS39RAGP",
-        "messageId": "Q0BSKT17QUU"
-      },
-      {
-        "channel": "UMCPG3D8A",
-        "messageId": "Q0BSA00P7A7"
-      },
-      {
-        "channel": "C08R493ESAJ",
-        "messageId": "Q0BTAHZFETS"
-      },
-      {
-        "channel": "UMS39RAGP",
-        "messageId": "Q0BTAHZ8SG0"
-      },
-      {
-        "channel": "UMCPG3D8A",
-        "messageId": "Q0BS0RLLMMM"
-      },
-      {
-        "channel": "C08R493ESAJ",
-        "messageId": "Q0BSE8RB8G6"
-      },
-      {
-        "channel": "UMS39RAGP",
-        "messageId": "Q0BSG6FLRRQ"
-      },
-      {
-        "channel": "UMCPG3D8A",
-        "messageId": "Q0BSKT1DRRS"
-      },
-      {
-        "channel": "C08R493ESAJ",
-        "messageId": "Q0BSCA44SAH"
-      },
-      {
-        "channel": "UMS39RAGP",
-        "messageId": "Q0BSCA47FHB"
-      },
-      {
-        "channel": "UMCPG3D8A",
-        "messageId": "Q0BSE8UJW78"
-      },
-      {
-        "channel": "C08R493ESAJ",
-        "messageId": "Q0BSKT21UHJ"
-      },
-      {
-        "channel": "UMS39RAGP",
-        "messageId": "Q0BS0RM43ST"
-      },
-      {
-        "channel": "UMCPG3D8A",
-        "messageId": "Q0BSCA26JCV"
-      },
-      {
-        "channel": "C08R493ESAJ",
-        "messageId": "Q0BSCA3PRGD"
-      },
-      {
-        "channel": "UMS39RAGP",
-        "messageId": "Q0BSE8U3UCW"
-      },
-      {
-        "channel": "UMCPG3D8A",
-        "messageId": "Q0BSCA4VDNH"
-      },
-      {
-        "channel": "C08R493ESAJ",
-        "messageId": "Q0BSCA4B821"
-      },
-      {
-        "channel": "UMS39RAGP",
-        "messageId": "Q0BSCA4J7MK"
-      },
-      {
-        "channel": "UMCPG3D8A",
-        "messageId": "Q0BSJ55GQAV"
-      },
-      {
-        "channel": "C08R493ESAJ",
-        "messageId": "Q0BS0RMCXUP"
-      },
-      {
-        "channel": "UMS39RAGP",
-        "messageId": "Q0BTAHYMLEL"
-      },
-      {
-        "channel": "UMCPG3D8A",
-        "messageId": "Q0BSCA4MG21"
-      },
-      {
-        "channel": "C08R493ESAJ",
-        "messageId": "Q0BSE8UCVV4"
-      },
-      {
-        "channel": "UMS39RAGP",
-        "messageId": "Q0BSKT230HJ"
-      },
-      {
-        "channel": "UMCPG3D8A",
-        "messageId": "Q0BTAHYHAV6"
-      },
-      {
-        "channel": "C08R493ESAJ",
-        "messageId": "Q0BTAHZFUHE"
-      },
-      {
-        "channel": "UMS39RAGP",
-        "messageId": "Q0BSG6FNR2N"
-      },
-      {
-        "channel": "UMCPG3D8A",
-        "messageId": "Q0BS0RLP52T"
-      },
-      {
-        "channel": "C08R493ESAJ",
-        "messageId": "Q0BTAHZRTR6"
-      },
-      {
-        "channel": "UMS39RAGP",
-        "messageId": "Q0BSA029C11"
-      },
-      {
-        "channel": "UMCPG3D8A",
-        "messageId": "Q0BSE8UUZEJ"
-      },
-      {
-        "channel": "C08R493ESAJ",
-        "messageId": "Q0BSA01DE9H"
-      },
-      {
-        "channel": "UMS39RAGP",
-        "messageId": "Q0BSCA4D529"
-      },
-      {
-        "channel": "UMCPG3D8A",
-        "messageId": "Q0BS0RMB4ET"
-      },
-      {
-        "channel": "C08R493ESAJ",
-        "messageId": "Q0BSE8UMKT8"
-      },
-      {
-        "channel": "UMS39RAGP",
-        "messageId": "Q0BSKT2FHTN"
-      },
-      {
-        "channel": "UMCPG3D8A",
-        "messageId": "Q0BSJ56L81F"
-      },
-      {
-        "channel": "C08R493ESAJ",
-        "messageId": "Q0BSA020L9Z"
-      },
-      {
-        "channel": "UMS39RAGP",
-        "messageId": "Q0BSCA53ECV"
-      },
-      {
-        "channel": "UMCPG3D8A",
-        "messageId": "Q0BSG6GT18A"
-      },
-      {
-        "channel": "C08R493ESAJ",
-        "messageId": "Q0BSE8VS8SJ"
-      },
-      {
-        "channel": "UMS39RAGP",
-        "messageId": "Q0BSKT3CPGU"
-      },
-      {
-        "channel": "UMCPG3D8A",
-        "messageId": "Q0BTAJ0UKU0"
-      },
-      {
-        "channel": "C08R493ESAJ",
-        "messageId": "Q0BTAJ059NU"
-      },
-      {
-        "channel": "UMS39RAGP",
-        "messageId": "Q0BTAJ1178Q"
-      },
-      {
-        "channel": "UMCPG3D8A",
-        "messageId": "Q0BSE8VFQMC"
-      },
-      {
-        "channel": "C08R493ESAJ",
-        "messageId": "Q0BSCA5JETX"
-      },
-      {
-        "channel": "UMS39RAGP",
-        "messageId": "Q0BSA0376LT"
-      },
-      {
-        "channel": "UMCPG3D8A",
-        "messageId": "Q0BS0RNGE31"
-      },
-      {
-        "channel": "C08R493ESAJ",
-        "messageId": "Q0BSA03DX9R"
-      }
-    ],
     "db64f33fd2a0f835dc4b7393e34e5b24": [
       {
         "channel": "UMS39RAGP",
@@ -28608,380 +28478,6 @@
         "messageId": "Q0BSFHTFLN7"
       }
     ],
-    "37cb5007e9db4a0f6ab7bfb46eebd5af": [
-      {
-        "channel": "UMS39RAGP",
-        "messageId": "Q0BSRTDKG10"
-      },
-      {
-        "channel": "UMCPG3D8A",
-        "messageId": "Q0BSVJE86LU"
-      },
-      {
-        "channel": "C08R493ESAJ",
-        "messageId": "Q0BSKLSL4SF"
-      },
-      {
-        "channel": "UMS39RAGP",
-        "messageId": "Q0BSVJEQGDS"
-      },
-      {
-        "channel": "UMCPG3D8A",
-        "messageId": "Q0BSQ0CSWQN"
-      },
-      {
-        "channel": "C08R493ESAJ",
-        "messageId": "Q0BSMV1B72R"
-      },
-      {
-        "channel": "UMS39RAGP",
-        "messageId": "Q0BSQ0CJYPQ"
-      },
-      {
-        "channel": "UMCPG3D8A",
-        "messageId": "Q0BSKLSPNJF"
-      },
-      {
-        "channel": "C08R493ESAJ",
-        "messageId": "Q0BSAH54U7R"
-      },
-      {
-        "channel": "UMS39RAGP",
-        "messageId": "Q0BSKLPLAM9"
-      },
-      {
-        "channel": "UMCPG3D8A",
-        "messageId": "Q0BTL9DQ2G0"
-      },
-      {
-        "channel": "C08R493ESAJ",
-        "messageId": "Q0BSAH5R4KZ"
-      },
-      {
-        "channel": "UMS39RAGP",
-        "messageId": "Q0BTL9EGL7J"
-      },
-      {
-        "channel": "UMCPG3D8A",
-        "messageId": "Q0BSAH649SB"
-      },
-      {
-        "channel": "C08R493ESAJ",
-        "messageId": "Q0BSTRXDLD7"
-      },
-      {
-        "channel": "UMS39RAGP",
-        "messageId": "Q0BSRTEF4N6"
-      },
-      {
-        "channel": "UMCPG3D8A",
-        "messageId": "Q0BTL9E799N"
-      },
-      {
-        "channel": "C08R493ESAJ",
-        "messageId": "Q0BSRTEE2UA"
-      },
-      {
-        "channel": "UMS39RAGP",
-        "messageId": "Q0BTL9EMU7J"
-      },
-      {
-        "channel": "UMCPG3D8A",
-        "messageId": "Q0BSAH696TH"
-      },
-      {
-        "channel": "C08R493ESAJ",
-        "messageId": "Q0BSRTEQ5U2"
-      },
-      {
-        "channel": "UMS39RAGP",
-        "messageId": "Q0BSQ0A3F6J"
-      },
-      {
-        "channel": "UMCPG3D8A",
-        "messageId": "Q0BSMV1J3L5"
-      },
-      {
-        "channel": "C08R493ESAJ",
-        "messageId": "Q0BSKLT36HH"
-      },
-      {
-        "channel": "UMS39RAGP",
-        "messageId": "Q0BSKLU7X0B"
-      },
-      {
-        "channel": "UMCPG3D8A",
-        "messageId": "Q0BSAH5JAP9"
-      },
-      {
-        "channel": "C08R493ESAJ",
-        "messageId": "Q0BSRTF4URY"
-      },
-      {
-        "channel": "UMS39RAGP",
-        "messageId": "Q0BSMV296DT"
-      },
-      {
-        "channel": "UMCPG3D8A",
-        "messageId": "Q0BSAH5CPQF"
-      },
-      {
-        "channel": "C08R493ESAJ",
-        "messageId": "Q0BTL9EA456"
-      },
-      {
-        "channel": "UMS39RAGP",
-        "messageId": "Q0BTL9F1LF2"
-      },
-      {
-        "channel": "UMCPG3D8A",
-        "messageId": "Q0BSVJERZAQ"
-      },
-      {
-        "channel": "C08R493ESAJ",
-        "messageId": "Q0BSKLTMVS7"
-      },
-      {
-        "channel": "UMS39RAGP",
-        "messageId": "Q0BSQ0DK2ES"
-      },
-      {
-        "channel": "UMCPG3D8A",
-        "messageId": "Q0BTL9F53J4"
-      },
-      {
-        "channel": "C08R493ESAJ",
-        "messageId": "Q0BTL9F2X7A"
-      },
-      {
-        "channel": "UMS39RAGP",
-        "messageId": "Q0BSKLTLZK5"
-      },
-      {
-        "channel": "UMCPG3D8A",
-        "messageId": "Q0BSQ0D3XPY"
-      },
-      {
-        "channel": "C08R493ESAJ",
-        "messageId": "Q0BTL9FD28G"
-      },
-      {
-        "channel": "UMS39RAGP",
-        "messageId": "Q0BSKLU3P1R"
-      },
-      {
-        "channel": "UMCPG3D8A",
-        "messageId": "Q0BSVJFDNKW"
-      },
-      {
-        "channel": "C08R493ESAJ",
-        "messageId": "Q0BSQ0D1XKQ"
-      },
-      {
-        "channel": "UMS39RAGP",
-        "messageId": "Q0BTL9EEZTJ"
-      },
-      {
-        "channel": "UMCPG3D8A",
-        "messageId": "Q0BSKLU9UKD"
-      },
-      {
-        "channel": "C08R493ESAJ",
-        "messageId": "Q0BSTRY0WHF"
-      },
-      {
-        "channel": "UMS39RAGP",
-        "messageId": "Q0BSAH6BQ31"
-      },
-      {
-        "channel": "UMCPG3D8A",
-        "messageId": "Q0BSTRYH9T3"
-      },
-      {
-        "channel": "C08R493ESAJ",
-        "messageId": "Q0BSTRYT76D"
-      },
-      {
-        "channel": "UMS39RAGP",
-        "messageId": "Q0BSQ0DEKD4"
-      },
-      {
-        "channel": "UMCPG3D8A",
-        "messageId": "Q0BSVJGDKJ8"
-      },
-      {
-        "channel": "C08R493ESAJ",
-        "messageId": "Q0BTL9FFC72"
-      },
-      {
-        "channel": "UMS39RAGP",
-        "messageId": "Q0BSQ0DCBN2"
-      },
-      {
-        "channel": "UMCPG3D8A",
-        "messageId": "Q0BSTRZ3RL1"
-      },
-      {
-        "channel": "C08R493ESAJ",
-        "messageId": "Q0BSKLUF0LB"
-      },
-      {
-        "channel": "UMS39RAGP",
-        "messageId": "Q0BSQ0DJC94"
-      },
-      {
-        "channel": "UMCPG3D8A",
-        "messageId": "Q0BSRTF6690"
-      },
-      {
-        "channel": "C08R493ESAJ",
-        "messageId": "Q0BSTRZ1K4Z"
-      },
-      {
-        "channel": "UMS39RAGP",
-        "messageId": "Q0BSQ0DRKRC"
-      },
-      {
-        "channel": "UMCPG3D8A",
-        "messageId": "Q0BSQ0DEKBQ"
-      },
-      {
-        "channel": "C08R493ESAJ",
-        "messageId": "Q0BSTRYT1H7"
-      },
-      {
-        "channel": "UMS39RAGP",
-        "messageId": "Q0BSRTGEQ7L"
-      },
-      {
-        "channel": "UMCPG3D8A",
-        "messageId": "Q0BSKLUH6LT"
-      },
-      {
-        "channel": "C08R493ESAJ",
-        "messageId": "Q0BSRTG6U3U"
-      },
-      {
-        "channel": "UMS39RAGP",
-        "messageId": "Q0BSMUZCJR3"
-      },
-      {
-        "channel": "UMCPG3D8A",
-        "messageId": "Q0BSRTFHVA6"
-      },
-      {
-        "channel": "C08R493ESAJ",
-        "messageId": "Q0BSVJGJWDA"
-      },
-      {
-        "channel": "UMS39RAGP",
-        "messageId": "Q0BSKLUHY11"
-      },
-      {
-        "channel": "UMCPG3D8A",
-        "messageId": "Q0BSMV35FQD"
-      },
-      {
-        "channel": "C08R493ESAJ",
-        "messageId": "Q0BSVJCK004"
-      },
-      {
-        "channel": "UMS39RAGP",
-        "messageId": "Q0BSRTG392N"
-      },
-      {
-        "channel": "UMCPG3D8A",
-        "messageId": "Q0BSAH79VQF"
-      },
-      {
-        "channel": "C08R493ESAJ",
-        "messageId": "Q0BSQ0E7GF8"
-      },
-      {
-        "channel": "UMS39RAGP",
-        "messageId": "Q0BSQ0E9SS2"
-      },
-      {
-        "channel": "UMCPG3D8A",
-        "messageId": "Q0BSKLUT2UB"
-      },
-      {
-        "channel": "C08R493ESAJ",
-        "messageId": "Q0BSRTGEU1G"
-      },
-      {
-        "channel": "UMS39RAGP",
-        "messageId": "Q0BSTRZGQ57"
-      },
-      {
-        "channel": "UMCPG3D8A",
-        "messageId": "Q0BSQ0E9U2J"
-      },
-      {
-        "channel": "C08R493ESAJ",
-        "messageId": "Q0BSRTG8ZFU"
-      },
-      {
-        "channel": "UMS39RAGP",
-        "messageId": "Q0BSQ0E9Y3G"
-      },
-      {
-        "channel": "UMCPG3D8A",
-        "messageId": "Q0BTL9FQBUG"
-      },
-      {
-        "channel": "C08R493ESAJ",
-        "messageId": "Q0BSKLUUMDZ"
-      },
-      {
-        "channel": "UMS39RAGP",
-        "messageId": "Q0BSAH76Z0X"
-      },
-      {
-        "channel": "UMCPG3D8A",
-        "messageId": "Q0BSKLV5R35"
-      },
-      {
-        "channel": "C08R493ESAJ",
-        "messageId": "Q0BSMV463RB"
-      },
-      {
-        "channel": "UMS39RAGP",
-        "messageId": "Q0BTL9GL83A"
-      },
-      {
-        "channel": "UMCPG3D8A",
-        "messageId": "Q0BSMV375QD"
-      },
-      {
-        "channel": "C08R493ESAJ",
-        "messageId": "Q0BTL9H3SPJ"
-      },
-      {
-        "channel": "UMS39RAGP",
-        "messageId": "Q0BTL9H25H6"
-      },
-      {
-        "channel": "UMCPG3D8A",
-        "messageId": "Q0BTL9G9WHW"
-      },
-      {
-        "channel": "C08R493ESAJ",
-        "messageId": "Q0BSTS06XFT"
-      },
-      {
-        "channel": "UMS39RAGP",
-        "messageId": "Q0BSTRZT0M7"
-      },
-      {
-        "channel": "UMCPG3D8A",
-        "messageId": "Q0BSVJHLKL4"
-      },
-      {
-        "channel": "C08R493ESAJ",
-        "messageId": "Q0BSKLVNR4K"
-      }
-    ],
     "af8d2014839dfdfd64abc32b093fc31c": [
       {
         "channel": "UMS39RAGP",
@@ -28994,6 +28490,392 @@
       {
         "channel": "C05JGF817H6",
         "messageId": "Q0BSN6VFBC5"
+      }
+    ],
+    "9fd1bc44ce32b202bdbd37ef303530f0": [
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BSVHTEN7Q"
+      },
+      {
+        "channel": "UMCPG3D8A",
+        "messageId": "Q0BSR8V6QLT"
+      },
+      {
+        "channel": "C08R493ESAJ",
+        "messageId": "Q0BT16FBW9J"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BSZDQ4ZUH"
+      },
+      {
+        "channel": "UMCPG3D8A",
+        "messageId": "Q0BSTFEUA4V"
+      },
+      {
+        "channel": "C08R493ESAJ",
+        "messageId": "Q0BTRSXAV24"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BSTFEG9EZ"
+      },
+      {
+        "channel": "UMCPG3D8A",
+        "messageId": "Q0BT16FMKEG"
+      },
+      {
+        "channel": "C08R493ESAJ",
+        "messageId": "Q0BT16FAQJY"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BSTFES5T7"
+      },
+      {
+        "channel": "UMCPG3D8A",
+        "messageId": "Q0BSZDPD0HX"
+      },
+      {
+        "channel": "C08R493ESAJ",
+        "messageId": "Q0BSTFFKCKF"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BSVHVPWKY"
+      },
+      {
+        "channel": "UMCPG3D8A",
+        "messageId": "Q0BSVHV4KJS"
+      },
+      {
+        "channel": "C08R493ESAJ",
+        "messageId": "Q0BSZDQRRFT"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BSVHURHFG"
+      },
+      {
+        "channel": "UMCPG3D8A",
+        "messageId": "Q0BSTFG2YCV"
+      },
+      {
+        "channel": "C08R493ESAJ",
+        "messageId": "Q0BT16G9BMJ"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BSVHV9M70"
+      },
+      {
+        "channel": "UMCPG3D8A",
+        "messageId": "Q0BSXFF31BL"
+      },
+      {
+        "channel": "C08R493ESAJ",
+        "messageId": "Q0BT16EDH6Y"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BSZDQ6QJD"
+      },
+      {
+        "channel": "UMCPG3D8A",
+        "messageId": "Q0BTRSYCMKJ"
+      },
+      {
+        "channel": "C08R493ESAJ",
+        "messageId": "Q0BSTFFHVE1"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BSZDP663T"
+      },
+      {
+        "channel": "UMCPG3D8A",
+        "messageId": "Q0BSTFGV6F7"
+      },
+      {
+        "channel": "C08R493ESAJ",
+        "messageId": "Q0BT16GEHJQ"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BSZDQ6ZQR"
+      },
+      {
+        "channel": "UMCPG3D8A",
+        "messageId": "Q0BT16G4DEG"
+      },
+      {
+        "channel": "C08R493ESAJ",
+        "messageId": "Q0BSZDPKAUR"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BSTFH5S69"
+      },
+      {
+        "channel": "UMCPG3D8A",
+        "messageId": "Q0BSG586EGP"
+      },
+      {
+        "channel": "C08R493ESAJ",
+        "messageId": "Q0BSVHVP0BY"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BTRSZ47FA"
+      },
+      {
+        "channel": "UMCPG3D8A",
+        "messageId": "Q0BSZDPH1GR"
+      },
+      {
+        "channel": "C08R493ESAJ",
+        "messageId": "Q0BSG581QTZ"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BTRSYQE00"
+      },
+      {
+        "channel": "UMCPG3D8A",
+        "messageId": "Q0BTRSYUDL0"
+      },
+      {
+        "channel": "C08R493ESAJ",
+        "messageId": "Q0BSZDPJXDF"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BSVHVB3RU"
+      },
+      {
+        "channel": "UMCPG3D8A",
+        "messageId": "Q0BT16GL1FW"
+      },
+      {
+        "channel": "C08R493ESAJ",
+        "messageId": "Q0BSTFH7J13"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BSVHVH7ML"
+      },
+      {
+        "channel": "UMCPG3D8A",
+        "messageId": "Q0BTRSYV2U8"
+      },
+      {
+        "channel": "C08R493ESAJ",
+        "messageId": "Q0BSVHW3770"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BSVHV5HEJ"
+      },
+      {
+        "channel": "UMCPG3D8A",
+        "messageId": "Q0BT16GKDFW"
+      },
+      {
+        "channel": "C08R493ESAJ",
+        "messageId": "Q0BSVHVKRK8"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BSTFHJJ9K"
+      },
+      {
+        "channel": "UMCPG3D8A",
+        "messageId": "Q0BSTFH4PQD"
+      },
+      {
+        "channel": "C08R493ESAJ",
+        "messageId": "Q0BSVHWBB54"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BSZDS2A9F"
+      },
+      {
+        "channel": "UMCPG3D8A",
+        "messageId": "Q0BSZDS99GR"
+      },
+      {
+        "channel": "C08R493ESAJ",
+        "messageId": "Q0BSTFH5NQ5"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BSXFG5M9Q"
+      },
+      {
+        "channel": "UMCPG3D8A",
+        "messageId": "Q0BTRT04NTS"
+      },
+      {
+        "channel": "C08R493ESAJ",
+        "messageId": "Q0BSG595207"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BSTFHEAQ5"
+      },
+      {
+        "channel": "UMCPG3D8A",
+        "messageId": "Q0BSR8XFU2X"
+      },
+      {
+        "channel": "C08R493ESAJ",
+        "messageId": "Q0BSG59LE3Z"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BSTFHF9J9"
+      },
+      {
+        "channel": "UMCPG3D8A",
+        "messageId": "Q0BSR8XLKH9"
+      },
+      {
+        "channel": "C08R493ESAJ",
+        "messageId": "Q0BSTFGLRD3"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BSG59HHHD"
+      },
+      {
+        "channel": "UMCPG3D8A",
+        "messageId": "Q0BSR8W7151"
+      },
+      {
+        "channel": "C08R493ESAJ",
+        "messageId": "Q0BSR8XJBU3"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BT16JF8VA"
+      },
+      {
+        "channel": "UMCPG3D8A",
+        "messageId": "Q0BSG591F1V"
+      },
+      {
+        "channel": "C08R493ESAJ",
+        "messageId": "Q0BSG5A3K7Z"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BSTFJCUHK"
+      },
+      {
+        "channel": "UMCPG3D8A",
+        "messageId": "Q0BSVHXF8RL"
+      },
+      {
+        "channel": "C08R493ESAJ",
+        "messageId": "Q0BSVHY0SUW"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BSVHXLVQW"
+      },
+      {
+        "channel": "UMCPG3D8A",
+        "messageId": "Q0BSVHWN9L6"
+      },
+      {
+        "channel": "C08R493ESAJ",
+        "messageId": "Q0BSZDRL1FB"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BTRT0D24Q"
+      },
+      {
+        "channel": "UMCPG3D8A",
+        "messageId": "Q0BSZDSEJ8Z"
+      },
+      {
+        "channel": "C08R493ESAJ",
+        "messageId": "Q0BSZDSKSGH"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BSG5ADAGP"
+      },
+      {
+        "channel": "UMCPG3D8A",
+        "messageId": "Q0BSTFH08AZ"
+      },
+      {
+        "channel": "C08R493ESAJ",
+        "messageId": "Q0BSXFGPL4S"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BSVHXF97Y"
+      },
+      {
+        "channel": "UMCPG3D8A",
+        "messageId": "Q0BT16K99FE"
+      },
+      {
+        "channel": "C08R493ESAJ",
+        "messageId": "Q0BSVHX2LCE"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BSR8XLS9Z"
+      },
+      {
+        "channel": "UMCPG3D8A",
+        "messageId": "Q0BSG5B3ACX"
+      },
+      {
+        "channel": "C08R493ESAJ",
+        "messageId": "Q0BTRT17SKS"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BSG5A0EUX"
+      },
+      {
+        "channel": "UMCPG3D8A",
+        "messageId": "Q0BTRT1GEAC"
+      },
+      {
+        "channel": "C08R493ESAJ",
+        "messageId": "Q0BSG5ASRT9"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BTRT1LXU0"
+      },
+      {
+        "channel": "UMCPG3D8A",
+        "messageId": "Q0BSZDT0Y8Z"
+      },
+      {
+        "channel": "C08R493ESAJ",
+        "messageId": "Q0BSVHY19QE"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BSZDS7DMX"
+      },
+      {
+        "channel": "UMCPG3D8A",
+        "messageId": "Q0BSTFK2M0D"
+      },
+      {
+        "channel": "C08R493ESAJ",
+        "messageId": "Q0BSTFKT83X"
       }
     ]
   },
@@ -29172,8 +29054,11 @@
     "1787603590.355029": true,
     "1787670245.820689": true,
     "1787683715.705149": true,
-    "1787724710.016459": true
+    "1787724710.016459": true,
+    "1787754267.271519": true,
+    "1787743117.891869": true,
+    "1787742798.664479": true
   },
   "lastWeeklySummaryDate": "2026-W34",
-  "lastRun": "2026-08-26T06:43:55.846Z"
+  "lastRun": "2026-08-26T18:02:49.626Z"
 }
