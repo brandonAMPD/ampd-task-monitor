@@ -1637,65 +1637,23 @@
       "completed": false,
       "completedAt": null,
       "firstSeenAt": "2026-08-26T06:01:33.191Z"
+    },
+    "af8d2014839dfdfd64abc32b093fc31c": {
+      "task": "Help build document templates in GHL ampd lending sub account through the payments tab",
+      "assignee_name": "Mark 'Morpheus' Manaog",
+      "assignee_slack_mention": "@Mark 'Morpheus' Manaog",
+      "assigned_date": "2026-08-26",
+      "due_date": null,
+      "message_ts": "1787724710.016459",
+      "source_message": "@Mark 'Morpheus' Manaog can you help me build these \"documents\" templates in GHL ampd lending sub",
+      "assigneeId": "U023F61R16F",
+      "messageTs": "1787724710.016459",
+      "completed": false,
+      "completedAt": null,
+      "firstSeenAt": "2026-08-26T06:43:54.749Z"
     }
   },
   "scheduled": {
-    "fe8b18817c4c097d9fd5a15d49bc7e60|overdue|2026-06-22": {
-      "scheduledAt": "2026-05-28T06:01:20.833Z",
-      "type": "overdue",
-      "task": "Update homework and final strategy onboarding call Jotform forms per Claude instructions",
-      "assignee": "Mark 'Morpheus' Manaog",
-      "reminderDate": "2026-06-22"
-    },
-    "fe8b18817c4c097d9fd5a15d49bc7e60|overdue|2026-06-23": {
-      "scheduledAt": "2026-05-28T06:01:21.550Z",
-      "type": "overdue",
-      "task": "Update homework and final strategy onboarding call Jotform forms per Claude instructions",
-      "assignee": "Mark 'Morpheus' Manaog",
-      "reminderDate": "2026-06-23"
-    },
-    "fe8b18817c4c097d9fd5a15d49bc7e60|overdue|2026-06-24": {
-      "scheduledAt": "2026-05-28T06:01:22.228Z",
-      "type": "overdue",
-      "task": "Update homework and final strategy onboarding call Jotform forms per Claude instructions",
-      "assignee": "Mark 'Morpheus' Manaog",
-      "reminderDate": "2026-06-24"
-    },
-    "fe8b18817c4c097d9fd5a15d49bc7e60|overdue|2026-06-25": {
-      "scheduledAt": "2026-05-28T06:01:22.940Z",
-      "type": "overdue",
-      "task": "Update homework and final strategy onboarding call Jotform forms per Claude instructions",
-      "assignee": "Mark 'Morpheus' Manaog",
-      "reminderDate": "2026-06-25"
-    },
-    "fe8b18817c4c097d9fd5a15d49bc7e60|overdue|2026-06-26": {
-      "scheduledAt": "2026-05-28T06:01:23.630Z",
-      "type": "overdue",
-      "task": "Update homework and final strategy onboarding call Jotform forms per Claude instructions",
-      "assignee": "Mark 'Morpheus' Manaog",
-      "reminderDate": "2026-06-26"
-    },
-    "fe8b18817c4c097d9fd5a15d49bc7e60|overdue|2026-06-27": {
-      "scheduledAt": "2026-05-28T06:01:24.307Z",
-      "type": "overdue",
-      "task": "Update homework and final strategy onboarding call Jotform forms per Claude instructions",
-      "assignee": "Mark 'Morpheus' Manaog",
-      "reminderDate": "2026-06-27"
-    },
-    "fe8b18817c4c097d9fd5a15d49bc7e60|overdue|2026-06-28": {
-      "scheduledAt": "2026-05-28T06:01:25.023Z",
-      "type": "overdue",
-      "task": "Update homework and final strategy onboarding call Jotform forms per Claude instructions",
-      "assignee": "Mark 'Morpheus' Manaog",
-      "reminderDate": "2026-06-28"
-    },
-    "fe8b18817c4c097d9fd5a15d49bc7e60|overdue|2026-06-29": {
-      "scheduledAt": "2026-05-28T06:01:25.705Z",
-      "type": "overdue",
-      "task": "Update homework and final strategy onboarding call Jotform forms per Claude instructions",
-      "assignee": "Mark 'Morpheus' Manaog",
-      "reminderDate": "2026-06-29"
-    },
     "981c1da3a5b2756a609166f5fa4e84df|followup|2026-06-05": {
       "scheduledAt": "2026-05-29T06:01:09.781Z",
       "type": "followup",
@@ -20044,6 +20002,13 @@
       "task": "Update the email subject lines as noted in the linked task",
       "assignee": "Christle 'Knows All' Ochigue",
       "reminderDate": "2026-09-25"
+    },
+    "af8d2014839dfdfd64abc32b093fc31c|followup|2026-09-02": {
+      "scheduledAt": "2026-08-26T06:43:55.845Z",
+      "type": "followup",
+      "task": "Help build document templates in GHL ampd lending sub account through the payments tab",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-09-02"
     }
   },
   "scheduledMessageIds": {
@@ -29016,6 +28981,20 @@
         "channel": "C08R493ESAJ",
         "messageId": "Q0BSKLVNR4K"
       }
+    ],
+    "af8d2014839dfdfd64abc32b093fc31c": [
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BSU3S90KB"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0BSN6VRK53"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0BSN6VFBC5"
+      }
     ]
   },
   "processedMessageTs": {
@@ -29192,8 +29171,9 @@
     "1787438918.705989": true,
     "1787603590.355029": true,
     "1787670245.820689": true,
-    "1787683715.705149": true
+    "1787683715.705149": true,
+    "1787724710.016459": true
   },
   "lastWeeklySummaryDate": "2026-W34",
-  "lastRun": "2026-08-26T06:01:57.421Z"
+  "lastRun": "2026-08-26T06:43:55.846Z"
 }
