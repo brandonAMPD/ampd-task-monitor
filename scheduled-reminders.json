@@ -1623,184 +1623,23 @@
       "completed": false,
       "completedAt": null,
       "firstSeenAt": "2026-08-25T18:01:48.153Z"
+    },
+    "37cb5007e9db4a0f6ab7bfb46eebd5af": {
+      "task": "Update the email subject lines as noted in the linked task",
+      "assignee_name": "Christle 'Knows All' Ochigue",
+      "assignee_slack_mention": "@Christle 'Knows All' Ochigue",
+      "assigned_date": "2026-08-25",
+      "due_date": "2026-08-26",
+      "message_ts": "1787683715.705149",
+      "source_message": "@Christle 'Knows All' Ochigue update the email subject lines as noted in this task <https://dovetail-mktg.sl",
+      "assigneeId": "UMCPG3D8A",
+      "messageTs": "1787683715.705149",
+      "completed": false,
+      "completedAt": null,
+      "firstSeenAt": "2026-08-26T06:01:33.191Z"
     }
   },
   "scheduled": {
-    "fe8b18817c4c097d9fd5a15d49bc7e60|midpoint|2026-05-28": {
-      "scheduledAt": "2026-05-28T06:01:03.078Z",
-      "type": "midpoint",
-      "task": "Update homework and final strategy onboarding call Jotform forms per Claude instructions",
-      "assignee": "Mark 'Morpheus' Manaog",
-      "reminderDate": "2026-05-28"
-    },
-    "fe8b18817c4c097d9fd5a15d49bc7e60|nag|2026-05-29": {
-      "scheduledAt": "2026-05-28T06:01:03.823Z",
-      "type": "nag",
-      "task": "Update homework and final strategy onboarding call Jotform forms per Claude instructions",
-      "assignee": "Mark 'Morpheus' Manaog",
-      "reminderDate": "2026-05-29"
-    },
-    "fe8b18817c4c097d9fd5a15d49bc7e60|due|2026-05-30": {
-      "scheduledAt": "2026-05-28T06:01:04.505Z",
-      "type": "due",
-      "task": "Update homework and final strategy onboarding call Jotform forms per Claude instructions",
-      "assignee": "Mark 'Morpheus' Manaog",
-      "reminderDate": "2026-05-30"
-    },
-    "fe8b18817c4c097d9fd5a15d49bc7e60|overdue|2026-05-31": {
-      "scheduledAt": "2026-05-28T06:01:05.262Z",
-      "type": "overdue",
-      "task": "Update homework and final strategy onboarding call Jotform forms per Claude instructions",
-      "assignee": "Mark 'Morpheus' Manaog",
-      "reminderDate": "2026-05-31"
-    },
-    "fe8b18817c4c097d9fd5a15d49bc7e60|overdue|2026-06-01": {
-      "scheduledAt": "2026-05-28T06:01:05.927Z",
-      "type": "overdue",
-      "task": "Update homework and final strategy onboarding call Jotform forms per Claude instructions",
-      "assignee": "Mark 'Morpheus' Manaog",
-      "reminderDate": "2026-06-01"
-    },
-    "fe8b18817c4c097d9fd5a15d49bc7e60|overdue|2026-06-02": {
-      "scheduledAt": "2026-05-28T06:01:06.601Z",
-      "type": "overdue",
-      "task": "Update homework and final strategy onboarding call Jotform forms per Claude instructions",
-      "assignee": "Mark 'Morpheus' Manaog",
-      "reminderDate": "2026-06-02"
-    },
-    "fe8b18817c4c097d9fd5a15d49bc7e60|overdue|2026-06-03": {
-      "scheduledAt": "2026-05-28T06:01:07.304Z",
-      "type": "overdue",
-      "task": "Update homework and final strategy onboarding call Jotform forms per Claude instructions",
-      "assignee": "Mark 'Morpheus' Manaog",
-      "reminderDate": "2026-06-03"
-    },
-    "fe8b18817c4c097d9fd5a15d49bc7e60|overdue|2026-06-04": {
-      "scheduledAt": "2026-05-28T06:01:08.006Z",
-      "type": "overdue",
-      "task": "Update homework and final strategy onboarding call Jotform forms per Claude instructions",
-      "assignee": "Mark 'Morpheus' Manaog",
-      "reminderDate": "2026-06-04"
-    },
-    "fe8b18817c4c097d9fd5a15d49bc7e60|overdue|2026-06-05": {
-      "scheduledAt": "2026-05-28T06:01:08.707Z",
-      "type": "overdue",
-      "task": "Update homework and final strategy onboarding call Jotform forms per Claude instructions",
-      "assignee": "Mark 'Morpheus' Manaog",
-      "reminderDate": "2026-06-05"
-    },
-    "fe8b18817c4c097d9fd5a15d49bc7e60|overdue|2026-06-06": {
-      "scheduledAt": "2026-05-28T06:01:09.389Z",
-      "type": "overdue",
-      "task": "Update homework and final strategy onboarding call Jotform forms per Claude instructions",
-      "assignee": "Mark 'Morpheus' Manaog",
-      "reminderDate": "2026-06-06"
-    },
-    "fe8b18817c4c097d9fd5a15d49bc7e60|overdue|2026-06-07": {
-      "scheduledAt": "2026-05-28T06:01:10.074Z",
-      "type": "overdue",
-      "task": "Update homework and final strategy onboarding call Jotform forms per Claude instructions",
-      "assignee": "Mark 'Morpheus' Manaog",
-      "reminderDate": "2026-06-07"
-    },
-    "fe8b18817c4c097d9fd5a15d49bc7e60|overdue|2026-06-08": {
-      "scheduledAt": "2026-05-28T06:01:10.740Z",
-      "type": "overdue",
-      "task": "Update homework and final strategy onboarding call Jotform forms per Claude instructions",
-      "assignee": "Mark 'Morpheus' Manaog",
-      "reminderDate": "2026-06-08"
-    },
-    "fe8b18817c4c097d9fd5a15d49bc7e60|overdue|2026-06-09": {
-      "scheduledAt": "2026-05-28T06:01:11.429Z",
-      "type": "overdue",
-      "task": "Update homework and final strategy onboarding call Jotform forms per Claude instructions",
-      "assignee": "Mark 'Morpheus' Manaog",
-      "reminderDate": "2026-06-09"
-    },
-    "fe8b18817c4c097d9fd5a15d49bc7e60|overdue|2026-06-10": {
-      "scheduledAt": "2026-05-28T06:01:12.458Z",
-      "type": "overdue",
-      "task": "Update homework and final strategy onboarding call Jotform forms per Claude instructions",
-      "assignee": "Mark 'Morpheus' Manaog",
-      "reminderDate": "2026-06-10"
-    },
-    "fe8b18817c4c097d9fd5a15d49bc7e60|overdue|2026-06-11": {
-      "scheduledAt": "2026-05-28T06:01:13.125Z",
-      "type": "overdue",
-      "task": "Update homework and final strategy onboarding call Jotform forms per Claude instructions",
-      "assignee": "Mark 'Morpheus' Manaog",
-      "reminderDate": "2026-06-11"
-    },
-    "fe8b18817c4c097d9fd5a15d49bc7e60|overdue|2026-06-12": {
-      "scheduledAt": "2026-05-28T06:01:13.811Z",
-      "type": "overdue",
-      "task": "Update homework and final strategy onboarding call Jotform forms per Claude instructions",
-      "assignee": "Mark 'Morpheus' Manaog",
-      "reminderDate": "2026-06-12"
-    },
-    "fe8b18817c4c097d9fd5a15d49bc7e60|overdue|2026-06-13": {
-      "scheduledAt": "2026-05-28T06:01:14.492Z",
-      "type": "overdue",
-      "task": "Update homework and final strategy onboarding call Jotform forms per Claude instructions",
-      "assignee": "Mark 'Morpheus' Manaog",
-      "reminderDate": "2026-06-13"
-    },
-    "fe8b18817c4c097d9fd5a15d49bc7e60|overdue|2026-06-14": {
-      "scheduledAt": "2026-05-28T06:01:15.211Z",
-      "type": "overdue",
-      "task": "Update homework and final strategy onboarding call Jotform forms per Claude instructions",
-      "assignee": "Mark 'Morpheus' Manaog",
-      "reminderDate": "2026-06-14"
-    },
-    "fe8b18817c4c097d9fd5a15d49bc7e60|overdue|2026-06-15": {
-      "scheduledAt": "2026-05-28T06:01:15.882Z",
-      "type": "overdue",
-      "task": "Update homework and final strategy onboarding call Jotform forms per Claude instructions",
-      "assignee": "Mark 'Morpheus' Manaog",
-      "reminderDate": "2026-06-15"
-    },
-    "fe8b18817c4c097d9fd5a15d49bc7e60|overdue|2026-06-16": {
-      "scheduledAt": "2026-05-28T06:01:16.614Z",
-      "type": "overdue",
-      "task": "Update homework and final strategy onboarding call Jotform forms per Claude instructions",
-      "assignee": "Mark 'Morpheus' Manaog",
-      "reminderDate": "2026-06-16"
-    },
-    "fe8b18817c4c097d9fd5a15d49bc7e60|overdue|2026-06-17": {
-      "scheduledAt": "2026-05-28T06:01:17.283Z",
-      "type": "overdue",
-      "task": "Update homework and final strategy onboarding call Jotform forms per Claude instructions",
-      "assignee": "Mark 'Morpheus' Manaog",
-      "reminderDate": "2026-06-17"
-    },
-    "fe8b18817c4c097d9fd5a15d49bc7e60|overdue|2026-06-18": {
-      "scheduledAt": "2026-05-28T06:01:18.080Z",
-      "type": "overdue",
-      "task": "Update homework and final strategy onboarding call Jotform forms per Claude instructions",
-      "assignee": "Mark 'Morpheus' Manaog",
-      "reminderDate": "2026-06-18"
-    },
-    "fe8b18817c4c097d9fd5a15d49bc7e60|overdue|2026-06-19": {
-      "scheduledAt": "2026-05-28T06:01:18.759Z",
-      "type": "overdue",
-      "task": "Update homework and final strategy onboarding call Jotform forms per Claude instructions",
-      "assignee": "Mark 'Morpheus' Manaog",
-      "reminderDate": "2026-06-19"
-    },
-    "fe8b18817c4c097d9fd5a15d49bc7e60|overdue|2026-06-20": {
-      "scheduledAt": "2026-05-28T06:01:19.433Z",
-      "type": "overdue",
-      "task": "Update homework and final strategy onboarding call Jotform forms per Claude instructions",
-      "assignee": "Mark 'Morpheus' Manaog",
-      "reminderDate": "2026-06-20"
-    },
-    "fe8b18817c4c097d9fd5a15d49bc7e60|overdue|2026-06-21": {
-      "scheduledAt": "2026-05-28T06:01:20.135Z",
-      "type": "overdue",
-      "task": "Update homework and final strategy onboarding call Jotform forms per Claude instructions",
-      "assignee": "Mark 'Morpheus' Manaog",
-      "reminderDate": "2026-06-21"
-    },
     "fe8b18817c4c097d9fd5a15d49bc7e60|overdue|2026-06-22": {
       "scheduledAt": "2026-05-28T06:01:20.833Z",
       "type": "overdue",
@@ -19988,6 +19827,223 @@
       "task": "Get info needed to bill client for additional Zapier usage (cost if they had their own Zapier)",
       "assignee": "Mark 'Morpheus' Manaog",
       "reminderDate": "2026-10-04"
+    },
+    "37cb5007e9db4a0f6ab7bfb46eebd5af|due|2026-08-26": {
+      "scheduledAt": "2026-08-26T06:01:33.916Z",
+      "type": "due",
+      "task": "Update the email subject lines as noted in the linked task",
+      "assignee": "Christle 'Knows All' Ochigue",
+      "reminderDate": "2026-08-26"
+    },
+    "37cb5007e9db4a0f6ab7bfb46eebd5af|overdue|2026-08-27": {
+      "scheduledAt": "2026-08-26T06:01:34.660Z",
+      "type": "overdue",
+      "task": "Update the email subject lines as noted in the linked task",
+      "assignee": "Christle 'Knows All' Ochigue",
+      "reminderDate": "2026-08-27"
+    },
+    "37cb5007e9db4a0f6ab7bfb46eebd5af|overdue|2026-08-28": {
+      "scheduledAt": "2026-08-26T06:01:35.420Z",
+      "type": "overdue",
+      "task": "Update the email subject lines as noted in the linked task",
+      "assignee": "Christle 'Knows All' Ochigue",
+      "reminderDate": "2026-08-28"
+    },
+    "37cb5007e9db4a0f6ab7bfb46eebd5af|overdue|2026-08-29": {
+      "scheduledAt": "2026-08-26T06:01:36.159Z",
+      "type": "overdue",
+      "task": "Update the email subject lines as noted in the linked task",
+      "assignee": "Christle 'Knows All' Ochigue",
+      "reminderDate": "2026-08-29"
+    },
+    "37cb5007e9db4a0f6ab7bfb46eebd5af|overdue|2026-08-30": {
+      "scheduledAt": "2026-08-26T06:01:36.865Z",
+      "type": "overdue",
+      "task": "Update the email subject lines as noted in the linked task",
+      "assignee": "Christle 'Knows All' Ochigue",
+      "reminderDate": "2026-08-30"
+    },
+    "37cb5007e9db4a0f6ab7bfb46eebd5af|overdue|2026-08-31": {
+      "scheduledAt": "2026-08-26T06:01:37.576Z",
+      "type": "overdue",
+      "task": "Update the email subject lines as noted in the linked task",
+      "assignee": "Christle 'Knows All' Ochigue",
+      "reminderDate": "2026-08-31"
+    },
+    "37cb5007e9db4a0f6ab7bfb46eebd5af|overdue|2026-09-01": {
+      "scheduledAt": "2026-08-26T06:01:38.491Z",
+      "type": "overdue",
+      "task": "Update the email subject lines as noted in the linked task",
+      "assignee": "Christle 'Knows All' Ochigue",
+      "reminderDate": "2026-09-01"
+    },
+    "37cb5007e9db4a0f6ab7bfb46eebd5af|overdue|2026-09-02": {
+      "scheduledAt": "2026-08-26T06:01:39.232Z",
+      "type": "overdue",
+      "task": "Update the email subject lines as noted in the linked task",
+      "assignee": "Christle 'Knows All' Ochigue",
+      "reminderDate": "2026-09-02"
+    },
+    "37cb5007e9db4a0f6ab7bfb46eebd5af|overdue|2026-09-03": {
+      "scheduledAt": "2026-08-26T06:01:39.933Z",
+      "type": "overdue",
+      "task": "Update the email subject lines as noted in the linked task",
+      "assignee": "Christle 'Knows All' Ochigue",
+      "reminderDate": "2026-09-03"
+    },
+    "37cb5007e9db4a0f6ab7bfb46eebd5af|overdue|2026-09-04": {
+      "scheduledAt": "2026-08-26T06:01:40.660Z",
+      "type": "overdue",
+      "task": "Update the email subject lines as noted in the linked task",
+      "assignee": "Christle 'Knows All' Ochigue",
+      "reminderDate": "2026-09-04"
+    },
+    "37cb5007e9db4a0f6ab7bfb46eebd5af|overdue|2026-09-05": {
+      "scheduledAt": "2026-08-26T06:01:41.356Z",
+      "type": "overdue",
+      "task": "Update the email subject lines as noted in the linked task",
+      "assignee": "Christle 'Knows All' Ochigue",
+      "reminderDate": "2026-09-05"
+    },
+    "37cb5007e9db4a0f6ab7bfb46eebd5af|overdue|2026-09-06": {
+      "scheduledAt": "2026-08-26T06:01:42.046Z",
+      "type": "overdue",
+      "task": "Update the email subject lines as noted in the linked task",
+      "assignee": "Christle 'Knows All' Ochigue",
+      "reminderDate": "2026-09-06"
+    },
+    "37cb5007e9db4a0f6ab7bfb46eebd5af|overdue|2026-09-07": {
+      "scheduledAt": "2026-08-26T06:01:42.838Z",
+      "type": "overdue",
+      "task": "Update the email subject lines as noted in the linked task",
+      "assignee": "Christle 'Knows All' Ochigue",
+      "reminderDate": "2026-09-07"
+    },
+    "37cb5007e9db4a0f6ab7bfb46eebd5af|overdue|2026-09-08": {
+      "scheduledAt": "2026-08-26T06:01:43.594Z",
+      "type": "overdue",
+      "task": "Update the email subject lines as noted in the linked task",
+      "assignee": "Christle 'Knows All' Ochigue",
+      "reminderDate": "2026-09-08"
+    },
+    "37cb5007e9db4a0f6ab7bfb46eebd5af|overdue|2026-09-09": {
+      "scheduledAt": "2026-08-26T06:01:44.308Z",
+      "type": "overdue",
+      "task": "Update the email subject lines as noted in the linked task",
+      "assignee": "Christle 'Knows All' Ochigue",
+      "reminderDate": "2026-09-09"
+    },
+    "37cb5007e9db4a0f6ab7bfb46eebd5af|overdue|2026-09-10": {
+      "scheduledAt": "2026-08-26T06:01:45.094Z",
+      "type": "overdue",
+      "task": "Update the email subject lines as noted in the linked task",
+      "assignee": "Christle 'Knows All' Ochigue",
+      "reminderDate": "2026-09-10"
+    },
+    "37cb5007e9db4a0f6ab7bfb46eebd5af|overdue|2026-09-11": {
+      "scheduledAt": "2026-08-26T06:01:45.776Z",
+      "type": "overdue",
+      "task": "Update the email subject lines as noted in the linked task",
+      "assignee": "Christle 'Knows All' Ochigue",
+      "reminderDate": "2026-09-11"
+    },
+    "37cb5007e9db4a0f6ab7bfb46eebd5af|overdue|2026-09-12": {
+      "scheduledAt": "2026-08-26T06:01:46.495Z",
+      "type": "overdue",
+      "task": "Update the email subject lines as noted in the linked task",
+      "assignee": "Christle 'Knows All' Ochigue",
+      "reminderDate": "2026-09-12"
+    },
+    "37cb5007e9db4a0f6ab7bfb46eebd5af|overdue|2026-09-13": {
+      "scheduledAt": "2026-08-26T06:01:47.382Z",
+      "type": "overdue",
+      "task": "Update the email subject lines as noted in the linked task",
+      "assignee": "Christle 'Knows All' Ochigue",
+      "reminderDate": "2026-09-13"
+    },
+    "37cb5007e9db4a0f6ab7bfb46eebd5af|overdue|2026-09-14": {
+      "scheduledAt": "2026-08-26T06:01:48.188Z",
+      "type": "overdue",
+      "task": "Update the email subject lines as noted in the linked task",
+      "assignee": "Christle 'Knows All' Ochigue",
+      "reminderDate": "2026-09-14"
+    },
+    "37cb5007e9db4a0f6ab7bfb46eebd5af|overdue|2026-09-15": {
+      "scheduledAt": "2026-08-26T06:01:48.894Z",
+      "type": "overdue",
+      "task": "Update the email subject lines as noted in the linked task",
+      "assignee": "Christle 'Knows All' Ochigue",
+      "reminderDate": "2026-09-15"
+    },
+    "37cb5007e9db4a0f6ab7bfb46eebd5af|overdue|2026-09-16": {
+      "scheduledAt": "2026-08-26T06:01:49.670Z",
+      "type": "overdue",
+      "task": "Update the email subject lines as noted in the linked task",
+      "assignee": "Christle 'Knows All' Ochigue",
+      "reminderDate": "2026-09-16"
+    },
+    "37cb5007e9db4a0f6ab7bfb46eebd5af|overdue|2026-09-17": {
+      "scheduledAt": "2026-08-26T06:01:50.412Z",
+      "type": "overdue",
+      "task": "Update the email subject lines as noted in the linked task",
+      "assignee": "Christle 'Knows All' Ochigue",
+      "reminderDate": "2026-09-17"
+    },
+    "37cb5007e9db4a0f6ab7bfb46eebd5af|overdue|2026-09-18": {
+      "scheduledAt": "2026-08-26T06:01:51.130Z",
+      "type": "overdue",
+      "task": "Update the email subject lines as noted in the linked task",
+      "assignee": "Christle 'Knows All' Ochigue",
+      "reminderDate": "2026-09-18"
+    },
+    "37cb5007e9db4a0f6ab7bfb46eebd5af|overdue|2026-09-19": {
+      "scheduledAt": "2026-08-26T06:01:51.914Z",
+      "type": "overdue",
+      "task": "Update the email subject lines as noted in the linked task",
+      "assignee": "Christle 'Knows All' Ochigue",
+      "reminderDate": "2026-09-19"
+    },
+    "37cb5007e9db4a0f6ab7bfb46eebd5af|overdue|2026-09-20": {
+      "scheduledAt": "2026-08-26T06:01:52.672Z",
+      "type": "overdue",
+      "task": "Update the email subject lines as noted in the linked task",
+      "assignee": "Christle 'Knows All' Ochigue",
+      "reminderDate": "2026-09-20"
+    },
+    "37cb5007e9db4a0f6ab7bfb46eebd5af|overdue|2026-09-21": {
+      "scheduledAt": "2026-08-26T06:01:53.419Z",
+      "type": "overdue",
+      "task": "Update the email subject lines as noted in the linked task",
+      "assignee": "Christle 'Knows All' Ochigue",
+      "reminderDate": "2026-09-21"
+    },
+    "37cb5007e9db4a0f6ab7bfb46eebd5af|overdue|2026-09-22": {
+      "scheduledAt": "2026-08-26T06:01:55.140Z",
+      "type": "overdue",
+      "task": "Update the email subject lines as noted in the linked task",
+      "assignee": "Christle 'Knows All' Ochigue",
+      "reminderDate": "2026-09-22"
+    },
+    "37cb5007e9db4a0f6ab7bfb46eebd5af|overdue|2026-09-23": {
+      "scheduledAt": "2026-08-26T06:01:55.940Z",
+      "type": "overdue",
+      "task": "Update the email subject lines as noted in the linked task",
+      "assignee": "Christle 'Knows All' Ochigue",
+      "reminderDate": "2026-09-23"
+    },
+    "37cb5007e9db4a0f6ab7bfb46eebd5af|overdue|2026-09-24": {
+      "scheduledAt": "2026-08-26T06:01:56.653Z",
+      "type": "overdue",
+      "task": "Update the email subject lines as noted in the linked task",
+      "assignee": "Christle 'Knows All' Ochigue",
+      "reminderDate": "2026-09-24"
+    },
+    "37cb5007e9db4a0f6ab7bfb46eebd5af|overdue|2026-09-25": {
+      "scheduledAt": "2026-08-26T06:01:57.420Z",
+      "type": "overdue",
+      "task": "Update the email subject lines as noted in the linked task",
+      "assignee": "Christle 'Knows All' Ochigue",
+      "reminderDate": "2026-09-25"
     }
   },
   "scheduledMessageIds": {
@@ -28586,6 +28642,380 @@
         "channel": "C05JGF817H6",
         "messageId": "Q0BSFHTFLN7"
       }
+    ],
+    "37cb5007e9db4a0f6ab7bfb46eebd5af": [
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BSRTDKG10"
+      },
+      {
+        "channel": "UMCPG3D8A",
+        "messageId": "Q0BSVJE86LU"
+      },
+      {
+        "channel": "C08R493ESAJ",
+        "messageId": "Q0BSKLSL4SF"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BSVJEQGDS"
+      },
+      {
+        "channel": "UMCPG3D8A",
+        "messageId": "Q0BSQ0CSWQN"
+      },
+      {
+        "channel": "C08R493ESAJ",
+        "messageId": "Q0BSMV1B72R"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BSQ0CJYPQ"
+      },
+      {
+        "channel": "UMCPG3D8A",
+        "messageId": "Q0BSKLSPNJF"
+      },
+      {
+        "channel": "C08R493ESAJ",
+        "messageId": "Q0BSAH54U7R"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BSKLPLAM9"
+      },
+      {
+        "channel": "UMCPG3D8A",
+        "messageId": "Q0BTL9DQ2G0"
+      },
+      {
+        "channel": "C08R493ESAJ",
+        "messageId": "Q0BSAH5R4KZ"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BTL9EGL7J"
+      },
+      {
+        "channel": "UMCPG3D8A",
+        "messageId": "Q0BSAH649SB"
+      },
+      {
+        "channel": "C08R493ESAJ",
+        "messageId": "Q0BSTRXDLD7"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BSRTEF4N6"
+      },
+      {
+        "channel": "UMCPG3D8A",
+        "messageId": "Q0BTL9E799N"
+      },
+      {
+        "channel": "C08R493ESAJ",
+        "messageId": "Q0BSRTEE2UA"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BTL9EMU7J"
+      },
+      {
+        "channel": "UMCPG3D8A",
+        "messageId": "Q0BSAH696TH"
+      },
+      {
+        "channel": "C08R493ESAJ",
+        "messageId": "Q0BSRTEQ5U2"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BSQ0A3F6J"
+      },
+      {
+        "channel": "UMCPG3D8A",
+        "messageId": "Q0BSMV1J3L5"
+      },
+      {
+        "channel": "C08R493ESAJ",
+        "messageId": "Q0BSKLT36HH"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BSKLU7X0B"
+      },
+      {
+        "channel": "UMCPG3D8A",
+        "messageId": "Q0BSAH5JAP9"
+      },
+      {
+        "channel": "C08R493ESAJ",
+        "messageId": "Q0BSRTF4URY"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BSMV296DT"
+      },
+      {
+        "channel": "UMCPG3D8A",
+        "messageId": "Q0BSAH5CPQF"
+      },
+      {
+        "channel": "C08R493ESAJ",
+        "messageId": "Q0BTL9EA456"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BTL9F1LF2"
+      },
+      {
+        "channel": "UMCPG3D8A",
+        "messageId": "Q0BSVJERZAQ"
+      },
+      {
+        "channel": "C08R493ESAJ",
+        "messageId": "Q0BSKLTMVS7"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BSQ0DK2ES"
+      },
+      {
+        "channel": "UMCPG3D8A",
+        "messageId": "Q0BTL9F53J4"
+      },
+      {
+        "channel": "C08R493ESAJ",
+        "messageId": "Q0BTL9F2X7A"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BSKLTLZK5"
+      },
+      {
+        "channel": "UMCPG3D8A",
+        "messageId": "Q0BSQ0D3XPY"
+      },
+      {
+        "channel": "C08R493ESAJ",
+        "messageId": "Q0BTL9FD28G"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BSKLU3P1R"
+      },
+      {
+        "channel": "UMCPG3D8A",
+        "messageId": "Q0BSVJFDNKW"
+      },
+      {
+        "channel": "C08R493ESAJ",
+        "messageId": "Q0BSQ0D1XKQ"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BTL9EEZTJ"
+      },
+      {
+        "channel": "UMCPG3D8A",
+        "messageId": "Q0BSKLU9UKD"
+      },
+      {
+        "channel": "C08R493ESAJ",
+        "messageId": "Q0BSTRY0WHF"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BSAH6BQ31"
+      },
+      {
+        "channel": "UMCPG3D8A",
+        "messageId": "Q0BSTRYH9T3"
+      },
+      {
+        "channel": "C08R493ESAJ",
+        "messageId": "Q0BSTRYT76D"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BSQ0DEKD4"
+      },
+      {
+        "channel": "UMCPG3D8A",
+        "messageId": "Q0BSVJGDKJ8"
+      },
+      {
+        "channel": "C08R493ESAJ",
+        "messageId": "Q0BTL9FFC72"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BSQ0DCBN2"
+      },
+      {
+        "channel": "UMCPG3D8A",
+        "messageId": "Q0BSTRZ3RL1"
+      },
+      {
+        "channel": "C08R493ESAJ",
+        "messageId": "Q0BSKLUF0LB"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BSQ0DJC94"
+      },
+      {
+        "channel": "UMCPG3D8A",
+        "messageId": "Q0BSRTF6690"
+      },
+      {
+        "channel": "C08R493ESAJ",
+        "messageId": "Q0BSTRZ1K4Z"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BSQ0DRKRC"
+      },
+      {
+        "channel": "UMCPG3D8A",
+        "messageId": "Q0BSQ0DEKBQ"
+      },
+      {
+        "channel": "C08R493ESAJ",
+        "messageId": "Q0BSTRYT1H7"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BSRTGEQ7L"
+      },
+      {
+        "channel": "UMCPG3D8A",
+        "messageId": "Q0BSKLUH6LT"
+      },
+      {
+        "channel": "C08R493ESAJ",
+        "messageId": "Q0BSRTG6U3U"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BSMUZCJR3"
+      },
+      {
+        "channel": "UMCPG3D8A",
+        "messageId": "Q0BSRTFHVA6"
+      },
+      {
+        "channel": "C08R493ESAJ",
+        "messageId": "Q0BSVJGJWDA"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BSKLUHY11"
+      },
+      {
+        "channel": "UMCPG3D8A",
+        "messageId": "Q0BSMV35FQD"
+      },
+      {
+        "channel": "C08R493ESAJ",
+        "messageId": "Q0BSVJCK004"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BSRTG392N"
+      },
+      {
+        "channel": "UMCPG3D8A",
+        "messageId": "Q0BSAH79VQF"
+      },
+      {
+        "channel": "C08R493ESAJ",
+        "messageId": "Q0BSQ0E7GF8"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BSQ0E9SS2"
+      },
+      {
+        "channel": "UMCPG3D8A",
+        "messageId": "Q0BSKLUT2UB"
+      },
+      {
+        "channel": "C08R493ESAJ",
+        "messageId": "Q0BSRTGEU1G"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BSTRZGQ57"
+      },
+      {
+        "channel": "UMCPG3D8A",
+        "messageId": "Q0BSQ0E9U2J"
+      },
+      {
+        "channel": "C08R493ESAJ",
+        "messageId": "Q0BSRTG8ZFU"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BSQ0E9Y3G"
+      },
+      {
+        "channel": "UMCPG3D8A",
+        "messageId": "Q0BTL9FQBUG"
+      },
+      {
+        "channel": "C08R493ESAJ",
+        "messageId": "Q0BSKLUUMDZ"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BSAH76Z0X"
+      },
+      {
+        "channel": "UMCPG3D8A",
+        "messageId": "Q0BSKLV5R35"
+      },
+      {
+        "channel": "C08R493ESAJ",
+        "messageId": "Q0BSMV463RB"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BTL9GL83A"
+      },
+      {
+        "channel": "UMCPG3D8A",
+        "messageId": "Q0BSMV375QD"
+      },
+      {
+        "channel": "C08R493ESAJ",
+        "messageId": "Q0BTL9H3SPJ"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BTL9H25H6"
+      },
+      {
+        "channel": "UMCPG3D8A",
+        "messageId": "Q0BTL9G9WHW"
+      },
+      {
+        "channel": "C08R493ESAJ",
+        "messageId": "Q0BSTS06XFT"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BSTRZT0M7"
+      },
+      {
+        "channel": "UMCPG3D8A",
+        "messageId": "Q0BSVJHLKL4"
+      },
+      {
+        "channel": "C08R493ESAJ",
+        "messageId": "Q0BSKLVNR4K"
+      }
     ]
   },
   "processedMessageTs": {
@@ -28761,8 +29191,9 @@
     "1787326908.688369": true,
     "1787438918.705989": true,
     "1787603590.355029": true,
-    "1787670245.820689": true
+    "1787670245.820689": true,
+    "1787683715.705149": true
   },
   "lastWeeklySummaryDate": "2026-W34",
-  "lastRun": "2026-08-25T18:43:33.501Z"
+  "lastRun": "2026-08-26T06:01:57.421Z"
 }
