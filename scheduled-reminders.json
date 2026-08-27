@@ -238,20 +238,6 @@
       "completedAt": "2026-06-11T10:20:57.619Z",
       "firstSeenAt": "2026-05-29T06:01:08.609Z"
     },
-    "876ad20e2010b34b47eaad2d3e5216dc": {
-      "task": "Create Ampd Tools & Services Quick Chat calendar (15-min call with Eddie/Jimmy)",
-      "assignee_name": "Josh 'The Ninja' Morales",
-      "assignee_slack_mention": "@Josh 'The Ninja' Morales",
-      "assigned_date": "2026-05-28",
-      "due_date": "2026-06-01",
-      "message_ts": "1780008551.710149",
-      "source_message": "@Josh 'The Ninja' Morales please make a calendar called.  Ampd Tools & Services Quick Chat.",
-      "assigneeId": "U07FVUF09T7",
-      "messageTs": "1780008551.710149",
-      "completed": true,
-      "completedAt": "2026-05-29T06:01:08.752Z",
-      "firstSeenAt": "2026-05-29T06:01:08.752Z"
-    },
     "fdde1feb8dd32097d4582872f00abbf0": {
       "task": "create a claude based system to direct the team on the steps to take when a client support call",
       "assignee_name": "Brandon 'The One' Robertson",
@@ -1648,8 +1634,8 @@
       "source_message": "@Mark 'Morpheus' Manaog can you help me build these \"documents\" templates in GHL ampd lending sub",
       "assigneeId": "U023F61R16F",
       "messageTs": "1787724710.016459",
-      "completed": false,
-      "completedAt": null,
+      "completed": true,
+      "completedAt": "2026-08-27T06:01:41.429Z",
       "firstSeenAt": "2026-08-26T06:43:54.749Z"
     },
     "9fd1bc44ce32b202bdbd37ef303530f0": {
@@ -1668,139 +1654,6 @@
     }
   },
   "scheduled": {
-    "981c1da3a5b2756a609166f5fa4e84df|followup|2026-06-05": {
-      "scheduledAt": "2026-05-29T06:01:09.781Z",
-      "type": "followup",
-      "task": "Move messages above to software channel",
-      "assignee": "Josh 'The Ninja' Morales",
-      "reminderDate": "2026-06-05"
-    },
-    "98a17563aa0664728fb55c55b63a7854|followup|2026-06-05": {
-      "scheduledAt": "2026-05-29T06:01:10.571Z",
-      "type": "followup",
-      "task": "Unify notifications fonts by editing workflow to match Eddie's signature",
-      "assignee": "Christle 'Knows All' Ochigue",
-      "reminderDate": "2026-06-05"
-    },
-    "bdc5d942c202321e5737e6e65f9b3e5d|midpoint|2026-06-07": {
-      "scheduledAt": "2026-05-29T06:01:11.383Z",
-      "type": "midpoint",
-      "task": "Research Lenderbase selling options, payment management, access & META API tracking",
-      "assignee": "Mark 'Morpheus' Manaog",
-      "reminderDate": "2026-06-07"
-    },
-    "bdc5d942c202321e5737e6e65f9b3e5d|nag|2026-06-16": {
-      "scheduledAt": "2026-05-29T06:01:12.220Z",
-      "type": "nag",
-      "task": "Research Lenderbase selling options, payment management, access & META API tracking",
-      "assignee": "Mark 'Morpheus' Manaog",
-      "reminderDate": "2026-06-16"
-    },
-    "bdc5d942c202321e5737e6e65f9b3e5d|nag|2026-06-17": {
-      "scheduledAt": "2026-05-29T06:01:13.019Z",
-      "type": "nag",
-      "task": "Research Lenderbase selling options, payment management, access & META API tracking",
-      "assignee": "Mark 'Morpheus' Manaog",
-      "reminderDate": "2026-06-17"
-    },
-    "bdc5d942c202321e5737e6e65f9b3e5d|due|2026-06-18": {
-      "scheduledAt": "2026-05-29T06:01:13.836Z",
-      "type": "due",
-      "task": "Research Lenderbase selling options, payment management, access & META API tracking",
-      "assignee": "Mark 'Morpheus' Manaog",
-      "reminderDate": "2026-06-18"
-    },
-    "bdc5d942c202321e5737e6e65f9b3e5d|overdue|2026-06-19": {
-      "scheduledAt": "2026-05-29T06:01:14.631Z",
-      "type": "overdue",
-      "task": "Research Lenderbase selling options, payment management, access & META API tracking",
-      "assignee": "Mark 'Morpheus' Manaog",
-      "reminderDate": "2026-06-19"
-    },
-    "bdc5d942c202321e5737e6e65f9b3e5d|overdue|2026-06-20": {
-      "scheduledAt": "2026-05-29T06:01:15.441Z",
-      "type": "overdue",
-      "task": "Research Lenderbase selling options, payment management, access & META API tracking",
-      "assignee": "Mark 'Morpheus' Manaog",
-      "reminderDate": "2026-06-20"
-    },
-    "bdc5d942c202321e5737e6e65f9b3e5d|overdue|2026-06-21": {
-      "scheduledAt": "2026-05-29T06:01:16.235Z",
-      "type": "overdue",
-      "task": "Research Lenderbase selling options, payment management, access & META API tracking",
-      "assignee": "Mark 'Morpheus' Manaog",
-      "reminderDate": "2026-06-21"
-    },
-    "bdc5d942c202321e5737e6e65f9b3e5d|overdue|2026-06-22": {
-      "scheduledAt": "2026-05-29T06:01:17.016Z",
-      "type": "overdue",
-      "task": "Research Lenderbase selling options, payment management, access & META API tracking",
-      "assignee": "Mark 'Morpheus' Manaog",
-      "reminderDate": "2026-06-22"
-    },
-    "bdc5d942c202321e5737e6e65f9b3e5d|overdue|2026-06-23": {
-      "scheduledAt": "2026-05-29T06:01:17.872Z",
-      "type": "overdue",
-      "task": "Research Lenderbase selling options, payment management, access & META API tracking",
-      "assignee": "Mark 'Morpheus' Manaog",
-      "reminderDate": "2026-06-23"
-    },
-    "bdc5d942c202321e5737e6e65f9b3e5d|overdue|2026-06-24": {
-      "scheduledAt": "2026-05-29T06:01:18.751Z",
-      "type": "overdue",
-      "task": "Research Lenderbase selling options, payment management, access & META API tracking",
-      "assignee": "Mark 'Morpheus' Manaog",
-      "reminderDate": "2026-06-24"
-    },
-    "bdc5d942c202321e5737e6e65f9b3e5d|overdue|2026-06-25": {
-      "scheduledAt": "2026-05-29T06:01:19.538Z",
-      "type": "overdue",
-      "task": "Research Lenderbase selling options, payment management, access & META API tracking",
-      "assignee": "Mark 'Morpheus' Manaog",
-      "reminderDate": "2026-06-25"
-    },
-    "bdc5d942c202321e5737e6e65f9b3e5d|overdue|2026-06-26": {
-      "scheduledAt": "2026-05-29T06:01:20.339Z",
-      "type": "overdue",
-      "task": "Research Lenderbase selling options, payment management, access & META API tracking",
-      "assignee": "Mark 'Morpheus' Manaog",
-      "reminderDate": "2026-06-26"
-    },
-    "bdc5d942c202321e5737e6e65f9b3e5d|overdue|2026-06-27": {
-      "scheduledAt": "2026-05-29T06:01:21.141Z",
-      "type": "overdue",
-      "task": "Research Lenderbase selling options, payment management, access & META API tracking",
-      "assignee": "Mark 'Morpheus' Manaog",
-      "reminderDate": "2026-06-27"
-    },
-    "bdc5d942c202321e5737e6e65f9b3e5d|overdue|2026-06-28": {
-      "scheduledAt": "2026-05-29T06:01:21.931Z",
-      "type": "overdue",
-      "task": "Research Lenderbase selling options, payment management, access & META API tracking",
-      "assignee": "Mark 'Morpheus' Manaog",
-      "reminderDate": "2026-06-28"
-    },
-    "bdc5d942c202321e5737e6e65f9b3e5d|overdue|2026-06-29": {
-      "scheduledAt": "2026-05-29T06:01:22.746Z",
-      "type": "overdue",
-      "task": "Research Lenderbase selling options, payment management, access & META API tracking",
-      "assignee": "Mark 'Morpheus' Manaog",
-      "reminderDate": "2026-06-29"
-    },
-    "bdc5d942c202321e5737e6e65f9b3e5d|overdue|2026-06-30": {
-      "scheduledAt": "2026-05-29T06:01:23.560Z",
-      "type": "overdue",
-      "task": "Research Lenderbase selling options, payment management, access & META API tracking",
-      "assignee": "Mark 'Morpheus' Manaog",
-      "reminderDate": "2026-06-30"
-    },
-    "bdc5d942c202321e5737e6e65f9b3e5d|overdue|2026-07-01": {
-      "scheduledAt": "2026-05-29T06:01:24.401Z",
-      "type": "overdue",
-      "task": "Research Lenderbase selling options, payment management, access & META API tracking",
-      "assignee": "Mark 'Morpheus' Manaog",
-      "reminderDate": "2026-07-01"
-    },
     "bdc5d942c202321e5737e6e65f9b3e5d|overdue|2026-07-02": {
       "scheduledAt": "2026-05-29T06:01:25.158Z",
       "type": "overdue",
@@ -28478,20 +28331,6 @@
         "messageId": "Q0BSFHTFLN7"
       }
     ],
-    "af8d2014839dfdfd64abc32b093fc31c": [
-      {
-        "channel": "UMS39RAGP",
-        "messageId": "Q0BSU3S90KB"
-      },
-      {
-        "channel": "U023F61R16F",
-        "messageId": "Q0BSN6VRK53"
-      },
-      {
-        "channel": "C05JGF817H6",
-        "messageId": "Q0BSN6VFBC5"
-      }
-    ],
     "9fd1bc44ce32b202bdbd37ef303530f0": [
       {
         "channel": "UMS39RAGP",
@@ -29060,5 +28899,5 @@
     "1787742798.664479": true
   },
   "lastWeeklySummaryDate": "2026-W34",
-  "lastRun": "2026-08-26T19:52:14.989Z"
+  "lastRun": "2026-08-27T06:01:49.831Z"
 }
