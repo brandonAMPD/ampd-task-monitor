@@ -1,19 +1,5 @@
 {
   "tasks": {
-    "a6b26d7b8de647f5ebbc2e019dd58eaa": {
-      "task": "make sure Jimmy is able to see and get notified of any replies to the CR campaign emails",
-      "assignee_name": "Mark 'Morpheus' Manaog",
-      "assignee_slack_mention": "@Mark 'Morpheus' Manaog",
-      "assigned_date": "2026-05-12",
-      "due_date": "2026-05-15",
-      "message_ts": "1778596320.146219",
-      "source_message": "@Mark 'Morpheus' Manaog please make sure Jimmy is able to see and get notified of any replies t",
-      "assigneeId": "U023F61R16F",
-      "messageTs": "1778596320.146219",
-      "completed": true,
-      "completedAt": "2026-05-29T18:01:11.177Z",
-      "firstSeenAt": "2026-05-13T16:00:58.066Z"
-    },
     "f85ad2f679f4c161ff5d72723de8362e": {
       "task": "fix and figure out agreements in ghl",
       "assignee_name": "Mark 'Morpheus' Manaog",
@@ -1606,8 +1592,8 @@
       "source_message": "@Mark 'Morpheus' Manaog please get me the info needed to understand what we might need to bill them",
       "assigneeId": "U023F61R16F",
       "messageTs": "1787670245.820689",
-      "completed": false,
-      "completedAt": null,
+      "completed": true,
+      "completedAt": "2026-08-28T02:05:33.887Z",
       "firstSeenAt": "2026-08-25T18:01:48.153Z"
     },
     "37cb5007e9db4a0f6ab7bfb46eebd5af": {
@@ -1651,247 +1637,51 @@
       "completed": true,
       "completedAt": "2026-08-27T17:20:40.008Z",
       "firstSeenAt": "2026-08-26T18:02:23.120Z"
+    },
+    "4c27572a942ff2602e61fe7981063f28": {
+      "task": "Update calendar sheet event title and description fields for Ampd and Dovetail",
+      "assignee_name": "Christle 'Knows All' Ochigue",
+      "assignee_slack_mention": "@Christle 'Knows All' Ochigue",
+      "assigned_date": "2026-08-27",
+      "due_date": "2026-09-02",
+      "message_ts": "1787872110.415569",
+      "source_message": "@Christle 'Knows All' Ochigue update the calendar sheet even title and description fields for ampd and",
+      "assigneeId": "UMCPG3D8A",
+      "messageTs": "1787872110.415569",
+      "completed": false,
+      "completedAt": null,
+      "firstSeenAt": "2026-08-28T02:06:10.237Z"
+    },
+    "3c1d57540ee0ca629ff5f9590e948594": {
+      "task": "Fix calendar sheet tab duplicates",
+      "assignee_name": "Christle 'Knows All' Ochigue",
+      "assignee_slack_mention": "@Christle 'Knows All' Ochigue",
+      "assigned_date": "2026-08-27",
+      "due_date": "2026-08-28",
+      "message_ts": "1787869509.782399",
+      "source_message": "@Christle 'Knows All' Ochigue fix calendar sheet tab duplicates https://dovetail-mktg.slack.com/arc",
+      "assigneeId": "UMCPG3D8A",
+      "messageTs": "1787869509.782399",
+      "completed": false,
+      "completedAt": null,
+      "firstSeenAt": "2026-08-28T02:06:10.334Z"
+    },
+    "c0eb92cd99463fabba3bcd3cbcd04ce7": {
+      "task": "Migrate campaign workflow details from Claude design used in demos to Lovable client training area",
+      "assignee_name": "Josh 'The Ninja' Morales",
+      "assignee_slack_mention": "@Josh 'The Ninja' Morales",
+      "assigned_date": "2026-08-27",
+      "due_date": "2026-09-04",
+      "message_ts": "1787858619.273589",
+      "source_message": "@Josh 'The Ninja' Morales migrate (or help us migrate) the campaign workflow details in Claude design",
+      "assigneeId": "U07FVUF09T7",
+      "messageTs": "1787858619.273589",
+      "completed": false,
+      "completedAt": null,
+      "firstSeenAt": "2026-08-28T02:06:10.442Z"
     }
   },
   "scheduled": {
-    "fdde1feb8dd32097d4582872f00abbf0|midpoint|2026-06-01": {
-      "scheduledAt": "2026-05-29T18:01:49.218Z",
-      "type": "midpoint",
-      "task": "create a claude based system to direct the team on the steps to take when a client support call",
-      "assignee": "Brandon 'The One' Robertson",
-      "reminderDate": "2026-06-01"
-    },
-    "fdde1feb8dd32097d4582872f00abbf0|nag|2026-06-03": {
-      "scheduledAt": "2026-05-29T18:01:50.027Z",
-      "type": "nag",
-      "task": "create a claude based system to direct the team on the steps to take when a client support call",
-      "assignee": "Brandon 'The One' Robertson",
-      "reminderDate": "2026-06-03"
-    },
-    "fdde1feb8dd32097d4582872f00abbf0|nag|2026-06-04": {
-      "scheduledAt": "2026-05-29T18:01:50.839Z",
-      "type": "nag",
-      "task": "create a claude based system to direct the team on the steps to take when a client support call",
-      "assignee": "Brandon 'The One' Robertson",
-      "reminderDate": "2026-06-04"
-    },
-    "fdde1feb8dd32097d4582872f00abbf0|due|2026-06-05": {
-      "scheduledAt": "2026-05-29T18:01:51.647Z",
-      "type": "due",
-      "task": "create a claude based system to direct the team on the steps to take when a client support call",
-      "assignee": "Brandon 'The One' Robertson",
-      "reminderDate": "2026-06-05"
-    },
-    "fdde1feb8dd32097d4582872f00abbf0|overdue|2026-06-06": {
-      "scheduledAt": "2026-05-29T18:01:52.445Z",
-      "type": "overdue",
-      "task": "create a claude based system to direct the team on the steps to take when a client support call",
-      "assignee": "Brandon 'The One' Robertson",
-      "reminderDate": "2026-06-06"
-    },
-    "fdde1feb8dd32097d4582872f00abbf0|overdue|2026-06-07": {
-      "scheduledAt": "2026-05-29T18:01:53.246Z",
-      "type": "overdue",
-      "task": "create a claude based system to direct the team on the steps to take when a client support call",
-      "assignee": "Brandon 'The One' Robertson",
-      "reminderDate": "2026-06-07"
-    },
-    "fdde1feb8dd32097d4582872f00abbf0|overdue|2026-06-08": {
-      "scheduledAt": "2026-05-29T18:01:54.069Z",
-      "type": "overdue",
-      "task": "create a claude based system to direct the team on the steps to take when a client support call",
-      "assignee": "Brandon 'The One' Robertson",
-      "reminderDate": "2026-06-08"
-    },
-    "fdde1feb8dd32097d4582872f00abbf0|overdue|2026-06-09": {
-      "scheduledAt": "2026-05-29T18:01:54.871Z",
-      "type": "overdue",
-      "task": "create a claude based system to direct the team on the steps to take when a client support call",
-      "assignee": "Brandon 'The One' Robertson",
-      "reminderDate": "2026-06-09"
-    },
-    "fdde1feb8dd32097d4582872f00abbf0|overdue|2026-06-10": {
-      "scheduledAt": "2026-05-29T18:01:55.673Z",
-      "type": "overdue",
-      "task": "create a claude based system to direct the team on the steps to take when a client support call",
-      "assignee": "Brandon 'The One' Robertson",
-      "reminderDate": "2026-06-10"
-    },
-    "fdde1feb8dd32097d4582872f00abbf0|overdue|2026-06-11": {
-      "scheduledAt": "2026-05-29T18:01:56.487Z",
-      "type": "overdue",
-      "task": "create a claude based system to direct the team on the steps to take when a client support call",
-      "assignee": "Brandon 'The One' Robertson",
-      "reminderDate": "2026-06-11"
-    },
-    "fdde1feb8dd32097d4582872f00abbf0|overdue|2026-06-12": {
-      "scheduledAt": "2026-05-29T18:01:57.305Z",
-      "type": "overdue",
-      "task": "create a claude based system to direct the team on the steps to take when a client support call",
-      "assignee": "Brandon 'The One' Robertson",
-      "reminderDate": "2026-06-12"
-    },
-    "fdde1feb8dd32097d4582872f00abbf0|overdue|2026-06-13": {
-      "scheduledAt": "2026-05-29T18:01:58.120Z",
-      "type": "overdue",
-      "task": "create a claude based system to direct the team on the steps to take when a client support call",
-      "assignee": "Brandon 'The One' Robertson",
-      "reminderDate": "2026-06-13"
-    },
-    "fdde1feb8dd32097d4582872f00abbf0|overdue|2026-06-14": {
-      "scheduledAt": "2026-05-29T18:01:58.938Z",
-      "type": "overdue",
-      "task": "create a claude based system to direct the team on the steps to take when a client support call",
-      "assignee": "Brandon 'The One' Robertson",
-      "reminderDate": "2026-06-14"
-    },
-    "fdde1feb8dd32097d4582872f00abbf0|overdue|2026-06-15": {
-      "scheduledAt": "2026-05-29T18:01:59.742Z",
-      "type": "overdue",
-      "task": "create a claude based system to direct the team on the steps to take when a client support call",
-      "assignee": "Brandon 'The One' Robertson",
-      "reminderDate": "2026-06-15"
-    },
-    "fdde1feb8dd32097d4582872f00abbf0|overdue|2026-06-16": {
-      "scheduledAt": "2026-05-29T18:02:00.570Z",
-      "type": "overdue",
-      "task": "create a claude based system to direct the team on the steps to take when a client support call",
-      "assignee": "Brandon 'The One' Robertson",
-      "reminderDate": "2026-06-16"
-    },
-    "fdde1feb8dd32097d4582872f00abbf0|overdue|2026-06-17": {
-      "scheduledAt": "2026-05-29T18:02:01.388Z",
-      "type": "overdue",
-      "task": "create a claude based system to direct the team on the steps to take when a client support call",
-      "assignee": "Brandon 'The One' Robertson",
-      "reminderDate": "2026-06-17"
-    },
-    "fdde1feb8dd32097d4582872f00abbf0|overdue|2026-06-18": {
-      "scheduledAt": "2026-05-29T18:02:02.288Z",
-      "type": "overdue",
-      "task": "create a claude based system to direct the team on the steps to take when a client support call",
-      "assignee": "Brandon 'The One' Robertson",
-      "reminderDate": "2026-06-18"
-    },
-    "fdde1feb8dd32097d4582872f00abbf0|overdue|2026-06-19": {
-      "scheduledAt": "2026-05-29T18:02:03.134Z",
-      "type": "overdue",
-      "task": "create a claude based system to direct the team on the steps to take when a client support call",
-      "assignee": "Brandon 'The One' Robertson",
-      "reminderDate": "2026-06-19"
-    },
-    "fdde1feb8dd32097d4582872f00abbf0|overdue|2026-06-20": {
-      "scheduledAt": "2026-05-29T18:02:03.934Z",
-      "type": "overdue",
-      "task": "create a claude based system to direct the team on the steps to take when a client support call",
-      "assignee": "Brandon 'The One' Robertson",
-      "reminderDate": "2026-06-20"
-    },
-    "fdde1feb8dd32097d4582872f00abbf0|overdue|2026-06-21": {
-      "scheduledAt": "2026-05-29T18:02:04.784Z",
-      "type": "overdue",
-      "task": "create a claude based system to direct the team on the steps to take when a client support call",
-      "assignee": "Brandon 'The One' Robertson",
-      "reminderDate": "2026-06-21"
-    },
-    "fdde1feb8dd32097d4582872f00abbf0|overdue|2026-06-22": {
-      "scheduledAt": "2026-05-29T18:02:05.613Z",
-      "type": "overdue",
-      "task": "create a claude based system to direct the team on the steps to take when a client support call",
-      "assignee": "Brandon 'The One' Robertson",
-      "reminderDate": "2026-06-22"
-    },
-    "fdde1feb8dd32097d4582872f00abbf0|overdue|2026-06-23": {
-      "scheduledAt": "2026-05-29T18:02:06.427Z",
-      "type": "overdue",
-      "task": "create a claude based system to direct the team on the steps to take when a client support call",
-      "assignee": "Brandon 'The One' Robertson",
-      "reminderDate": "2026-06-23"
-    },
-    "fdde1feb8dd32097d4582872f00abbf0|overdue|2026-06-24": {
-      "scheduledAt": "2026-05-29T18:02:07.296Z",
-      "type": "overdue",
-      "task": "create a claude based system to direct the team on the steps to take when a client support call",
-      "assignee": "Brandon 'The One' Robertson",
-      "reminderDate": "2026-06-24"
-    },
-    "fdde1feb8dd32097d4582872f00abbf0|overdue|2026-06-25": {
-      "scheduledAt": "2026-05-29T18:02:08.116Z",
-      "type": "overdue",
-      "task": "create a claude based system to direct the team on the steps to take when a client support call",
-      "assignee": "Brandon 'The One' Robertson",
-      "reminderDate": "2026-06-25"
-    },
-    "fdde1feb8dd32097d4582872f00abbf0|overdue|2026-06-26": {
-      "scheduledAt": "2026-05-29T18:02:08.933Z",
-      "type": "overdue",
-      "task": "create a claude based system to direct the team on the steps to take when a client support call",
-      "assignee": "Brandon 'The One' Robertson",
-      "reminderDate": "2026-06-26"
-    },
-    "fdde1feb8dd32097d4582872f00abbf0|overdue|2026-06-27": {
-      "scheduledAt": "2026-05-29T18:02:09.749Z",
-      "type": "overdue",
-      "task": "create a claude based system to direct the team on the steps to take when a client support call",
-      "assignee": "Brandon 'The One' Robertson",
-      "reminderDate": "2026-06-27"
-    },
-    "fdde1feb8dd32097d4582872f00abbf0|overdue|2026-06-28": {
-      "scheduledAt": "2026-05-29T18:02:10.548Z",
-      "type": "overdue",
-      "task": "create a claude based system to direct the team on the steps to take when a client support call",
-      "assignee": "Brandon 'The One' Robertson",
-      "reminderDate": "2026-06-28"
-    },
-    "fdde1feb8dd32097d4582872f00abbf0|overdue|2026-06-29": {
-      "scheduledAt": "2026-05-29T18:02:11.348Z",
-      "type": "overdue",
-      "task": "create a claude based system to direct the team on the steps to take when a client support call",
-      "assignee": "Brandon 'The One' Robertson",
-      "reminderDate": "2026-06-29"
-    },
-    "fdde1feb8dd32097d4582872f00abbf0|overdue|2026-06-30": {
-      "scheduledAt": "2026-05-29T18:02:12.154Z",
-      "type": "overdue",
-      "task": "create a claude based system to direct the team on the steps to take when a client support call",
-      "assignee": "Brandon 'The One' Robertson",
-      "reminderDate": "2026-06-30"
-    },
-    "fdde1feb8dd32097d4582872f00abbf0|overdue|2026-07-01": {
-      "scheduledAt": "2026-05-29T18:02:12.980Z",
-      "type": "overdue",
-      "task": "create a claude based system to direct the team on the steps to take when a client support call",
-      "assignee": "Brandon 'The One' Robertson",
-      "reminderDate": "2026-07-01"
-    },
-    "fdde1feb8dd32097d4582872f00abbf0|overdue|2026-07-02": {
-      "scheduledAt": "2026-05-29T18:02:13.795Z",
-      "type": "overdue",
-      "task": "create a claude based system to direct the team on the steps to take when a client support call",
-      "assignee": "Brandon 'The One' Robertson",
-      "reminderDate": "2026-07-02"
-    },
-    "fdde1feb8dd32097d4582872f00abbf0|overdue|2026-07-03": {
-      "scheduledAt": "2026-05-29T18:02:14.608Z",
-      "type": "overdue",
-      "task": "create a claude based system to direct the team on the steps to take when a client support call",
-      "assignee": "Brandon 'The One' Robertson",
-      "reminderDate": "2026-07-03"
-    },
-    "fdde1feb8dd32097d4582872f00abbf0|overdue|2026-07-04": {
-      "scheduledAt": "2026-05-29T18:02:15.450Z",
-      "type": "overdue",
-      "task": "create a claude based system to direct the team on the steps to take when a client support call",
-      "assignee": "Brandon 'The One' Robertson",
-      "reminderDate": "2026-07-04"
-    },
-    "fdde1feb8dd32097d4582872f00abbf0|overdue|2026-07-05": {
-      "scheduledAt": "2026-05-29T18:02:16.249Z",
-      "type": "overdue",
-      "task": "create a claude based system to direct the team on the steps to take when a client support call",
-      "assignee": "Brandon 'The One' Robertson",
-      "reminderDate": "2026-07-05"
-    },
     "f88663da991fee0d2f976591b64f2326|midpoint|2026-06-02": {
       "scheduledAt": "2026-06-01T21:37:41.373Z",
       "type": "midpoint",
@@ -19987,6 +19777,699 @@
       "task": "Build campaign and stage within Ampd CRM Pipeline (3) per linked doc",
       "assignee": "Christle Ochigue",
       "reminderDate": "2026-09-27"
+    },
+    "4c27572a942ff2602e61fe7981063f28|midpoint|2026-08-30": {
+      "scheduledAt": "2026-08-28T02:06:11.293Z",
+      "type": "midpoint",
+      "task": "Update calendar sheet event title and description fields for Ampd and Dovetail",
+      "assignee": "Christle 'Knows All' Ochigue",
+      "reminderDate": "2026-08-30"
+    },
+    "4c27572a942ff2602e61fe7981063f28|nag|2026-08-31": {
+      "scheduledAt": "2026-08-28T02:06:12.061Z",
+      "type": "nag",
+      "task": "Update calendar sheet event title and description fields for Ampd and Dovetail",
+      "assignee": "Christle 'Knows All' Ochigue",
+      "reminderDate": "2026-08-31"
+    },
+    "4c27572a942ff2602e61fe7981063f28|nag|2026-09-01": {
+      "scheduledAt": "2026-08-28T02:06:12.898Z",
+      "type": "nag",
+      "task": "Update calendar sheet event title and description fields for Ampd and Dovetail",
+      "assignee": "Christle 'Knows All' Ochigue",
+      "reminderDate": "2026-09-01"
+    },
+    "4c27572a942ff2602e61fe7981063f28|due|2026-09-02": {
+      "scheduledAt": "2026-08-28T02:06:13.674Z",
+      "type": "due",
+      "task": "Update calendar sheet event title and description fields for Ampd and Dovetail",
+      "assignee": "Christle 'Knows All' Ochigue",
+      "reminderDate": "2026-09-02"
+    },
+    "4c27572a942ff2602e61fe7981063f28|overdue|2026-09-03": {
+      "scheduledAt": "2026-08-28T02:06:14.451Z",
+      "type": "overdue",
+      "task": "Update calendar sheet event title and description fields for Ampd and Dovetail",
+      "assignee": "Christle 'Knows All' Ochigue",
+      "reminderDate": "2026-09-03"
+    },
+    "4c27572a942ff2602e61fe7981063f28|overdue|2026-09-04": {
+      "scheduledAt": "2026-08-28T02:06:15.382Z",
+      "type": "overdue",
+      "task": "Update calendar sheet event title and description fields for Ampd and Dovetail",
+      "assignee": "Christle 'Knows All' Ochigue",
+      "reminderDate": "2026-09-04"
+    },
+    "4c27572a942ff2602e61fe7981063f28|overdue|2026-09-05": {
+      "scheduledAt": "2026-08-28T02:06:16.226Z",
+      "type": "overdue",
+      "task": "Update calendar sheet event title and description fields for Ampd and Dovetail",
+      "assignee": "Christle 'Knows All' Ochigue",
+      "reminderDate": "2026-09-05"
+    },
+    "4c27572a942ff2602e61fe7981063f28|overdue|2026-09-06": {
+      "scheduledAt": "2026-08-28T02:06:17.010Z",
+      "type": "overdue",
+      "task": "Update calendar sheet event title and description fields for Ampd and Dovetail",
+      "assignee": "Christle 'Knows All' Ochigue",
+      "reminderDate": "2026-09-06"
+    },
+    "4c27572a942ff2602e61fe7981063f28|overdue|2026-09-07": {
+      "scheduledAt": "2026-08-28T02:06:17.780Z",
+      "type": "overdue",
+      "task": "Update calendar sheet event title and description fields for Ampd and Dovetail",
+      "assignee": "Christle 'Knows All' Ochigue",
+      "reminderDate": "2026-09-07"
+    },
+    "4c27572a942ff2602e61fe7981063f28|overdue|2026-09-08": {
+      "scheduledAt": "2026-08-28T02:06:18.686Z",
+      "type": "overdue",
+      "task": "Update calendar sheet event title and description fields for Ampd and Dovetail",
+      "assignee": "Christle 'Knows All' Ochigue",
+      "reminderDate": "2026-09-08"
+    },
+    "4c27572a942ff2602e61fe7981063f28|overdue|2026-09-09": {
+      "scheduledAt": "2026-08-28T02:06:19.512Z",
+      "type": "overdue",
+      "task": "Update calendar sheet event title and description fields for Ampd and Dovetail",
+      "assignee": "Christle 'Knows All' Ochigue",
+      "reminderDate": "2026-09-09"
+    },
+    "4c27572a942ff2602e61fe7981063f28|overdue|2026-09-10": {
+      "scheduledAt": "2026-08-28T02:06:20.355Z",
+      "type": "overdue",
+      "task": "Update calendar sheet event title and description fields for Ampd and Dovetail",
+      "assignee": "Christle 'Knows All' Ochigue",
+      "reminderDate": "2026-09-10"
+    },
+    "4c27572a942ff2602e61fe7981063f28|overdue|2026-09-11": {
+      "scheduledAt": "2026-08-28T02:06:21.178Z",
+      "type": "overdue",
+      "task": "Update calendar sheet event title and description fields for Ampd and Dovetail",
+      "assignee": "Christle 'Knows All' Ochigue",
+      "reminderDate": "2026-09-11"
+    },
+    "4c27572a942ff2602e61fe7981063f28|overdue|2026-09-12": {
+      "scheduledAt": "2026-08-28T02:06:21.949Z",
+      "type": "overdue",
+      "task": "Update calendar sheet event title and description fields for Ampd and Dovetail",
+      "assignee": "Christle 'Knows All' Ochigue",
+      "reminderDate": "2026-09-12"
+    },
+    "4c27572a942ff2602e61fe7981063f28|overdue|2026-09-13": {
+      "scheduledAt": "2026-08-28T02:06:22.730Z",
+      "type": "overdue",
+      "task": "Update calendar sheet event title and description fields for Ampd and Dovetail",
+      "assignee": "Christle 'Knows All' Ochigue",
+      "reminderDate": "2026-09-13"
+    },
+    "4c27572a942ff2602e61fe7981063f28|overdue|2026-09-14": {
+      "scheduledAt": "2026-08-28T02:06:23.542Z",
+      "type": "overdue",
+      "task": "Update calendar sheet event title and description fields for Ampd and Dovetail",
+      "assignee": "Christle 'Knows All' Ochigue",
+      "reminderDate": "2026-09-14"
+    },
+    "4c27572a942ff2602e61fe7981063f28|overdue|2026-09-15": {
+      "scheduledAt": "2026-08-28T02:06:24.559Z",
+      "type": "overdue",
+      "task": "Update calendar sheet event title and description fields for Ampd and Dovetail",
+      "assignee": "Christle 'Knows All' Ochigue",
+      "reminderDate": "2026-09-15"
+    },
+    "4c27572a942ff2602e61fe7981063f28|overdue|2026-09-16": {
+      "scheduledAt": "2026-08-28T02:06:25.450Z",
+      "type": "overdue",
+      "task": "Update calendar sheet event title and description fields for Ampd and Dovetail",
+      "assignee": "Christle 'Knows All' Ochigue",
+      "reminderDate": "2026-09-16"
+    },
+    "4c27572a942ff2602e61fe7981063f28|overdue|2026-09-17": {
+      "scheduledAt": "2026-08-28T02:06:26.277Z",
+      "type": "overdue",
+      "task": "Update calendar sheet event title and description fields for Ampd and Dovetail",
+      "assignee": "Christle 'Knows All' Ochigue",
+      "reminderDate": "2026-09-17"
+    },
+    "4c27572a942ff2602e61fe7981063f28|overdue|2026-09-18": {
+      "scheduledAt": "2026-08-28T02:06:27.045Z",
+      "type": "overdue",
+      "task": "Update calendar sheet event title and description fields for Ampd and Dovetail",
+      "assignee": "Christle 'Knows All' Ochigue",
+      "reminderDate": "2026-09-18"
+    },
+    "4c27572a942ff2602e61fe7981063f28|overdue|2026-09-19": {
+      "scheduledAt": "2026-08-28T02:06:27.906Z",
+      "type": "overdue",
+      "task": "Update calendar sheet event title and description fields for Ampd and Dovetail",
+      "assignee": "Christle 'Knows All' Ochigue",
+      "reminderDate": "2026-09-19"
+    },
+    "4c27572a942ff2602e61fe7981063f28|overdue|2026-09-20": {
+      "scheduledAt": "2026-08-28T02:06:28.684Z",
+      "type": "overdue",
+      "task": "Update calendar sheet event title and description fields for Ampd and Dovetail",
+      "assignee": "Christle 'Knows All' Ochigue",
+      "reminderDate": "2026-09-20"
+    },
+    "4c27572a942ff2602e61fe7981063f28|overdue|2026-09-21": {
+      "scheduledAt": "2026-08-28T02:06:29.529Z",
+      "type": "overdue",
+      "task": "Update calendar sheet event title and description fields for Ampd and Dovetail",
+      "assignee": "Christle 'Knows All' Ochigue",
+      "reminderDate": "2026-09-21"
+    },
+    "4c27572a942ff2602e61fe7981063f28|overdue|2026-09-22": {
+      "scheduledAt": "2026-08-28T02:06:30.342Z",
+      "type": "overdue",
+      "task": "Update calendar sheet event title and description fields for Ampd and Dovetail",
+      "assignee": "Christle 'Knows All' Ochigue",
+      "reminderDate": "2026-09-22"
+    },
+    "4c27572a942ff2602e61fe7981063f28|overdue|2026-09-23": {
+      "scheduledAt": "2026-08-28T02:06:31.215Z",
+      "type": "overdue",
+      "task": "Update calendar sheet event title and description fields for Ampd and Dovetail",
+      "assignee": "Christle 'Knows All' Ochigue",
+      "reminderDate": "2026-09-23"
+    },
+    "4c27572a942ff2602e61fe7981063f28|overdue|2026-09-24": {
+      "scheduledAt": "2026-08-28T02:06:32.034Z",
+      "type": "overdue",
+      "task": "Update calendar sheet event title and description fields for Ampd and Dovetail",
+      "assignee": "Christle 'Knows All' Ochigue",
+      "reminderDate": "2026-09-24"
+    },
+    "4c27572a942ff2602e61fe7981063f28|overdue|2026-09-25": {
+      "scheduledAt": "2026-08-28T02:06:32.834Z",
+      "type": "overdue",
+      "task": "Update calendar sheet event title and description fields for Ampd and Dovetail",
+      "assignee": "Christle 'Knows All' Ochigue",
+      "reminderDate": "2026-09-25"
+    },
+    "4c27572a942ff2602e61fe7981063f28|overdue|2026-09-26": {
+      "scheduledAt": "2026-08-28T02:06:33.657Z",
+      "type": "overdue",
+      "task": "Update calendar sheet event title and description fields for Ampd and Dovetail",
+      "assignee": "Christle 'Knows All' Ochigue",
+      "reminderDate": "2026-09-26"
+    },
+    "4c27572a942ff2602e61fe7981063f28|overdue|2026-09-27": {
+      "scheduledAt": "2026-08-28T02:06:34.538Z",
+      "type": "overdue",
+      "task": "Update calendar sheet event title and description fields for Ampd and Dovetail",
+      "assignee": "Christle 'Knows All' Ochigue",
+      "reminderDate": "2026-09-27"
+    },
+    "4c27572a942ff2602e61fe7981063f28|overdue|2026-09-28": {
+      "scheduledAt": "2026-08-28T02:06:35.390Z",
+      "type": "overdue",
+      "task": "Update calendar sheet event title and description fields for Ampd and Dovetail",
+      "assignee": "Christle 'Knows All' Ochigue",
+      "reminderDate": "2026-09-28"
+    },
+    "4c27572a942ff2602e61fe7981063f28|overdue|2026-09-29": {
+      "scheduledAt": "2026-08-28T02:06:36.195Z",
+      "type": "overdue",
+      "task": "Update calendar sheet event title and description fields for Ampd and Dovetail",
+      "assignee": "Christle 'Knows All' Ochigue",
+      "reminderDate": "2026-09-29"
+    },
+    "4c27572a942ff2602e61fe7981063f28|overdue|2026-09-30": {
+      "scheduledAt": "2026-08-28T02:06:36.976Z",
+      "type": "overdue",
+      "task": "Update calendar sheet event title and description fields for Ampd and Dovetail",
+      "assignee": "Christle 'Knows All' Ochigue",
+      "reminderDate": "2026-09-30"
+    },
+    "4c27572a942ff2602e61fe7981063f28|overdue|2026-10-01": {
+      "scheduledAt": "2026-08-28T02:06:37.756Z",
+      "type": "overdue",
+      "task": "Update calendar sheet event title and description fields for Ampd and Dovetail",
+      "assignee": "Christle 'Knows All' Ochigue",
+      "reminderDate": "2026-10-01"
+    },
+    "4c27572a942ff2602e61fe7981063f28|overdue|2026-10-02": {
+      "scheduledAt": "2026-08-28T02:06:38.622Z",
+      "type": "overdue",
+      "task": "Update calendar sheet event title and description fields for Ampd and Dovetail",
+      "assignee": "Christle 'Knows All' Ochigue",
+      "reminderDate": "2026-10-02"
+    },
+    "3c1d57540ee0ca629ff5f9590e948594|due|2026-08-28": {
+      "scheduledAt": "2026-08-28T02:06:39.487Z",
+      "type": "due",
+      "task": "Fix calendar sheet tab duplicates",
+      "assignee": "Christle 'Knows All' Ochigue",
+      "reminderDate": "2026-08-28"
+    },
+    "3c1d57540ee0ca629ff5f9590e948594|overdue|2026-08-29": {
+      "scheduledAt": "2026-08-28T02:06:40.301Z",
+      "type": "overdue",
+      "task": "Fix calendar sheet tab duplicates",
+      "assignee": "Christle 'Knows All' Ochigue",
+      "reminderDate": "2026-08-29"
+    },
+    "3c1d57540ee0ca629ff5f9590e948594|overdue|2026-08-30": {
+      "scheduledAt": "2026-08-28T02:06:41.071Z",
+      "type": "overdue",
+      "task": "Fix calendar sheet tab duplicates",
+      "assignee": "Christle 'Knows All' Ochigue",
+      "reminderDate": "2026-08-30"
+    },
+    "3c1d57540ee0ca629ff5f9590e948594|overdue|2026-08-31": {
+      "scheduledAt": "2026-08-28T02:06:41.868Z",
+      "type": "overdue",
+      "task": "Fix calendar sheet tab duplicates",
+      "assignee": "Christle 'Knows All' Ochigue",
+      "reminderDate": "2026-08-31"
+    },
+    "3c1d57540ee0ca629ff5f9590e948594|overdue|2026-09-01": {
+      "scheduledAt": "2026-08-28T02:06:42.711Z",
+      "type": "overdue",
+      "task": "Fix calendar sheet tab duplicates",
+      "assignee": "Christle 'Knows All' Ochigue",
+      "reminderDate": "2026-09-01"
+    },
+    "3c1d57540ee0ca629ff5f9590e948594|overdue|2026-09-02": {
+      "scheduledAt": "2026-08-28T02:06:43.609Z",
+      "type": "overdue",
+      "task": "Fix calendar sheet tab duplicates",
+      "assignee": "Christle 'Knows All' Ochigue",
+      "reminderDate": "2026-09-02"
+    },
+    "3c1d57540ee0ca629ff5f9590e948594|overdue|2026-09-03": {
+      "scheduledAt": "2026-08-28T02:06:44.489Z",
+      "type": "overdue",
+      "task": "Fix calendar sheet tab duplicates",
+      "assignee": "Christle 'Knows All' Ochigue",
+      "reminderDate": "2026-09-03"
+    },
+    "3c1d57540ee0ca629ff5f9590e948594|overdue|2026-09-04": {
+      "scheduledAt": "2026-08-28T02:06:45.278Z",
+      "type": "overdue",
+      "task": "Fix calendar sheet tab duplicates",
+      "assignee": "Christle 'Knows All' Ochigue",
+      "reminderDate": "2026-09-04"
+    },
+    "3c1d57540ee0ca629ff5f9590e948594|overdue|2026-09-05": {
+      "scheduledAt": "2026-08-28T02:06:46.109Z",
+      "type": "overdue",
+      "task": "Fix calendar sheet tab duplicates",
+      "assignee": "Christle 'Knows All' Ochigue",
+      "reminderDate": "2026-09-05"
+    },
+    "3c1d57540ee0ca629ff5f9590e948594|overdue|2026-09-06": {
+      "scheduledAt": "2026-08-28T02:06:46.926Z",
+      "type": "overdue",
+      "task": "Fix calendar sheet tab duplicates",
+      "assignee": "Christle 'Knows All' Ochigue",
+      "reminderDate": "2026-09-06"
+    },
+    "3c1d57540ee0ca629ff5f9590e948594|overdue|2026-09-07": {
+      "scheduledAt": "2026-08-28T02:06:47.728Z",
+      "type": "overdue",
+      "task": "Fix calendar sheet tab duplicates",
+      "assignee": "Christle 'Knows All' Ochigue",
+      "reminderDate": "2026-09-07"
+    },
+    "3c1d57540ee0ca629ff5f9590e948594|overdue|2026-09-08": {
+      "scheduledAt": "2026-08-28T02:06:48.528Z",
+      "type": "overdue",
+      "task": "Fix calendar sheet tab duplicates",
+      "assignee": "Christle 'Knows All' Ochigue",
+      "reminderDate": "2026-09-08"
+    },
+    "3c1d57540ee0ca629ff5f9590e948594|overdue|2026-09-09": {
+      "scheduledAt": "2026-08-28T02:06:49.291Z",
+      "type": "overdue",
+      "task": "Fix calendar sheet tab duplicates",
+      "assignee": "Christle 'Knows All' Ochigue",
+      "reminderDate": "2026-09-09"
+    },
+    "3c1d57540ee0ca629ff5f9590e948594|overdue|2026-09-10": {
+      "scheduledAt": "2026-08-28T02:06:50.096Z",
+      "type": "overdue",
+      "task": "Fix calendar sheet tab duplicates",
+      "assignee": "Christle 'Knows All' Ochigue",
+      "reminderDate": "2026-09-10"
+    },
+    "3c1d57540ee0ca629ff5f9590e948594|overdue|2026-09-11": {
+      "scheduledAt": "2026-08-28T02:06:50.863Z",
+      "type": "overdue",
+      "task": "Fix calendar sheet tab duplicates",
+      "assignee": "Christle 'Knows All' Ochigue",
+      "reminderDate": "2026-09-11"
+    },
+    "3c1d57540ee0ca629ff5f9590e948594|overdue|2026-09-12": {
+      "scheduledAt": "2026-08-28T02:06:51.664Z",
+      "type": "overdue",
+      "task": "Fix calendar sheet tab duplicates",
+      "assignee": "Christle 'Knows All' Ochigue",
+      "reminderDate": "2026-09-12"
+    },
+    "3c1d57540ee0ca629ff5f9590e948594|overdue|2026-09-13": {
+      "scheduledAt": "2026-08-28T02:06:52.489Z",
+      "type": "overdue",
+      "task": "Fix calendar sheet tab duplicates",
+      "assignee": "Christle 'Knows All' Ochigue",
+      "reminderDate": "2026-09-13"
+    },
+    "3c1d57540ee0ca629ff5f9590e948594|overdue|2026-09-14": {
+      "scheduledAt": "2026-08-28T02:06:53.285Z",
+      "type": "overdue",
+      "task": "Fix calendar sheet tab duplicates",
+      "assignee": "Christle 'Knows All' Ochigue",
+      "reminderDate": "2026-09-14"
+    },
+    "3c1d57540ee0ca629ff5f9590e948594|overdue|2026-09-15": {
+      "scheduledAt": "2026-08-28T02:06:54.061Z",
+      "type": "overdue",
+      "task": "Fix calendar sheet tab duplicates",
+      "assignee": "Christle 'Knows All' Ochigue",
+      "reminderDate": "2026-09-15"
+    },
+    "3c1d57540ee0ca629ff5f9590e948594|overdue|2026-09-16": {
+      "scheduledAt": "2026-08-28T02:06:54.877Z",
+      "type": "overdue",
+      "task": "Fix calendar sheet tab duplicates",
+      "assignee": "Christle 'Knows All' Ochigue",
+      "reminderDate": "2026-09-16"
+    },
+    "3c1d57540ee0ca629ff5f9590e948594|overdue|2026-09-17": {
+      "scheduledAt": "2026-08-28T02:06:55.640Z",
+      "type": "overdue",
+      "task": "Fix calendar sheet tab duplicates",
+      "assignee": "Christle 'Knows All' Ochigue",
+      "reminderDate": "2026-09-17"
+    },
+    "3c1d57540ee0ca629ff5f9590e948594|overdue|2026-09-18": {
+      "scheduledAt": "2026-08-28T02:06:56.476Z",
+      "type": "overdue",
+      "task": "Fix calendar sheet tab duplicates",
+      "assignee": "Christle 'Knows All' Ochigue",
+      "reminderDate": "2026-09-18"
+    },
+    "3c1d57540ee0ca629ff5f9590e948594|overdue|2026-09-19": {
+      "scheduledAt": "2026-08-28T02:06:57.295Z",
+      "type": "overdue",
+      "task": "Fix calendar sheet tab duplicates",
+      "assignee": "Christle 'Knows All' Ochigue",
+      "reminderDate": "2026-09-19"
+    },
+    "3c1d57540ee0ca629ff5f9590e948594|overdue|2026-09-20": {
+      "scheduledAt": "2026-08-28T02:06:58.101Z",
+      "type": "overdue",
+      "task": "Fix calendar sheet tab duplicates",
+      "assignee": "Christle 'Knows All' Ochigue",
+      "reminderDate": "2026-09-20"
+    },
+    "3c1d57540ee0ca629ff5f9590e948594|overdue|2026-09-21": {
+      "scheduledAt": "2026-08-28T02:06:58.966Z",
+      "type": "overdue",
+      "task": "Fix calendar sheet tab duplicates",
+      "assignee": "Christle 'Knows All' Ochigue",
+      "reminderDate": "2026-09-21"
+    },
+    "3c1d57540ee0ca629ff5f9590e948594|overdue|2026-09-22": {
+      "scheduledAt": "2026-08-28T02:06:59.763Z",
+      "type": "overdue",
+      "task": "Fix calendar sheet tab duplicates",
+      "assignee": "Christle 'Knows All' Ochigue",
+      "reminderDate": "2026-09-22"
+    },
+    "3c1d57540ee0ca629ff5f9590e948594|overdue|2026-09-23": {
+      "scheduledAt": "2026-08-28T02:07:00.523Z",
+      "type": "overdue",
+      "task": "Fix calendar sheet tab duplicates",
+      "assignee": "Christle 'Knows All' Ochigue",
+      "reminderDate": "2026-09-23"
+    },
+    "3c1d57540ee0ca629ff5f9590e948594|overdue|2026-09-24": {
+      "scheduledAt": "2026-08-28T02:07:01.348Z",
+      "type": "overdue",
+      "task": "Fix calendar sheet tab duplicates",
+      "assignee": "Christle 'Knows All' Ochigue",
+      "reminderDate": "2026-09-24"
+    },
+    "3c1d57540ee0ca629ff5f9590e948594|overdue|2026-09-25": {
+      "scheduledAt": "2026-08-28T02:07:02.135Z",
+      "type": "overdue",
+      "task": "Fix calendar sheet tab duplicates",
+      "assignee": "Christle 'Knows All' Ochigue",
+      "reminderDate": "2026-09-25"
+    },
+    "3c1d57540ee0ca629ff5f9590e948594|overdue|2026-09-26": {
+      "scheduledAt": "2026-08-28T02:07:02.944Z",
+      "type": "overdue",
+      "task": "Fix calendar sheet tab duplicates",
+      "assignee": "Christle 'Knows All' Ochigue",
+      "reminderDate": "2026-09-26"
+    },
+    "3c1d57540ee0ca629ff5f9590e948594|overdue|2026-09-27": {
+      "scheduledAt": "2026-08-28T02:07:03.816Z",
+      "type": "overdue",
+      "task": "Fix calendar sheet tab duplicates",
+      "assignee": "Christle 'Knows All' Ochigue",
+      "reminderDate": "2026-09-27"
+    },
+    "c0eb92cd99463fabba3bcd3cbcd04ce7|midpoint|2026-08-31": {
+      "scheduledAt": "2026-08-28T02:07:04.668Z",
+      "type": "midpoint",
+      "task": "Migrate campaign workflow details from Claude design used in demos to Lovable client training area",
+      "assignee": "Josh 'The Ninja' Morales",
+      "reminderDate": "2026-08-31"
+    },
+    "c0eb92cd99463fabba3bcd3cbcd04ce7|nag|2026-09-02": {
+      "scheduledAt": "2026-08-28T02:07:05.473Z",
+      "type": "nag",
+      "task": "Migrate campaign workflow details from Claude design used in demos to Lovable client training area",
+      "assignee": "Josh 'The Ninja' Morales",
+      "reminderDate": "2026-09-02"
+    },
+    "c0eb92cd99463fabba3bcd3cbcd04ce7|nag|2026-09-03": {
+      "scheduledAt": "2026-08-28T02:07:06.334Z",
+      "type": "nag",
+      "task": "Migrate campaign workflow details from Claude design used in demos to Lovable client training area",
+      "assignee": "Josh 'The Ninja' Morales",
+      "reminderDate": "2026-09-03"
+    },
+    "c0eb92cd99463fabba3bcd3cbcd04ce7|due|2026-09-04": {
+      "scheduledAt": "2026-08-28T02:07:07.172Z",
+      "type": "due",
+      "task": "Migrate campaign workflow details from Claude design used in demos to Lovable client training area",
+      "assignee": "Josh 'The Ninja' Morales",
+      "reminderDate": "2026-09-04"
+    },
+    "c0eb92cd99463fabba3bcd3cbcd04ce7|overdue|2026-09-05": {
+      "scheduledAt": "2026-08-28T02:07:07.959Z",
+      "type": "overdue",
+      "task": "Migrate campaign workflow details from Claude design used in demos to Lovable client training area",
+      "assignee": "Josh 'The Ninja' Morales",
+      "reminderDate": "2026-09-05"
+    },
+    "c0eb92cd99463fabba3bcd3cbcd04ce7|overdue|2026-09-06": {
+      "scheduledAt": "2026-08-28T02:07:08.734Z",
+      "type": "overdue",
+      "task": "Migrate campaign workflow details from Claude design used in demos to Lovable client training area",
+      "assignee": "Josh 'The Ninja' Morales",
+      "reminderDate": "2026-09-06"
+    },
+    "c0eb92cd99463fabba3bcd3cbcd04ce7|overdue|2026-09-07": {
+      "scheduledAt": "2026-08-28T02:07:09.528Z",
+      "type": "overdue",
+      "task": "Migrate campaign workflow details from Claude design used in demos to Lovable client training area",
+      "assignee": "Josh 'The Ninja' Morales",
+      "reminderDate": "2026-09-07"
+    },
+    "c0eb92cd99463fabba3bcd3cbcd04ce7|overdue|2026-09-08": {
+      "scheduledAt": "2026-08-28T02:07:10.348Z",
+      "type": "overdue",
+      "task": "Migrate campaign workflow details from Claude design used in demos to Lovable client training area",
+      "assignee": "Josh 'The Ninja' Morales",
+      "reminderDate": "2026-09-08"
+    },
+    "c0eb92cd99463fabba3bcd3cbcd04ce7|overdue|2026-09-09": {
+      "scheduledAt": "2026-08-28T02:07:11.151Z",
+      "type": "overdue",
+      "task": "Migrate campaign workflow details from Claude design used in demos to Lovable client training area",
+      "assignee": "Josh 'The Ninja' Morales",
+      "reminderDate": "2026-09-09"
+    },
+    "c0eb92cd99463fabba3bcd3cbcd04ce7|overdue|2026-09-10": {
+      "scheduledAt": "2026-08-28T02:07:11.957Z",
+      "type": "overdue",
+      "task": "Migrate campaign workflow details from Claude design used in demos to Lovable client training area",
+      "assignee": "Josh 'The Ninja' Morales",
+      "reminderDate": "2026-09-10"
+    },
+    "c0eb92cd99463fabba3bcd3cbcd04ce7|overdue|2026-09-11": {
+      "scheduledAt": "2026-08-28T02:07:12.746Z",
+      "type": "overdue",
+      "task": "Migrate campaign workflow details from Claude design used in demos to Lovable client training area",
+      "assignee": "Josh 'The Ninja' Morales",
+      "reminderDate": "2026-09-11"
+    },
+    "c0eb92cd99463fabba3bcd3cbcd04ce7|overdue|2026-09-12": {
+      "scheduledAt": "2026-08-28T02:07:13.530Z",
+      "type": "overdue",
+      "task": "Migrate campaign workflow details from Claude design used in demos to Lovable client training area",
+      "assignee": "Josh 'The Ninja' Morales",
+      "reminderDate": "2026-09-12"
+    },
+    "c0eb92cd99463fabba3bcd3cbcd04ce7|overdue|2026-09-13": {
+      "scheduledAt": "2026-08-28T02:07:14.373Z",
+      "type": "overdue",
+      "task": "Migrate campaign workflow details from Claude design used in demos to Lovable client training area",
+      "assignee": "Josh 'The Ninja' Morales",
+      "reminderDate": "2026-09-13"
+    },
+    "c0eb92cd99463fabba3bcd3cbcd04ce7|overdue|2026-09-14": {
+      "scheduledAt": "2026-08-28T02:07:15.196Z",
+      "type": "overdue",
+      "task": "Migrate campaign workflow details from Claude design used in demos to Lovable client training area",
+      "assignee": "Josh 'The Ninja' Morales",
+      "reminderDate": "2026-09-14"
+    },
+    "c0eb92cd99463fabba3bcd3cbcd04ce7|overdue|2026-09-15": {
+      "scheduledAt": "2026-08-28T02:07:27.111Z",
+      "type": "overdue",
+      "task": "Migrate campaign workflow details from Claude design used in demos to Lovable client training area",
+      "assignee": "Josh 'The Ninja' Morales",
+      "reminderDate": "2026-09-15"
+    },
+    "c0eb92cd99463fabba3bcd3cbcd04ce7|overdue|2026-09-16": {
+      "scheduledAt": "2026-08-28T02:07:27.899Z",
+      "type": "overdue",
+      "task": "Migrate campaign workflow details from Claude design used in demos to Lovable client training area",
+      "assignee": "Josh 'The Ninja' Morales",
+      "reminderDate": "2026-09-16"
+    },
+    "c0eb92cd99463fabba3bcd3cbcd04ce7|overdue|2026-09-17": {
+      "scheduledAt": "2026-08-28T02:07:28.699Z",
+      "type": "overdue",
+      "task": "Migrate campaign workflow details from Claude design used in demos to Lovable client training area",
+      "assignee": "Josh 'The Ninja' Morales",
+      "reminderDate": "2026-09-17"
+    },
+    "c0eb92cd99463fabba3bcd3cbcd04ce7|overdue|2026-09-18": {
+      "scheduledAt": "2026-08-28T02:07:29.498Z",
+      "type": "overdue",
+      "task": "Migrate campaign workflow details from Claude design used in demos to Lovable client training area",
+      "assignee": "Josh 'The Ninja' Morales",
+      "reminderDate": "2026-09-18"
+    },
+    "c0eb92cd99463fabba3bcd3cbcd04ce7|overdue|2026-09-19": {
+      "scheduledAt": "2026-08-28T02:07:30.310Z",
+      "type": "overdue",
+      "task": "Migrate campaign workflow details from Claude design used in demos to Lovable client training area",
+      "assignee": "Josh 'The Ninja' Morales",
+      "reminderDate": "2026-09-19"
+    },
+    "c0eb92cd99463fabba3bcd3cbcd04ce7|overdue|2026-09-20": {
+      "scheduledAt": "2026-08-28T02:07:31.102Z",
+      "type": "overdue",
+      "task": "Migrate campaign workflow details from Claude design used in demos to Lovable client training area",
+      "assignee": "Josh 'The Ninja' Morales",
+      "reminderDate": "2026-09-20"
+    },
+    "c0eb92cd99463fabba3bcd3cbcd04ce7|overdue|2026-09-21": {
+      "scheduledAt": "2026-08-28T02:07:32.000Z",
+      "type": "overdue",
+      "task": "Migrate campaign workflow details from Claude design used in demos to Lovable client training area",
+      "assignee": "Josh 'The Ninja' Morales",
+      "reminderDate": "2026-09-21"
+    },
+    "c0eb92cd99463fabba3bcd3cbcd04ce7|overdue|2026-09-22": {
+      "scheduledAt": "2026-08-28T02:07:32.832Z",
+      "type": "overdue",
+      "task": "Migrate campaign workflow details from Claude design used in demos to Lovable client training area",
+      "assignee": "Josh 'The Ninja' Morales",
+      "reminderDate": "2026-09-22"
+    },
+    "c0eb92cd99463fabba3bcd3cbcd04ce7|overdue|2026-09-23": {
+      "scheduledAt": "2026-08-28T02:07:34.232Z",
+      "type": "overdue",
+      "task": "Migrate campaign workflow details from Claude design used in demos to Lovable client training area",
+      "assignee": "Josh 'The Ninja' Morales",
+      "reminderDate": "2026-09-23"
+    },
+    "c0eb92cd99463fabba3bcd3cbcd04ce7|overdue|2026-09-24": {
+      "scheduledAt": "2026-08-28T02:07:35.023Z",
+      "type": "overdue",
+      "task": "Migrate campaign workflow details from Claude design used in demos to Lovable client training area",
+      "assignee": "Josh 'The Ninja' Morales",
+      "reminderDate": "2026-09-24"
+    },
+    "c0eb92cd99463fabba3bcd3cbcd04ce7|overdue|2026-09-25": {
+      "scheduledAt": "2026-08-28T02:07:35.856Z",
+      "type": "overdue",
+      "task": "Migrate campaign workflow details from Claude design used in demos to Lovable client training area",
+      "assignee": "Josh 'The Ninja' Morales",
+      "reminderDate": "2026-09-25"
+    },
+    "c0eb92cd99463fabba3bcd3cbcd04ce7|overdue|2026-09-26": {
+      "scheduledAt": "2026-08-28T02:07:47.792Z",
+      "type": "overdue",
+      "task": "Migrate campaign workflow details from Claude design used in demos to Lovable client training area",
+      "assignee": "Josh 'The Ninja' Morales",
+      "reminderDate": "2026-09-26"
+    },
+    "c0eb92cd99463fabba3bcd3cbcd04ce7|overdue|2026-09-27": {
+      "scheduledAt": "2026-08-28T02:07:48.592Z",
+      "type": "overdue",
+      "task": "Migrate campaign workflow details from Claude design used in demos to Lovable client training area",
+      "assignee": "Josh 'The Ninja' Morales",
+      "reminderDate": "2026-09-27"
+    },
+    "c0eb92cd99463fabba3bcd3cbcd04ce7|overdue|2026-09-28": {
+      "scheduledAt": "2026-08-28T02:07:49.364Z",
+      "type": "overdue",
+      "task": "Migrate campaign workflow details from Claude design used in demos to Lovable client training area",
+      "assignee": "Josh 'The Ninja' Morales",
+      "reminderDate": "2026-09-28"
+    },
+    "c0eb92cd99463fabba3bcd3cbcd04ce7|overdue|2026-09-29": {
+      "scheduledAt": "2026-08-28T02:08:01.289Z",
+      "type": "overdue",
+      "task": "Migrate campaign workflow details from Claude design used in demos to Lovable client training area",
+      "assignee": "Josh 'The Ninja' Morales",
+      "reminderDate": "2026-09-29"
+    },
+    "c0eb92cd99463fabba3bcd3cbcd04ce7|overdue|2026-09-30": {
+      "scheduledAt": "2026-08-28T02:08:02.076Z",
+      "type": "overdue",
+      "task": "Migrate campaign workflow details from Claude design used in demos to Lovable client training area",
+      "assignee": "Josh 'The Ninja' Morales",
+      "reminderDate": "2026-09-30"
+    },
+    "c0eb92cd99463fabba3bcd3cbcd04ce7|overdue|2026-10-01": {
+      "scheduledAt": "2026-08-28T02:08:02.893Z",
+      "type": "overdue",
+      "task": "Migrate campaign workflow details from Claude design used in demos to Lovable client training area",
+      "assignee": "Josh 'The Ninja' Morales",
+      "reminderDate": "2026-10-01"
+    },
+    "c0eb92cd99463fabba3bcd3cbcd04ce7|overdue|2026-10-02": {
+      "scheduledAt": "2026-08-28T02:08:03.700Z",
+      "type": "overdue",
+      "task": "Migrate campaign workflow details from Claude design used in demos to Lovable client training area",
+      "assignee": "Josh 'The Ninja' Morales",
+      "reminderDate": "2026-10-02"
+    },
+    "c0eb92cd99463fabba3bcd3cbcd04ce7|overdue|2026-10-03": {
+      "scheduledAt": "2026-08-28T02:08:04.495Z",
+      "type": "overdue",
+      "task": "Migrate campaign workflow details from Claude design used in demos to Lovable client training area",
+      "assignee": "Josh 'The Ninja' Morales",
+      "reminderDate": "2026-10-03"
+    },
+    "c0eb92cd99463fabba3bcd3cbcd04ce7|overdue|2026-10-04": {
+      "scheduledAt": "2026-08-28T02:08:05.310Z",
+      "type": "overdue",
+      "task": "Migrate campaign workflow details from Claude design used in demos to Lovable client training area",
+      "assignee": "Josh 'The Ninja' Morales",
+      "reminderDate": "2026-10-04"
     }
   },
   "scheduledMessageIds": {
@@ -27392,414 +27875,1198 @@
         "messageId": "Q0BRWBKR36E"
       }
     ],
-    "db64f33fd2a0f835dc4b7393e34e5b24": [
+    "4c27572a942ff2602e61fe7981063f28": [
       {
         "channel": "UMS39RAGP",
-        "messageId": "Q0BSPNS9PNV"
+        "messageId": "Q0BU4HQU340"
       },
       {
-        "channel": "U023F61R16F",
-        "messageId": "Q0BTG6ANBME"
+        "channel": "UMCPG3D8A",
+        "messageId": "Q0BSURGJ5L7"
       },
       {
-        "channel": "C05JGF817H6",
-        "messageId": "Q0BSKSNLAES"
-      },
-      {
-        "channel": "UMS39RAGP",
-        "messageId": "Q0BSPNSKEGZ"
-      },
-      {
-        "channel": "U023F61R16F",
-        "messageId": "Q0BSFHP9V9R"
-      },
-      {
-        "channel": "C05JGF817H6",
-        "messageId": "Q0BTG69D308"
+        "channel": "C08R493ESAJ",
+        "messageId": "Q0BU4HRSJP2"
       },
       {
         "channel": "UMS39RAGP",
-        "messageId": "Q0BSFHP6TFD"
+        "messageId": "Q0BTDSN8ZM2"
       },
       {
-        "channel": "U023F61R16F",
-        "messageId": "Q0BS6E1B2R5"
+        "channel": "UMCPG3D8A",
+        "messageId": "Q0BTC48MNM7"
       },
       {
-        "channel": "C05JGF817H6",
-        "messageId": "Q0BSPNTCB33"
-      },
-      {
-        "channel": "UMS39RAGP",
-        "messageId": "Q0BTG69S49E"
-      },
-      {
-        "channel": "U023F61R16F",
-        "messageId": "Q0BSPNSRH0R"
-      },
-      {
-        "channel": "C05JGF817H6",
-        "messageId": "Q0BSKSNT1C6"
+        "channel": "C08R493ESAJ",
+        "messageId": "Q0BSURELFHV"
       },
       {
         "channel": "UMS39RAGP",
-        "messageId": "Q0BSKSMV6H4"
+        "messageId": "Q0BT88N4L4E"
       },
       {
-        "channel": "U023F61R16F",
-        "messageId": "Q0BTG6B5P3J"
+        "channel": "UMCPG3D8A",
+        "messageId": "Q0BT6476U4V"
       },
       {
-        "channel": "C05JGF817H6",
-        "messageId": "Q0BSFHP6M1R"
-      },
-      {
-        "channel": "UMS39RAGP",
-        "messageId": "Q0BSKSNG4FQ"
-      },
-      {
-        "channel": "U023F61R16F",
-        "messageId": "Q0BSKSNUF9C"
-      },
-      {
-        "channel": "C05JGF817H6",
-        "messageId": "Q0BSFHNN0TD"
+        "channel": "C08R493ESAJ",
+        "messageId": "Q0BTDSMFSS0"
       },
       {
         "channel": "UMS39RAGP",
-        "messageId": "Q0BSHS6G4SZ"
+        "messageId": "Q0BU4HRS49W"
       },
       {
-        "channel": "U023F61R16F",
-        "messageId": "Q0BSKSNJMV4"
+        "channel": "UMCPG3D8A",
+        "messageId": "Q0BTC4654AD"
       },
       {
-        "channel": "C05JGF817H6",
-        "messageId": "Q0BSPNUEXR7"
-      },
-      {
-        "channel": "UMS39RAGP",
-        "messageId": "Q0BSMQB2WG2"
-      },
-      {
-        "channel": "U023F61R16F",
-        "messageId": "Q0BSRFBAD8C"
-      },
-      {
-        "channel": "C05JGF817H6",
-        "messageId": "Q0BSMQAP2BU"
+        "channel": "C08R493ESAJ",
+        "messageId": "Q0BT3V37QH1"
       },
       {
         "channel": "UMS39RAGP",
-        "messageId": "Q0BSKSNTX62"
+        "messageId": "Q0BTDSNB6J0"
       },
       {
-        "channel": "U023F61R16F",
-        "messageId": "Q0BSFHPCD1R"
+        "channel": "UMCPG3D8A",
+        "messageId": "Q0BT88NJHD4"
       },
       {
-        "channel": "C05JGF817H6",
-        "messageId": "Q0BSFHQB6TD"
-      },
-      {
-        "channel": "UMS39RAGP",
-        "messageId": "Q0BSRFB6XQU"
-      },
-      {
-        "channel": "U023F61R16F",
-        "messageId": "Q0BSHS71KFF"
-      },
-      {
-        "channel": "C05JGF817H6",
-        "messageId": "Q0BSFHPNWKV"
+        "channel": "C08R493ESAJ",
+        "messageId": "Q0BTA60DC66"
       },
       {
         "channel": "UMS39RAGP",
-        "messageId": "Q0BSPNVB9G9"
+        "messageId": "Q0BT88NLFDL"
       },
       {
-        "channel": "U023F61R16F",
-        "messageId": "Q0BTG6B7BLG"
+        "channel": "UMCPG3D8A",
+        "messageId": "Q0BT88NVDB8"
       },
       {
-        "channel": "C05JGF817H6",
-        "messageId": "Q0BSKSPBXUN"
-      },
-      {
-        "channel": "UMS39RAGP",
-        "messageId": "Q0BSKSQDVQE"
-      },
-      {
-        "channel": "U023F61R16F",
-        "messageId": "Q0BTG6BBB08"
-      },
-      {
-        "channel": "C05JGF817H6",
-        "messageId": "Q0BS6E2QUUX"
+        "channel": "C08R493ESAJ",
+        "messageId": "Q0BSURJ5PHV"
       },
       {
         "channel": "UMS39RAGP",
-        "messageId": "Q0BS6E38HST"
+        "messageId": "Q0BT3V3UMUK"
       },
       {
-        "channel": "U023F61R16F",
-        "messageId": "Q0BSRFBU58U"
+        "channel": "UMCPG3D8A",
+        "messageId": "Q0BT88NJP1C"
       },
       {
-        "channel": "C05JGF817H6",
-        "messageId": "Q0BSHS71LSZ"
-      },
-      {
-        "channel": "UMS39RAGP",
-        "messageId": "Q0BSFHQEHV1"
-      },
-      {
-        "channel": "U023F61R16F",
-        "messageId": "Q0BSKSQBRE2"
-      },
-      {
-        "channel": "C05JGF817H6",
-        "messageId": "Q0BSPNV7E0Z"
+        "channel": "C08R493ESAJ",
+        "messageId": "Q0BT88NE0P8"
       },
       {
         "channel": "UMS39RAGP",
-        "messageId": "Q0BSRFC3A5A"
+        "messageId": "Q0BTC48HVMF"
       },
       {
-        "channel": "U023F61R16F",
-        "messageId": "Q0BSRFC5AKW"
+        "channel": "UMCPG3D8A",
+        "messageId": "Q0BTC49DLNM"
       },
       {
-        "channel": "C05JGF817H6",
-        "messageId": "Q0BSKSQB79C"
-      },
-      {
-        "channel": "UMS39RAGP",
-        "messageId": "Q0BSKSPURJS"
-      },
-      {
-        "channel": "U023F61R16F",
-        "messageId": "Q0BSMQBM2TU"
-      },
-      {
-        "channel": "C05JGF817H6",
-        "messageId": "Q0BSRFCCU7N"
+        "channel": "C08R493ESAJ",
+        "messageId": "Q0BT88P7C5U"
       },
       {
         "channel": "UMS39RAGP",
-        "messageId": "Q0BSKSP9U5C"
+        "messageId": "Q0BT88PGFFG"
       },
       {
-        "channel": "U023F61R16F",
-        "messageId": "Q0BSPNVQPU1"
+        "channel": "UMCPG3D8A",
+        "messageId": "Q0BU4HT4XEC"
       },
       {
-        "channel": "C05JGF817H6",
-        "messageId": "Q0BSKSQ1RL6"
-      },
-      {
-        "channel": "UMS39RAGP",
-        "messageId": "Q0BSRFCH3QU"
-      },
-      {
-        "channel": "U023F61R16F",
-        "messageId": "Q0BSRFCGWLC"
-      },
-      {
-        "channel": "C05JGF817H6",
-        "messageId": "Q0BSPNVN3AM"
+        "channel": "C08R493ESAJ",
+        "messageId": "Q0BTC48PQQH"
       },
       {
         "channel": "UMS39RAGP",
-        "messageId": "Q0BSMQC1LAE"
+        "messageId": "Q0BT64769LM"
       },
       {
-        "channel": "U023F61R16F",
-        "messageId": "Q0BTG6CFKA4"
+        "channel": "UMCPG3D8A",
+        "messageId": "Q0BU4HSEJ9E"
       },
       {
-        "channel": "C05JGF817H6",
-        "messageId": "Q0BSMQCE46N"
-      },
-      {
-        "channel": "UMS39RAGP",
-        "messageId": "Q0BSRFCBJVA"
-      },
-      {
-        "channel": "U023F61R16F",
-        "messageId": "Q0BSKSQAH1U"
-      },
-      {
-        "channel": "C05JGF817H6",
-        "messageId": "Q0BSPNVSM4H"
+        "channel": "C08R493ESAJ",
+        "messageId": "Q0BU4HRQUUQ"
       },
       {
         "channel": "UMS39RAGP",
-        "messageId": "Q0BSPNW4325"
+        "messageId": "Q0BTC49237B"
       },
       {
-        "channel": "U023F61R16F",
-        "messageId": "Q0BSPNV68DP"
+        "channel": "UMCPG3D8A",
+        "messageId": "Q0BT88P9TU6"
       },
       {
-        "channel": "C05JGF817H6",
-        "messageId": "Q0BS6E3NM7H"
-      },
-      {
-        "channel": "UMS39RAGP",
-        "messageId": "Q0BS6E3PDRV"
-      },
-      {
-        "channel": "U023F61R16F",
-        "messageId": "Q0BSFHR1N3V"
-      },
-      {
-        "channel": "C05JGF817H6",
-        "messageId": "Q0BTG6BQH3J"
+        "channel": "C08R493ESAJ",
+        "messageId": "Q0BTDSNNPN0"
       },
       {
         "channel": "UMS39RAGP",
-        "messageId": "Q0BSKSRA206"
+        "messageId": "Q0BT88P10MU"
       },
       {
-        "channel": "U023F61R16F",
-        "messageId": "Q0BSKSR0TML"
+        "channel": "UMCPG3D8A",
+        "messageId": "Q0BTDSL4FRS"
       },
       {
-        "channel": "C05JGF817H6",
-        "messageId": "Q0BSRFD30DA"
-      },
-      {
-        "channel": "UMS39RAGP",
-        "messageId": "Q0BTG6CQB0Q"
-      },
-      {
-        "channel": "U023F61R16F",
-        "messageId": "Q0BSFHRAVLK"
-      },
-      {
-        "channel": "C05JGF817H6",
-        "messageId": "Q0BSMQDHJFL"
+        "channel": "C08R493ESAJ",
+        "messageId": "Q0BU4HT5H96"
       },
       {
         "channel": "UMS39RAGP",
-        "messageId": "Q0BS6E40M1V"
+        "messageId": "Q0BU4HTFP2L"
       },
       {
-        "channel": "U023F61R16F",
-        "messageId": "Q0BTG6DBJ0G"
+        "channel": "UMCPG3D8A",
+        "messageId": "Q0BTA61AB9Q"
       },
       {
-        "channel": "C05JGF817H6",
-        "messageId": "Q0BSKSQP606"
-      },
-      {
-        "channel": "UMS39RAGP",
-        "messageId": "Q0BSKSR0K8E"
-      },
-      {
-        "channel": "U023F61R16F",
-        "messageId": "Q0BSKSRCBF0"
-      },
-      {
-        "channel": "C05JGF817H6",
-        "messageId": "Q0BS6E4P1GX"
+        "channel": "C08R493ESAJ",
+        "messageId": "Q0BTA616N4S"
       },
       {
         "channel": "UMS39RAGP",
-        "messageId": "Q0BSPNWJUTB"
+        "messageId": "Q0BTC49NV4Z"
       },
       {
-        "channel": "U023F61R16F",
-        "messageId": "Q0BTG6CSYCQ"
+        "channel": "UMCPG3D8A",
+        "messageId": "Q0BU4HT8MLY"
       },
       {
-        "channel": "C05JGF817H6",
-        "messageId": "Q0BSRFDD3PW"
-      },
-      {
-        "channel": "UMS39RAGP",
-        "messageId": "Q0BS6E421JB"
-      },
-      {
-        "channel": "U023F61R16F",
-        "messageId": "Q0BSHS8PR9B"
-      },
-      {
-        "channel": "C05JGF817H6",
-        "messageId": "Q0BSFHSBEKD"
+        "channel": "C08R493ESAJ",
+        "messageId": "Q0BSURJ67EK"
       },
       {
         "channel": "UMS39RAGP",
-        "messageId": "Q0BSHS9C2P7"
+        "messageId": "Q0BT3V4LVDZ"
       },
       {
-        "channel": "U023F61R16F",
-        "messageId": "Q0BSKSRD8BY"
+        "channel": "UMCPG3D8A",
+        "messageId": "Q0BU4HSFHHN"
       },
       {
-        "channel": "C05JGF817H6",
-        "messageId": "Q0BTG6EA7KJ"
-      },
-      {
-        "channel": "UMS39RAGP",
-        "messageId": "Q0BSRFE31L4"
-      },
-      {
-        "channel": "U023F61R16F",
-        "messageId": "Q0BSMQDHPSN"
-      },
-      {
-        "channel": "C05JGF817H6",
-        "messageId": "Q0BTG6CSKLY"
+        "channel": "C08R493ESAJ",
+        "messageId": "Q0BTA61036E"
       },
       {
         "channel": "UMS39RAGP",
-        "messageId": "Q0BSPNWGWHX"
+        "messageId": "Q0BTA619DMG"
       },
       {
-        "channel": "U023F61R16F",
-        "messageId": "Q0BSKSS2PD4"
+        "channel": "UMCPG3D8A",
+        "messageId": "Q0BTC499FK3"
       },
       {
-        "channel": "C05JGF817H6",
-        "messageId": "Q0BSMQD043U"
-      },
-      {
-        "channel": "UMS39RAGP",
-        "messageId": "Q0BSKSS54MU"
-      },
-      {
-        "channel": "U023F61R16F",
-        "messageId": "Q0BSPNWF1UH"
-      },
-      {
-        "channel": "C05JGF817H6",
-        "messageId": "Q0BSMQDT8EN"
+        "channel": "C08R493ESAJ",
+        "messageId": "Q0BTC46CA0Z"
       },
       {
         "channel": "UMS39RAGP",
-        "messageId": "Q0BTG6E6C4Q"
+        "messageId": "Q0BT3V4KJ03"
       },
       {
-        "channel": "U023F61R16F",
-        "messageId": "Q0BSRFDQ45S"
+        "channel": "UMCPG3D8A",
+        "messageId": "Q0BT3V3S4N7"
       },
       {
-        "channel": "C05JGF817H6",
-        "messageId": "Q0BSPNWHVGR"
+        "channel": "C08R493ESAJ",
+        "messageId": "Q0BT645LU6R"
       },
       {
         "channel": "UMS39RAGP",
-        "messageId": "Q0BSKSRD3K8"
+        "messageId": "Q0BTC4A7YNM"
       },
       {
-        "channel": "U023F61R16F",
-        "messageId": "Q0BS6E4AKQX"
+        "channel": "UMCPG3D8A",
+        "messageId": "Q0BT88PC9NJ"
       },
       {
-        "channel": "C05JGF817H6",
-        "messageId": "Q0BSFHTFLN7"
+        "channel": "C08R493ESAJ",
+        "messageId": "Q0BT88M6HLN"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BU4HTGC7J"
+      },
+      {
+        "channel": "UMCPG3D8A",
+        "messageId": "Q0BTA61KTK4"
+      },
+      {
+        "channel": "C08R493ESAJ",
+        "messageId": "Q0BTDSP4P60"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BTC49NHQ9"
+      },
+      {
+        "channel": "UMCPG3D8A",
+        "messageId": "Q0BT3V4R53M"
+      },
+      {
+        "channel": "C08R493ESAJ",
+        "messageId": "Q0BTDSNQJP6"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BT88PD10W"
+      },
+      {
+        "channel": "UMCPG3D8A",
+        "messageId": "Q0BT6489SQM"
+      },
+      {
+        "channel": "C08R493ESAJ",
+        "messageId": "Q0BTA626K7U"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BSURJEJT1"
+      },
+      {
+        "channel": "UMCPG3D8A",
+        "messageId": "Q0BTA61GEMQ"
+      },
+      {
+        "channel": "C08R493ESAJ",
+        "messageId": "Q0BTA61L5H8"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BSURJ6MTR"
+      },
+      {
+        "channel": "UMCPG3D8A",
+        "messageId": "Q0BTC4ABBLH"
+      },
+      {
+        "channel": "C08R493ESAJ",
+        "messageId": "Q0BTDSPGD52"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BU4HT2080"
+      },
+      {
+        "channel": "UMCPG3D8A",
+        "messageId": "Q0BTC4AAG9X"
+      },
+      {
+        "channel": "C08R493ESAJ",
+        "messageId": "Q0BT6488QP7"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BU4HSVBUY"
+      },
+      {
+        "channel": "UMCPG3D8A",
+        "messageId": "Q0BTA62D9FU"
+      },
+      {
+        "channel": "C08R493ESAJ",
+        "messageId": "Q0BT64856AH"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BSURK8DD5"
+      },
+      {
+        "channel": "UMCPG3D8A",
+        "messageId": "Q0BTDSQ25M2"
+      },
+      {
+        "channel": "C08R493ESAJ",
+        "messageId": "Q0BT648B1EH"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BT88PTS5C"
+      },
+      {
+        "channel": "UMCPG3D8A",
+        "messageId": "Q0BT3V28PHR"
+      },
+      {
+        "channel": "C08R493ESAJ",
+        "messageId": "Q0BTC49PWRF"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BTC49FZA5"
+      },
+      {
+        "channel": "UMCPG3D8A",
+        "messageId": "Q0BT6492YE9"
+      },
+      {
+        "channel": "C08R493ESAJ",
+        "messageId": "Q0BU4HUKD08"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BU4HTEP0Q"
+      },
+      {
+        "channel": "UMCPG3D8A",
+        "messageId": "Q0BSURJSMMM"
+      },
+      {
+        "channel": "C08R493ESAJ",
+        "messageId": "Q0BSURJPJDV"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BTA6149S6"
+      },
+      {
+        "channel": "UMCPG3D8A",
+        "messageId": "Q0BSURJTB0X"
+      },
+      {
+        "channel": "C08R493ESAJ",
+        "messageId": "Q0BSURJTQS3"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BSURK71TR"
+      },
+      {
+        "channel": "UMCPG3D8A",
+        "messageId": "Q0BTA61NNEN"
+      },
+      {
+        "channel": "C08R493ESAJ",
+        "messageId": "Q0BTDSPV1TN"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BT3V5FHU3"
+      },
+      {
+        "channel": "UMCPG3D8A",
+        "messageId": "Q0BT64917DK"
+      },
+      {
+        "channel": "C08R493ESAJ",
+        "messageId": "Q0BT88R8H8W"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BT88R2LPQ"
+      },
+      {
+        "channel": "UMCPG3D8A",
+        "messageId": "Q0BT64917AR"
+      },
+      {
+        "channel": "C08R493ESAJ",
+        "messageId": "Q0BTC49N073"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BU4HUAYPJ"
+      },
+      {
+        "channel": "UMCPG3D8A",
+        "messageId": "Q0BTA627342"
+      },
+      {
+        "channel": "C08R493ESAJ",
+        "messageId": "Q0BTA62SV7C"
+      }
+    ],
+    "3c1d57540ee0ca629ff5f9590e948594": [
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BT6492L05"
+      },
+      {
+        "channel": "UMCPG3D8A",
+        "messageId": "Q0BT6499T9B"
+      },
+      {
+        "channel": "C08R493ESAJ",
+        "messageId": "Q0BT3V6G0KV"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BTC4AU141"
+      },
+      {
+        "channel": "UMCPG3D8A",
+        "messageId": "Q0BT3V5U0M9"
+      },
+      {
+        "channel": "C08R493ESAJ",
+        "messageId": "Q0BTC4ASMG9"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BU4HUQDU0"
+      },
+      {
+        "channel": "UMCPG3D8A",
+        "messageId": "Q0BT3V61AAF"
+      },
+      {
+        "channel": "C08R493ESAJ",
+        "messageId": "Q0BT88Q71UN"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BTDSQT760"
+      },
+      {
+        "channel": "UMCPG3D8A",
+        "messageId": "Q0BTC4B05RP"
+      },
+      {
+        "channel": "C08R493ESAJ",
+        "messageId": "Q0BTDSQ4C2G"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BTDSR0MSQ"
+      },
+      {
+        "channel": "UMCPG3D8A",
+        "messageId": "Q0BTDSRNFLL"
+      },
+      {
+        "channel": "C08R493ESAJ",
+        "messageId": "Q0BTDSQL6S0"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BT649G84V"
+      },
+      {
+        "channel": "UMCPG3D8A",
+        "messageId": "Q0BT88R0MEJ"
+      },
+      {
+        "channel": "C08R493ESAJ",
+        "messageId": "Q0BTC4B7NDP"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BT649HQSH"
+      },
+      {
+        "channel": "UMCPG3D8A",
+        "messageId": "Q0BT649K2BF"
+      },
+      {
+        "channel": "C08R493ESAJ",
+        "messageId": "Q0BTC4BJLN5"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BU4HUVCFJ"
+      },
+      {
+        "channel": "UMCPG3D8A",
+        "messageId": "Q0BSURL0N5V"
+      },
+      {
+        "channel": "C08R493ESAJ",
+        "messageId": "Q0BTC4B9CF3"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BT6497ADB"
+      },
+      {
+        "channel": "UMCPG3D8A",
+        "messageId": "Q0BTDSQCLJY"
+      },
+      {
+        "channel": "C08R493ESAJ",
+        "messageId": "Q0BSURLJNP9"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BT3V6CR9R"
+      },
+      {
+        "channel": "UMCPG3D8A",
+        "messageId": "Q0BT3V67VMZ"
+      },
+      {
+        "channel": "C08R493ESAJ",
+        "messageId": "Q0BTA63C1EE"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BSURLC3AB"
+      },
+      {
+        "channel": "UMCPG3D8A",
+        "messageId": "Q0BTDSRFS4U"
+      },
+      {
+        "channel": "C08R493ESAJ",
+        "messageId": "Q0BSURLBTAB"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BT3V6Q62F"
+      },
+      {
+        "channel": "UMCPG3D8A",
+        "messageId": "Q0BT64AJGRK"
+      },
+      {
+        "channel": "C08R493ESAJ",
+        "messageId": "Q0BTDSR14CC"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BT6491N77"
+      },
+      {
+        "channel": "UMCPG3D8A",
+        "messageId": "Q0BTC4C46BB"
+      },
+      {
+        "channel": "C08R493ESAJ",
+        "messageId": "Q0BTA6323EE"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BTDSR6T36"
+      },
+      {
+        "channel": "UMCPG3D8A",
+        "messageId": "Q0BSURLCAKZ"
+      },
+      {
+        "channel": "C08R493ESAJ",
+        "messageId": "Q0BSURLA45D"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BTDSREE92"
+      },
+      {
+        "channel": "UMCPG3D8A",
+        "messageId": "Q0BTDSRECCC"
+      },
+      {
+        "channel": "C08R493ESAJ",
+        "messageId": "Q0BTC4BH0F3"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BT649RXL5"
+      },
+      {
+        "channel": "UMCPG3D8A",
+        "messageId": "Q0BSURLHP9V"
+      },
+      {
+        "channel": "C08R493ESAJ",
+        "messageId": "Q0BTA62N66N"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BT3V5AYMR"
+      },
+      {
+        "channel": "UMCPG3D8A",
+        "messageId": "Q0BT3V6JBR9"
+      },
+      {
+        "channel": "C08R493ESAJ",
+        "messageId": "Q0BTA63GXPC"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BU4HV9LJU"
+      },
+      {
+        "channel": "UMCPG3D8A",
+        "messageId": "Q0BTDSRTNDS"
+      },
+      {
+        "channel": "C08R493ESAJ",
+        "messageId": "Q0BTA64BVAN"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BTA63MH2N"
+      },
+      {
+        "channel": "UMCPG3D8A",
+        "messageId": "Q0BU4HVFBHN"
+      },
+      {
+        "channel": "C08R493ESAJ",
+        "messageId": "Q0BT649V2S1"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BTC4BQAV7"
+      },
+      {
+        "channel": "UMCPG3D8A",
+        "messageId": "Q0BT3V6V2G3"
+      },
+      {
+        "channel": "C08R493ESAJ",
+        "messageId": "Q0BT3V6FARZ"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BT3V70WKD"
+      },
+      {
+        "channel": "UMCPG3D8A",
+        "messageId": "Q0BTA64J41Y"
+      },
+      {
+        "channel": "C08R493ESAJ",
+        "messageId": "Q0BT64ACXNZ"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BT64AQ0Q5"
+      },
+      {
+        "channel": "UMCPG3D8A",
+        "messageId": "Q0BT64BCF9T"
+      },
+      {
+        "channel": "C08R493ESAJ",
+        "messageId": "Q0BSURLTK9V"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BTDSSJ97E"
+      },
+      {
+        "channel": "UMCPG3D8A",
+        "messageId": "Q0BTDSRTK8C"
+      },
+      {
+        "channel": "C08R493ESAJ",
+        "messageId": "Q0BTA63MESW"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BTDSRSAFN"
+      },
+      {
+        "channel": "UMCPG3D8A",
+        "messageId": "Q0BU4HVNB7S"
+      },
+      {
+        "channel": "C08R493ESAJ",
+        "messageId": "Q0BU4HX8AEL"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BT88RSKM4"
+      },
+      {
+        "channel": "UMCPG3D8A",
+        "messageId": "Q0BT64BBA2Z"
+      },
+      {
+        "channel": "C08R493ESAJ",
+        "messageId": "Q0BTA64KQHY"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BSURM20J3"
+      },
+      {
+        "channel": "UMCPG3D8A",
+        "messageId": "Q0BTA64Q68J"
+      },
+      {
+        "channel": "C08R493ESAJ",
+        "messageId": "Q0BTA64H6FL"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BT88S2PPG"
+      },
+      {
+        "channel": "UMCPG3D8A",
+        "messageId": "Q0BT3V7E727"
+      },
+      {
+        "channel": "C08R493ESAJ",
+        "messageId": "Q0BT64A9C3X"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BTDSRSH52"
+      },
+      {
+        "channel": "UMCPG3D8A",
+        "messageId": "Q0BT3V4E40K"
+      },
+      {
+        "channel": "C08R493ESAJ",
+        "messageId": "Q0BT64BC0UD"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BT88SR2VC"
+      },
+      {
+        "channel": "UMCPG3D8A",
+        "messageId": "Q0BTC4CM7JM"
+      },
+      {
+        "channel": "C08R493ESAJ",
+        "messageId": "Q0BTC4CD1G9"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BTA648T34"
+      },
+      {
+        "channel": "UMCPG3D8A",
+        "messageId": "Q0BSURM14RM"
+      },
+      {
+        "channel": "C08R493ESAJ",
+        "messageId": "Q0BTC4CRSGH"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BSURM9CA3"
+      },
+      {
+        "channel": "UMCPG3D8A",
+        "messageId": "Q0BT3V75U2F"
+      },
+      {
+        "channel": "C08R493ESAJ",
+        "messageId": "Q0BT64BAR37"
+      }
+    ],
+    "c0eb92cd99463fabba3bcd3cbcd04ce7": [
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BTDSSAR7E"
+      },
+      {
+        "channel": "U07FVUF09T7",
+        "messageId": "Q0BU4HVS1A4"
+      },
+      {
+        "channel": "C093VPK55NF",
+        "messageId": "Q0BSURM6X39"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BTA651MFU"
+      },
+      {
+        "channel": "U07FVUF09T7",
+        "messageId": "Q0BT88T3UA2"
+      },
+      {
+        "channel": "C093VPK55NF",
+        "messageId": "Q0BSURMJKSB"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BU4HW9UAC"
+      },
+      {
+        "channel": "U07FVUF09T7",
+        "messageId": "Q0BTDSTCSA0"
+      },
+      {
+        "channel": "C093VPK55NF",
+        "messageId": "Q0BT3V7L8HH"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BTC4CEHR7"
+      },
+      {
+        "channel": "U07FVUF09T7",
+        "messageId": "Q0BTC4D8MB3"
+      },
+      {
+        "channel": "C093VPK55NF",
+        "messageId": "Q0BTC4D4GSV"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BTDST68QL"
+      },
+      {
+        "channel": "U07FVUF09T7",
+        "messageId": "Q0BTA64QR5Y"
+      },
+      {
+        "channel": "C093VPK55NF",
+        "messageId": "Q0BTA65CNUA"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BTA64MKDG"
+      },
+      {
+        "channel": "U07FVUF09T7",
+        "messageId": "Q0BTA64VCTC"
+      },
+      {
+        "channel": "C093VPK55NF",
+        "messageId": "Q0BTA65FETC"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BTDSSMTU4"
+      },
+      {
+        "channel": "U07FVUF09T7",
+        "messageId": "Q0BU4HWD9GQ"
+      },
+      {
+        "channel": "C093VPK55NF",
+        "messageId": "Q0BT64BQFQD"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BT3V8B751"
+      },
+      {
+        "channel": "U07FVUF09T7",
+        "messageId": "Q0BT3V8GJNP"
+      },
+      {
+        "channel": "C093VPK55NF",
+        "messageId": "Q0BTDST5CBW"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BTA64M65Q"
+      },
+      {
+        "channel": "U07FVUF09T7",
+        "messageId": "Q0BU4HWQ788"
+      },
+      {
+        "channel": "C093VPK55NF",
+        "messageId": "Q0BTA6563S6"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BT64C8ABX"
+      },
+      {
+        "channel": "U07FVUF09T7",
+        "messageId": "Q0BT64BRBGD"
+      },
+      {
+        "channel": "C093VPK55NF",
+        "messageId": "Q0BTC4D9N3T"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BTC4EMJUR"
+      },
+      {
+        "channel": "U07FVUF09T7",
+        "messageId": "Q0BU4HV7DS4"
+      },
+      {
+        "channel": "C093VPK55NF",
+        "messageId": "Q0BTA64BK2N"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BTC4DCB1P"
+      },
+      {
+        "channel": "U07FVUF09T7",
+        "messageId": "Q0BT88T9WDU"
+      },
+      {
+        "channel": "C093VPK55NF",
+        "messageId": "Q0BTDSSNNG4"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BTDSTA1PW"
+      },
+      {
+        "channel": "U07FVUF09T7",
+        "messageId": "Q0BT88T33JA"
+      },
+      {
+        "channel": "C093VPK55NF",
+        "messageId": "Q0BU4HWULTA"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BTA65DPU2"
+      },
+      {
+        "channel": "U07FVUF09T7",
+        "messageId": "Q0BU4HXJCF2"
+      },
+      {
+        "channel": "C093VPK55NF",
+        "messageId": "Q0BTC4CRM6V"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BSURNAYMV"
+      },
+      {
+        "channel": "U07FVUF09T7",
+        "messageId": "Q0BT3V84D99"
+      },
+      {
+        "channel": "C093VPK55NF",
+        "messageId": "Q0BTDSU439S"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BTDSUAYRJ"
+      },
+      {
+        "channel": "U07FVUF09T7",
+        "messageId": "Q0BTDSUCTV2"
+      },
+      {
+        "channel": "C093VPK55NF",
+        "messageId": "Q0BSURNTCFR"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BT64D4CBX"
+      },
+      {
+        "channel": "U07FVUF09T7",
+        "messageId": "Q0BT3V9FBKM"
+      },
+      {
+        "channel": "C093VPK55NF",
+        "messageId": "Q0BU4HXLL2C"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BU4HYDEKS"
+      },
+      {
+        "channel": "U07FVUF09T7",
+        "messageId": "Q0BT3V9A92P"
+      },
+      {
+        "channel": "C093VPK55NF",
+        "messageId": "Q0BTA665RC2"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BTC4F4ZBK"
+      },
+      {
+        "channel": "U07FVUF09T7",
+        "messageId": "Q0BT3V9M87M"
+      },
+      {
+        "channel": "C093VPK55NF",
+        "messageId": "Q0BT88VGDHC"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BTDSU1H3N"
+      },
+      {
+        "channel": "U07FVUF09T7",
+        "messageId": "Q0BSURP624X"
+      },
+      {
+        "channel": "C093VPK55NF",
+        "messageId": "Q0BT88UMVPY"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BTC4F8DUH"
+      },
+      {
+        "channel": "U07FVUF09T7",
+        "messageId": "Q0BSURPQ43H"
+      },
+      {
+        "channel": "C093VPK55NF",
+        "messageId": "Q0BTDSUMU76"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BSURPTMNK"
+      },
+      {
+        "channel": "U07FVUF09T7",
+        "messageId": "Q0BT88STU0N"
+      },
+      {
+        "channel": "C093VPK55NF",
+        "messageId": "Q0BT3V9H5H9"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BT64CRYPP"
+      },
+      {
+        "channel": "U07FVUF09T7",
+        "messageId": "Q0BT64D9N0M"
+      },
+      {
+        "channel": "C093VPK55NF",
+        "messageId": "Q0BTDSU2V8C"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BTDSV37NY"
+      },
+      {
+        "channel": "U07FVUF09T7",
+        "messageId": "Q0BU4HZ5TCY"
+      },
+      {
+        "channel": "C093VPK55NF",
+        "messageId": "Q0BTA675674"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BTDSV4A1J"
+      },
+      {
+        "channel": "U07FVUF09T7",
+        "messageId": "Q0BU4HY1UE4"
+      },
+      {
+        "channel": "C093VPK55NF",
+        "messageId": "Q0BSURPGGQ7"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BT64ETN77"
+      },
+      {
+        "channel": "U07FVUF09T7",
+        "messageId": "Q0BTDSVQFS8"
+      },
+      {
+        "channel": "C093VPK55NF",
+        "messageId": "Q0BT64E8ALD"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BT64FP3GV"
+      },
+      {
+        "channel": "U07FVUF09T7",
+        "messageId": "Q0BTDSVQPK6"
+      },
+      {
+        "channel": "C093VPK55NF",
+        "messageId": "Q0BT3V9MWLB"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BT3VC18DR"
+      },
+      {
+        "channel": "U07FVUF09T7",
+        "messageId": "Q0BT64EQYSH"
+      },
+      {
+        "channel": "C093VPK55NF",
+        "messageId": "Q0BSURQLQT1"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BSURQHP4P"
+      },
+      {
+        "channel": "U07FVUF09T7",
+        "messageId": "Q0BTC4GSBLH"
+      },
+      {
+        "channel": "C093VPK55NF",
+        "messageId": "Q0BTC4GKHTK"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BTA69JZPC"
+      },
+      {
+        "channel": "U07FVUF09T7",
+        "messageId": "Q0BT88WPV38"
+      },
+      {
+        "channel": "C093VPK55NF",
+        "messageId": "Q0BTC4GULM7"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BU4J0M80Y"
+      },
+      {
+        "channel": "U07FVUF09T7",
+        "messageId": "Q0BT88WS83G"
+      },
+      {
+        "channel": "C093VPK55NF",
+        "messageId": "Q0BTC4H9YCR"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BT3VC3WM9"
+      },
+      {
+        "channel": "U07FVUF09T7",
+        "messageId": "Q0BT64G1CQM"
+      },
+      {
+        "channel": "C093VPK55NF",
+        "messageId": "Q0BU4J0SH5E"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BT88XRSBG"
+      },
+      {
+        "channel": "U07FVUF09T7",
+        "messageId": "Q0BTC4HFXG9"
+      },
+      {
+        "channel": "C093VPK55NF",
+        "messageId": "Q0BT88XF9UN"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BT64DLU69"
+      },
+      {
+        "channel": "U07FVUF09T7",
+        "messageId": "Q0BTDSWPCAG"
+      },
+      {
+        "channel": "C093VPK55NF",
+        "messageId": "Q0BTA69BJD8"
       }
     ]
   },
@@ -27981,8 +29248,12 @@
     "1787724710.016459": true,
     "1787754267.271519": true,
     "1787743117.891869": true,
-    "1787742798.664479": true
+    "1787742798.664479": true,
+    "1787872110.415569": true,
+    "1787872086.308609": true,
+    "1787869509.782399": true,
+    "1787858619.273589": true
   },
   "lastWeeklySummaryDate": "2026-W34",
-  "lastRun": "2026-08-27T18:01:23.581Z"
+  "lastRun": "2026-08-28T02:08:05.311Z"
 }
