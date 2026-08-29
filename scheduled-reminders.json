@@ -1648,8 +1648,8 @@
       "source_message": "@Christle 'Knows All' Ochigue update the calendar sheet even title and description fields for ampd and",
       "assigneeId": "UMCPG3D8A",
       "messageTs": "1787872110.415569",
-      "completed": false,
-      "completedAt": null,
+      "completed": true,
+      "completedAt": "2026-08-29T01:33:59.852Z",
       "firstSeenAt": "2026-08-28T02:06:10.237Z"
     },
     "3c1d57540ee0ca629ff5f9590e948594": {
@@ -1791,6 +1791,48 @@
       "completed": false,
       "completedAt": null,
       "firstSeenAt": "2026-08-28T14:01:37.328Z"
+    },
+    "3940638ac02716cbf6a905517dd5b747": {
+      "task": "Determine right time in onboarding/client mgmt to handle dedicated sending domain setup for clients",
+      "assignee_name": "Mark 'Morpheus' Manaog",
+      "assignee_slack_mention": "@Mark 'Morpheus' Manaog",
+      "assigned_date": "2026-08-28",
+      "due_date": null,
+      "message_ts": "1787955123.781329",
+      "source_message": "[2026-08-28] [ts:1787955123.781329] Josh 'The Ninja' Morales: @Mark 'Morpheus' Manaog Task for you b",
+      "assigneeId": "U023F61R16F",
+      "messageTs": "1787955123.781329",
+      "completed": false,
+      "completedAt": null,
+      "firstSeenAt": "2026-08-29T01:34:42.966Z"
+    },
+    "c89a7ed861316f9d0869287ad4c07671": {
+      "task": "Consider dedicated sending domain 'via' issue after A2P Approval",
+      "assignee_name": "Brandon 'The One' Robertson",
+      "assignee_slack_mention": "@Brandon 'The One' Robertson",
+      "assigned_date": "2026-08-28",
+      "due_date": null,
+      "message_ts": "1787955123.781329",
+      "source_message": "[2026-08-28] [ts:1787955123.781329] Josh 'The Ninja' Morales: @Mark 'Morpheus' Manaog Task for you b",
+      "assigneeId": "UMS39RAGP",
+      "messageTs": "1787955123.781329",
+      "completed": false,
+      "completedAt": null,
+      "firstSeenAt": "2026-08-29T01:34:43.082Z"
+    },
+    "14314accd4ef54a61c2d2fe608601644": {
+      "task": "Migrate PandaDoc templates to GHL agreements in Dovetail and setup equivalent workflow for reps",
+      "assignee_name": "Mark 'Morpheus' Manaog",
+      "assignee_slack_mention": "@Mark 'Morpheus' Manaog",
+      "assigned_date": "2026-08-28",
+      "due_date": "2026-10-31",
+      "message_ts": "1787943521.504779",
+      "source_message": "[2026-08-28] [ts:1787943521.504779] Brandon 'The One' Robertson: @Mark 'Morpheus' Manaog migrate our cu",
+      "assigneeId": "U023F61R16F",
+      "messageTs": "1787943521.504779",
+      "completed": false,
+      "completedAt": null,
+      "firstSeenAt": "2026-08-29T01:34:43.196Z"
     }
   },
   "scheduled": {
@@ -21474,6 +21516,258 @@
       "task": "FYI: AW & BLS sales calendar setup tasks (informed, no direct action assigned)",
       "assignee": "Brandon 'The One' Robertson",
       "reminderDate": "2026-09-27"
+    },
+    "3940638ac02716cbf6a905517dd5b747|followup|2026-09-04": {
+      "scheduledAt": "2026-08-29T01:34:44.537Z",
+      "type": "followup",
+      "task": "Determine right time in onboarding/client mgmt to handle dedicated sending domain setup for clients",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-09-04"
+    },
+    "c89a7ed861316f9d0869287ad4c07671|followup|2026-09-04": {
+      "scheduledAt": "2026-08-29T01:34:45.262Z",
+      "type": "followup",
+      "task": "Consider dedicated sending domain 'via' issue after A2P Approval",
+      "assignee": "Brandon 'The One' Robertson",
+      "reminderDate": "2026-09-04"
+    },
+    "14314accd4ef54a61c2d2fe608601644|midpoint|2026-09-29": {
+      "scheduledAt": "2026-08-29T01:34:46.167Z",
+      "type": "midpoint",
+      "task": "Migrate PandaDoc templates to GHL agreements in Dovetail and setup equivalent workflow for reps",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-09-29"
+    },
+    "14314accd4ef54a61c2d2fe608601644|nag|2026-10-29": {
+      "scheduledAt": "2026-08-29T01:34:46.978Z",
+      "type": "nag",
+      "task": "Migrate PandaDoc templates to GHL agreements in Dovetail and setup equivalent workflow for reps",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-10-29"
+    },
+    "14314accd4ef54a61c2d2fe608601644|nag|2026-10-30": {
+      "scheduledAt": "2026-08-29T01:34:47.796Z",
+      "type": "nag",
+      "task": "Migrate PandaDoc templates to GHL agreements in Dovetail and setup equivalent workflow for reps",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-10-30"
+    },
+    "14314accd4ef54a61c2d2fe608601644|due|2026-10-31": {
+      "scheduledAt": "2026-08-29T01:34:48.641Z",
+      "type": "due",
+      "task": "Migrate PandaDoc templates to GHL agreements in Dovetail and setup equivalent workflow for reps",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-10-31"
+    },
+    "14314accd4ef54a61c2d2fe608601644|overdue|2026-11-01": {
+      "scheduledAt": "2026-08-29T01:34:49.505Z",
+      "type": "overdue",
+      "task": "Migrate PandaDoc templates to GHL agreements in Dovetail and setup equivalent workflow for reps",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-11-01"
+    },
+    "14314accd4ef54a61c2d2fe608601644|overdue|2026-11-02": {
+      "scheduledAt": "2026-08-29T01:34:50.382Z",
+      "type": "overdue",
+      "task": "Migrate PandaDoc templates to GHL agreements in Dovetail and setup equivalent workflow for reps",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-11-02"
+    },
+    "14314accd4ef54a61c2d2fe608601644|overdue|2026-11-03": {
+      "scheduledAt": "2026-08-29T01:34:51.189Z",
+      "type": "overdue",
+      "task": "Migrate PandaDoc templates to GHL agreements in Dovetail and setup equivalent workflow for reps",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-11-03"
+    },
+    "14314accd4ef54a61c2d2fe608601644|overdue|2026-11-04": {
+      "scheduledAt": "2026-08-29T01:34:52.011Z",
+      "type": "overdue",
+      "task": "Migrate PandaDoc templates to GHL agreements in Dovetail and setup equivalent workflow for reps",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-11-04"
+    },
+    "14314accd4ef54a61c2d2fe608601644|overdue|2026-11-05": {
+      "scheduledAt": "2026-08-29T01:34:52.913Z",
+      "type": "overdue",
+      "task": "Migrate PandaDoc templates to GHL agreements in Dovetail and setup equivalent workflow for reps",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-11-05"
+    },
+    "14314accd4ef54a61c2d2fe608601644|overdue|2026-11-06": {
+      "scheduledAt": "2026-08-29T01:34:53.729Z",
+      "type": "overdue",
+      "task": "Migrate PandaDoc templates to GHL agreements in Dovetail and setup equivalent workflow for reps",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-11-06"
+    },
+    "14314accd4ef54a61c2d2fe608601644|overdue|2026-11-07": {
+      "scheduledAt": "2026-08-29T01:34:54.565Z",
+      "type": "overdue",
+      "task": "Migrate PandaDoc templates to GHL agreements in Dovetail and setup equivalent workflow for reps",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-11-07"
+    },
+    "14314accd4ef54a61c2d2fe608601644|overdue|2026-11-08": {
+      "scheduledAt": "2026-08-29T01:34:55.384Z",
+      "type": "overdue",
+      "task": "Migrate PandaDoc templates to GHL agreements in Dovetail and setup equivalent workflow for reps",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-11-08"
+    },
+    "14314accd4ef54a61c2d2fe608601644|overdue|2026-11-09": {
+      "scheduledAt": "2026-08-29T01:34:56.219Z",
+      "type": "overdue",
+      "task": "Migrate PandaDoc templates to GHL agreements in Dovetail and setup equivalent workflow for reps",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-11-09"
+    },
+    "14314accd4ef54a61c2d2fe608601644|overdue|2026-11-10": {
+      "scheduledAt": "2026-08-29T01:34:57.024Z",
+      "type": "overdue",
+      "task": "Migrate PandaDoc templates to GHL agreements in Dovetail and setup equivalent workflow for reps",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-11-10"
+    },
+    "14314accd4ef54a61c2d2fe608601644|overdue|2026-11-11": {
+      "scheduledAt": "2026-08-29T01:34:57.848Z",
+      "type": "overdue",
+      "task": "Migrate PandaDoc templates to GHL agreements in Dovetail and setup equivalent workflow for reps",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-11-11"
+    },
+    "14314accd4ef54a61c2d2fe608601644|overdue|2026-11-12": {
+      "scheduledAt": "2026-08-29T01:34:58.662Z",
+      "type": "overdue",
+      "task": "Migrate PandaDoc templates to GHL agreements in Dovetail and setup equivalent workflow for reps",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-11-12"
+    },
+    "14314accd4ef54a61c2d2fe608601644|overdue|2026-11-13": {
+      "scheduledAt": "2026-08-29T01:34:59.490Z",
+      "type": "overdue",
+      "task": "Migrate PandaDoc templates to GHL agreements in Dovetail and setup equivalent workflow for reps",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-11-13"
+    },
+    "14314accd4ef54a61c2d2fe608601644|overdue|2026-11-14": {
+      "scheduledAt": "2026-08-29T01:35:00.329Z",
+      "type": "overdue",
+      "task": "Migrate PandaDoc templates to GHL agreements in Dovetail and setup equivalent workflow for reps",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-11-14"
+    },
+    "14314accd4ef54a61c2d2fe608601644|overdue|2026-11-15": {
+      "scheduledAt": "2026-08-29T01:35:01.221Z",
+      "type": "overdue",
+      "task": "Migrate PandaDoc templates to GHL agreements in Dovetail and setup equivalent workflow for reps",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-11-15"
+    },
+    "14314accd4ef54a61c2d2fe608601644|overdue|2026-11-16": {
+      "scheduledAt": "2026-08-29T01:35:02.048Z",
+      "type": "overdue",
+      "task": "Migrate PandaDoc templates to GHL agreements in Dovetail and setup equivalent workflow for reps",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-11-16"
+    },
+    "14314accd4ef54a61c2d2fe608601644|overdue|2026-11-17": {
+      "scheduledAt": "2026-08-29T01:35:02.878Z",
+      "type": "overdue",
+      "task": "Migrate PandaDoc templates to GHL agreements in Dovetail and setup equivalent workflow for reps",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-11-17"
+    },
+    "14314accd4ef54a61c2d2fe608601644|overdue|2026-11-18": {
+      "scheduledAt": "2026-08-29T01:35:03.739Z",
+      "type": "overdue",
+      "task": "Migrate PandaDoc templates to GHL agreements in Dovetail and setup equivalent workflow for reps",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-11-18"
+    },
+    "14314accd4ef54a61c2d2fe608601644|overdue|2026-11-19": {
+      "scheduledAt": "2026-08-29T01:35:04.576Z",
+      "type": "overdue",
+      "task": "Migrate PandaDoc templates to GHL agreements in Dovetail and setup equivalent workflow for reps",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-11-19"
+    },
+    "14314accd4ef54a61c2d2fe608601644|overdue|2026-11-20": {
+      "scheduledAt": "2026-08-29T01:35:05.410Z",
+      "type": "overdue",
+      "task": "Migrate PandaDoc templates to GHL agreements in Dovetail and setup equivalent workflow for reps",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-11-20"
+    },
+    "14314accd4ef54a61c2d2fe608601644|overdue|2026-11-21": {
+      "scheduledAt": "2026-08-29T01:35:06.272Z",
+      "type": "overdue",
+      "task": "Migrate PandaDoc templates to GHL agreements in Dovetail and setup equivalent workflow for reps",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-11-21"
+    },
+    "14314accd4ef54a61c2d2fe608601644|overdue|2026-11-22": {
+      "scheduledAt": "2026-08-29T01:35:07.130Z",
+      "type": "overdue",
+      "task": "Migrate PandaDoc templates to GHL agreements in Dovetail and setup equivalent workflow for reps",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-11-22"
+    },
+    "14314accd4ef54a61c2d2fe608601644|overdue|2026-11-23": {
+      "scheduledAt": "2026-08-29T01:35:07.936Z",
+      "type": "overdue",
+      "task": "Migrate PandaDoc templates to GHL agreements in Dovetail and setup equivalent workflow for reps",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-11-23"
+    },
+    "14314accd4ef54a61c2d2fe608601644|overdue|2026-11-24": {
+      "scheduledAt": "2026-08-29T01:35:08.762Z",
+      "type": "overdue",
+      "task": "Migrate PandaDoc templates to GHL agreements in Dovetail and setup equivalent workflow for reps",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-11-24"
+    },
+    "14314accd4ef54a61c2d2fe608601644|overdue|2026-11-25": {
+      "scheduledAt": "2026-08-29T01:35:09.656Z",
+      "type": "overdue",
+      "task": "Migrate PandaDoc templates to GHL agreements in Dovetail and setup equivalent workflow for reps",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-11-25"
+    },
+    "14314accd4ef54a61c2d2fe608601644|overdue|2026-11-26": {
+      "scheduledAt": "2026-08-29T01:35:10.504Z",
+      "type": "overdue",
+      "task": "Migrate PandaDoc templates to GHL agreements in Dovetail and setup equivalent workflow for reps",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-11-26"
+    },
+    "14314accd4ef54a61c2d2fe608601644|overdue|2026-11-27": {
+      "scheduledAt": "2026-08-29T01:35:11.364Z",
+      "type": "overdue",
+      "task": "Migrate PandaDoc templates to GHL agreements in Dovetail and setup equivalent workflow for reps",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-11-27"
+    },
+    "14314accd4ef54a61c2d2fe608601644|overdue|2026-11-28": {
+      "scheduledAt": "2026-08-29T01:35:12.196Z",
+      "type": "overdue",
+      "task": "Migrate PandaDoc templates to GHL agreements in Dovetail and setup equivalent workflow for reps",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-11-28"
+    },
+    "14314accd4ef54a61c2d2fe608601644|overdue|2026-11-29": {
+      "scheduledAt": "2026-08-29T01:35:13.080Z",
+      "type": "overdue",
+      "task": "Migrate PandaDoc templates to GHL agreements in Dovetail and setup equivalent workflow for reps",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-11-29"
+    },
+    "14314accd4ef54a61c2d2fe608601644|overdue|2026-11-30": {
+      "scheduledAt": "2026-08-29T01:35:13.927Z",
+      "type": "overdue",
+      "task": "Migrate PandaDoc templates to GHL agreements in Dovetail and setup equivalent workflow for reps",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-11-30"
     }
   },
   "scheduledMessageIds": {
@@ -28605,416 +28899,6 @@
         "messageId": "Q0BRWBKR36E"
       }
     ],
-    "4c27572a942ff2602e61fe7981063f28": [
-      {
-        "channel": "UMS39RAGP",
-        "messageId": "Q0BU4HQU340"
-      },
-      {
-        "channel": "UMCPG3D8A",
-        "messageId": "Q0BSURGJ5L7"
-      },
-      {
-        "channel": "C08R493ESAJ",
-        "messageId": "Q0BU4HRSJP2"
-      },
-      {
-        "channel": "UMS39RAGP",
-        "messageId": "Q0BTDSN8ZM2"
-      },
-      {
-        "channel": "UMCPG3D8A",
-        "messageId": "Q0BTC48MNM7"
-      },
-      {
-        "channel": "C08R493ESAJ",
-        "messageId": "Q0BSURELFHV"
-      },
-      {
-        "channel": "UMS39RAGP",
-        "messageId": "Q0BT88N4L4E"
-      },
-      {
-        "channel": "UMCPG3D8A",
-        "messageId": "Q0BT6476U4V"
-      },
-      {
-        "channel": "C08R493ESAJ",
-        "messageId": "Q0BTDSMFSS0"
-      },
-      {
-        "channel": "UMS39RAGP",
-        "messageId": "Q0BU4HRS49W"
-      },
-      {
-        "channel": "UMCPG3D8A",
-        "messageId": "Q0BTC4654AD"
-      },
-      {
-        "channel": "C08R493ESAJ",
-        "messageId": "Q0BT3V37QH1"
-      },
-      {
-        "channel": "UMS39RAGP",
-        "messageId": "Q0BTDSNB6J0"
-      },
-      {
-        "channel": "UMCPG3D8A",
-        "messageId": "Q0BT88NJHD4"
-      },
-      {
-        "channel": "C08R493ESAJ",
-        "messageId": "Q0BTA60DC66"
-      },
-      {
-        "channel": "UMS39RAGP",
-        "messageId": "Q0BT88NLFDL"
-      },
-      {
-        "channel": "UMCPG3D8A",
-        "messageId": "Q0BT88NVDB8"
-      },
-      {
-        "channel": "C08R493ESAJ",
-        "messageId": "Q0BSURJ5PHV"
-      },
-      {
-        "channel": "UMS39RAGP",
-        "messageId": "Q0BT3V3UMUK"
-      },
-      {
-        "channel": "UMCPG3D8A",
-        "messageId": "Q0BT88NJP1C"
-      },
-      {
-        "channel": "C08R493ESAJ",
-        "messageId": "Q0BT88NE0P8"
-      },
-      {
-        "channel": "UMS39RAGP",
-        "messageId": "Q0BTC48HVMF"
-      },
-      {
-        "channel": "UMCPG3D8A",
-        "messageId": "Q0BTC49DLNM"
-      },
-      {
-        "channel": "C08R493ESAJ",
-        "messageId": "Q0BT88P7C5U"
-      },
-      {
-        "channel": "UMS39RAGP",
-        "messageId": "Q0BT88PGFFG"
-      },
-      {
-        "channel": "UMCPG3D8A",
-        "messageId": "Q0BU4HT4XEC"
-      },
-      {
-        "channel": "C08R493ESAJ",
-        "messageId": "Q0BTC48PQQH"
-      },
-      {
-        "channel": "UMS39RAGP",
-        "messageId": "Q0BT64769LM"
-      },
-      {
-        "channel": "UMCPG3D8A",
-        "messageId": "Q0BU4HSEJ9E"
-      },
-      {
-        "channel": "C08R493ESAJ",
-        "messageId": "Q0BU4HRQUUQ"
-      },
-      {
-        "channel": "UMS39RAGP",
-        "messageId": "Q0BTC49237B"
-      },
-      {
-        "channel": "UMCPG3D8A",
-        "messageId": "Q0BT88P9TU6"
-      },
-      {
-        "channel": "C08R493ESAJ",
-        "messageId": "Q0BTDSNNPN0"
-      },
-      {
-        "channel": "UMS39RAGP",
-        "messageId": "Q0BT88P10MU"
-      },
-      {
-        "channel": "UMCPG3D8A",
-        "messageId": "Q0BTDSL4FRS"
-      },
-      {
-        "channel": "C08R493ESAJ",
-        "messageId": "Q0BU4HT5H96"
-      },
-      {
-        "channel": "UMS39RAGP",
-        "messageId": "Q0BU4HTFP2L"
-      },
-      {
-        "channel": "UMCPG3D8A",
-        "messageId": "Q0BTA61AB9Q"
-      },
-      {
-        "channel": "C08R493ESAJ",
-        "messageId": "Q0BTA616N4S"
-      },
-      {
-        "channel": "UMS39RAGP",
-        "messageId": "Q0BTC49NV4Z"
-      },
-      {
-        "channel": "UMCPG3D8A",
-        "messageId": "Q0BU4HT8MLY"
-      },
-      {
-        "channel": "C08R493ESAJ",
-        "messageId": "Q0BSURJ67EK"
-      },
-      {
-        "channel": "UMS39RAGP",
-        "messageId": "Q0BT3V4LVDZ"
-      },
-      {
-        "channel": "UMCPG3D8A",
-        "messageId": "Q0BU4HSFHHN"
-      },
-      {
-        "channel": "C08R493ESAJ",
-        "messageId": "Q0BTA61036E"
-      },
-      {
-        "channel": "UMS39RAGP",
-        "messageId": "Q0BTA619DMG"
-      },
-      {
-        "channel": "UMCPG3D8A",
-        "messageId": "Q0BTC499FK3"
-      },
-      {
-        "channel": "C08R493ESAJ",
-        "messageId": "Q0BTC46CA0Z"
-      },
-      {
-        "channel": "UMS39RAGP",
-        "messageId": "Q0BT3V4KJ03"
-      },
-      {
-        "channel": "UMCPG3D8A",
-        "messageId": "Q0BT3V3S4N7"
-      },
-      {
-        "channel": "C08R493ESAJ",
-        "messageId": "Q0BT645LU6R"
-      },
-      {
-        "channel": "UMS39RAGP",
-        "messageId": "Q0BTC4A7YNM"
-      },
-      {
-        "channel": "UMCPG3D8A",
-        "messageId": "Q0BT88PC9NJ"
-      },
-      {
-        "channel": "C08R493ESAJ",
-        "messageId": "Q0BT88M6HLN"
-      },
-      {
-        "channel": "UMS39RAGP",
-        "messageId": "Q0BU4HTGC7J"
-      },
-      {
-        "channel": "UMCPG3D8A",
-        "messageId": "Q0BTA61KTK4"
-      },
-      {
-        "channel": "C08R493ESAJ",
-        "messageId": "Q0BTDSP4P60"
-      },
-      {
-        "channel": "UMS39RAGP",
-        "messageId": "Q0BTC49NHQ9"
-      },
-      {
-        "channel": "UMCPG3D8A",
-        "messageId": "Q0BT3V4R53M"
-      },
-      {
-        "channel": "C08R493ESAJ",
-        "messageId": "Q0BTDSNQJP6"
-      },
-      {
-        "channel": "UMS39RAGP",
-        "messageId": "Q0BT88PD10W"
-      },
-      {
-        "channel": "UMCPG3D8A",
-        "messageId": "Q0BT6489SQM"
-      },
-      {
-        "channel": "C08R493ESAJ",
-        "messageId": "Q0BTA626K7U"
-      },
-      {
-        "channel": "UMS39RAGP",
-        "messageId": "Q0BSURJEJT1"
-      },
-      {
-        "channel": "UMCPG3D8A",
-        "messageId": "Q0BTA61GEMQ"
-      },
-      {
-        "channel": "C08R493ESAJ",
-        "messageId": "Q0BTA61L5H8"
-      },
-      {
-        "channel": "UMS39RAGP",
-        "messageId": "Q0BSURJ6MTR"
-      },
-      {
-        "channel": "UMCPG3D8A",
-        "messageId": "Q0BTC4ABBLH"
-      },
-      {
-        "channel": "C08R493ESAJ",
-        "messageId": "Q0BTDSPGD52"
-      },
-      {
-        "channel": "UMS39RAGP",
-        "messageId": "Q0BU4HT2080"
-      },
-      {
-        "channel": "UMCPG3D8A",
-        "messageId": "Q0BTC4AAG9X"
-      },
-      {
-        "channel": "C08R493ESAJ",
-        "messageId": "Q0BT6488QP7"
-      },
-      {
-        "channel": "UMS39RAGP",
-        "messageId": "Q0BU4HSVBUY"
-      },
-      {
-        "channel": "UMCPG3D8A",
-        "messageId": "Q0BTA62D9FU"
-      },
-      {
-        "channel": "C08R493ESAJ",
-        "messageId": "Q0BT64856AH"
-      },
-      {
-        "channel": "UMS39RAGP",
-        "messageId": "Q0BSURK8DD5"
-      },
-      {
-        "channel": "UMCPG3D8A",
-        "messageId": "Q0BTDSQ25M2"
-      },
-      {
-        "channel": "C08R493ESAJ",
-        "messageId": "Q0BT648B1EH"
-      },
-      {
-        "channel": "UMS39RAGP",
-        "messageId": "Q0BT88PTS5C"
-      },
-      {
-        "channel": "UMCPG3D8A",
-        "messageId": "Q0BT3V28PHR"
-      },
-      {
-        "channel": "C08R493ESAJ",
-        "messageId": "Q0BTC49PWRF"
-      },
-      {
-        "channel": "UMS39RAGP",
-        "messageId": "Q0BTC49FZA5"
-      },
-      {
-        "channel": "UMCPG3D8A",
-        "messageId": "Q0BT6492YE9"
-      },
-      {
-        "channel": "C08R493ESAJ",
-        "messageId": "Q0BU4HUKD08"
-      },
-      {
-        "channel": "UMS39RAGP",
-        "messageId": "Q0BU4HTEP0Q"
-      },
-      {
-        "channel": "UMCPG3D8A",
-        "messageId": "Q0BSURJSMMM"
-      },
-      {
-        "channel": "C08R493ESAJ",
-        "messageId": "Q0BSURJPJDV"
-      },
-      {
-        "channel": "UMS39RAGP",
-        "messageId": "Q0BTA6149S6"
-      },
-      {
-        "channel": "UMCPG3D8A",
-        "messageId": "Q0BSURJTB0X"
-      },
-      {
-        "channel": "C08R493ESAJ",
-        "messageId": "Q0BSURJTQS3"
-      },
-      {
-        "channel": "UMS39RAGP",
-        "messageId": "Q0BSURK71TR"
-      },
-      {
-        "channel": "UMCPG3D8A",
-        "messageId": "Q0BTA61NNEN"
-      },
-      {
-        "channel": "C08R493ESAJ",
-        "messageId": "Q0BTDSPV1TN"
-      },
-      {
-        "channel": "UMS39RAGP",
-        "messageId": "Q0BT3V5FHU3"
-      },
-      {
-        "channel": "UMCPG3D8A",
-        "messageId": "Q0BT64917DK"
-      },
-      {
-        "channel": "C08R493ESAJ",
-        "messageId": "Q0BT88R8H8W"
-      },
-      {
-        "channel": "UMS39RAGP",
-        "messageId": "Q0BT88R2LPQ"
-      },
-      {
-        "channel": "UMCPG3D8A",
-        "messageId": "Q0BT64917AR"
-      },
-      {
-        "channel": "C08R493ESAJ",
-        "messageId": "Q0BTC49N073"
-      },
-      {
-        "channel": "UMS39RAGP",
-        "messageId": "Q0BU4HUAYPJ"
-      },
-      {
-        "channel": "UMCPG3D8A",
-        "messageId": "Q0BTA627342"
-      },
-      {
-        "channel": "C08R493ESAJ",
-        "messageId": "Q0BTA62SV7C"
-      }
-    ],
     "c0eb92cd99463fabba3bcd3cbcd04ce7": [
       {
         "channel": "UMS39RAGP",
@@ -30808,6 +30692,440 @@
         "channel": "C05HV4SQD6G",
         "messageId": "Q0BTA5SGK6Z"
       }
+    ],
+    "3940638ac02716cbf6a905517dd5b747": [
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BUCSFC1JL"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0BT34S4A4F"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0BTEC16QFP"
+      }
+    ],
+    "c89a7ed861316f9d0869287ad4c07671": [
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BT34S5Z9V"
+      },
+      {
+        "channel": "C05HV4SQD6G",
+        "messageId": "Q0BTEC1JALV"
+      }
+    ],
+    "14314accd4ef54a61c2d2fe608601644": [
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BTN5XCQBE"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0BTJENKTMG"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0BTGHBPB8W"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BTLCW7WTB"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0BTJEP9Z4J"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0BTEC2BCPP"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BT34S1C2K"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0BTN5XGZQC"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0BT34R6DLP"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BUCSF5ENL"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0BTLCXMQ01"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0BTC8CA1JP"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BTJEPAHV0"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0BTJEP29H8"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0BTLCXTS7K"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BTC8CAL75"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0BTC8D582X"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0BTLCY21RP"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BTGHC5B5L"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0BT34S4547"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0BT34S0GNT"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BTJENQP2N"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0BUCSEQVNC"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0BTJEQ46DQ"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BUCSEDHKJ"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0BT34SDFD5"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0BTLCXSTJ5"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BTJENU8AE"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0BT34S2TB9"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0BTC8CSW6P"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BTC8D8H8T"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0BTGHB7CKY"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0BTJEPE0P4"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BTC8CRKH9"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0BTLCY0AN5"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0BTGHC1WBY"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BTJEPQLG2"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0BTC8DBYRZ"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0BTJENSFTL"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BT34SH555"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0BUCSF6GEL"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0BTEC1N8SH"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BUCSF8J1E"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0BT34T5U1M"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0BTJEPAXKL"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BTN5S4D4L"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0BTN5Y3WVA"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0BTJEPK23C"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BTEC1T6FP"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0BTGHC6UCW"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0BTC8CM1U3"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BTEC22JCD"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0BTN5YE7S8"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0BTEC1QQSH"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BTJEP8TC2"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0BT34SF63Z"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0BT34S8U3Z"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BTC8CUE83"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0BTJEPD0JW"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0BUCSF489W"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BTLCYCPJ5"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0BTC8D12MR"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0BTGHC793Q"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BTN5XM4N8"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0BTC8DLS7M"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0BTN5Y4084"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BTJEQ16EN"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0BTEC2R8KF"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0BTEC21P5K"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BTEC2FSG5"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0BTLCYU1MX"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0BTLCYFWL9"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BTEC2PACV"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0BTJEP7EF4"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0BTLCYDPG9"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BTN5YE47N"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0BTLCY7RC1"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0BT34SML1M"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BTC8CPTT5"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0BTC8DTLCB"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0BTN5Y2DT6"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BTC8DELJF"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0BTC8DC4R1"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0BTLCY73UH"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BTN5XR9FE"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0BTLCXT2GH"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0BTN5XQ12Q"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BTJEQ5NHG"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0BTJEQ3NJE"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0BUCSFTB16"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BT34T5ULX"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0BTEC0G269"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0BTJEHG2SE"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BTJEQMW2W"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0BUCSGUG6L"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0BTJEQDB2N"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BTC8DFCQK"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0BTC8DCN75"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0BT34S0WPR"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BUCSFRYTS"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0BTC8DJKR9"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0BTEC2TF61"
+      }
     ]
   },
   "processedMessageTs": {
@@ -30994,8 +31312,10 @@
     "1787869509.782399": true,
     "1787858619.273589": true,
     "1787909830.986619": true,
-    "1787907568.918539": true
+    "1787907568.918539": true,
+    "1787955123.781329": true,
+    "1787943521.504779": true
   },
   "lastWeeklySummaryDate": "2026-W35",
-  "lastRun": "2026-08-28T18:12:48.331Z"
+  "lastRun": "2026-08-29T01:35:13.929Z"
 }
