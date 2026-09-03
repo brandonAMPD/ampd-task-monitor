@@ -1721,247 +1721,23 @@
       "completed": false,
       "completedAt": null,
       "firstSeenAt": "2026-09-03T18:01:30.787Z"
+    },
+    "5e70bb5222d5172a6977cf0db6eb0b65": {
+      "task": "Connect CR to Claude's MCP (see shared chat link)",
+      "assignee_name": "Mark 'Morpheus' Manaog",
+      "assignee_slack_mention": "@Mark 'Morpheus' Manaog",
+      "assigned_date": "2026-09-03",
+      "due_date": "2026-09-09",
+      "message_ts": "1788465161.147469",
+      "source_message": "@Mark 'Morpheus' Manaog please try to connect CR to Claude's mcp - see chat https://claude.ai/share/4763e31e",
+      "assigneeId": "U023F61R16F",
+      "messageTs": "1788465161.147469",
+      "completed": false,
+      "completedAt": null,
+      "firstSeenAt": "2026-09-03T20:45:26.240Z"
     }
   },
   "scheduled": {
-    "a9ac460855821d4630a74279b5140e1b|midpoint|2026-06-08": {
-      "scheduledAt": "2026-06-05T20:00:55.943Z",
-      "type": "midpoint",
-      "task": "address and solve calendar syncing issue Julie McCown is having",
-      "assignee": "Josh 'The Ninja' Morales",
-      "reminderDate": "2026-06-08"
-    },
-    "a9ac460855821d4630a74279b5140e1b|nag|2026-06-09": {
-      "scheduledAt": "2026-06-05T20:00:56.852Z",
-      "type": "nag",
-      "task": "address and solve calendar syncing issue Julie McCown is having",
-      "assignee": "Josh 'The Ninja' Morales",
-      "reminderDate": "2026-06-09"
-    },
-    "a9ac460855821d4630a74279b5140e1b|nag|2026-06-10": {
-      "scheduledAt": "2026-06-05T20:00:57.795Z",
-      "type": "nag",
-      "task": "address and solve calendar syncing issue Julie McCown is having",
-      "assignee": "Josh 'The Ninja' Morales",
-      "reminderDate": "2026-06-10"
-    },
-    "a9ac460855821d4630a74279b5140e1b|due|2026-06-11": {
-      "scheduledAt": "2026-06-05T20:00:58.705Z",
-      "type": "due",
-      "task": "address and solve calendar syncing issue Julie McCown is having",
-      "assignee": "Josh 'The Ninja' Morales",
-      "reminderDate": "2026-06-11"
-    },
-    "a9ac460855821d4630a74279b5140e1b|overdue|2026-06-12": {
-      "scheduledAt": "2026-06-05T20:00:59.595Z",
-      "type": "overdue",
-      "task": "address and solve calendar syncing issue Julie McCown is having",
-      "assignee": "Josh 'The Ninja' Morales",
-      "reminderDate": "2026-06-12"
-    },
-    "a9ac460855821d4630a74279b5140e1b|overdue|2026-06-13": {
-      "scheduledAt": "2026-06-05T20:01:00.501Z",
-      "type": "overdue",
-      "task": "address and solve calendar syncing issue Julie McCown is having",
-      "assignee": "Josh 'The Ninja' Morales",
-      "reminderDate": "2026-06-13"
-    },
-    "a9ac460855821d4630a74279b5140e1b|overdue|2026-06-14": {
-      "scheduledAt": "2026-06-05T20:01:01.422Z",
-      "type": "overdue",
-      "task": "address and solve calendar syncing issue Julie McCown is having",
-      "assignee": "Josh 'The Ninja' Morales",
-      "reminderDate": "2026-06-14"
-    },
-    "a9ac460855821d4630a74279b5140e1b|overdue|2026-06-15": {
-      "scheduledAt": "2026-06-05T20:01:02.320Z",
-      "type": "overdue",
-      "task": "address and solve calendar syncing issue Julie McCown is having",
-      "assignee": "Josh 'The Ninja' Morales",
-      "reminderDate": "2026-06-15"
-    },
-    "a9ac460855821d4630a74279b5140e1b|overdue|2026-06-16": {
-      "scheduledAt": "2026-06-05T20:01:03.242Z",
-      "type": "overdue",
-      "task": "address and solve calendar syncing issue Julie McCown is having",
-      "assignee": "Josh 'The Ninja' Morales",
-      "reminderDate": "2026-06-16"
-    },
-    "a9ac460855821d4630a74279b5140e1b|overdue|2026-06-17": {
-      "scheduledAt": "2026-06-05T20:01:04.137Z",
-      "type": "overdue",
-      "task": "address and solve calendar syncing issue Julie McCown is having",
-      "assignee": "Josh 'The Ninja' Morales",
-      "reminderDate": "2026-06-17"
-    },
-    "a9ac460855821d4630a74279b5140e1b|overdue|2026-06-18": {
-      "scheduledAt": "2026-06-05T20:01:05.031Z",
-      "type": "overdue",
-      "task": "address and solve calendar syncing issue Julie McCown is having",
-      "assignee": "Josh 'The Ninja' Morales",
-      "reminderDate": "2026-06-18"
-    },
-    "a9ac460855821d4630a74279b5140e1b|overdue|2026-06-19": {
-      "scheduledAt": "2026-06-05T20:01:05.938Z",
-      "type": "overdue",
-      "task": "address and solve calendar syncing issue Julie McCown is having",
-      "assignee": "Josh 'The Ninja' Morales",
-      "reminderDate": "2026-06-19"
-    },
-    "a9ac460855821d4630a74279b5140e1b|overdue|2026-06-20": {
-      "scheduledAt": "2026-06-05T20:01:06.856Z",
-      "type": "overdue",
-      "task": "address and solve calendar syncing issue Julie McCown is having",
-      "assignee": "Josh 'The Ninja' Morales",
-      "reminderDate": "2026-06-20"
-    },
-    "a9ac460855821d4630a74279b5140e1b|overdue|2026-06-21": {
-      "scheduledAt": "2026-06-05T20:01:07.738Z",
-      "type": "overdue",
-      "task": "address and solve calendar syncing issue Julie McCown is having",
-      "assignee": "Josh 'The Ninja' Morales",
-      "reminderDate": "2026-06-21"
-    },
-    "a9ac460855821d4630a74279b5140e1b|overdue|2026-06-22": {
-      "scheduledAt": "2026-06-05T20:01:08.676Z",
-      "type": "overdue",
-      "task": "address and solve calendar syncing issue Julie McCown is having",
-      "assignee": "Josh 'The Ninja' Morales",
-      "reminderDate": "2026-06-22"
-    },
-    "a9ac460855821d4630a74279b5140e1b|overdue|2026-06-23": {
-      "scheduledAt": "2026-06-05T20:01:09.570Z",
-      "type": "overdue",
-      "task": "address and solve calendar syncing issue Julie McCown is having",
-      "assignee": "Josh 'The Ninja' Morales",
-      "reminderDate": "2026-06-23"
-    },
-    "a9ac460855821d4630a74279b5140e1b|overdue|2026-06-24": {
-      "scheduledAt": "2026-06-05T20:01:10.486Z",
-      "type": "overdue",
-      "task": "address and solve calendar syncing issue Julie McCown is having",
-      "assignee": "Josh 'The Ninja' Morales",
-      "reminderDate": "2026-06-24"
-    },
-    "a9ac460855821d4630a74279b5140e1b|overdue|2026-06-25": {
-      "scheduledAt": "2026-06-05T20:01:11.416Z",
-      "type": "overdue",
-      "task": "address and solve calendar syncing issue Julie McCown is having",
-      "assignee": "Josh 'The Ninja' Morales",
-      "reminderDate": "2026-06-25"
-    },
-    "a9ac460855821d4630a74279b5140e1b|overdue|2026-06-26": {
-      "scheduledAt": "2026-06-05T20:01:12.330Z",
-      "type": "overdue",
-      "task": "address and solve calendar syncing issue Julie McCown is having",
-      "assignee": "Josh 'The Ninja' Morales",
-      "reminderDate": "2026-06-26"
-    },
-    "a9ac460855821d4630a74279b5140e1b|overdue|2026-06-27": {
-      "scheduledAt": "2026-06-05T20:01:13.232Z",
-      "type": "overdue",
-      "task": "address and solve calendar syncing issue Julie McCown is having",
-      "assignee": "Josh 'The Ninja' Morales",
-      "reminderDate": "2026-06-27"
-    },
-    "a9ac460855821d4630a74279b5140e1b|overdue|2026-06-28": {
-      "scheduledAt": "2026-06-05T20:01:14.138Z",
-      "type": "overdue",
-      "task": "address and solve calendar syncing issue Julie McCown is having",
-      "assignee": "Josh 'The Ninja' Morales",
-      "reminderDate": "2026-06-28"
-    },
-    "a9ac460855821d4630a74279b5140e1b|overdue|2026-06-29": {
-      "scheduledAt": "2026-06-05T20:01:15.052Z",
-      "type": "overdue",
-      "task": "address and solve calendar syncing issue Julie McCown is having",
-      "assignee": "Josh 'The Ninja' Morales",
-      "reminderDate": "2026-06-29"
-    },
-    "a9ac460855821d4630a74279b5140e1b|overdue|2026-06-30": {
-      "scheduledAt": "2026-06-05T20:01:15.959Z",
-      "type": "overdue",
-      "task": "address and solve calendar syncing issue Julie McCown is having",
-      "assignee": "Josh 'The Ninja' Morales",
-      "reminderDate": "2026-06-30"
-    },
-    "a9ac460855821d4630a74279b5140e1b|overdue|2026-07-01": {
-      "scheduledAt": "2026-06-05T20:01:16.904Z",
-      "type": "overdue",
-      "task": "address and solve calendar syncing issue Julie McCown is having",
-      "assignee": "Josh 'The Ninja' Morales",
-      "reminderDate": "2026-07-01"
-    },
-    "a9ac460855821d4630a74279b5140e1b|overdue|2026-07-02": {
-      "scheduledAt": "2026-06-05T20:01:17.845Z",
-      "type": "overdue",
-      "task": "address and solve calendar syncing issue Julie McCown is having",
-      "assignee": "Josh 'The Ninja' Morales",
-      "reminderDate": "2026-07-02"
-    },
-    "a9ac460855821d4630a74279b5140e1b|overdue|2026-07-03": {
-      "scheduledAt": "2026-06-05T20:01:18.743Z",
-      "type": "overdue",
-      "task": "address and solve calendar syncing issue Julie McCown is having",
-      "assignee": "Josh 'The Ninja' Morales",
-      "reminderDate": "2026-07-03"
-    },
-    "a9ac460855821d4630a74279b5140e1b|overdue|2026-07-04": {
-      "scheduledAt": "2026-06-05T20:01:19.683Z",
-      "type": "overdue",
-      "task": "address and solve calendar syncing issue Julie McCown is having",
-      "assignee": "Josh 'The Ninja' Morales",
-      "reminderDate": "2026-07-04"
-    },
-    "a9ac460855821d4630a74279b5140e1b|overdue|2026-07-05": {
-      "scheduledAt": "2026-06-05T20:01:20.602Z",
-      "type": "overdue",
-      "task": "address and solve calendar syncing issue Julie McCown is having",
-      "assignee": "Josh 'The Ninja' Morales",
-      "reminderDate": "2026-07-05"
-    },
-    "a9ac460855821d4630a74279b5140e1b|overdue|2026-07-06": {
-      "scheduledAt": "2026-06-05T20:01:21.559Z",
-      "type": "overdue",
-      "task": "address and solve calendar syncing issue Julie McCown is having",
-      "assignee": "Josh 'The Ninja' Morales",
-      "reminderDate": "2026-07-06"
-    },
-    "a9ac460855821d4630a74279b5140e1b|overdue|2026-07-07": {
-      "scheduledAt": "2026-06-05T20:01:22.467Z",
-      "type": "overdue",
-      "task": "address and solve calendar syncing issue Julie McCown is having",
-      "assignee": "Josh 'The Ninja' Morales",
-      "reminderDate": "2026-07-07"
-    },
-    "a9ac460855821d4630a74279b5140e1b|overdue|2026-07-08": {
-      "scheduledAt": "2026-06-05T20:01:23.404Z",
-      "type": "overdue",
-      "task": "address and solve calendar syncing issue Julie McCown is having",
-      "assignee": "Josh 'The Ninja' Morales",
-      "reminderDate": "2026-07-08"
-    },
-    "a9ac460855821d4630a74279b5140e1b|overdue|2026-07-09": {
-      "scheduledAt": "2026-06-05T20:01:24.331Z",
-      "type": "overdue",
-      "task": "address and solve calendar syncing issue Julie McCown is having",
-      "assignee": "Josh 'The Ninja' Morales",
-      "reminderDate": "2026-07-09"
-    },
-    "a9ac460855821d4630a74279b5140e1b|overdue|2026-07-10": {
-      "scheduledAt": "2026-06-05T20:01:25.243Z",
-      "type": "overdue",
-      "task": "address and solve calendar syncing issue Julie McCown is having",
-      "assignee": "Josh 'The Ninja' Morales",
-      "reminderDate": "2026-07-10"
-    },
-    "a9ac460855821d4630a74279b5140e1b|overdue|2026-07-11": {
-      "scheduledAt": "2026-06-05T20:01:26.151Z",
-      "type": "overdue",
-      "task": "address and solve calendar syncing issue Julie McCown is having",
-      "assignee": "Josh 'The Ninja' Morales",
-      "reminderDate": "2026-07-11"
-    },
     "cd6370a32792981fd77b3f65c2ffc91b|midpoint|2026-06-13": {
       "scheduledAt": "2026-06-08T18:01:22.975Z",
       "type": "midpoint",
@@ -20431,6 +20207,244 @@
       "task": "Update Brandon and Joma on UTM / downstream conversion tracking of activities from AW leadform leads",
       "assignee": "Mark 'Morpheus' Manaog",
       "reminderDate": "2026-10-09"
+    },
+    "5e70bb5222d5172a6977cf0db6eb0b65|midpoint|2026-09-06": {
+      "scheduledAt": "2026-09-03T20:45:27.448Z",
+      "type": "midpoint",
+      "task": "Connect CR to Claude's MCP (see shared chat link)",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-09-06"
+    },
+    "5e70bb5222d5172a6977cf0db6eb0b65|nag|2026-09-07": {
+      "scheduledAt": "2026-09-03T20:45:28.303Z",
+      "type": "nag",
+      "task": "Connect CR to Claude's MCP (see shared chat link)",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-09-07"
+    },
+    "5e70bb5222d5172a6977cf0db6eb0b65|nag|2026-09-08": {
+      "scheduledAt": "2026-09-03T20:45:29.152Z",
+      "type": "nag",
+      "task": "Connect CR to Claude's MCP (see shared chat link)",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-09-08"
+    },
+    "5e70bb5222d5172a6977cf0db6eb0b65|due|2026-09-09": {
+      "scheduledAt": "2026-09-03T20:45:29.994Z",
+      "type": "due",
+      "task": "Connect CR to Claude's MCP (see shared chat link)",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-09-09"
+    },
+    "5e70bb5222d5172a6977cf0db6eb0b65|overdue|2026-09-10": {
+      "scheduledAt": "2026-09-03T20:45:30.828Z",
+      "type": "overdue",
+      "task": "Connect CR to Claude's MCP (see shared chat link)",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-09-10"
+    },
+    "5e70bb5222d5172a6977cf0db6eb0b65|overdue|2026-09-11": {
+      "scheduledAt": "2026-09-03T20:45:31.645Z",
+      "type": "overdue",
+      "task": "Connect CR to Claude's MCP (see shared chat link)",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-09-11"
+    },
+    "5e70bb5222d5172a6977cf0db6eb0b65|overdue|2026-09-12": {
+      "scheduledAt": "2026-09-03T20:45:32.454Z",
+      "type": "overdue",
+      "task": "Connect CR to Claude's MCP (see shared chat link)",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-09-12"
+    },
+    "5e70bb5222d5172a6977cf0db6eb0b65|overdue|2026-09-13": {
+      "scheduledAt": "2026-09-03T20:45:33.275Z",
+      "type": "overdue",
+      "task": "Connect CR to Claude's MCP (see shared chat link)",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-09-13"
+    },
+    "5e70bb5222d5172a6977cf0db6eb0b65|overdue|2026-09-14": {
+      "scheduledAt": "2026-09-03T20:45:34.097Z",
+      "type": "overdue",
+      "task": "Connect CR to Claude's MCP (see shared chat link)",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-09-14"
+    },
+    "5e70bb5222d5172a6977cf0db6eb0b65|overdue|2026-09-15": {
+      "scheduledAt": "2026-09-03T20:45:34.919Z",
+      "type": "overdue",
+      "task": "Connect CR to Claude's MCP (see shared chat link)",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-09-15"
+    },
+    "5e70bb5222d5172a6977cf0db6eb0b65|overdue|2026-09-16": {
+      "scheduledAt": "2026-09-03T20:45:35.754Z",
+      "type": "overdue",
+      "task": "Connect CR to Claude's MCP (see shared chat link)",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-09-16"
+    },
+    "5e70bb5222d5172a6977cf0db6eb0b65|overdue|2026-09-17": {
+      "scheduledAt": "2026-09-03T20:45:36.579Z",
+      "type": "overdue",
+      "task": "Connect CR to Claude's MCP (see shared chat link)",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-09-17"
+    },
+    "5e70bb5222d5172a6977cf0db6eb0b65|overdue|2026-09-18": {
+      "scheduledAt": "2026-09-03T20:45:37.406Z",
+      "type": "overdue",
+      "task": "Connect CR to Claude's MCP (see shared chat link)",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-09-18"
+    },
+    "5e70bb5222d5172a6977cf0db6eb0b65|overdue|2026-09-19": {
+      "scheduledAt": "2026-09-03T20:45:38.226Z",
+      "type": "overdue",
+      "task": "Connect CR to Claude's MCP (see shared chat link)",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-09-19"
+    },
+    "5e70bb5222d5172a6977cf0db6eb0b65|overdue|2026-09-20": {
+      "scheduledAt": "2026-09-03T20:45:39.093Z",
+      "type": "overdue",
+      "task": "Connect CR to Claude's MCP (see shared chat link)",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-09-20"
+    },
+    "5e70bb5222d5172a6977cf0db6eb0b65|overdue|2026-09-21": {
+      "scheduledAt": "2026-09-03T20:45:39.935Z",
+      "type": "overdue",
+      "task": "Connect CR to Claude's MCP (see shared chat link)",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-09-21"
+    },
+    "5e70bb5222d5172a6977cf0db6eb0b65|overdue|2026-09-22": {
+      "scheduledAt": "2026-09-03T20:45:40.799Z",
+      "type": "overdue",
+      "task": "Connect CR to Claude's MCP (see shared chat link)",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-09-22"
+    },
+    "5e70bb5222d5172a6977cf0db6eb0b65|overdue|2026-09-23": {
+      "scheduledAt": "2026-09-03T20:45:41.625Z",
+      "type": "overdue",
+      "task": "Connect CR to Claude's MCP (see shared chat link)",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-09-23"
+    },
+    "5e70bb5222d5172a6977cf0db6eb0b65|overdue|2026-09-24": {
+      "scheduledAt": "2026-09-03T20:45:42.447Z",
+      "type": "overdue",
+      "task": "Connect CR to Claude's MCP (see shared chat link)",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-09-24"
+    },
+    "5e70bb5222d5172a6977cf0db6eb0b65|overdue|2026-09-25": {
+      "scheduledAt": "2026-09-03T20:45:43.286Z",
+      "type": "overdue",
+      "task": "Connect CR to Claude's MCP (see shared chat link)",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-09-25"
+    },
+    "5e70bb5222d5172a6977cf0db6eb0b65|overdue|2026-09-26": {
+      "scheduledAt": "2026-09-03T20:45:44.122Z",
+      "type": "overdue",
+      "task": "Connect CR to Claude's MCP (see shared chat link)",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-09-26"
+    },
+    "5e70bb5222d5172a6977cf0db6eb0b65|overdue|2026-09-27": {
+      "scheduledAt": "2026-09-03T20:45:44.934Z",
+      "type": "overdue",
+      "task": "Connect CR to Claude's MCP (see shared chat link)",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-09-27"
+    },
+    "5e70bb5222d5172a6977cf0db6eb0b65|overdue|2026-09-28": {
+      "scheduledAt": "2026-09-03T20:45:45.765Z",
+      "type": "overdue",
+      "task": "Connect CR to Claude's MCP (see shared chat link)",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-09-28"
+    },
+    "5e70bb5222d5172a6977cf0db6eb0b65|overdue|2026-09-29": {
+      "scheduledAt": "2026-09-03T20:45:46.596Z",
+      "type": "overdue",
+      "task": "Connect CR to Claude's MCP (see shared chat link)",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-09-29"
+    },
+    "5e70bb5222d5172a6977cf0db6eb0b65|overdue|2026-09-30": {
+      "scheduledAt": "2026-09-03T20:45:47.445Z",
+      "type": "overdue",
+      "task": "Connect CR to Claude's MCP (see shared chat link)",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-09-30"
+    },
+    "5e70bb5222d5172a6977cf0db6eb0b65|overdue|2026-10-01": {
+      "scheduledAt": "2026-09-03T20:45:48.435Z",
+      "type": "overdue",
+      "task": "Connect CR to Claude's MCP (see shared chat link)",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-10-01"
+    },
+    "5e70bb5222d5172a6977cf0db6eb0b65|overdue|2026-10-02": {
+      "scheduledAt": "2026-09-03T20:45:49.279Z",
+      "type": "overdue",
+      "task": "Connect CR to Claude's MCP (see shared chat link)",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-10-02"
+    },
+    "5e70bb5222d5172a6977cf0db6eb0b65|overdue|2026-10-03": {
+      "scheduledAt": "2026-09-03T20:45:50.088Z",
+      "type": "overdue",
+      "task": "Connect CR to Claude's MCP (see shared chat link)",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-10-03"
+    },
+    "5e70bb5222d5172a6977cf0db6eb0b65|overdue|2026-10-04": {
+      "scheduledAt": "2026-09-03T20:45:50.923Z",
+      "type": "overdue",
+      "task": "Connect CR to Claude's MCP (see shared chat link)",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-10-04"
+    },
+    "5e70bb5222d5172a6977cf0db6eb0b65|overdue|2026-10-05": {
+      "scheduledAt": "2026-09-03T20:45:51.748Z",
+      "type": "overdue",
+      "task": "Connect CR to Claude's MCP (see shared chat link)",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-10-05"
+    },
+    "5e70bb5222d5172a6977cf0db6eb0b65|overdue|2026-10-06": {
+      "scheduledAt": "2026-09-03T20:45:52.613Z",
+      "type": "overdue",
+      "task": "Connect CR to Claude's MCP (see shared chat link)",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-10-06"
+    },
+    "5e70bb5222d5172a6977cf0db6eb0b65|overdue|2026-10-07": {
+      "scheduledAt": "2026-09-03T20:45:53.435Z",
+      "type": "overdue",
+      "task": "Connect CR to Claude's MCP (see shared chat link)",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-10-07"
+    },
+    "5e70bb5222d5172a6977cf0db6eb0b65|overdue|2026-10-08": {
+      "scheduledAt": "2026-09-03T20:45:54.269Z",
+      "type": "overdue",
+      "task": "Connect CR to Claude's MCP (see shared chat link)",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-10-08"
+    },
+    "5e70bb5222d5172a6977cf0db6eb0b65|overdue|2026-10-09": {
+      "scheduledAt": "2026-09-03T20:45:55.096Z",
+      "type": "overdue",
+      "task": "Connect CR to Claude's MCP (see shared chat link)",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-10-09"
     }
   },
   "scheduledMessageIds": {
@@ -30307,6 +30321,416 @@
         "channel": "C05JGF817H6",
         "messageId": "Q0BUSGZHD4N"
       }
+    ],
+    "5e70bb5222d5172a6977cf0db6eb0b65": [
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BUXN392HF"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0BUTS7E3TQ"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0BURCVD9EH"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BUTS7NAPQ"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0BUZEALE20"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0BURCW265T"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BUEDMA6UX"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0BUXN47UE5"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0BURCV2UG5"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0C0A5X5TDW"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0BUVPYBBBL"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0BUTS6LPFG"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BUZEB307N"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0BUPHAF5TM"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0BURCVLBNH"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BURCW2NRK"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0BUPHARC75"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0BUXN3GUEM"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BUVPXKYCS"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0BURCW4PCM"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0BUXN4PB4H"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BUXN3JYBB"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0BUTS8HES2"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0BUEDLTETH"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BUEDLS03Z"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0BUTS9CMGW"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0BUZEA9R5J"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BUPHAUMEX"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0BUXN578GH"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0BUVPZJ3QA"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BUPHAPHBM"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0BUTS8NUHL"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0BUTS8MC4E"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BUEDN5CBZ"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0BUZEAJ7TN"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0BUTS8SCEA"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BUEDNDHDM"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0BUXN4REG1"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0BUXN4D8L9"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BUEDN6ACX"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0C0A6021T2"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0BURCWHGFP"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BUVPYPC1Y"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0BUTS9PU3G"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0BUPHCC203"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BUZEBSCRJ"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0BUTS9BLCE"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0C0A5YVBSL"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BUVPZ34JE"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0BUXN5MNL9"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0BUXN6TDQR"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BUEDQ8V63"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0BUVPZ4Z50"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0BUVPZLXPC"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0C0A5ZDLMN"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0BUTS97EH4"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0BUTS93LUE"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BUPHCNGPM"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0BUPHCL0JF"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0BUXN5P95F"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BUTS9TU3G"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0BURCY0537"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0BUEDPL6B1"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BUVPZRF7U"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0BUEDP8NDD"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0BUPHCR3BM"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BUZEBJSNQ"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0BUEDP8479"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0BURCYQCHK"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BUTSBLRE2"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0BUTSAR98E"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0C0A618NGY"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BUXN6ECMP"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0BUTSBCLDU"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0C0A6087CY"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BUVQ00BM0"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0BURCYNDD3"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0C0A60BCRW"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BUEDP1FB9"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0BUPHDTSF5"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0BUXN5SZUZ"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BUZECRUPN"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0BUZEDLF9S"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0BURCZ9MM3"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BUXN6MVPT"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0BUVPZNLUA"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0BUVQ11A5Q"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BUEDQ32DV"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0BUPHEHCH1"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0BUZEDMXNG"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BUXN6QDFT"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0BUEDQLG95"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0BUVQ0KN7L"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0C0A613EC8"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0BUVPYRFK4"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0C0A60U8Q0"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BUZED6T1S"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0BUTSBFRQE"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0BUXN82LM7"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0C0A60MX6U"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0BUXN7CT2M"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0BUXN6V909"
+      }
     ]
   },
   "processedMessageTs": {
@@ -30500,8 +30924,9 @@
     "1788293732.198709": true,
     "1788365191.815559": true,
     "1788383969.226229": true,
-    "1788450780.260179": true
+    "1788450780.260179": true,
+    "1788465161.147469": true
   },
   "lastWeeklySummaryDate": "2026-W35",
-  "lastRun": "2026-09-03T18:01:56.506Z"
+  "lastRun": "2026-09-03T20:45:55.096Z"
 }
