@@ -98,20 +98,6 @@
       "completedAt": null,
       "firstSeenAt": "2026-05-13T16:01:00.634Z"
     },
-    "c4f003bcc8d67082f71fe0d1c017d601": {
-      "task": "test/solve problem of getting leads from jotform chatbot or move AI chat system to GHL",
-      "assignee_name": "Mark 'Morpheus' Manaog",
-      "assignee_slack_mention": "@Mark 'Morpheus' Manaog",
-      "assigned_date": "2026-04-30",
-      "due_date": "2026-05-02",
-      "message_ts": "1777562437.946019",
-      "source_message": "@Mark 'Morpheus' Manaog be sure to test/solve to problem of getting leads from jotform chatbot",
-      "assigneeId": "U023F61R16F",
-      "messageTs": "1777562437.946019",
-      "completed": true,
-      "completedAt": "2026-06-05T06:01:02.148Z",
-      "firstSeenAt": "2026-05-13T16:01:00.712Z"
-    },
     "e65f204286fff7c5b63d3c5ddd620dcf": {
       "task": "create a claude powered CSM AI system that helps others do what you do (and yourself)",
       "assignee_name": "Meg 'The Sage' Scheffler",
@@ -1735,16 +1721,23 @@
       "completed": false,
       "completedAt": null,
       "firstSeenAt": "2026-09-02T18:01:46.669Z"
+    },
+    "b6ff20b4d5699059b13dca4e929b3953": {
+      "task": "Update Eddie's AW demo blocking on his Google Calendar",
+      "assignee_name": "Christle 'Knows All' Ochigue",
+      "assignee_slack_mention": "@Christle 'Knows All' Ochigue",
+      "assigned_date": "2026-09-02",
+      "due_date": "2026-09-03",
+      "message_ts": "1788383969.226229",
+      "source_message": "@Christle 'Knows All' Ochigue please update eddie's AW demo blocking on his google calendar https://dove",
+      "assigneeId": "UMCPG3D8A",
+      "messageTs": "1788383969.226229",
+      "completed": true,
+      "completedAt": "2026-09-03T06:01:58.139Z",
+      "firstSeenAt": "2026-09-03T06:01:58.139Z"
     }
   },
   "scheduled": {
-    "78960d9b8873ade234cf1c586fd4eaf4|midpoint|2026-06-07": {
-      "scheduledAt": "2026-06-05T06:01:23.616Z",
-      "type": "midpoint",
-      "task": "Create Book A Demo button on website CRM section with provided link",
-      "assignee": "Liz' La Task-Killer' Zavala",
-      "reminderDate": "2026-06-07"
-    },
     "78960d9b8873ade234cf1c586fd4eaf4|nag|2026-06-08": {
       "scheduledAt": "2026-06-05T06:01:24.357Z",
       "type": "nag",
@@ -30102,8 +30095,9 @@
     "1787943521.504779": true,
     "1788203370.470329": true,
     "1788293732.198709": true,
-    "1788365191.815559": true
+    "1788365191.815559": true,
+    "1788383969.226229": true
   },
   "lastWeeklySummaryDate": "2026-W35",
-  "lastRun": "2026-09-02T20:47:56.039Z"
+  "lastRun": "2026-09-03T06:01:58.207Z"
 }
