@@ -210,20 +210,6 @@
       "completedAt": null,
       "firstSeenAt": "2026-06-03T21:20:59.769Z"
     },
-    "1259eb41d4594f1fca66a0c58bb905f4": {
-      "task": "ensure there is a campaign for LKongterm stage in CRM template account",
-      "assignee_name": "Christle 'Knows All' Ochigue",
-      "assignee_slack_mention": "@Christle 'Knows All' Ochigue",
-      "assigned_date": "2026-06-03",
-      "due_date": null,
-      "message_ts": "1780519095.138299",
-      "source_message": "@Eddie 'Rockstar' Monarrez @Christle 'Knows All' Ochigue We dont have a campaign for LKongterm stag",
-      "assigneeId": "UMCPG3D8A",
-      "messageTs": "1780519095.138299",
-      "completed": true,
-      "completedAt": "2026-06-06T18:01:03.708Z",
-      "firstSeenAt": "2026-06-03T21:20:59.849Z"
-    },
     "9627f88e4c96e1c7eedfa9af41e9d531": {
       "task": "make sure all clients have the longterm campaign",
       "assignee_name": "Josh 'The Ninja' Morales",
@@ -30504,5 +30490,5 @@
     "1788465161.147469": true
   },
   "lastWeeklySummaryDate": "2026-W36",
-  "lastRun": "2026-09-04T14:02:22.099Z"
+  "lastRun": "2026-09-04T18:01:26.828Z"
 }
