@@ -238,20 +238,6 @@
       "completedAt": null,
       "firstSeenAt": "2026-06-04T06:01:09.061Z"
     },
-    "004eccadf983c7669c32ad2dc756f001": {
-      "task": "make sure all clients have the longterm campaign",
-      "assignee_name": "Christle 'Knows All' Ochigue",
-      "assignee_slack_mention": "@Christle 'Knows All' Ochigue",
-      "assigned_date": "2026-06-03",
-      "due_date": null,
-      "message_ts": "1780525588.873959",
-      "source_message": "@Josh 'The Ninja' Morales @Eddie 'Rockstar' Monarrez @Christle 'Knows All' Ochigue we do need to ma",
-      "assigneeId": "UMCPG3D8A",
-      "messageTs": "1780525588.873959",
-      "completed": true,
-      "completedAt": "2026-06-08T20:24:00.875Z",
-      "firstSeenAt": "2026-06-04T06:01:09.123Z"
-    },
     "a9ac460855821d4630a74279b5140e1b": {
       "task": "address and solve calendar syncing issue Julie McCown is having",
       "assignee_name": "Josh 'The Ninja' Morales",
@@ -279,20 +265,6 @@
       "completed": true,
       "completedAt": "2026-06-10T20:35:43.620Z",
       "firstSeenAt": "2026-06-08T18:01:20.618Z"
-    },
-    "5e0876e19ac2321d993c4b6091826ccc": {
-      "task": "Review added General written step by step instructions and new doc with general questions",
-      "assignee_name": "Brandon 'The One' Robertson",
-      "assignee_slack_mention": "@Brandon 'The One' Robertson",
-      "assigned_date": "2026-06-08",
-      "due_date": null,
-      "message_ts": "1780945431.036449",
-      "source_message": "• @Brandon 'The One' Robertson I added the General written step by step instructions - added a ne",
-      "assigneeId": "UMS39RAGP",
-      "messageTs": "1780945431.036449",
-      "completed": true,
-      "completedAt": "2026-06-09T06:01:02.813Z",
-      "firstSeenAt": "2026-06-08T20:24:08.704Z"
     },
     "d0f0ba8c89a9c8e5dc16a2d48966c51e": {
       "task": "build email and text snippets for sending case study playlist out immediately after a bls sales call",
@@ -1724,13 +1696,6 @@
     }
   },
   "scheduled": {
-    "5e0876e19ac2321d993c4b6091826ccc|followup|2026-06-15": {
-      "scheduledAt": "2026-06-08T20:24:09.868Z",
-      "type": "followup",
-      "task": "Review added General written step by step instructions and new doc with general questions",
-      "assignee": "Brandon 'The One' Robertson",
-      "reminderDate": "2026-06-15"
-    },
     "d0f0ba8c89a9c8e5dc16a2d48966c51e|due|2026-06-10": {
       "scheduledAt": "2026-06-10T18:01:28.205Z",
       "type": "due",
@@ -30896,5 +30861,5 @@
     "1788545499.717249": true
   },
   "lastWeeklySummaryDate": "2026-W36",
-  "lastRun": "2026-09-06T20:12:15.541Z"
+  "lastRun": "2026-09-07T06:01:45.488Z"
 }
