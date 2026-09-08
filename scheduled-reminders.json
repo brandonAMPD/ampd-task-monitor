@@ -210,20 +210,6 @@
       "completedAt": "2026-06-11T06:01:04.458Z",
       "firstSeenAt": "2026-06-05T20:00:54.726Z"
     },
-    "cd6370a32792981fd77b3f65c2ffc91b": {
-      "task": "Review and identify missing items for CRM training page, create doc with specific bullets",
-      "assignee_name": "Meg 'The Sage' Scheffler",
-      "assignee_slack_mention": "@Meg 'The Sage' Scheffler",
-      "assigned_date": "2026-06-08",
-      "due_date": "2026-06-18",
-      "message_ts": "1780938629.128129",
-      "source_message": "@Meg 'The Sage' Scheffler Please review this and let me know what's missing in your opinion.  We ne",
-      "assigneeId": "U05FE9QNFSQ",
-      "messageTs": "1780938629.128129",
-      "completed": true,
-      "completedAt": "2026-06-10T20:35:43.620Z",
-      "firstSeenAt": "2026-06-08T18:01:20.618Z"
-    },
     "d0f0ba8c89a9c8e5dc16a2d48966c51e": {
       "task": "build email and text snippets for sending case study playlist out immediately after a bls sales call",
       "assignee_name": "Jimmy 'Suave' Flores",
@@ -1651,225 +1637,23 @@
       "completed": false,
       "completedAt": null,
       "firstSeenAt": "2026-09-04T20:32:27.660Z"
+    },
+    "3c303439e3f7e42c09f4367d99db62a2": {
+      "task": "Setup AW agreement reminder for manually launched agreements (Starter & Core packages)",
+      "assignee_name": "Mark 'Morpheus' Manaog",
+      "assignee_slack_mention": "@Mark 'Morpheus' Manaog",
+      "assigned_date": "2026-09-08",
+      "due_date": "2026-09-16",
+      "message_ts": "1788899387.518809",
+      "source_message": "@Mark 'Morpheus' Manaog setup AW agreement reminder for when an agreement is manually launched - just do our S",
+      "assigneeId": "U023F61R16F",
+      "messageTs": "1788899387.518809",
+      "completed": false,
+      "completedAt": null,
+      "firstSeenAt": "2026-09-08T20:55:32.549Z"
     }
   },
   "scheduled": {
-    "d0f0ba8c89a9c8e5dc16a2d48966c51e|due|2026-06-10": {
-      "scheduledAt": "2026-06-10T18:01:28.205Z",
-      "type": "due",
-      "task": "build email and text snippets for sending case study playlist out immediately after a bls sales call",
-      "skipped": true
-    },
-    "d0f0ba8c89a9c8e5dc16a2d48966c51e|overdue|2026-06-11": {
-      "scheduledAt": "2026-06-10T18:01:28.905Z",
-      "type": "overdue",
-      "task": "build email and text snippets for sending case study playlist out immediately after a bls sales call",
-      "assignee": "Jimmy 'Suave' Flores",
-      "reminderDate": "2026-06-11"
-    },
-    "d0f0ba8c89a9c8e5dc16a2d48966c51e|overdue|2026-06-12": {
-      "scheduledAt": "2026-06-10T18:01:29.586Z",
-      "type": "overdue",
-      "task": "build email and text snippets for sending case study playlist out immediately after a bls sales call",
-      "assignee": "Jimmy 'Suave' Flores",
-      "reminderDate": "2026-06-12"
-    },
-    "d0f0ba8c89a9c8e5dc16a2d48966c51e|overdue|2026-06-13": {
-      "scheduledAt": "2026-06-10T18:01:30.268Z",
-      "type": "overdue",
-      "task": "build email and text snippets for sending case study playlist out immediately after a bls sales call",
-      "assignee": "Jimmy 'Suave' Flores",
-      "reminderDate": "2026-06-13"
-    },
-    "d0f0ba8c89a9c8e5dc16a2d48966c51e|overdue|2026-06-14": {
-      "scheduledAt": "2026-06-10T18:01:30.960Z",
-      "type": "overdue",
-      "task": "build email and text snippets for sending case study playlist out immediately after a bls sales call",
-      "assignee": "Jimmy 'Suave' Flores",
-      "reminderDate": "2026-06-14"
-    },
-    "d0f0ba8c89a9c8e5dc16a2d48966c51e|overdue|2026-06-15": {
-      "scheduledAt": "2026-06-10T18:01:31.645Z",
-      "type": "overdue",
-      "task": "build email and text snippets for sending case study playlist out immediately after a bls sales call",
-      "assignee": "Jimmy 'Suave' Flores",
-      "reminderDate": "2026-06-15"
-    },
-    "d0f0ba8c89a9c8e5dc16a2d48966c51e|overdue|2026-06-16": {
-      "scheduledAt": "2026-06-10T18:01:32.324Z",
-      "type": "overdue",
-      "task": "build email and text snippets for sending case study playlist out immediately after a bls sales call",
-      "assignee": "Jimmy 'Suave' Flores",
-      "reminderDate": "2026-06-16"
-    },
-    "d0f0ba8c89a9c8e5dc16a2d48966c51e|overdue|2026-06-17": {
-      "scheduledAt": "2026-06-10T18:01:33.010Z",
-      "type": "overdue",
-      "task": "build email and text snippets for sending case study playlist out immediately after a bls sales call",
-      "assignee": "Jimmy 'Suave' Flores",
-      "reminderDate": "2026-06-17"
-    },
-    "d0f0ba8c89a9c8e5dc16a2d48966c51e|overdue|2026-06-18": {
-      "scheduledAt": "2026-06-10T18:01:33.727Z",
-      "type": "overdue",
-      "task": "build email and text snippets for sending case study playlist out immediately after a bls sales call",
-      "assignee": "Jimmy 'Suave' Flores",
-      "reminderDate": "2026-06-18"
-    },
-    "d0f0ba8c89a9c8e5dc16a2d48966c51e|overdue|2026-06-19": {
-      "scheduledAt": "2026-06-10T18:01:34.406Z",
-      "type": "overdue",
-      "task": "build email and text snippets for sending case study playlist out immediately after a bls sales call",
-      "assignee": "Jimmy 'Suave' Flores",
-      "reminderDate": "2026-06-19"
-    },
-    "d0f0ba8c89a9c8e5dc16a2d48966c51e|overdue|2026-06-20": {
-      "scheduledAt": "2026-06-10T18:01:35.123Z",
-      "type": "overdue",
-      "task": "build email and text snippets for sending case study playlist out immediately after a bls sales call",
-      "assignee": "Jimmy 'Suave' Flores",
-      "reminderDate": "2026-06-20"
-    },
-    "d0f0ba8c89a9c8e5dc16a2d48966c51e|overdue|2026-06-21": {
-      "scheduledAt": "2026-06-10T18:01:35.809Z",
-      "type": "overdue",
-      "task": "build email and text snippets for sending case study playlist out immediately after a bls sales call",
-      "assignee": "Jimmy 'Suave' Flores",
-      "reminderDate": "2026-06-21"
-    },
-    "d0f0ba8c89a9c8e5dc16a2d48966c51e|overdue|2026-06-22": {
-      "scheduledAt": "2026-06-10T18:01:36.488Z",
-      "type": "overdue",
-      "task": "build email and text snippets for sending case study playlist out immediately after a bls sales call",
-      "assignee": "Jimmy 'Suave' Flores",
-      "reminderDate": "2026-06-22"
-    },
-    "d0f0ba8c89a9c8e5dc16a2d48966c51e|overdue|2026-06-23": {
-      "scheduledAt": "2026-06-10T18:01:37.191Z",
-      "type": "overdue",
-      "task": "build email and text snippets for sending case study playlist out immediately after a bls sales call",
-      "assignee": "Jimmy 'Suave' Flores",
-      "reminderDate": "2026-06-23"
-    },
-    "d0f0ba8c89a9c8e5dc16a2d48966c51e|overdue|2026-06-24": {
-      "scheduledAt": "2026-06-10T18:01:37.923Z",
-      "type": "overdue",
-      "task": "build email and text snippets for sending case study playlist out immediately after a bls sales call",
-      "assignee": "Jimmy 'Suave' Flores",
-      "reminderDate": "2026-06-24"
-    },
-    "d0f0ba8c89a9c8e5dc16a2d48966c51e|overdue|2026-06-25": {
-      "scheduledAt": "2026-06-10T18:01:38.674Z",
-      "type": "overdue",
-      "task": "build email and text snippets for sending case study playlist out immediately after a bls sales call",
-      "assignee": "Jimmy 'Suave' Flores",
-      "reminderDate": "2026-06-25"
-    },
-    "d0f0ba8c89a9c8e5dc16a2d48966c51e|overdue|2026-06-26": {
-      "scheduledAt": "2026-06-10T18:01:39.368Z",
-      "type": "overdue",
-      "task": "build email and text snippets for sending case study playlist out immediately after a bls sales call",
-      "assignee": "Jimmy 'Suave' Flores",
-      "reminderDate": "2026-06-26"
-    },
-    "d0f0ba8c89a9c8e5dc16a2d48966c51e|overdue|2026-06-27": {
-      "scheduledAt": "2026-06-10T18:01:40.091Z",
-      "type": "overdue",
-      "task": "build email and text snippets for sending case study playlist out immediately after a bls sales call",
-      "assignee": "Jimmy 'Suave' Flores",
-      "reminderDate": "2026-06-27"
-    },
-    "d0f0ba8c89a9c8e5dc16a2d48966c51e|overdue|2026-06-28": {
-      "scheduledAt": "2026-06-10T18:01:40.776Z",
-      "type": "overdue",
-      "task": "build email and text snippets for sending case study playlist out immediately after a bls sales call",
-      "assignee": "Jimmy 'Suave' Flores",
-      "reminderDate": "2026-06-28"
-    },
-    "d0f0ba8c89a9c8e5dc16a2d48966c51e|overdue|2026-06-29": {
-      "scheduledAt": "2026-06-10T18:01:41.502Z",
-      "type": "overdue",
-      "task": "build email and text snippets for sending case study playlist out immediately after a bls sales call",
-      "assignee": "Jimmy 'Suave' Flores",
-      "reminderDate": "2026-06-29"
-    },
-    "d0f0ba8c89a9c8e5dc16a2d48966c51e|overdue|2026-06-30": {
-      "scheduledAt": "2026-06-10T18:01:42.174Z",
-      "type": "overdue",
-      "task": "build email and text snippets for sending case study playlist out immediately after a bls sales call",
-      "assignee": "Jimmy 'Suave' Flores",
-      "reminderDate": "2026-06-30"
-    },
-    "d0f0ba8c89a9c8e5dc16a2d48966c51e|overdue|2026-07-01": {
-      "scheduledAt": "2026-06-10T18:01:42.845Z",
-      "type": "overdue",
-      "task": "build email and text snippets for sending case study playlist out immediately after a bls sales call",
-      "assignee": "Jimmy 'Suave' Flores",
-      "reminderDate": "2026-07-01"
-    },
-    "d0f0ba8c89a9c8e5dc16a2d48966c51e|overdue|2026-07-02": {
-      "scheduledAt": "2026-06-10T18:01:43.526Z",
-      "type": "overdue",
-      "task": "build email and text snippets for sending case study playlist out immediately after a bls sales call",
-      "assignee": "Jimmy 'Suave' Flores",
-      "reminderDate": "2026-07-02"
-    },
-    "d0f0ba8c89a9c8e5dc16a2d48966c51e|overdue|2026-07-03": {
-      "scheduledAt": "2026-06-10T18:01:44.242Z",
-      "type": "overdue",
-      "task": "build email and text snippets for sending case study playlist out immediately after a bls sales call",
-      "assignee": "Jimmy 'Suave' Flores",
-      "reminderDate": "2026-07-03"
-    },
-    "d0f0ba8c89a9c8e5dc16a2d48966c51e|overdue|2026-07-04": {
-      "scheduledAt": "2026-06-10T18:01:44.904Z",
-      "type": "overdue",
-      "task": "build email and text snippets for sending case study playlist out immediately after a bls sales call",
-      "assignee": "Jimmy 'Suave' Flores",
-      "reminderDate": "2026-07-04"
-    },
-    "d0f0ba8c89a9c8e5dc16a2d48966c51e|overdue|2026-07-05": {
-      "scheduledAt": "2026-06-10T18:01:45.614Z",
-      "type": "overdue",
-      "task": "build email and text snippets for sending case study playlist out immediately after a bls sales call",
-      "assignee": "Jimmy 'Suave' Flores",
-      "reminderDate": "2026-07-05"
-    },
-    "d0f0ba8c89a9c8e5dc16a2d48966c51e|overdue|2026-07-06": {
-      "scheduledAt": "2026-06-10T18:01:46.277Z",
-      "type": "overdue",
-      "task": "build email and text snippets for sending case study playlist out immediately after a bls sales call",
-      "assignee": "Jimmy 'Suave' Flores",
-      "reminderDate": "2026-07-06"
-    },
-    "d0f0ba8c89a9c8e5dc16a2d48966c51e|overdue|2026-07-07": {
-      "scheduledAt": "2026-06-10T18:01:46.944Z",
-      "type": "overdue",
-      "task": "build email and text snippets for sending case study playlist out immediately after a bls sales call",
-      "assignee": "Jimmy 'Suave' Flores",
-      "reminderDate": "2026-07-07"
-    },
-    "d0f0ba8c89a9c8e5dc16a2d48966c51e|overdue|2026-07-08": {
-      "scheduledAt": "2026-06-10T18:01:47.654Z",
-      "type": "overdue",
-      "task": "build email and text snippets for sending case study playlist out immediately after a bls sales call",
-      "assignee": "Jimmy 'Suave' Flores",
-      "reminderDate": "2026-07-08"
-    },
-    "d0f0ba8c89a9c8e5dc16a2d48966c51e|overdue|2026-07-09": {
-      "scheduledAt": "2026-06-10T18:01:48.356Z",
-      "type": "overdue",
-      "task": "build email and text snippets for sending case study playlist out immediately after a bls sales call",
-      "assignee": "Jimmy 'Suave' Flores",
-      "reminderDate": "2026-07-09"
-    },
-    "d0f0ba8c89a9c8e5dc16a2d48966c51e|overdue|2026-07-10": {
-      "scheduledAt": "2026-06-10T18:01:49.065Z",
-      "type": "overdue",
-      "task": "build email and text snippets for sending case study playlist out immediately after a bls sales call",
-      "assignee": "Jimmy 'Suave' Flores",
-      "reminderDate": "2026-07-10"
-    },
     "e3c44ac53176a54c0fdacd0c37d1320a|due|2026-06-12": {
       "scheduledAt": "2026-06-12T06:01:20.311Z",
       "type": "due",
@@ -20347,6 +20131,244 @@
       "task": "Create automations/workflows for the trial reminder campaign",
       "assignee": "Mark 'Morpheus' Manaog",
       "reminderDate": "2026-10-08"
+    },
+    "3c303439e3f7e42c09f4367d99db62a2|midpoint|2026-09-12": {
+      "scheduledAt": "2026-09-08T20:55:35.220Z",
+      "type": "midpoint",
+      "task": "Setup AW agreement reminder for manually launched agreements (Starter & Core packages)",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-09-12"
+    },
+    "3c303439e3f7e42c09f4367d99db62a2|nag|2026-09-14": {
+      "scheduledAt": "2026-09-08T20:55:36.206Z",
+      "type": "nag",
+      "task": "Setup AW agreement reminder for manually launched agreements (Starter & Core packages)",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-09-14"
+    },
+    "3c303439e3f7e42c09f4367d99db62a2|nag|2026-09-15": {
+      "scheduledAt": "2026-09-08T20:55:37.181Z",
+      "type": "nag",
+      "task": "Setup AW agreement reminder for manually launched agreements (Starter & Core packages)",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-09-15"
+    },
+    "3c303439e3f7e42c09f4367d99db62a2|due|2026-09-16": {
+      "scheduledAt": "2026-09-08T20:55:38.182Z",
+      "type": "due",
+      "task": "Setup AW agreement reminder for manually launched agreements (Starter & Core packages)",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-09-16"
+    },
+    "3c303439e3f7e42c09f4367d99db62a2|overdue|2026-09-17": {
+      "scheduledAt": "2026-09-08T20:55:39.124Z",
+      "type": "overdue",
+      "task": "Setup AW agreement reminder for manually launched agreements (Starter & Core packages)",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-09-17"
+    },
+    "3c303439e3f7e42c09f4367d99db62a2|overdue|2026-09-18": {
+      "scheduledAt": "2026-09-08T20:55:40.281Z",
+      "type": "overdue",
+      "task": "Setup AW agreement reminder for manually launched agreements (Starter & Core packages)",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-09-18"
+    },
+    "3c303439e3f7e42c09f4367d99db62a2|overdue|2026-09-19": {
+      "scheduledAt": "2026-09-08T20:55:41.282Z",
+      "type": "overdue",
+      "task": "Setup AW agreement reminder for manually launched agreements (Starter & Core packages)",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-09-19"
+    },
+    "3c303439e3f7e42c09f4367d99db62a2|overdue|2026-09-20": {
+      "scheduledAt": "2026-09-08T20:55:42.241Z",
+      "type": "overdue",
+      "task": "Setup AW agreement reminder for manually launched agreements (Starter & Core packages)",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-09-20"
+    },
+    "3c303439e3f7e42c09f4367d99db62a2|overdue|2026-09-21": {
+      "scheduledAt": "2026-09-08T20:55:43.273Z",
+      "type": "overdue",
+      "task": "Setup AW agreement reminder for manually launched agreements (Starter & Core packages)",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-09-21"
+    },
+    "3c303439e3f7e42c09f4367d99db62a2|overdue|2026-09-22": {
+      "scheduledAt": "2026-09-08T20:55:44.259Z",
+      "type": "overdue",
+      "task": "Setup AW agreement reminder for manually launched agreements (Starter & Core packages)",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-09-22"
+    },
+    "3c303439e3f7e42c09f4367d99db62a2|overdue|2026-09-23": {
+      "scheduledAt": "2026-09-08T20:55:45.282Z",
+      "type": "overdue",
+      "task": "Setup AW agreement reminder for manually launched agreements (Starter & Core packages)",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-09-23"
+    },
+    "3c303439e3f7e42c09f4367d99db62a2|overdue|2026-09-24": {
+      "scheduledAt": "2026-09-08T20:55:46.281Z",
+      "type": "overdue",
+      "task": "Setup AW agreement reminder for manually launched agreements (Starter & Core packages)",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-09-24"
+    },
+    "3c303439e3f7e42c09f4367d99db62a2|overdue|2026-09-25": {
+      "scheduledAt": "2026-09-08T20:55:47.277Z",
+      "type": "overdue",
+      "task": "Setup AW agreement reminder for manually launched agreements (Starter & Core packages)",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-09-25"
+    },
+    "3c303439e3f7e42c09f4367d99db62a2|overdue|2026-09-26": {
+      "scheduledAt": "2026-09-08T20:55:48.282Z",
+      "type": "overdue",
+      "task": "Setup AW agreement reminder for manually launched agreements (Starter & Core packages)",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-09-26"
+    },
+    "3c303439e3f7e42c09f4367d99db62a2|overdue|2026-09-27": {
+      "scheduledAt": "2026-09-08T20:55:49.284Z",
+      "type": "overdue",
+      "task": "Setup AW agreement reminder for manually launched agreements (Starter & Core packages)",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-09-27"
+    },
+    "3c303439e3f7e42c09f4367d99db62a2|overdue|2026-09-28": {
+      "scheduledAt": "2026-09-08T20:55:50.261Z",
+      "type": "overdue",
+      "task": "Setup AW agreement reminder for manually launched agreements (Starter & Core packages)",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-09-28"
+    },
+    "3c303439e3f7e42c09f4367d99db62a2|overdue|2026-09-29": {
+      "scheduledAt": "2026-09-08T20:55:51.210Z",
+      "type": "overdue",
+      "task": "Setup AW agreement reminder for manually launched agreements (Starter & Core packages)",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-09-29"
+    },
+    "3c303439e3f7e42c09f4367d99db62a2|overdue|2026-09-30": {
+      "scheduledAt": "2026-09-08T20:55:52.234Z",
+      "type": "overdue",
+      "task": "Setup AW agreement reminder for manually launched agreements (Starter & Core packages)",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-09-30"
+    },
+    "3c303439e3f7e42c09f4367d99db62a2|overdue|2026-10-01": {
+      "scheduledAt": "2026-09-08T20:55:53.173Z",
+      "type": "overdue",
+      "task": "Setup AW agreement reminder for manually launched agreements (Starter & Core packages)",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-10-01"
+    },
+    "3c303439e3f7e42c09f4367d99db62a2|overdue|2026-10-02": {
+      "scheduledAt": "2026-09-08T20:55:54.155Z",
+      "type": "overdue",
+      "task": "Setup AW agreement reminder for manually launched agreements (Starter & Core packages)",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-10-02"
+    },
+    "3c303439e3f7e42c09f4367d99db62a2|overdue|2026-10-03": {
+      "scheduledAt": "2026-09-08T20:55:55.106Z",
+      "type": "overdue",
+      "task": "Setup AW agreement reminder for manually launched agreements (Starter & Core packages)",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-10-03"
+    },
+    "3c303439e3f7e42c09f4367d99db62a2|overdue|2026-10-04": {
+      "scheduledAt": "2026-09-08T20:55:56.113Z",
+      "type": "overdue",
+      "task": "Setup AW agreement reminder for manually launched agreements (Starter & Core packages)",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-10-04"
+    },
+    "3c303439e3f7e42c09f4367d99db62a2|overdue|2026-10-05": {
+      "scheduledAt": "2026-09-08T20:55:57.084Z",
+      "type": "overdue",
+      "task": "Setup AW agreement reminder for manually launched agreements (Starter & Core packages)",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-10-05"
+    },
+    "3c303439e3f7e42c09f4367d99db62a2|overdue|2026-10-06": {
+      "scheduledAt": "2026-09-08T20:55:58.075Z",
+      "type": "overdue",
+      "task": "Setup AW agreement reminder for manually launched agreements (Starter & Core packages)",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-10-06"
+    },
+    "3c303439e3f7e42c09f4367d99db62a2|overdue|2026-10-07": {
+      "scheduledAt": "2026-09-08T20:55:59.119Z",
+      "type": "overdue",
+      "task": "Setup AW agreement reminder for manually launched agreements (Starter & Core packages)",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-10-07"
+    },
+    "3c303439e3f7e42c09f4367d99db62a2|overdue|2026-10-08": {
+      "scheduledAt": "2026-09-08T20:56:00.120Z",
+      "type": "overdue",
+      "task": "Setup AW agreement reminder for manually launched agreements (Starter & Core packages)",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-10-08"
+    },
+    "3c303439e3f7e42c09f4367d99db62a2|overdue|2026-10-09": {
+      "scheduledAt": "2026-09-08T20:56:01.534Z",
+      "type": "overdue",
+      "task": "Setup AW agreement reminder for manually launched agreements (Starter & Core packages)",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-10-09"
+    },
+    "3c303439e3f7e42c09f4367d99db62a2|overdue|2026-10-10": {
+      "scheduledAt": "2026-09-08T20:56:02.573Z",
+      "type": "overdue",
+      "task": "Setup AW agreement reminder for manually launched agreements (Starter & Core packages)",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-10-10"
+    },
+    "3c303439e3f7e42c09f4367d99db62a2|overdue|2026-10-11": {
+      "scheduledAt": "2026-09-08T20:56:03.560Z",
+      "type": "overdue",
+      "task": "Setup AW agreement reminder for manually launched agreements (Starter & Core packages)",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-10-11"
+    },
+    "3c303439e3f7e42c09f4367d99db62a2|overdue|2026-10-12": {
+      "scheduledAt": "2026-09-08T20:56:04.605Z",
+      "type": "overdue",
+      "task": "Setup AW agreement reminder for manually launched agreements (Starter & Core packages)",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-10-12"
+    },
+    "3c303439e3f7e42c09f4367d99db62a2|overdue|2026-10-13": {
+      "scheduledAt": "2026-09-08T20:56:05.641Z",
+      "type": "overdue",
+      "task": "Setup AW agreement reminder for manually launched agreements (Starter & Core packages)",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-10-13"
+    },
+    "3c303439e3f7e42c09f4367d99db62a2|overdue|2026-10-14": {
+      "scheduledAt": "2026-09-08T20:56:06.674Z",
+      "type": "overdue",
+      "task": "Setup AW agreement reminder for manually launched agreements (Starter & Core packages)",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-10-14"
+    },
+    "3c303439e3f7e42c09f4367d99db62a2|overdue|2026-10-15": {
+      "scheduledAt": "2026-09-08T20:56:07.667Z",
+      "type": "overdue",
+      "task": "Setup AW agreement reminder for manually launched agreements (Starter & Core packages)",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-10-15"
+    },
+    "3c303439e3f7e42c09f4367d99db62a2|overdue|2026-10-16": {
+      "scheduledAt": "2026-09-08T20:56:08.685Z",
+      "type": "overdue",
+      "task": "Setup AW agreement reminder for manually launched agreements (Starter & Core packages)",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-10-16"
     }
   },
   "scheduledMessageIds": {
@@ -30621,6 +30643,416 @@
         "channel": "C05JGF817H6",
         "messageId": "Q0BUYMVS6SF"
       }
+    ],
+    "3c303439e3f7e42c09f4367d99db62a2": [
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0C0AEH3Q21"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0C199RNM96"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0BVDHH5P9D"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0C08M33UM9"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0BVDHHDV9V"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0C0JJB9U6Q"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0C08M2GPKM"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0C0JJBJ2R2"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0C08M3F4P5"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0C0JJB5ZM2"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0C0JJB0J4U"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0C199RRGUQ"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0C0ETBGGFL"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0C0ETA9CLS"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0C0AEGPV7X"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0C0ETC0JSW"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0C199QRVPA"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0C0AEHKWCD"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0C199R9FU0"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0C0D0PFNQN"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0BVDHHS3FZ"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0C199RNP3J"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0C0JJCNGAY"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0BVDHGHEUX"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0C0GS1HF97"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0C08M4T94K"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0C199SGW3A"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0C0JJC65DJ"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0BVDHHHHM5"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0BVDHHTP8F"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0C0D0PMKHC"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0C0D0PFD9C"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0C0JJD6CUU"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0C0GS1L2M7"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0BVDHJF3QX"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0BVDHJ8EMV"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0C199SL8EL"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0C08M4EF99"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0C0ETCCLDQ"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0C0ETDDQN6"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0C0ETCQQ1G"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0C199Q8YP2"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0C0JJC6XCL"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0C0ETCFCHY"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0C0ETDEKV0"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0C0ETCFLLA"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0C0GS2HW81"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0C199SPQF2"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BVDHJSRE3"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0BVDHJL4EB"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0C0ETCNVMY"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0C08M1NGPM"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0C08M58WH1"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0C0GS2E3CH"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0C0GS23T0R"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0C0GS2B2PK"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0C08M58659"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0C0ETDQ05Q"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0C0GS31JCR"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0C0ETDEWLA"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0BVDHKHMEK"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0C0ETCAN7L"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0C0GS3HXPT"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0C08M5S26P"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0C08M4U143"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0C0ETEKE2E"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0C0GS2LZFT"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0C0ETAKP18"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0C0JJD9AEQ"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0C0D0QV1JS"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0BVDHKEQLF"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0C0ETD3DFC"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0C0ETDKLPL"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0C0GS38MLZ"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0C0D0QM4UW"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0C0JJE2Z1A"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0BVDHM9HM5"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0BVDHL3AGP"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0C199VAEV6"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0BVDHGV4NT"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0C08M66C2X"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0C08M6AU6P"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0C0AEKK2DT"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0C0JJF6LUU"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0C0ETBQVLJ"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0C0ETDTKNE"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0C08M6897D"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0C0ETDQB8S"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0C0GS3HG2D"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0C0GS4FQ7K"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0C08M6HVEX"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0BVDH5VDK9"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0C0D0RRV2S"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0C0GS4ABJM"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0C0JJEJUUU"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0C0GS3QCTT"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0C0ETF9HFU"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0C0ETEDZEE"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0C0JJE3FE0"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0C0D0S0CR4"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0C0GS4TSBB"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0C0JJF3VM2"
+      }
     ]
   },
   "processedMessageTs": {
@@ -30816,8 +31248,9 @@
     "1788383969.226229": true,
     "1788450780.260179": true,
     "1788465161.147469": true,
-    "1788545499.717249": true
+    "1788545499.717249": true,
+    "1788899387.518809": true
   },
   "lastWeeklySummaryDate": "2026-W36",
-  "lastRun": "2026-09-08T18:01:29.694Z"
+  "lastRun": "2026-09-08T20:56:08.686Z"
 }
