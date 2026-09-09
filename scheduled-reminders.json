@@ -28,20 +28,6 @@
       "completedAt": null,
       "firstSeenAt": "2026-05-13T16:01:00.008Z"
     },
-    "dca073740da9ac189f31dd45dedce7fd": {
-      "task": "review cleaning up and organizing drive more for internal amp related and ampd client relat",
-      "assignee_name": "Brandon 'The One' Robertson",
-      "assignee_slack_mention": "@Brandon 'The One' Robertson",
-      "assigned_date": "2026-05-01",
-      "due_date": "2026-05-09",
-      "message_ts": "1777647436.791709",
-      "source_message": "@Brandon 'The One' Robertson review cleaning up and organizing drive more for internal amp re",
-      "assigneeId": "UMS39RAGP",
-      "messageTs": "1777647436.791709",
-      "completed": true,
-      "completedAt": "2026-06-11T20:27:05.815Z",
-      "firstSeenAt": "2026-05-13T16:01:00.239Z"
-    },
     "83e0a1bf03ffe8261ee7ee425cf345c5": {
       "task": "finish jotform section within tech module in pmp",
       "assignee_name": "Brandon 'The One' Robertson",
@@ -1396,8 +1382,8 @@
       "source_message": "@Mark 'Morpheus' Manaog @Joma 'Magic Fingers' Cris Cantalejo @Eddie 'Rockstar' Monarrez @Christle",
       "assigneeId": "U023F61R16F",
       "messageTs": "1787909830.986619",
-      "completed": false,
-      "completedAt": null,
+      "completed": true,
+      "completedAt": "2026-09-09T20:43:11.300Z",
       "firstSeenAt": "2026-08-28T14:01:36.484Z"
     },
     "caac357db1eb6de0deeb6a5d8e8eac30": {
@@ -1410,8 +1396,8 @@
       "source_message": "@Mark 'Morpheus' Manaog @Joma 'Magic Fingers' Cris Cantalejo @Eddie 'Rockstar' Monarrez @Christle",
       "assigneeId": "U03KVJD9927",
       "messageTs": "1787909830.986619",
-      "completed": false,
-      "completedAt": null,
+      "completed": true,
+      "completedAt": "2026-09-09T20:43:12.259Z",
       "firstSeenAt": "2026-08-28T14:01:36.601Z"
     },
     "ff4020971fef547fa97e61a7db9f8c50": {
@@ -1424,8 +1410,8 @@
       "source_message": "@Mark 'Morpheus' Manaog @Joma 'Magic Fingers' Cris Cantalejo @Eddie 'Rockstar' Monarrez @Christle",
       "assigneeId": "U02LFUG2WLR",
       "messageTs": "1787909830.986619",
-      "completed": false,
-      "completedAt": null,
+      "completed": true,
+      "completedAt": "2026-09-09T20:43:13.204Z",
       "firstSeenAt": "2026-08-28T14:01:36.724Z"
     },
     "ae7f93cc3d5d24a18ae2243cecac834a": {
@@ -1438,8 +1424,8 @@
       "source_message": "@Mark 'Morpheus' Manaog @Joma 'Magic Fingers' Cris Cantalejo @Eddie 'Rockstar' Monarrez @Christle",
       "assigneeId": "UMCPG3D8A",
       "messageTs": "1787909830.986619",
-      "completed": false,
-      "completedAt": null,
+      "completed": true,
+      "completedAt": "2026-09-09T20:43:14.166Z",
       "firstSeenAt": "2026-08-28T14:01:36.846Z"
     },
     "a1ece9cffde0d029d09d2bafa2ffa216": {
@@ -27910,62 +27896,6 @@
         "messageId": "Q0BTA69BJD8"
       }
     ],
-    "ea4993cc41503a85c5752c2c1f8ba38e": [
-      {
-        "channel": "UMS39RAGP",
-        "messageId": "Q0BTC9Y7MBQ"
-      },
-      {
-        "channel": "U023F61R16F",
-        "messageId": "Q0BT80Z4FJP"
-      },
-      {
-        "channel": "C05JGF817H6",
-        "messageId": "Q0BTHTY8ZTN"
-      }
-    ],
-    "caac357db1eb6de0deeb6a5d8e8eac30": [
-      {
-        "channel": "UMS39RAGP",
-        "messageId": "Q0BTG5K4V09"
-      },
-      {
-        "channel": "U03KVJD9927",
-        "messageId": "Q0BSYSTPTN3"
-      },
-      {
-        "channel": "C08RPJDC073",
-        "messageId": "Q0BTHTYDKC4"
-      }
-    ],
-    "ff4020971fef547fa97e61a7db9f8c50": [
-      {
-        "channel": "UMS39RAGP",
-        "messageId": "Q0BU8K3A4LQ"
-      },
-      {
-        "channel": "U02LFUG2WLR",
-        "messageId": "Q0BTC9Z0J2J"
-      },
-      {
-        "channel": "C05HPPDCSS1",
-        "messageId": "Q0BTC9ZGWBY"
-      }
-    ],
-    "ae7f93cc3d5d24a18ae2243cecac834a": [
-      {
-        "channel": "UMS39RAGP",
-        "messageId": "Q0BT810F4TD"
-      },
-      {
-        "channel": "UMCPG3D8A",
-        "messageId": "Q0BU8K2HJMN"
-      },
-      {
-        "channel": "C08R493ESAJ",
-        "messageId": "Q0BTE7B0K5Y"
-      }
-    ],
     "3940638ac02716cbf6a905517dd5b747": [
       {
         "channel": "UMS39RAGP",
@@ -30631,5 +30561,5 @@
     "1788970970.429179": true
   },
   "lastWeeklySummaryDate": "2026-W36",
-  "lastRun": "2026-09-09T18:03:25.256Z"
+  "lastRun": "2026-09-09T20:43:20.442Z"
 }
