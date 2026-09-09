@@ -196,20 +196,6 @@
       "completedAt": null,
       "firstSeenAt": "2026-06-04T06:01:09.061Z"
     },
-    "a9ac460855821d4630a74279b5140e1b": {
-      "task": "address and solve calendar syncing issue Julie McCown is having",
-      "assignee_name": "Josh 'The Ninja' Morales",
-      "assignee_slack_mention": "@Josh 'The Ninja' Morales",
-      "assigned_date": "2026-06-05",
-      "due_date": "2026-06-11",
-      "message_ts": "1780689256.055439",
-      "source_message": "@Josh 'The Ninja' Morales be sure to address and solve (if possible) the calendar syncing issue Julie",
-      "assigneeId": "U07FVUF09T7",
-      "messageTs": "1780689256.055439",
-      "completed": true,
-      "completedAt": "2026-06-11T06:01:04.458Z",
-      "firstSeenAt": "2026-06-05T20:00:54.726Z"
-    },
     "d0f0ba8c89a9c8e5dc16a2d48966c51e": {
       "task": "build email and text snippets for sending case study playlist out immediately after a bls sales call",
       "assignee_name": "Jimmy 'Suave' Flores",
@@ -1651,6 +1637,34 @@
       "completed": false,
       "completedAt": null,
       "firstSeenAt": "2026-09-08T20:55:32.549Z"
+    },
+    "33ef53dd83838fd70b4b246ac82941bd": {
+      "task": "Build a funnel template for CRM setup based on 'ampd Lending' funnel (simplified)",
+      "assignee_name": "Mark 'Morpheus' Manaog",
+      "assignee_slack_mention": "@Mark 'Morpheus' Manaog",
+      "assigned_date": "2026-09-09",
+      "due_date": null,
+      "message_ts": "1788913886.361309",
+      "source_message": "@Mark 'Morpheus' Manaog can you help me build a funnel template that will be included with the CRM set",
+      "assigneeId": "U023F61R16F",
+      "messageTs": "1788913886.361309",
+      "completed": false,
+      "completedAt": null,
+      "firstSeenAt": "2026-09-09T06:01:47.418Z"
+    },
+    "58e9ce43500e0587931012a22c2cf8ac": {
+      "task": "Create workflow and alert automation for failed AW payments per linked doc",
+      "assignee_name": "Mark 'Morpheus' Manaog",
+      "assignee_slack_mention": "@Mark 'Morpheus' Manaog",
+      "assigned_date": "2026-09-08",
+      "due_date": "2026-09-18",
+      "message_ts": "1788907320.490489",
+      "source_message": "@Mark 'Morpheus' Manaog please create this workflow and alert automation for failed AW payments https://d",
+      "assigneeId": "U023F61R16F",
+      "messageTs": "1788907320.490489",
+      "completed": false,
+      "completedAt": null,
+      "firstSeenAt": "2026-09-09T06:01:47.543Z"
     }
   },
   "scheduled": {
@@ -20369,6 +20383,251 @@
       "task": "Setup AW agreement reminder for manually launched agreements (Starter & Core packages)",
       "assignee": "Mark 'Morpheus' Manaog",
       "reminderDate": "2026-10-16"
+    },
+    "33ef53dd83838fd70b4b246ac82941bd|followup|2026-09-16": {
+      "scheduledAt": "2026-09-09T06:01:48.790Z",
+      "type": "followup",
+      "task": "Build a funnel template for CRM setup based on 'ampd Lending' funnel (simplified)",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-09-16"
+    },
+    "58e9ce43500e0587931012a22c2cf8ac|midpoint|2026-09-13": {
+      "scheduledAt": "2026-09-09T06:01:49.749Z",
+      "type": "midpoint",
+      "task": "Create workflow and alert automation for failed AW payments per linked doc",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-09-13"
+    },
+    "58e9ce43500e0587931012a22c2cf8ac|nag|2026-09-16": {
+      "scheduledAt": "2026-09-09T06:01:50.574Z",
+      "type": "nag",
+      "task": "Create workflow and alert automation for failed AW payments per linked doc",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-09-16"
+    },
+    "58e9ce43500e0587931012a22c2cf8ac|nag|2026-09-17": {
+      "scheduledAt": "2026-09-09T06:01:51.385Z",
+      "type": "nag",
+      "task": "Create workflow and alert automation for failed AW payments per linked doc",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-09-17"
+    },
+    "58e9ce43500e0587931012a22c2cf8ac|due|2026-09-18": {
+      "scheduledAt": "2026-09-09T06:01:52.225Z",
+      "type": "due",
+      "task": "Create workflow and alert automation for failed AW payments per linked doc",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-09-18"
+    },
+    "58e9ce43500e0587931012a22c2cf8ac|overdue|2026-09-19": {
+      "scheduledAt": "2026-09-09T06:01:53.083Z",
+      "type": "overdue",
+      "task": "Create workflow and alert automation for failed AW payments per linked doc",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-09-19"
+    },
+    "58e9ce43500e0587931012a22c2cf8ac|overdue|2026-09-20": {
+      "scheduledAt": "2026-09-09T06:01:53.897Z",
+      "type": "overdue",
+      "task": "Create workflow and alert automation for failed AW payments per linked doc",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-09-20"
+    },
+    "58e9ce43500e0587931012a22c2cf8ac|overdue|2026-09-21": {
+      "scheduledAt": "2026-09-09T06:01:54.735Z",
+      "type": "overdue",
+      "task": "Create workflow and alert automation for failed AW payments per linked doc",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-09-21"
+    },
+    "58e9ce43500e0587931012a22c2cf8ac|overdue|2026-09-22": {
+      "scheduledAt": "2026-09-09T06:01:55.804Z",
+      "type": "overdue",
+      "task": "Create workflow and alert automation for failed AW payments per linked doc",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-09-22"
+    },
+    "58e9ce43500e0587931012a22c2cf8ac|overdue|2026-09-23": {
+      "scheduledAt": "2026-09-09T06:01:56.702Z",
+      "type": "overdue",
+      "task": "Create workflow and alert automation for failed AW payments per linked doc",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-09-23"
+    },
+    "58e9ce43500e0587931012a22c2cf8ac|overdue|2026-09-24": {
+      "scheduledAt": "2026-09-09T06:01:57.540Z",
+      "type": "overdue",
+      "task": "Create workflow and alert automation for failed AW payments per linked doc",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-09-24"
+    },
+    "58e9ce43500e0587931012a22c2cf8ac|overdue|2026-09-25": {
+      "scheduledAt": "2026-09-09T06:01:58.362Z",
+      "type": "overdue",
+      "task": "Create workflow and alert automation for failed AW payments per linked doc",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-09-25"
+    },
+    "58e9ce43500e0587931012a22c2cf8ac|overdue|2026-09-26": {
+      "scheduledAt": "2026-09-09T06:01:59.238Z",
+      "type": "overdue",
+      "task": "Create workflow and alert automation for failed AW payments per linked doc",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-09-26"
+    },
+    "58e9ce43500e0587931012a22c2cf8ac|overdue|2026-09-27": {
+      "scheduledAt": "2026-09-09T06:02:00.081Z",
+      "type": "overdue",
+      "task": "Create workflow and alert automation for failed AW payments per linked doc",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-09-27"
+    },
+    "58e9ce43500e0587931012a22c2cf8ac|overdue|2026-09-28": {
+      "scheduledAt": "2026-09-09T06:02:00.900Z",
+      "type": "overdue",
+      "task": "Create workflow and alert automation for failed AW payments per linked doc",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-09-28"
+    },
+    "58e9ce43500e0587931012a22c2cf8ac|overdue|2026-09-29": {
+      "scheduledAt": "2026-09-09T06:02:01.785Z",
+      "type": "overdue",
+      "task": "Create workflow and alert automation for failed AW payments per linked doc",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-09-29"
+    },
+    "58e9ce43500e0587931012a22c2cf8ac|overdue|2026-09-30": {
+      "scheduledAt": "2026-09-09T06:02:02.636Z",
+      "type": "overdue",
+      "task": "Create workflow and alert automation for failed AW payments per linked doc",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-09-30"
+    },
+    "58e9ce43500e0587931012a22c2cf8ac|overdue|2026-10-01": {
+      "scheduledAt": "2026-09-09T06:02:03.474Z",
+      "type": "overdue",
+      "task": "Create workflow and alert automation for failed AW payments per linked doc",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-10-01"
+    },
+    "58e9ce43500e0587931012a22c2cf8ac|overdue|2026-10-02": {
+      "scheduledAt": "2026-09-09T06:02:04.288Z",
+      "type": "overdue",
+      "task": "Create workflow and alert automation for failed AW payments per linked doc",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-10-02"
+    },
+    "58e9ce43500e0587931012a22c2cf8ac|overdue|2026-10-03": {
+      "scheduledAt": "2026-09-09T06:02:05.188Z",
+      "type": "overdue",
+      "task": "Create workflow and alert automation for failed AW payments per linked doc",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-10-03"
+    },
+    "58e9ce43500e0587931012a22c2cf8ac|overdue|2026-10-04": {
+      "scheduledAt": "2026-09-09T06:02:06.052Z",
+      "type": "overdue",
+      "task": "Create workflow and alert automation for failed AW payments per linked doc",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-10-04"
+    },
+    "58e9ce43500e0587931012a22c2cf8ac|overdue|2026-10-05": {
+      "scheduledAt": "2026-09-09T06:02:06.929Z",
+      "type": "overdue",
+      "task": "Create workflow and alert automation for failed AW payments per linked doc",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-10-05"
+    },
+    "58e9ce43500e0587931012a22c2cf8ac|overdue|2026-10-06": {
+      "scheduledAt": "2026-09-09T06:02:07.798Z",
+      "type": "overdue",
+      "task": "Create workflow and alert automation for failed AW payments per linked doc",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-10-06"
+    },
+    "58e9ce43500e0587931012a22c2cf8ac|overdue|2026-10-07": {
+      "scheduledAt": "2026-09-09T06:02:08.638Z",
+      "type": "overdue",
+      "task": "Create workflow and alert automation for failed AW payments per linked doc",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-10-07"
+    },
+    "58e9ce43500e0587931012a22c2cf8ac|overdue|2026-10-08": {
+      "scheduledAt": "2026-09-09T06:02:09.508Z",
+      "type": "overdue",
+      "task": "Create workflow and alert automation for failed AW payments per linked doc",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-10-08"
+    },
+    "58e9ce43500e0587931012a22c2cf8ac|overdue|2026-10-09": {
+      "scheduledAt": "2026-09-09T06:02:10.387Z",
+      "type": "overdue",
+      "task": "Create workflow and alert automation for failed AW payments per linked doc",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-10-09"
+    },
+    "58e9ce43500e0587931012a22c2cf8ac|overdue|2026-10-10": {
+      "scheduledAt": "2026-09-09T06:02:11.216Z",
+      "type": "overdue",
+      "task": "Create workflow and alert automation for failed AW payments per linked doc",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-10-10"
+    },
+    "58e9ce43500e0587931012a22c2cf8ac|overdue|2026-10-11": {
+      "scheduledAt": "2026-09-09T06:02:12.061Z",
+      "type": "overdue",
+      "task": "Create workflow and alert automation for failed AW payments per linked doc",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-10-11"
+    },
+    "58e9ce43500e0587931012a22c2cf8ac|overdue|2026-10-12": {
+      "scheduledAt": "2026-09-09T06:02:12.909Z",
+      "type": "overdue",
+      "task": "Create workflow and alert automation for failed AW payments per linked doc",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-10-12"
+    },
+    "58e9ce43500e0587931012a22c2cf8ac|overdue|2026-10-13": {
+      "scheduledAt": "2026-09-09T06:02:13.750Z",
+      "type": "overdue",
+      "task": "Create workflow and alert automation for failed AW payments per linked doc",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-10-13"
+    },
+    "58e9ce43500e0587931012a22c2cf8ac|overdue|2026-10-14": {
+      "scheduledAt": "2026-09-09T06:02:14.596Z",
+      "type": "overdue",
+      "task": "Create workflow and alert automation for failed AW payments per linked doc",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-10-14"
+    },
+    "58e9ce43500e0587931012a22c2cf8ac|overdue|2026-10-15": {
+      "scheduledAt": "2026-09-09T06:02:15.469Z",
+      "type": "overdue",
+      "task": "Create workflow and alert automation for failed AW payments per linked doc",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-10-15"
+    },
+    "58e9ce43500e0587931012a22c2cf8ac|overdue|2026-10-16": {
+      "scheduledAt": "2026-09-09T06:02:16.293Z",
+      "type": "overdue",
+      "task": "Create workflow and alert automation for failed AW payments per linked doc",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-10-16"
+    },
+    "58e9ce43500e0587931012a22c2cf8ac|overdue|2026-10-17": {
+      "scheduledAt": "2026-09-09T06:02:17.171Z",
+      "type": "overdue",
+      "task": "Create workflow and alert automation for failed AW payments per linked doc",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-10-17"
+    },
+    "58e9ce43500e0587931012a22c2cf8ac|overdue|2026-10-18": {
+      "scheduledAt": "2026-09-09T06:02:18.022Z",
+      "type": "overdue",
+      "task": "Create workflow and alert automation for failed AW payments per linked doc",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-10-18"
     }
   },
   "scheduledMessageIds": {
@@ -31053,6 +31312,430 @@
         "channel": "C05JGF817H6",
         "messageId": "Q0C0JJF3VM2"
       }
+    ],
+    "33ef53dd83838fd70b4b246ac82941bd": [
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0C0HMVPSG2"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0C1C47HY80"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0C0KLJMK09"
+      }
+    ],
+    "58e9ce43500e0587931012a22c2cf8ac": [
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0C02BYAZTR"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0C02BYL0SK"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0C0KLKC5Q9"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0C0FQM876J"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0C1C484YDN"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0C0D8ZHZK7"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0C0D9007N1"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0C0BFN2HC3"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0C0D8ZFHJ9"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0C0KLKGDSM"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0C0HMW4Z7U"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0C02BZ1QUX"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0C0FQMEDML"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0C02BYJCCF"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0C0MCVNCLC"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0C0FQMHERL"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0C0BFMLQKD"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0C0MCVQ5NY"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0C0HMX5C74"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0C0KLL5D5F"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0C0KLKPT0R"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0C02BZ4887"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0C0KLL08JV"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0C0BFNMAH1"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0C1C48M3CG"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0C0HM4LC9Y"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0C0KLJPPAM"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0C0BFN9319"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0C0BFKDQJF"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0C0D90PXN1"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0C0FQN668N"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0C0MCVM804"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0C02BZ16AK"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0C0MCW5U3E"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0C02BYUBST"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0C0KLL7AKB"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0C0KLKJQAV"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0C1C492RC0"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0C0KLL32C9"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0C0FQN9KAS"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0C0KLKSL49"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0C0KLKTRDX"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0C0HMX8VMY"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0C0MCWN8R2"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0C1C48PW6L"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0C0BFPK63V"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0C0BFNU211"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0C0HMX52TC"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0C0MCWMJTE"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0C02C00NVD"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0C0D91B1HT"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0C0FQNE6B0"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0C1C4946AC"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0C0KLLEP3K"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0C1C49BKFA"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0C0D91250D"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0C1C49EMKJ"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0C0KLM723B"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0C0D912C1K"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0C0HMXLLV8"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0C0BFPC2PM"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0C0D921HCM"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0C0HMXMKGS"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0C0KLLQ6AD"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0C1C49LHUY"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0C0BFPKR4K"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0C0D91HMAR"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0C0FQPCT7G"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0C0KLM1L3B"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0C0BFPL47M"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0C0D921UN9"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0C02C0KJNB"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0C02C0F7N3"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0C0BFPJK99"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0C0KLM5109"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0C0KLMG2PK"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0C02C0QAEB"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0C0FQPBQ86"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0C1C493D2L"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0C0BFPKETV"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0C0BFPDBEX"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0C0D91J3C5"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0C02C0BPST"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0C0BFQALSF"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0C0D92GW6R"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0C0MCY9AJG"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0C0FQPM06A"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0C0BFQ3FH9"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0C0MCXU0J0"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0C0HMYK4BU"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0C1C4ADF6U"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0C0KLMRARF"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0C0KLN17H7"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0C0HMYTR7U"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0C0MCYNG76"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0C0KLMTY73"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0C0FQPTVUN"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0C0HMYMWUS"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0C1C4AFUPJ"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0C02C1PZPZ"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0C02C17DHD"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0C0KLNCRBK"
+      }
     ]
   },
   "processedMessageTs": {
@@ -31249,8 +31932,10 @@
     "1788450780.260179": true,
     "1788465161.147469": true,
     "1788545499.717249": true,
-    "1788899387.518809": true
+    "1788899387.518809": true,
+    "1788913886.361309": true,
+    "1788907320.490489": true
   },
   "lastWeeklySummaryDate": "2026-W36",
-  "lastRun": "2026-09-08T20:56:08.686Z"
+  "lastRun": "2026-09-09T06:02:18.023Z"
 }
