@@ -1637,6 +1637,34 @@
       "completed": false,
       "completedAt": null,
       "firstSeenAt": "2026-09-11T18:01:40.696Z"
+    },
+    "57c361c7ff3fbbfbd310823e4b986b99": {
+      "task": "Setup onboarding call automation in Skool using the provided calendar link",
+      "assignee_name": "Chrissy Robertson",
+      "assignee_slack_mention": "@Chrissy 'Queen Bee' Robertson",
+      "assigned_date": "2026-09-11",
+      "due_date": "2026-09-14",
+      "message_ts": "1789157276.050809",
+      "source_message": "@Chrissy 'Queen Bee' Robertson setup onboarding call automation in Skool using this calendar by Mon",
+      "assigneeId": "U01M7FMPTRR",
+      "messageTs": "1789157276.050809",
+      "completed": false,
+      "completedAt": null,
+      "firstSeenAt": "2026-09-11T20:43:36.739Z"
+    },
+    "ab44a03d10f1be1684b234b3ed39b982": {
+      "task": "Setup appointment reminder workflow in Dovetail GHL",
+      "assignee_name": "Josh Morales",
+      "assignee_slack_mention": "@Josh 'The Ninja' Morales",
+      "assigned_date": "2026-09-11",
+      "due_date": "2026-09-14",
+      "message_ts": "1789157249.248209",
+      "source_message": "@Josh 'The Ninja' Morales setup appointment reminder workflow in dovetail ghl by monday https://dove",
+      "assigneeId": "U07FVUF09T7",
+      "messageTs": "1789157249.248209",
+      "completed": false,
+      "completedAt": null,
+      "firstSeenAt": "2026-09-11T20:43:36.797Z"
     }
   },
   "scheduled": {
@@ -19697,6 +19725,468 @@
       "task": "Create a lead quality/quantity report for Mike Bonn account",
       "assignee": "Joma 'Magic Fingers' Cris Cantalejo",
       "reminderDate": "2026-10-15"
+    },
+    "57c361c7ff3fbbfbd310823e4b986b99|midpoint|2026-09-12": {
+      "scheduledAt": "2026-09-11T20:43:37.538Z",
+      "type": "midpoint",
+      "task": "Setup onboarding call automation in Skool using the provided calendar link",
+      "assignee": "Chrissy Robertson",
+      "reminderDate": "2026-09-12"
+    },
+    "57c361c7ff3fbbfbd310823e4b986b99|nag|2026-09-13": {
+      "scheduledAt": "2026-09-11T20:43:38.234Z",
+      "type": "nag",
+      "task": "Setup onboarding call automation in Skool using the provided calendar link",
+      "assignee": "Chrissy Robertson",
+      "reminderDate": "2026-09-13"
+    },
+    "57c361c7ff3fbbfbd310823e4b986b99|due|2026-09-14": {
+      "scheduledAt": "2026-09-11T20:43:38.939Z",
+      "type": "due",
+      "task": "Setup onboarding call automation in Skool using the provided calendar link",
+      "assignee": "Chrissy Robertson",
+      "reminderDate": "2026-09-14"
+    },
+    "57c361c7ff3fbbfbd310823e4b986b99|overdue|2026-09-15": {
+      "scheduledAt": "2026-09-11T20:43:39.615Z",
+      "type": "overdue",
+      "task": "Setup onboarding call automation in Skool using the provided calendar link",
+      "assignee": "Chrissy Robertson",
+      "reminderDate": "2026-09-15"
+    },
+    "57c361c7ff3fbbfbd310823e4b986b99|overdue|2026-09-16": {
+      "scheduledAt": "2026-09-11T20:43:40.328Z",
+      "type": "overdue",
+      "task": "Setup onboarding call automation in Skool using the provided calendar link",
+      "assignee": "Chrissy Robertson",
+      "reminderDate": "2026-09-16"
+    },
+    "57c361c7ff3fbbfbd310823e4b986b99|overdue|2026-09-17": {
+      "scheduledAt": "2026-09-11T20:43:41.061Z",
+      "type": "overdue",
+      "task": "Setup onboarding call automation in Skool using the provided calendar link",
+      "assignee": "Chrissy Robertson",
+      "reminderDate": "2026-09-17"
+    },
+    "57c361c7ff3fbbfbd310823e4b986b99|overdue|2026-09-18": {
+      "scheduledAt": "2026-09-11T20:43:41.785Z",
+      "type": "overdue",
+      "task": "Setup onboarding call automation in Skool using the provided calendar link",
+      "assignee": "Chrissy Robertson",
+      "reminderDate": "2026-09-18"
+    },
+    "57c361c7ff3fbbfbd310823e4b986b99|overdue|2026-09-19": {
+      "scheduledAt": "2026-09-11T20:43:42.477Z",
+      "type": "overdue",
+      "task": "Setup onboarding call automation in Skool using the provided calendar link",
+      "assignee": "Chrissy Robertson",
+      "reminderDate": "2026-09-19"
+    },
+    "57c361c7ff3fbbfbd310823e4b986b99|overdue|2026-09-20": {
+      "scheduledAt": "2026-09-11T20:43:43.206Z",
+      "type": "overdue",
+      "task": "Setup onboarding call automation in Skool using the provided calendar link",
+      "assignee": "Chrissy Robertson",
+      "reminderDate": "2026-09-20"
+    },
+    "57c361c7ff3fbbfbd310823e4b986b99|overdue|2026-09-21": {
+      "scheduledAt": "2026-09-11T20:43:43.884Z",
+      "type": "overdue",
+      "task": "Setup onboarding call automation in Skool using the provided calendar link",
+      "assignee": "Chrissy Robertson",
+      "reminderDate": "2026-09-21"
+    },
+    "57c361c7ff3fbbfbd310823e4b986b99|overdue|2026-09-22": {
+      "scheduledAt": "2026-09-11T20:43:44.603Z",
+      "type": "overdue",
+      "task": "Setup onboarding call automation in Skool using the provided calendar link",
+      "assignee": "Chrissy Robertson",
+      "reminderDate": "2026-09-22"
+    },
+    "57c361c7ff3fbbfbd310823e4b986b99|overdue|2026-09-23": {
+      "scheduledAt": "2026-09-11T20:43:45.386Z",
+      "type": "overdue",
+      "task": "Setup onboarding call automation in Skool using the provided calendar link",
+      "assignee": "Chrissy Robertson",
+      "reminderDate": "2026-09-23"
+    },
+    "57c361c7ff3fbbfbd310823e4b986b99|overdue|2026-09-24": {
+      "scheduledAt": "2026-09-11T20:43:46.106Z",
+      "type": "overdue",
+      "task": "Setup onboarding call automation in Skool using the provided calendar link",
+      "assignee": "Chrissy Robertson",
+      "reminderDate": "2026-09-24"
+    },
+    "57c361c7ff3fbbfbd310823e4b986b99|overdue|2026-09-25": {
+      "scheduledAt": "2026-09-11T20:43:46.848Z",
+      "type": "overdue",
+      "task": "Setup onboarding call automation in Skool using the provided calendar link",
+      "assignee": "Chrissy Robertson",
+      "reminderDate": "2026-09-25"
+    },
+    "57c361c7ff3fbbfbd310823e4b986b99|overdue|2026-09-26": {
+      "scheduledAt": "2026-09-11T20:43:47.575Z",
+      "type": "overdue",
+      "task": "Setup onboarding call automation in Skool using the provided calendar link",
+      "assignee": "Chrissy Robertson",
+      "reminderDate": "2026-09-26"
+    },
+    "57c361c7ff3fbbfbd310823e4b986b99|overdue|2026-09-27": {
+      "scheduledAt": "2026-09-11T20:43:48.272Z",
+      "type": "overdue",
+      "task": "Setup onboarding call automation in Skool using the provided calendar link",
+      "assignee": "Chrissy Robertson",
+      "reminderDate": "2026-09-27"
+    },
+    "57c361c7ff3fbbfbd310823e4b986b99|overdue|2026-09-28": {
+      "scheduledAt": "2026-09-11T20:43:48.959Z",
+      "type": "overdue",
+      "task": "Setup onboarding call automation in Skool using the provided calendar link",
+      "assignee": "Chrissy Robertson",
+      "reminderDate": "2026-09-28"
+    },
+    "57c361c7ff3fbbfbd310823e4b986b99|overdue|2026-09-29": {
+      "scheduledAt": "2026-09-11T20:43:49.803Z",
+      "type": "overdue",
+      "task": "Setup onboarding call automation in Skool using the provided calendar link",
+      "assignee": "Chrissy Robertson",
+      "reminderDate": "2026-09-29"
+    },
+    "57c361c7ff3fbbfbd310823e4b986b99|overdue|2026-09-30": {
+      "scheduledAt": "2026-09-11T20:43:50.508Z",
+      "type": "overdue",
+      "task": "Setup onboarding call automation in Skool using the provided calendar link",
+      "assignee": "Chrissy Robertson",
+      "reminderDate": "2026-09-30"
+    },
+    "57c361c7ff3fbbfbd310823e4b986b99|overdue|2026-10-01": {
+      "scheduledAt": "2026-09-11T20:43:51.255Z",
+      "type": "overdue",
+      "task": "Setup onboarding call automation in Skool using the provided calendar link",
+      "assignee": "Chrissy Robertson",
+      "reminderDate": "2026-10-01"
+    },
+    "57c361c7ff3fbbfbd310823e4b986b99|overdue|2026-10-02": {
+      "scheduledAt": "2026-09-11T20:43:51.959Z",
+      "type": "overdue",
+      "task": "Setup onboarding call automation in Skool using the provided calendar link",
+      "assignee": "Chrissy Robertson",
+      "reminderDate": "2026-10-02"
+    },
+    "57c361c7ff3fbbfbd310823e4b986b99|overdue|2026-10-03": {
+      "scheduledAt": "2026-09-11T20:43:52.667Z",
+      "type": "overdue",
+      "task": "Setup onboarding call automation in Skool using the provided calendar link",
+      "assignee": "Chrissy Robertson",
+      "reminderDate": "2026-10-03"
+    },
+    "57c361c7ff3fbbfbd310823e4b986b99|overdue|2026-10-04": {
+      "scheduledAt": "2026-09-11T20:43:53.377Z",
+      "type": "overdue",
+      "task": "Setup onboarding call automation in Skool using the provided calendar link",
+      "assignee": "Chrissy Robertson",
+      "reminderDate": "2026-10-04"
+    },
+    "57c361c7ff3fbbfbd310823e4b986b99|overdue|2026-10-05": {
+      "scheduledAt": "2026-09-11T20:43:54.086Z",
+      "type": "overdue",
+      "task": "Setup onboarding call automation in Skool using the provided calendar link",
+      "assignee": "Chrissy Robertson",
+      "reminderDate": "2026-10-05"
+    },
+    "57c361c7ff3fbbfbd310823e4b986b99|overdue|2026-10-06": {
+      "scheduledAt": "2026-09-11T20:43:54.813Z",
+      "type": "overdue",
+      "task": "Setup onboarding call automation in Skool using the provided calendar link",
+      "assignee": "Chrissy Robertson",
+      "reminderDate": "2026-10-06"
+    },
+    "57c361c7ff3fbbfbd310823e4b986b99|overdue|2026-10-07": {
+      "scheduledAt": "2026-09-11T20:43:55.530Z",
+      "type": "overdue",
+      "task": "Setup onboarding call automation in Skool using the provided calendar link",
+      "assignee": "Chrissy Robertson",
+      "reminderDate": "2026-10-07"
+    },
+    "57c361c7ff3fbbfbd310823e4b986b99|overdue|2026-10-08": {
+      "scheduledAt": "2026-09-11T20:43:56.234Z",
+      "type": "overdue",
+      "task": "Setup onboarding call automation in Skool using the provided calendar link",
+      "assignee": "Chrissy Robertson",
+      "reminderDate": "2026-10-08"
+    },
+    "57c361c7ff3fbbfbd310823e4b986b99|overdue|2026-10-09": {
+      "scheduledAt": "2026-09-11T20:43:56.935Z",
+      "type": "overdue",
+      "task": "Setup onboarding call automation in Skool using the provided calendar link",
+      "assignee": "Chrissy Robertson",
+      "reminderDate": "2026-10-09"
+    },
+    "57c361c7ff3fbbfbd310823e4b986b99|overdue|2026-10-10": {
+      "scheduledAt": "2026-09-11T20:43:57.700Z",
+      "type": "overdue",
+      "task": "Setup onboarding call automation in Skool using the provided calendar link",
+      "assignee": "Chrissy Robertson",
+      "reminderDate": "2026-10-10"
+    },
+    "57c361c7ff3fbbfbd310823e4b986b99|overdue|2026-10-11": {
+      "scheduledAt": "2026-09-11T20:43:58.444Z",
+      "type": "overdue",
+      "task": "Setup onboarding call automation in Skool using the provided calendar link",
+      "assignee": "Chrissy Robertson",
+      "reminderDate": "2026-10-11"
+    },
+    "57c361c7ff3fbbfbd310823e4b986b99|overdue|2026-10-12": {
+      "scheduledAt": "2026-09-11T20:43:59.217Z",
+      "type": "overdue",
+      "task": "Setup onboarding call automation in Skool using the provided calendar link",
+      "assignee": "Chrissy Robertson",
+      "reminderDate": "2026-10-12"
+    },
+    "57c361c7ff3fbbfbd310823e4b986b99|overdue|2026-10-13": {
+      "scheduledAt": "2026-09-11T20:43:59.921Z",
+      "type": "overdue",
+      "task": "Setup onboarding call automation in Skool using the provided calendar link",
+      "assignee": "Chrissy Robertson",
+      "reminderDate": "2026-10-13"
+    },
+    "57c361c7ff3fbbfbd310823e4b986b99|overdue|2026-10-14": {
+      "scheduledAt": "2026-09-11T20:44:00.600Z",
+      "type": "overdue",
+      "task": "Setup onboarding call automation in Skool using the provided calendar link",
+      "assignee": "Chrissy Robertson",
+      "reminderDate": "2026-10-14"
+    },
+    "ab44a03d10f1be1684b234b3ed39b982|midpoint|2026-09-12": {
+      "scheduledAt": "2026-09-11T20:44:01.315Z",
+      "type": "midpoint",
+      "task": "Setup appointment reminder workflow in Dovetail GHL",
+      "assignee": "Josh Morales",
+      "reminderDate": "2026-09-12"
+    },
+    "ab44a03d10f1be1684b234b3ed39b982|nag|2026-09-13": {
+      "scheduledAt": "2026-09-11T20:44:02.015Z",
+      "type": "nag",
+      "task": "Setup appointment reminder workflow in Dovetail GHL",
+      "assignee": "Josh Morales",
+      "reminderDate": "2026-09-13"
+    },
+    "ab44a03d10f1be1684b234b3ed39b982|due|2026-09-14": {
+      "scheduledAt": "2026-09-11T20:44:02.739Z",
+      "type": "due",
+      "task": "Setup appointment reminder workflow in Dovetail GHL",
+      "assignee": "Josh Morales",
+      "reminderDate": "2026-09-14"
+    },
+    "ab44a03d10f1be1684b234b3ed39b982|overdue|2026-09-15": {
+      "scheduledAt": "2026-09-11T20:44:03.476Z",
+      "type": "overdue",
+      "task": "Setup appointment reminder workflow in Dovetail GHL",
+      "assignee": "Josh Morales",
+      "reminderDate": "2026-09-15"
+    },
+    "ab44a03d10f1be1684b234b3ed39b982|overdue|2026-09-16": {
+      "scheduledAt": "2026-09-11T20:44:04.161Z",
+      "type": "overdue",
+      "task": "Setup appointment reminder workflow in Dovetail GHL",
+      "assignee": "Josh Morales",
+      "reminderDate": "2026-09-16"
+    },
+    "ab44a03d10f1be1684b234b3ed39b982|overdue|2026-09-17": {
+      "scheduledAt": "2026-09-11T20:44:04.879Z",
+      "type": "overdue",
+      "task": "Setup appointment reminder workflow in Dovetail GHL",
+      "assignee": "Josh Morales",
+      "reminderDate": "2026-09-17"
+    },
+    "ab44a03d10f1be1684b234b3ed39b982|overdue|2026-09-18": {
+      "scheduledAt": "2026-09-11T20:44:05.606Z",
+      "type": "overdue",
+      "task": "Setup appointment reminder workflow in Dovetail GHL",
+      "assignee": "Josh Morales",
+      "reminderDate": "2026-09-18"
+    },
+    "ab44a03d10f1be1684b234b3ed39b982|overdue|2026-09-19": {
+      "scheduledAt": "2026-09-11T20:44:06.311Z",
+      "type": "overdue",
+      "task": "Setup appointment reminder workflow in Dovetail GHL",
+      "assignee": "Josh Morales",
+      "reminderDate": "2026-09-19"
+    },
+    "ab44a03d10f1be1684b234b3ed39b982|overdue|2026-09-20": {
+      "scheduledAt": "2026-09-11T20:44:07.097Z",
+      "type": "overdue",
+      "task": "Setup appointment reminder workflow in Dovetail GHL",
+      "assignee": "Josh Morales",
+      "reminderDate": "2026-09-20"
+    },
+    "ab44a03d10f1be1684b234b3ed39b982|overdue|2026-09-21": {
+      "scheduledAt": "2026-09-11T20:44:07.836Z",
+      "type": "overdue",
+      "task": "Setup appointment reminder workflow in Dovetail GHL",
+      "assignee": "Josh Morales",
+      "reminderDate": "2026-09-21"
+    },
+    "ab44a03d10f1be1684b234b3ed39b982|overdue|2026-09-22": {
+      "scheduledAt": "2026-09-11T20:44:08.634Z",
+      "type": "overdue",
+      "task": "Setup appointment reminder workflow in Dovetail GHL",
+      "assignee": "Josh Morales",
+      "reminderDate": "2026-09-22"
+    },
+    "ab44a03d10f1be1684b234b3ed39b982|overdue|2026-09-23": {
+      "scheduledAt": "2026-09-11T20:44:09.328Z",
+      "type": "overdue",
+      "task": "Setup appointment reminder workflow in Dovetail GHL",
+      "assignee": "Josh Morales",
+      "reminderDate": "2026-09-23"
+    },
+    "ab44a03d10f1be1684b234b3ed39b982|overdue|2026-09-24": {
+      "scheduledAt": "2026-09-11T20:44:10.030Z",
+      "type": "overdue",
+      "task": "Setup appointment reminder workflow in Dovetail GHL",
+      "assignee": "Josh Morales",
+      "reminderDate": "2026-09-24"
+    },
+    "ab44a03d10f1be1684b234b3ed39b982|overdue|2026-09-25": {
+      "scheduledAt": "2026-09-11T20:44:10.724Z",
+      "type": "overdue",
+      "task": "Setup appointment reminder workflow in Dovetail GHL",
+      "assignee": "Josh Morales",
+      "reminderDate": "2026-09-25"
+    },
+    "ab44a03d10f1be1684b234b3ed39b982|overdue|2026-09-26": {
+      "scheduledAt": "2026-09-11T20:44:11.419Z",
+      "type": "overdue",
+      "task": "Setup appointment reminder workflow in Dovetail GHL",
+      "assignee": "Josh Morales",
+      "reminderDate": "2026-09-26"
+    },
+    "ab44a03d10f1be1684b234b3ed39b982|overdue|2026-09-27": {
+      "scheduledAt": "2026-09-11T20:44:12.133Z",
+      "type": "overdue",
+      "task": "Setup appointment reminder workflow in Dovetail GHL",
+      "assignee": "Josh Morales",
+      "reminderDate": "2026-09-27"
+    },
+    "ab44a03d10f1be1684b234b3ed39b982|overdue|2026-09-28": {
+      "scheduledAt": "2026-09-11T20:44:12.817Z",
+      "type": "overdue",
+      "task": "Setup appointment reminder workflow in Dovetail GHL",
+      "assignee": "Josh Morales",
+      "reminderDate": "2026-09-28"
+    },
+    "ab44a03d10f1be1684b234b3ed39b982|overdue|2026-09-29": {
+      "scheduledAt": "2026-09-11T20:44:13.518Z",
+      "type": "overdue",
+      "task": "Setup appointment reminder workflow in Dovetail GHL",
+      "assignee": "Josh Morales",
+      "reminderDate": "2026-09-29"
+    },
+    "ab44a03d10f1be1684b234b3ed39b982|overdue|2026-09-30": {
+      "scheduledAt": "2026-09-11T20:44:14.217Z",
+      "type": "overdue",
+      "task": "Setup appointment reminder workflow in Dovetail GHL",
+      "assignee": "Josh Morales",
+      "reminderDate": "2026-09-30"
+    },
+    "ab44a03d10f1be1684b234b3ed39b982|overdue|2026-10-01": {
+      "scheduledAt": "2026-09-11T20:44:14.919Z",
+      "type": "overdue",
+      "task": "Setup appointment reminder workflow in Dovetail GHL",
+      "assignee": "Josh Morales",
+      "reminderDate": "2026-10-01"
+    },
+    "ab44a03d10f1be1684b234b3ed39b982|overdue|2026-10-02": {
+      "scheduledAt": "2026-09-11T20:44:15.592Z",
+      "type": "overdue",
+      "task": "Setup appointment reminder workflow in Dovetail GHL",
+      "assignee": "Josh Morales",
+      "reminderDate": "2026-10-02"
+    },
+    "ab44a03d10f1be1684b234b3ed39b982|overdue|2026-10-03": {
+      "scheduledAt": "2026-09-11T20:44:16.306Z",
+      "type": "overdue",
+      "task": "Setup appointment reminder workflow in Dovetail GHL",
+      "assignee": "Josh Morales",
+      "reminderDate": "2026-10-03"
+    },
+    "ab44a03d10f1be1684b234b3ed39b982|overdue|2026-10-04": {
+      "scheduledAt": "2026-09-11T20:44:17.025Z",
+      "type": "overdue",
+      "task": "Setup appointment reminder workflow in Dovetail GHL",
+      "assignee": "Josh Morales",
+      "reminderDate": "2026-10-04"
+    },
+    "ab44a03d10f1be1684b234b3ed39b982|overdue|2026-10-05": {
+      "scheduledAt": "2026-09-11T20:44:17.807Z",
+      "type": "overdue",
+      "task": "Setup appointment reminder workflow in Dovetail GHL",
+      "assignee": "Josh Morales",
+      "reminderDate": "2026-10-05"
+    },
+    "ab44a03d10f1be1684b234b3ed39b982|overdue|2026-10-06": {
+      "scheduledAt": "2026-09-11T20:44:18.554Z",
+      "type": "overdue",
+      "task": "Setup appointment reminder workflow in Dovetail GHL",
+      "assignee": "Josh Morales",
+      "reminderDate": "2026-10-06"
+    },
+    "ab44a03d10f1be1684b234b3ed39b982|overdue|2026-10-07": {
+      "scheduledAt": "2026-09-11T20:44:19.259Z",
+      "type": "overdue",
+      "task": "Setup appointment reminder workflow in Dovetail GHL",
+      "assignee": "Josh Morales",
+      "reminderDate": "2026-10-07"
+    },
+    "ab44a03d10f1be1684b234b3ed39b982|overdue|2026-10-08": {
+      "scheduledAt": "2026-09-11T20:44:19.955Z",
+      "type": "overdue",
+      "task": "Setup appointment reminder workflow in Dovetail GHL",
+      "assignee": "Josh Morales",
+      "reminderDate": "2026-10-08"
+    },
+    "ab44a03d10f1be1684b234b3ed39b982|overdue|2026-10-09": {
+      "scheduledAt": "2026-09-11T20:44:20.662Z",
+      "type": "overdue",
+      "task": "Setup appointment reminder workflow in Dovetail GHL",
+      "assignee": "Josh Morales",
+      "reminderDate": "2026-10-09"
+    },
+    "ab44a03d10f1be1684b234b3ed39b982|overdue|2026-10-10": {
+      "scheduledAt": "2026-09-11T20:44:21.410Z",
+      "type": "overdue",
+      "task": "Setup appointment reminder workflow in Dovetail GHL",
+      "assignee": "Josh Morales",
+      "reminderDate": "2026-10-10"
+    },
+    "ab44a03d10f1be1684b234b3ed39b982|overdue|2026-10-11": {
+      "scheduledAt": "2026-09-11T20:44:22.123Z",
+      "type": "overdue",
+      "task": "Setup appointment reminder workflow in Dovetail GHL",
+      "assignee": "Josh Morales",
+      "reminderDate": "2026-10-11"
+    },
+    "ab44a03d10f1be1684b234b3ed39b982|overdue|2026-10-12": {
+      "scheduledAt": "2026-09-11T20:44:22.814Z",
+      "type": "overdue",
+      "task": "Setup appointment reminder workflow in Dovetail GHL",
+      "assignee": "Josh Morales",
+      "reminderDate": "2026-10-12"
+    },
+    "ab44a03d10f1be1684b234b3ed39b982|overdue|2026-10-13": {
+      "scheduledAt": "2026-09-11T20:44:24.178Z",
+      "type": "overdue",
+      "task": "Setup appointment reminder workflow in Dovetail GHL",
+      "assignee": "Josh Morales",
+      "reminderDate": "2026-10-13"
+    },
+    "ab44a03d10f1be1684b234b3ed39b982|overdue|2026-10-14": {
+      "scheduledAt": "2026-09-11T20:44:24.903Z",
+      "type": "overdue",
+      "task": "Setup appointment reminder workflow in Dovetail GHL",
+      "assignee": "Josh Morales",
+      "reminderDate": "2026-10-14"
     }
   },
   "scheduledMessageIds": {
@@ -30195,6 +30685,802 @@
         "channel": "C08RPJDC073",
         "messageId": "Q0C1BGWGCTB"
       }
+    ],
+    "57c361c7ff3fbbfbd310823e4b986b99": [
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0C18S8J5GW"
+      },
+      {
+        "channel": "U01M7FMPTRR",
+        "messageId": "Q0C18S92S6S"
+      },
+      {
+        "channel": "C08RNTW55JM",
+        "messageId": "Q0C0VDRGFDM"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0C1664M0SZ"
+      },
+      {
+        "channel": "U01M7FMPTRR",
+        "messageId": "Q0C255T27C0"
+      },
+      {
+        "channel": "C08RNTW55JM",
+        "messageId": "Q0C1CNM2EHX"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0C0VDRB4BZ"
+      },
+      {
+        "channel": "U01M7FMPTRR",
+        "messageId": "Q0C1EEPFFPE"
+      },
+      {
+        "channel": "C08RNTW55JM",
+        "messageId": "Q0C166538Q5"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0C0VDR3M8F"
+      },
+      {
+        "channel": "U01M7FMPTRR",
+        "messageId": "Q0C14HT4GE7"
+      },
+      {
+        "channel": "C08RNTW55JM",
+        "messageId": "Q0C1EEPPHDJ"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0C1AP55QSE"
+      },
+      {
+        "channel": "U01M7FMPTRR",
+        "messageId": "Q0C18S8V18W"
+      },
+      {
+        "channel": "C08RNTW55JM",
+        "messageId": "Q0C14HT22V9"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0C1EEPAT28"
+      },
+      {
+        "channel": "U01M7FMPTRR",
+        "messageId": "Q0C1664L4Q5"
+      },
+      {
+        "channel": "C08RNTW55JM",
+        "messageId": "Q0C1AP5C0F4"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0C255T437S"
+      },
+      {
+        "channel": "U01M7FMPTRR",
+        "messageId": "Q0C1AP5CKRQ"
+      },
+      {
+        "channel": "C08RNTW55JM",
+        "messageId": "Q0C166589S9"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0C1AP56QUA"
+      },
+      {
+        "channel": "U01M7FMPTRR",
+        "messageId": "Q0C1EEM3QDS"
+      },
+      {
+        "channel": "C08RNTW55JM",
+        "messageId": "Q0C255THB40"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0C1EEQ6Y76"
+      },
+      {
+        "channel": "U01M7FMPTRR",
+        "messageId": "Q0C0VDRE347"
+      },
+      {
+        "channel": "C08RNTW55JM",
+        "messageId": "Q0C1AP5LWH0"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0C1CNMC7T3"
+      },
+      {
+        "channel": "U01M7FMPTRR",
+        "messageId": "Q0C0VDRDRGF"
+      },
+      {
+        "channel": "C08RNTW55JM",
+        "messageId": "Q0C0VDRH86B"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0C1CNN6YU9"
+      },
+      {
+        "channel": "U01M7FMPTRR",
+        "messageId": "Q0C14HTRP8B"
+      },
+      {
+        "channel": "C08RNTW55JM",
+        "messageId": "Q0C255THA8Y"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0C1AP5NRC2"
+      },
+      {
+        "channel": "U01M7FMPTRR",
+        "messageId": "Q0C16656HK7"
+      },
+      {
+        "channel": "C08RNTW55JM",
+        "messageId": "Q0C1EEPJ6GL"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0C18SA1E1L"
+      },
+      {
+        "channel": "U01M7FMPTRR",
+        "messageId": "Q0C1665J69K"
+      },
+      {
+        "channel": "C08RNTW55JM",
+        "messageId": "Q0C1EEQ0ZEG"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0C255THP5E"
+      },
+      {
+        "channel": "U01M7FMPTRR",
+        "messageId": "Q0C0VDRJ74P"
+      },
+      {
+        "channel": "C08RNTW55JM",
+        "messageId": "Q0C255TN01E"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0C1665KEKF"
+      },
+      {
+        "channel": "U01M7FMPTRR",
+        "messageId": "Q0C1665SE69"
+      },
+      {
+        "channel": "C08RNTW55JM",
+        "messageId": "Q0C1666LKHB"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0C0VDS9YKZ"
+      },
+      {
+        "channel": "U01M7FMPTRR",
+        "messageId": "Q0C0VDRV2MV"
+      },
+      {
+        "channel": "C08RNTW55JM",
+        "messageId": "Q0C14HTH47M"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0C1EEQBXL4"
+      },
+      {
+        "channel": "U01M7FMPTRR",
+        "messageId": "Q0C0VDRJEB1"
+      },
+      {
+        "channel": "C08RNTW55JM",
+        "messageId": "Q0C16665JS1"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0C14HU9SE7"
+      },
+      {
+        "channel": "U01M7FMPTRR",
+        "messageId": "Q0C1EEQTCQ4"
+      },
+      {
+        "channel": "C08RNTW55JM",
+        "messageId": "Q0C18SB9U7Q"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0C1666D613"
+      },
+      {
+        "channel": "U01M7FMPTRR",
+        "messageId": "Q0C1CNNQJFK"
+      },
+      {
+        "channel": "C08RNTW55JM",
+        "messageId": "Q0C1AP66F1Q"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0C255UNL0Y"
+      },
+      {
+        "channel": "U01M7FMPTRR",
+        "messageId": "Q0C255TUA56"
+      },
+      {
+        "channel": "C08RNTW55JM",
+        "messageId": "Q0C1CNNS8Q1"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0C1666LSVB"
+      },
+      {
+        "channel": "U01M7FMPTRR",
+        "messageId": "Q0C18SB24HL"
+      },
+      {
+        "channel": "C08RNTW55JM",
+        "messageId": "Q0C1AP6NW9Y"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0C255U6SE4"
+      },
+      {
+        "channel": "U01M7FMPTRR",
+        "messageId": "Q0C14HU8ZM1"
+      },
+      {
+        "channel": "C08RNTW55JM",
+        "messageId": "Q0C255UFMPS"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0C1CNNTY01"
+      },
+      {
+        "channel": "U01M7FMPTRR",
+        "messageId": "Q0C1CNP2GJD"
+      },
+      {
+        "channel": "C08RNTW55JM",
+        "messageId": "Q0C16664CBX"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0C0VDSP555"
+      },
+      {
+        "channel": "U01M7FMPTRR",
+        "messageId": "Q0C0VDT72T1"
+      },
+      {
+        "channel": "C08RNTW55JM",
+        "messageId": "Q0C1CNNN29X"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0C255U3UHW"
+      },
+      {
+        "channel": "U01M7FMPTRR",
+        "messageId": "Q0C255USSQY"
+      },
+      {
+        "channel": "C08RNTW55JM",
+        "messageId": "Q0C1CNNVBGR"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0C14HU5P3M"
+      },
+      {
+        "channel": "U01M7FMPTRR",
+        "messageId": "Q0C14HUV4KV"
+      },
+      {
+        "channel": "C08RNTW55JM",
+        "messageId": "Q0C18SADEQN"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0C1AP6P410"
+      },
+      {
+        "channel": "U01M7FMPTRR",
+        "messageId": "Q0C1AP76T50"
+      },
+      {
+        "channel": "C08RNTW55JM",
+        "messageId": "Q0C14HUFPMH"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0C255U7TFS"
+      },
+      {
+        "channel": "U01M7FMPTRR",
+        "messageId": "Q0C1EER1JQ4"
+      },
+      {
+        "channel": "C08RNTW55JM",
+        "messageId": "Q0C1EER3S1J"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0C1AP74R98"
+      },
+      {
+        "channel": "U01M7FMPTRR",
+        "messageId": "Q0C1AP71XMG"
+      },
+      {
+        "channel": "C08RNTW55JM",
+        "messageId": "Q0C1CNPBR4Z"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0C255UU6D6"
+      },
+      {
+        "channel": "U01M7FMPTRR",
+        "messageId": "Q0C0VDT1PD5"
+      },
+      {
+        "channel": "C08RNTW55JM",
+        "messageId": "Q0C255RPY56"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0C14HUE743"
+      },
+      {
+        "channel": "U01M7FMPTRR",
+        "messageId": "Q0C255UEP6U"
+      },
+      {
+        "channel": "C08RNTW55JM",
+        "messageId": "Q0C1CNPC1LZ"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0C255VFFEC"
+      },
+      {
+        "channel": "U01M7FMPTRR",
+        "messageId": "Q0C1AP78WHY"
+      },
+      {
+        "channel": "C08RNTW55JM",
+        "messageId": "Q0C18SBAPJS"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0C1AP6T918"
+      },
+      {
+        "channel": "U01M7FMPTRR",
+        "messageId": "Q0C1EES3268"
+      },
+      {
+        "channel": "C08RNTW55JM",
+        "messageId": "Q0C1EES3DPE"
+      }
+    ],
+    "ab44a03d10f1be1684b234b3ed39b982": [
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0C18SBSESJ"
+      },
+      {
+        "channel": "U07FVUF09T7",
+        "messageId": "Q0C1CNP8X89"
+      },
+      {
+        "channel": "C093VPK55NF",
+        "messageId": "Q0C18SBP0R4"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0C1667DNKF"
+      },
+      {
+        "channel": "U07FVUF09T7",
+        "messageId": "Q0C255V595W"
+      },
+      {
+        "channel": "C093VPK55NF",
+        "messageId": "Q0C16678MSR"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0C14HW6HT5"
+      },
+      {
+        "channel": "U07FVUF09T7",
+        "messageId": "Q0C14HV9D3M"
+      },
+      {
+        "channel": "C093VPK55NF",
+        "messageId": "Q0C18SBS954"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0C14HVFU1H"
+      },
+      {
+        "channel": "U07FVUF09T7",
+        "messageId": "Q0C1AP7F874"
+      },
+      {
+        "channel": "C093VPK55NF",
+        "messageId": "Q0C1CNPR7ND"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0C1667TZTP"
+      },
+      {
+        "channel": "U07FVUF09T7",
+        "messageId": "Q0C255VNJSU"
+      },
+      {
+        "channel": "C093VPK55NF",
+        "messageId": "Q0C1EESLRHA"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0C1EES2M8U"
+      },
+      {
+        "channel": "U07FVUF09T7",
+        "messageId": "Q0C1EESDAR2"
+      },
+      {
+        "channel": "C093VPK55NF",
+        "messageId": "Q0C1668AH9B"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0C255V8CLQ"
+      },
+      {
+        "channel": "U07FVUF09T7",
+        "messageId": "Q0C16691FHT"
+      },
+      {
+        "channel": "C093VPK55NF",
+        "messageId": "Q0C18SBTBFY"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0C14HVRB3M"
+      },
+      {
+        "channel": "U07FVUF09T7",
+        "messageId": "Q0C255VPN0Y"
+      },
+      {
+        "channel": "C093VPK55NF",
+        "messageId": "Q0C1667PY93"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0C14HVU55H"
+      },
+      {
+        "channel": "U07FVUF09T7",
+        "messageId": "Q0C1667C3LM"
+      },
+      {
+        "channel": "C093VPK55NF",
+        "messageId": "Q0C14HW3659"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0C18SC486S"
+      },
+      {
+        "channel": "U07FVUF09T7",
+        "messageId": "Q0C255VV08G"
+      },
+      {
+        "channel": "C093VPK55NF",
+        "messageId": "Q0C1CNQ8FAM"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0C14HW1CBD"
+      },
+      {
+        "channel": "U07FVUF09T7",
+        "messageId": "Q0C14HW3AHZ"
+      },
+      {
+        "channel": "C093VPK55NF",
+        "messageId": "Q0C1CNQ9UCR"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0C255VURQ8"
+      },
+      {
+        "channel": "U07FVUF09T7",
+        "messageId": "Q0C255VRJMN"
+      },
+      {
+        "channel": "C093VPK55NF",
+        "messageId": "Q0C1CNQE3LZ"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0C1AP86ND8"
+      },
+      {
+        "channel": "U07FVUF09T7",
+        "messageId": "Q0C16682NHK"
+      },
+      {
+        "channel": "C093VPK55NF",
+        "messageId": "Q0C1AP8GTL2"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0C18SCP0F8"
+      },
+      {
+        "channel": "U07FVUF09T7",
+        "messageId": "Q0C1667VC4D"
+      },
+      {
+        "channel": "C093VPK55NF",
+        "messageId": "Q0C255WKZ0Q"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0C1EET2JN8"
+      },
+      {
+        "channel": "U07FVUF09T7",
+        "messageId": "Q0C1668MKSR"
+      },
+      {
+        "channel": "C093VPK55NF",
+        "messageId": "Q0C1CNQB0PK"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0C0VDUB93R"
+      },
+      {
+        "channel": "U07FVUF09T7",
+        "messageId": "Q0C1CNSAEJD"
+      },
+      {
+        "channel": "C093VPK55NF",
+        "messageId": "Q0C1CNR62RF"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0C1EET6Z2Q"
+      },
+      {
+        "channel": "U07FVUF09T7",
+        "messageId": "Q0C18SC43B8"
+      },
+      {
+        "channel": "C093VPK55NF",
+        "messageId": "Q0C255W8T32"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0C0VDUF0J3"
+      },
+      {
+        "channel": "U07FVUF09T7",
+        "messageId": "Q0C255WGNBA"
+      },
+      {
+        "channel": "C093VPK55NF",
+        "messageId": "Q0C14HX51H9"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0C1EET0UHJ"
+      },
+      {
+        "channel": "U07FVUF09T7",
+        "messageId": "Q0C1EETCRMJ"
+      },
+      {
+        "channel": "C093VPK55NF",
+        "messageId": "Q0C1AP88RK4"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0C255W62M6"
+      },
+      {
+        "channel": "U07FVUF09T7",
+        "messageId": "Q0C1AP8U1UJ"
+      },
+      {
+        "channel": "C093VPK55NF",
+        "messageId": "Q0C255W2LUQ"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0C18SCN0H4"
+      },
+      {
+        "channel": "U07FVUF09T7",
+        "messageId": "Q0C1668MJ13"
+      },
+      {
+        "channel": "C093VPK55NF",
+        "messageId": "Q0C1EETGE7N"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0C14HWTC9H"
+      },
+      {
+        "channel": "U07FVUF09T7",
+        "messageId": "Q0C1668ULDB"
+      },
+      {
+        "channel": "C093VPK55NF",
+        "messageId": "Q0C1AP99MFC"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0C18SCVCDU"
+      },
+      {
+        "channel": "U07FVUF09T7",
+        "messageId": "Q0C1AP90C90"
+      },
+      {
+        "channel": "C093VPK55NF",
+        "messageId": "Q0C18SDFHU6"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0C14HWPM5Z"
+      },
+      {
+        "channel": "U07FVUF09T7",
+        "messageId": "Q0C1CNR5W49"
+      },
+      {
+        "channel": "C093VPK55NF",
+        "messageId": "Q0C1AP98B8A"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0C1668HV61"
+      },
+      {
+        "channel": "U07FVUF09T7",
+        "messageId": "Q0C255X780Y"
+      },
+      {
+        "channel": "C093VPK55NF",
+        "messageId": "Q0C1668TFB7"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0C1EETP676"
+      },
+      {
+        "channel": "U07FVUF09T7",
+        "messageId": "Q0C14HX516X"
+      },
+      {
+        "channel": "C093VPK55NF",
+        "messageId": "Q0C0VDUJS31"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0C14HX1HM1"
+      },
+      {
+        "channel": "U07FVUF09T7",
+        "messageId": "Q0C14HWQMHR"
+      },
+      {
+        "channel": "C093VPK55NF",
+        "messageId": "Q0C16693DNZ"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0C1EETFCPN"
+      },
+      {
+        "channel": "U07FVUF09T7",
+        "messageId": "Q0C16696R61"
+      },
+      {
+        "channel": "C093VPK55NF",
+        "messageId": "Q0C1669HPRT"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0C1CNRSLD7"
+      },
+      {
+        "channel": "U07FVUF09T7",
+        "messageId": "Q0C255X5KDE"
+      },
+      {
+        "channel": "C093VPK55NF",
+        "messageId": "Q0C1AP994EN"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0C1668CE13"
+      },
+      {
+        "channel": "U07FVUF09T7",
+        "messageId": "Q0C18SDE2R4"
+      },
+      {
+        "channel": "C093VPK55NF",
+        "messageId": "Q0C255XTC8Y"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0C0VDVBH0F"
+      },
+      {
+        "channel": "U07FVUF09T7",
+        "messageId": "Q0C1CNSM8JD"
+      },
+      {
+        "channel": "C093VPK55NF",
+        "messageId": "Q0C1AP9K3LJ"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0C0VDVSYRM"
+      },
+      {
+        "channel": "U07FVUF09T7",
+        "messageId": "Q0C255Y2PNC"
+      },
+      {
+        "channel": "C093VPK55NF",
+        "messageId": "Q0C14HX88AX"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0C255XLEPJ"
+      },
+      {
+        "channel": "U07FVUF09T7",
+        "messageId": "Q0C1CNREBUZ"
+      },
+      {
+        "channel": "C093VPK55NF",
+        "messageId": "Q0C1669V3KP"
+      }
     ]
   },
   "processedMessageTs": {
@@ -30396,8 +31682,10 @@
     "1788907320.490489": true,
     "1788970970.429179": true,
     "1789077586.343019": true,
-    "1789139595.795239": true
+    "1789139595.795239": true,
+    "1789157276.050809": true,
+    "1789157249.248209": true
   },
   "lastWeeklySummaryDate": "2026-W37",
-  "lastRun": "2026-09-11T18:02:12.735Z"
+  "lastRun": "2026-09-11T20:44:24.904Z"
 }
