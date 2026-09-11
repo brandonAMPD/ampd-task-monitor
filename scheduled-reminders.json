@@ -1623,6 +1623,20 @@
       "completed": false,
       "completedAt": null,
       "firstSeenAt": "2026-09-11T06:01:57.296Z"
+    },
+    "4cfcbc87b3d3ca2868301bab4e8751f2": {
+      "task": "Create a lead quality/quantity report for Mike Bonn account",
+      "assignee_name": "Joma 'Magic Fingers' Cris Cantalejo",
+      "assignee_slack_mention": "@Joma 'Magic Fingers' Cris Cantalejo",
+      "assigned_date": "2026-09-11",
+      "due_date": "2026-09-15",
+      "message_ts": "1789139595.795239",
+      "source_message": "@Joma 'Magic Fingers' Cris Cantalejo be sure to create a lead quality/quentity report for Mike Bonn",
+      "assigneeId": "U03KVJD9927",
+      "messageTs": "1789139595.795239",
+      "completed": false,
+      "completedAt": null,
+      "firstSeenAt": "2026-09-11T18:01:40.696Z"
     }
   },
   "scheduled": {
@@ -19452,6 +19466,237 @@
       "task": "Complete task linked in Slack message",
       "assignee": "Mark 'Morpheus' Manaog",
       "reminderDate": "2026-10-10"
+    },
+    "4cfcbc87b3d3ca2868301bab4e8751f2|midpoint|2026-09-13": {
+      "scheduledAt": "2026-09-11T18:01:42.014Z",
+      "type": "midpoint",
+      "task": "Create a lead quality/quantity report for Mike Bonn account",
+      "assignee": "Joma 'Magic Fingers' Cris Cantalejo",
+      "reminderDate": "2026-09-13"
+    },
+    "4cfcbc87b3d3ca2868301bab4e8751f2|nag|2026-09-14": {
+      "scheduledAt": "2026-09-11T18:01:42.995Z",
+      "type": "nag",
+      "task": "Create a lead quality/quantity report for Mike Bonn account",
+      "assignee": "Joma 'Magic Fingers' Cris Cantalejo",
+      "reminderDate": "2026-09-14"
+    },
+    "4cfcbc87b3d3ca2868301bab4e8751f2|due|2026-09-15": {
+      "scheduledAt": "2026-09-11T18:01:43.912Z",
+      "type": "due",
+      "task": "Create a lead quality/quantity report for Mike Bonn account",
+      "assignee": "Joma 'Magic Fingers' Cris Cantalejo",
+      "reminderDate": "2026-09-15"
+    },
+    "4cfcbc87b3d3ca2868301bab4e8751f2|overdue|2026-09-16": {
+      "scheduledAt": "2026-09-11T18:01:44.806Z",
+      "type": "overdue",
+      "task": "Create a lead quality/quantity report for Mike Bonn account",
+      "assignee": "Joma 'Magic Fingers' Cris Cantalejo",
+      "reminderDate": "2026-09-16"
+    },
+    "4cfcbc87b3d3ca2868301bab4e8751f2|overdue|2026-09-17": {
+      "scheduledAt": "2026-09-11T18:01:46.655Z",
+      "type": "overdue",
+      "task": "Create a lead quality/quantity report for Mike Bonn account",
+      "assignee": "Joma 'Magic Fingers' Cris Cantalejo",
+      "reminderDate": "2026-09-17"
+    },
+    "4cfcbc87b3d3ca2868301bab4e8751f2|overdue|2026-09-18": {
+      "scheduledAt": "2026-09-11T18:01:47.590Z",
+      "type": "overdue",
+      "task": "Create a lead quality/quantity report for Mike Bonn account",
+      "assignee": "Joma 'Magic Fingers' Cris Cantalejo",
+      "reminderDate": "2026-09-18"
+    },
+    "4cfcbc87b3d3ca2868301bab4e8751f2|overdue|2026-09-19": {
+      "scheduledAt": "2026-09-11T18:01:48.494Z",
+      "type": "overdue",
+      "task": "Create a lead quality/quantity report for Mike Bonn account",
+      "assignee": "Joma 'Magic Fingers' Cris Cantalejo",
+      "reminderDate": "2026-09-19"
+    },
+    "4cfcbc87b3d3ca2868301bab4e8751f2|overdue|2026-09-20": {
+      "scheduledAt": "2026-09-11T18:01:49.450Z",
+      "type": "overdue",
+      "task": "Create a lead quality/quantity report for Mike Bonn account",
+      "assignee": "Joma 'Magic Fingers' Cris Cantalejo",
+      "reminderDate": "2026-09-20"
+    },
+    "4cfcbc87b3d3ca2868301bab4e8751f2|overdue|2026-09-21": {
+      "scheduledAt": "2026-09-11T18:01:50.329Z",
+      "type": "overdue",
+      "task": "Create a lead quality/quantity report for Mike Bonn account",
+      "assignee": "Joma 'Magic Fingers' Cris Cantalejo",
+      "reminderDate": "2026-09-21"
+    },
+    "4cfcbc87b3d3ca2868301bab4e8751f2|overdue|2026-09-22": {
+      "scheduledAt": "2026-09-11T18:01:51.230Z",
+      "type": "overdue",
+      "task": "Create a lead quality/quantity report for Mike Bonn account",
+      "assignee": "Joma 'Magic Fingers' Cris Cantalejo",
+      "reminderDate": "2026-09-22"
+    },
+    "4cfcbc87b3d3ca2868301bab4e8751f2|overdue|2026-09-23": {
+      "scheduledAt": "2026-09-11T18:01:52.175Z",
+      "type": "overdue",
+      "task": "Create a lead quality/quantity report for Mike Bonn account",
+      "assignee": "Joma 'Magic Fingers' Cris Cantalejo",
+      "reminderDate": "2026-09-23"
+    },
+    "4cfcbc87b3d3ca2868301bab4e8751f2|overdue|2026-09-24": {
+      "scheduledAt": "2026-09-11T18:01:53.173Z",
+      "type": "overdue",
+      "task": "Create a lead quality/quantity report for Mike Bonn account",
+      "assignee": "Joma 'Magic Fingers' Cris Cantalejo",
+      "reminderDate": "2026-09-24"
+    },
+    "4cfcbc87b3d3ca2868301bab4e8751f2|overdue|2026-09-25": {
+      "scheduledAt": "2026-09-11T18:01:54.094Z",
+      "type": "overdue",
+      "task": "Create a lead quality/quantity report for Mike Bonn account",
+      "assignee": "Joma 'Magic Fingers' Cris Cantalejo",
+      "reminderDate": "2026-09-25"
+    },
+    "4cfcbc87b3d3ca2868301bab4e8751f2|overdue|2026-09-26": {
+      "scheduledAt": "2026-09-11T18:01:54.983Z",
+      "type": "overdue",
+      "task": "Create a lead quality/quantity report for Mike Bonn account",
+      "assignee": "Joma 'Magic Fingers' Cris Cantalejo",
+      "reminderDate": "2026-09-26"
+    },
+    "4cfcbc87b3d3ca2868301bab4e8751f2|overdue|2026-09-27": {
+      "scheduledAt": "2026-09-11T18:01:55.900Z",
+      "type": "overdue",
+      "task": "Create a lead quality/quantity report for Mike Bonn account",
+      "assignee": "Joma 'Magic Fingers' Cris Cantalejo",
+      "reminderDate": "2026-09-27"
+    },
+    "4cfcbc87b3d3ca2868301bab4e8751f2|overdue|2026-09-28": {
+      "scheduledAt": "2026-09-11T18:01:56.837Z",
+      "type": "overdue",
+      "task": "Create a lead quality/quantity report for Mike Bonn account",
+      "assignee": "Joma 'Magic Fingers' Cris Cantalejo",
+      "reminderDate": "2026-09-28"
+    },
+    "4cfcbc87b3d3ca2868301bab4e8751f2|overdue|2026-09-29": {
+      "scheduledAt": "2026-09-11T18:01:57.779Z",
+      "type": "overdue",
+      "task": "Create a lead quality/quantity report for Mike Bonn account",
+      "assignee": "Joma 'Magic Fingers' Cris Cantalejo",
+      "reminderDate": "2026-09-29"
+    },
+    "4cfcbc87b3d3ca2868301bab4e8751f2|overdue|2026-09-30": {
+      "scheduledAt": "2026-09-11T18:01:58.720Z",
+      "type": "overdue",
+      "task": "Create a lead quality/quantity report for Mike Bonn account",
+      "assignee": "Joma 'Magic Fingers' Cris Cantalejo",
+      "reminderDate": "2026-09-30"
+    },
+    "4cfcbc87b3d3ca2868301bab4e8751f2|overdue|2026-10-01": {
+      "scheduledAt": "2026-09-11T18:01:59.637Z",
+      "type": "overdue",
+      "task": "Create a lead quality/quantity report for Mike Bonn account",
+      "assignee": "Joma 'Magic Fingers' Cris Cantalejo",
+      "reminderDate": "2026-10-01"
+    },
+    "4cfcbc87b3d3ca2868301bab4e8751f2|overdue|2026-10-02": {
+      "scheduledAt": "2026-09-11T18:02:00.536Z",
+      "type": "overdue",
+      "task": "Create a lead quality/quantity report for Mike Bonn account",
+      "assignee": "Joma 'Magic Fingers' Cris Cantalejo",
+      "reminderDate": "2026-10-02"
+    },
+    "4cfcbc87b3d3ca2868301bab4e8751f2|overdue|2026-10-03": {
+      "scheduledAt": "2026-09-11T18:02:01.561Z",
+      "type": "overdue",
+      "task": "Create a lead quality/quantity report for Mike Bonn account",
+      "assignee": "Joma 'Magic Fingers' Cris Cantalejo",
+      "reminderDate": "2026-10-03"
+    },
+    "4cfcbc87b3d3ca2868301bab4e8751f2|overdue|2026-10-04": {
+      "scheduledAt": "2026-09-11T18:02:02.520Z",
+      "type": "overdue",
+      "task": "Create a lead quality/quantity report for Mike Bonn account",
+      "assignee": "Joma 'Magic Fingers' Cris Cantalejo",
+      "reminderDate": "2026-10-04"
+    },
+    "4cfcbc87b3d3ca2868301bab4e8751f2|overdue|2026-10-05": {
+      "scheduledAt": "2026-09-11T18:02:03.483Z",
+      "type": "overdue",
+      "task": "Create a lead quality/quantity report for Mike Bonn account",
+      "assignee": "Joma 'Magic Fingers' Cris Cantalejo",
+      "reminderDate": "2026-10-05"
+    },
+    "4cfcbc87b3d3ca2868301bab4e8751f2|overdue|2026-10-06": {
+      "scheduledAt": "2026-09-11T18:02:04.432Z",
+      "type": "overdue",
+      "task": "Create a lead quality/quantity report for Mike Bonn account",
+      "assignee": "Joma 'Magic Fingers' Cris Cantalejo",
+      "reminderDate": "2026-10-06"
+    },
+    "4cfcbc87b3d3ca2868301bab4e8751f2|overdue|2026-10-07": {
+      "scheduledAt": "2026-09-11T18:02:05.358Z",
+      "type": "overdue",
+      "task": "Create a lead quality/quantity report for Mike Bonn account",
+      "assignee": "Joma 'Magic Fingers' Cris Cantalejo",
+      "reminderDate": "2026-10-07"
+    },
+    "4cfcbc87b3d3ca2868301bab4e8751f2|overdue|2026-10-08": {
+      "scheduledAt": "2026-09-11T18:02:06.272Z",
+      "type": "overdue",
+      "task": "Create a lead quality/quantity report for Mike Bonn account",
+      "assignee": "Joma 'Magic Fingers' Cris Cantalejo",
+      "reminderDate": "2026-10-08"
+    },
+    "4cfcbc87b3d3ca2868301bab4e8751f2|overdue|2026-10-09": {
+      "scheduledAt": "2026-09-11T18:02:07.219Z",
+      "type": "overdue",
+      "task": "Create a lead quality/quantity report for Mike Bonn account",
+      "assignee": "Joma 'Magic Fingers' Cris Cantalejo",
+      "reminderDate": "2026-10-09"
+    },
+    "4cfcbc87b3d3ca2868301bab4e8751f2|overdue|2026-10-10": {
+      "scheduledAt": "2026-09-11T18:02:08.140Z",
+      "type": "overdue",
+      "task": "Create a lead quality/quantity report for Mike Bonn account",
+      "assignee": "Joma 'Magic Fingers' Cris Cantalejo",
+      "reminderDate": "2026-10-10"
+    },
+    "4cfcbc87b3d3ca2868301bab4e8751f2|overdue|2026-10-11": {
+      "scheduledAt": "2026-09-11T18:02:09.076Z",
+      "type": "overdue",
+      "task": "Create a lead quality/quantity report for Mike Bonn account",
+      "assignee": "Joma 'Magic Fingers' Cris Cantalejo",
+      "reminderDate": "2026-10-11"
+    },
+    "4cfcbc87b3d3ca2868301bab4e8751f2|overdue|2026-10-12": {
+      "scheduledAt": "2026-09-11T18:02:10.023Z",
+      "type": "overdue",
+      "task": "Create a lead quality/quantity report for Mike Bonn account",
+      "assignee": "Joma 'Magic Fingers' Cris Cantalejo",
+      "reminderDate": "2026-10-12"
+    },
+    "4cfcbc87b3d3ca2868301bab4e8751f2|overdue|2026-10-13": {
+      "scheduledAt": "2026-09-11T18:02:10.925Z",
+      "type": "overdue",
+      "task": "Create a lead quality/quantity report for Mike Bonn account",
+      "assignee": "Joma 'Magic Fingers' Cris Cantalejo",
+      "reminderDate": "2026-10-13"
+    },
+    "4cfcbc87b3d3ca2868301bab4e8751f2|overdue|2026-10-14": {
+      "scheduledAt": "2026-09-11T18:02:11.829Z",
+      "type": "overdue",
+      "task": "Create a lead quality/quantity report for Mike Bonn account",
+      "assignee": "Joma 'Magic Fingers' Cris Cantalejo",
+      "reminderDate": "2026-10-14"
+    },
+    "4cfcbc87b3d3ca2868301bab4e8751f2|overdue|2026-10-15": {
+      "scheduledAt": "2026-09-11T18:02:12.734Z",
+      "type": "overdue",
+      "task": "Create a lead quality/quantity report for Mike Bonn account",
+      "assignee": "Joma 'Magic Fingers' Cris Cantalejo",
+      "reminderDate": "2026-10-15"
     }
   },
   "scheduledMessageIds": {
@@ -29552,6 +29797,404 @@
         "channel": "C05JGF817H6",
         "messageId": "Q0C126RH1SA"
       }
+    ],
+    "4cfcbc87b3d3ca2868301bab4e8751f2": [
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0C1D8UUDTN"
+      },
+      {
+        "channel": "U03KVJD9927",
+        "messageId": "Q0C1BGSSDAM"
+      },
+      {
+        "channel": "C08RPJDC073",
+        "messageId": "Q0C150EQ36H"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0C1D8U4G0L"
+      },
+      {
+        "channel": "U03KVJD9927",
+        "messageId": "Q0C150EBLJZ"
+      },
+      {
+        "channel": "C08RPJDC073",
+        "messageId": "Q0C0U7WJGK1"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0C0U7WHMHV"
+      },
+      {
+        "channel": "U03KVJD9927",
+        "messageId": "Q0C1BGSN6RX"
+      },
+      {
+        "channel": "C08RPJDC073",
+        "messageId": "Q0C23VC1X4G"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0C13BYUT27"
+      },
+      {
+        "channel": "U03KVJD9927",
+        "messageId": "Q0C13BYH5BM"
+      },
+      {
+        "channel": "C08RPJDC073",
+        "messageId": "Q0C1BGSG6RF"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0C1BGSHLP3"
+      },
+      {
+        "channel": "U03KVJD9927",
+        "messageId": "Q0C1D8UR5TN"
+      },
+      {
+        "channel": "C08RPJDC073",
+        "messageId": "Q0C150FUMJR"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0C1D8VMG04"
+      },
+      {
+        "channel": "U03KVJD9927",
+        "messageId": "Q0C19HBD2G2"
+      },
+      {
+        "channel": "C08RPJDC073",
+        "messageId": "Q0C19HAU95G"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0C150FNGP7"
+      },
+      {
+        "channel": "U03KVJD9927",
+        "messageId": "Q0C23VDAVFS"
+      },
+      {
+        "channel": "C08RPJDC073",
+        "messageId": "Q0C150F5BDK"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0C19HBNNSW"
+      },
+      {
+        "channel": "U03KVJD9927",
+        "messageId": "Q0C17LFHBB8"
+      },
+      {
+        "channel": "C08RPJDC073",
+        "messageId": "Q0C1D8VG5HS"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0C17LFR6H4"
+      },
+      {
+        "channel": "U03KVJD9927",
+        "messageId": "Q0C150GDUER"
+      },
+      {
+        "channel": "C08RPJDC073",
+        "messageId": "Q0C1D8VG5GU"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0C150GC69K"
+      },
+      {
+        "channel": "U03KVJD9927",
+        "messageId": "Q0C0U7X43LP"
+      },
+      {
+        "channel": "C08RPJDC073",
+        "messageId": "Q0C1D8VTPA8"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0C150GEYLV"
+      },
+      {
+        "channel": "U03KVJD9927",
+        "messageId": "Q0C150G1FN1"
+      },
+      {
+        "channel": "C08RPJDC073",
+        "messageId": "Q0C0U7Y0AT1"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0C1D8VSP52"
+      },
+      {
+        "channel": "U03KVJD9927",
+        "messageId": "Q0C1D8WQSP6"
+      },
+      {
+        "channel": "C08RPJDC073",
+        "messageId": "Q0C0U7XQE23"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0C1BGUP6U9"
+      },
+      {
+        "channel": "U03KVJD9927",
+        "messageId": "Q0C13BZQ20K"
+      },
+      {
+        "channel": "C08RPJDC073",
+        "messageId": "Q0C1D8X39A8"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0C1BGU9QRX"
+      },
+      {
+        "channel": "U03KVJD9927",
+        "messageId": "Q0C13C06C03"
+      },
+      {
+        "channel": "C08RPJDC073",
+        "messageId": "Q0C1D8WSNSY"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0C1BGUPX7T"
+      },
+      {
+        "channel": "U03KVJD9927",
+        "messageId": "Q0C24005W7J"
+      },
+      {
+        "channel": "C08RPJDC073",
+        "messageId": "Q0C19HBS1R8"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0C1BGUS41F"
+      },
+      {
+        "channel": "U03KVJD9927",
+        "messageId": "Q0C19HCBDGA"
+      },
+      {
+        "channel": "C08RPJDC073",
+        "messageId": "Q0C13C067S7"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0C19HCNUDQ"
+      },
+      {
+        "channel": "U03KVJD9927",
+        "messageId": "Q0C13C0283V"
+      },
+      {
+        "channel": "C08RPJDC073",
+        "messageId": "Q0C0U7YG4S3"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0C0U7Z59M5"
+      },
+      {
+        "channel": "U03KVJD9927",
+        "messageId": "Q0C13C0V1J7"
+      },
+      {
+        "channel": "C08RPJDC073",
+        "messageId": "Q0C13C06275"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0C19HD10TU"
+      },
+      {
+        "channel": "U03KVJD9927",
+        "messageId": "Q0C0U7ZB63Z"
+      },
+      {
+        "channel": "C08RPJDC073",
+        "messageId": "Q0C2400EAC8"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0C1BGV0BR7"
+      },
+      {
+        "channel": "U03KVJD9927",
+        "messageId": "Q0C150JAYGM"
+      },
+      {
+        "channel": "C08RPJDC073",
+        "messageId": "Q0C1D8Y8MUL"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0C17LHEM8W"
+      },
+      {
+        "channel": "U03KVJD9927",
+        "messageId": "Q0C1D8XSDMJ"
+      },
+      {
+        "channel": "C08RPJDC073",
+        "messageId": "Q0C1D8XFC8L"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0C1D8YAR3N"
+      },
+      {
+        "channel": "U03KVJD9927",
+        "messageId": "Q0C150HUXE1"
+      },
+      {
+        "channel": "C08RPJDC073",
+        "messageId": "Q0C1BGVN0SD"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0C19HDH16E"
+      },
+      {
+        "channel": "U03KVJD9927",
+        "messageId": "Q0C1BGW1F09"
+      },
+      {
+        "channel": "C08RPJDC073",
+        "messageId": "Q0C13C1UKEF"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0C0U7Z6G4X"
+      },
+      {
+        "channel": "U03KVJD9927",
+        "messageId": "Q0C19HDTBC2"
+      },
+      {
+        "channel": "C08RPJDC073",
+        "messageId": "Q0C1BGU0C3T"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0C17LHUAT0"
+      },
+      {
+        "channel": "U03KVJD9927",
+        "messageId": "Q0C1BGV2M33"
+      },
+      {
+        "channel": "C08RPJDC073",
+        "messageId": "Q0C1D8WEEP6"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0C1D8YMPK6"
+      },
+      {
+        "channel": "U03KVJD9927",
+        "messageId": "Q0C13C1BVMZ"
+      },
+      {
+        "channel": "C08RPJDC073",
+        "messageId": "Q0C17LHRYJJ"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0C19HERS3U"
+      },
+      {
+        "channel": "U03KVJD9927",
+        "messageId": "Q0C1D8Z7MJ8"
+      },
+      {
+        "channel": "C08RPJDC073",
+        "messageId": "Q0C2401KB32"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0C1BGW6U3B"
+      },
+      {
+        "channel": "U03KVJD9927",
+        "messageId": "Q0C150K07TP"
+      },
+      {
+        "channel": "C08RPJDC073",
+        "messageId": "Q0C19HEG85Q"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0C2401PW8Y"
+      },
+      {
+        "channel": "U03KVJD9927",
+        "messageId": "Q0C1D8Y5T52"
+      },
+      {
+        "channel": "C08RPJDC073",
+        "messageId": "Q0C2401TH9N"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0C19HE7XGA"
+      },
+      {
+        "channel": "U03KVJD9927",
+        "messageId": "Q0C150KCKHT"
+      },
+      {
+        "channel": "C08RPJDC073",
+        "messageId": "Q0C1D8Y3B6G"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0C1D8YPQFN"
+      },
+      {
+        "channel": "U03KVJD9927",
+        "messageId": "Q0C17LK0K2A"
+      },
+      {
+        "channel": "C08RPJDC073",
+        "messageId": "Q0C1BGWLNJV"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0C19HEJ1SN"
+      },
+      {
+        "channel": "U03KVJD9927",
+        "messageId": "Q0C1BGXJ6GH"
+      },
+      {
+        "channel": "C08RPJDC073",
+        "messageId": "Q0C0U80HSDD"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0C1D8Z1M0C"
+      },
+      {
+        "channel": "U03KVJD9927",
+        "messageId": "Q0C0U81KR5M"
+      },
+      {
+        "channel": "C08RPJDC073",
+        "messageId": "Q0C1BGWGCTB"
+      }
     ]
   },
   "processedMessageTs": {
@@ -29752,8 +30395,9 @@
     "1788913886.361309": true,
     "1788907320.490489": true,
     "1788970970.429179": true,
-    "1789077586.343019": true
+    "1789077586.343019": true,
+    "1789139595.795239": true
   },
   "lastWeeklySummaryDate": "2026-W37",
-  "lastRun": "2026-09-11T14:01:14.408Z"
+  "lastRun": "2026-09-11T18:02:12.735Z"
 }
