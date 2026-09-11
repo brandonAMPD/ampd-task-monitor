@@ -224,20 +224,6 @@
       "completedAt": null,
       "firstSeenAt": "2026-06-12T18:01:49.861Z"
     },
-    "c28f22403bf8c7f7d6929d7f8cd9f7fa": {
-      "task": "Create a quick message that Christle can use to connect and send to BLS bookings from linkedin profile",
-      "assignee_name": "Chrissy 'Queen Bee' Robertson",
-      "assignee_slack_mention": "@Chrissy 'Queen Bee' Robertson",
-      "assigned_date": "2026-06-12",
-      "due_date": "2026-06-19",
-      "message_ts": "1781292359.862189",
-      "source_message": "@Chrissy 'Queen Bee' Robertson please create a quick message that Christle can use to connect and se",
-      "assigneeId": "U01M7FMPTRR",
-      "messageTs": "1781292359.862189",
-      "completed": true,
-      "completedAt": "2026-06-13T06:01:02.576Z",
-      "firstSeenAt": "2026-06-12T20:16:37.055Z"
-    },
     "37d83173e22498a06131921746163fe9": {
       "task": "Build automated way to send BLS booking name/email or linkedin profile to Christle",
       "assignee_name": "Mark 'Morpheus' Manaog",
@@ -1623,6 +1609,20 @@
       "completed": false,
       "completedAt": null,
       "firstSeenAt": "2026-09-09T18:03:24.474Z"
+    },
+    "32329e63d4bc93fd58d2b8f666212e60": {
+      "task": "Complete task linked in Slack message",
+      "assignee_name": "Mark 'Morpheus' Manaog",
+      "assignee_slack_mention": "@Mark 'Morpheus' Manaog",
+      "assigned_date": "2026-09-10",
+      "due_date": "2026-09-10",
+      "message_ts": "1789077586.343019",
+      "source_message": "@Mark 'Morpheus' Manaog could you help us complete this https://dovetail-mktg.slack.com/archives/C07",
+      "assigneeId": "U023F61R16F",
+      "messageTs": "1789077586.343019",
+      "completed": false,
+      "completedAt": null,
+      "firstSeenAt": "2026-09-11T06:01:57.296Z"
     }
   },
   "scheduled": {
@@ -19242,6 +19242,216 @@
       "task": "Record a straight-forward demo guide on how to do the calendar fixes",
       "assignee": "Josh 'The Ninja' Morales",
       "reminderDate": "2026-09-16"
+    },
+    "32329e63d4bc93fd58d2b8f666212e60|overdue|2026-09-11": {
+      "scheduledAt": "2026-09-11T06:01:58.995Z",
+      "type": "overdue",
+      "task": "Complete task linked in Slack message",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-09-11"
+    },
+    "32329e63d4bc93fd58d2b8f666212e60|overdue|2026-09-12": {
+      "scheduledAt": "2026-09-11T06:02:00.026Z",
+      "type": "overdue",
+      "task": "Complete task linked in Slack message",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-09-12"
+    },
+    "32329e63d4bc93fd58d2b8f666212e60|overdue|2026-09-13": {
+      "scheduledAt": "2026-09-11T06:02:01.856Z",
+      "type": "overdue",
+      "task": "Complete task linked in Slack message",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-09-13"
+    },
+    "32329e63d4bc93fd58d2b8f666212e60|overdue|2026-09-14": {
+      "scheduledAt": "2026-09-11T06:02:03.389Z",
+      "type": "overdue",
+      "task": "Complete task linked in Slack message",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-09-14"
+    },
+    "32329e63d4bc93fd58d2b8f666212e60|overdue|2026-09-15": {
+      "scheduledAt": "2026-09-11T06:02:04.386Z",
+      "type": "overdue",
+      "task": "Complete task linked in Slack message",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-09-15"
+    },
+    "32329e63d4bc93fd58d2b8f666212e60|overdue|2026-09-16": {
+      "scheduledAt": "2026-09-11T06:02:05.378Z",
+      "type": "overdue",
+      "task": "Complete task linked in Slack message",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-09-16"
+    },
+    "32329e63d4bc93fd58d2b8f666212e60|overdue|2026-09-17": {
+      "scheduledAt": "2026-09-11T06:02:06.331Z",
+      "type": "overdue",
+      "task": "Complete task linked in Slack message",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-09-17"
+    },
+    "32329e63d4bc93fd58d2b8f666212e60|overdue|2026-09-18": {
+      "scheduledAt": "2026-09-11T06:02:07.270Z",
+      "type": "overdue",
+      "task": "Complete task linked in Slack message",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-09-18"
+    },
+    "32329e63d4bc93fd58d2b8f666212e60|overdue|2026-09-19": {
+      "scheduledAt": "2026-09-11T06:02:08.207Z",
+      "type": "overdue",
+      "task": "Complete task linked in Slack message",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-09-19"
+    },
+    "32329e63d4bc93fd58d2b8f666212e60|overdue|2026-09-20": {
+      "scheduledAt": "2026-09-11T06:02:09.127Z",
+      "type": "overdue",
+      "task": "Complete task linked in Slack message",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-09-20"
+    },
+    "32329e63d4bc93fd58d2b8f666212e60|overdue|2026-09-21": {
+      "scheduledAt": "2026-09-11T06:02:10.109Z",
+      "type": "overdue",
+      "task": "Complete task linked in Slack message",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-09-21"
+    },
+    "32329e63d4bc93fd58d2b8f666212e60|overdue|2026-09-22": {
+      "scheduledAt": "2026-09-11T06:02:11.051Z",
+      "type": "overdue",
+      "task": "Complete task linked in Slack message",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-09-22"
+    },
+    "32329e63d4bc93fd58d2b8f666212e60|overdue|2026-09-23": {
+      "scheduledAt": "2026-09-11T06:02:12.020Z",
+      "type": "overdue",
+      "task": "Complete task linked in Slack message",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-09-23"
+    },
+    "32329e63d4bc93fd58d2b8f666212e60|overdue|2026-09-24": {
+      "scheduledAt": "2026-09-11T06:02:13.023Z",
+      "type": "overdue",
+      "task": "Complete task linked in Slack message",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-09-24"
+    },
+    "32329e63d4bc93fd58d2b8f666212e60|overdue|2026-09-25": {
+      "scheduledAt": "2026-09-11T06:02:14.009Z",
+      "type": "overdue",
+      "task": "Complete task linked in Slack message",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-09-25"
+    },
+    "32329e63d4bc93fd58d2b8f666212e60|overdue|2026-09-26": {
+      "scheduledAt": "2026-09-11T06:02:14.960Z",
+      "type": "overdue",
+      "task": "Complete task linked in Slack message",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-09-26"
+    },
+    "32329e63d4bc93fd58d2b8f666212e60|overdue|2026-09-27": {
+      "scheduledAt": "2026-09-11T06:02:15.878Z",
+      "type": "overdue",
+      "task": "Complete task linked in Slack message",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-09-27"
+    },
+    "32329e63d4bc93fd58d2b8f666212e60|overdue|2026-09-28": {
+      "scheduledAt": "2026-09-11T06:02:16.847Z",
+      "type": "overdue",
+      "task": "Complete task linked in Slack message",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-09-28"
+    },
+    "32329e63d4bc93fd58d2b8f666212e60|overdue|2026-09-29": {
+      "scheduledAt": "2026-09-11T06:02:17.763Z",
+      "type": "overdue",
+      "task": "Complete task linked in Slack message",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-09-29"
+    },
+    "32329e63d4bc93fd58d2b8f666212e60|overdue|2026-09-30": {
+      "scheduledAt": "2026-09-11T06:02:18.695Z",
+      "type": "overdue",
+      "task": "Complete task linked in Slack message",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-09-30"
+    },
+    "32329e63d4bc93fd58d2b8f666212e60|overdue|2026-10-01": {
+      "scheduledAt": "2026-09-11T06:02:19.711Z",
+      "type": "overdue",
+      "task": "Complete task linked in Slack message",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-10-01"
+    },
+    "32329e63d4bc93fd58d2b8f666212e60|overdue|2026-10-02": {
+      "scheduledAt": "2026-09-11T06:02:20.699Z",
+      "type": "overdue",
+      "task": "Complete task linked in Slack message",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-10-02"
+    },
+    "32329e63d4bc93fd58d2b8f666212e60|overdue|2026-10-03": {
+      "scheduledAt": "2026-09-11T06:02:21.686Z",
+      "type": "overdue",
+      "task": "Complete task linked in Slack message",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-10-03"
+    },
+    "32329e63d4bc93fd58d2b8f666212e60|overdue|2026-10-04": {
+      "scheduledAt": "2026-09-11T06:02:22.716Z",
+      "type": "overdue",
+      "task": "Complete task linked in Slack message",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-10-04"
+    },
+    "32329e63d4bc93fd58d2b8f666212e60|overdue|2026-10-05": {
+      "scheduledAt": "2026-09-11T06:02:23.655Z",
+      "type": "overdue",
+      "task": "Complete task linked in Slack message",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-10-05"
+    },
+    "32329e63d4bc93fd58d2b8f666212e60|overdue|2026-10-06": {
+      "scheduledAt": "2026-09-11T06:02:24.652Z",
+      "type": "overdue",
+      "task": "Complete task linked in Slack message",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-10-06"
+    },
+    "32329e63d4bc93fd58d2b8f666212e60|overdue|2026-10-07": {
+      "scheduledAt": "2026-09-11T06:02:25.585Z",
+      "type": "overdue",
+      "task": "Complete task linked in Slack message",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-10-07"
+    },
+    "32329e63d4bc93fd58d2b8f666212e60|overdue|2026-10-08": {
+      "scheduledAt": "2026-09-11T06:02:26.567Z",
+      "type": "overdue",
+      "task": "Complete task linked in Slack message",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-10-08"
+    },
+    "32329e63d4bc93fd58d2b8f666212e60|overdue|2026-10-09": {
+      "scheduledAt": "2026-09-11T06:02:27.524Z",
+      "type": "overdue",
+      "task": "Complete task linked in Slack message",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-10-09"
+    },
+    "32329e63d4bc93fd58d2b8f666212e60|overdue|2026-10-10": {
+      "scheduledAt": "2026-09-11T06:02:28.501Z",
+      "type": "overdue",
+      "task": "Complete task linked in Slack message",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-10-10"
     }
   },
   "scheduledMessageIds": {
@@ -28980,6 +29190,368 @@
         "channel": "C093VPK55NF",
         "messageId": "Q0C1J1GBAL8"
       }
+    ],
+    "32329e63d4bc93fd58d2b8f666212e60": [
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0C0XTC8EN7"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0C1YFD6YP2"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0C143AGGQJ"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0C0XTBTUP5"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0C162S76TB"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0C0ZGS2F4M"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0C0XTBT5PD"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0C0ZGSLN3X"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0C1YFE1W80"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0C126Q2R9C"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0C17QC5676"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0C162TC4TB"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0C126N9Y14"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0C143AF926"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0C143A49NE"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0C126NE0P8"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0C0ZGT5KNZ"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0C0NP8KPJB"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0C1YFEE8EL"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0C1YFEFYKA"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0C0NPARAB1"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0C143B3BJN"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0C162SV54Z"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0C17QD4DHS"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0C0NPB5B6K"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0C1YFEFH2L"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0C0ZGT8DMK"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0C17QDHMKN"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0C126P7Y9L"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0C0XTDJG0K"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0C0NPBAW87"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0C143B8Q3C"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0C0XTCRSM9"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0C17QDJ8QL"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0C0ZGTA7NH"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0C126PK486"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0C1YFF0N0G"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0C0NPBJ30F"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0C0NPC5T6K"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0C143BL6AE"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0C0NPBLZGF"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0C17QE2US0"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0C0NPC0YP9"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0C126PG754"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0C162U9DED"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0C0XTDH2F5"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0C126PQ33Q"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0C0NPBRRUP"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0C162UMLGH"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0C126PQXAS"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0C162USD5X"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0C126QB6UE"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0C17QEQC68"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0C143D7T34"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0C126QFZ8W"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0C126QDB0E"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0C0ZGQ5WR3"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0C162V0Q2D"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0C0ZGUJ3HB"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0C17QDKKBN"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0C143CBMC2"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0C126Q66NA"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0C162UUZLH"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0C1YFG69R6"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0C143CLA1Y"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0C1YFG5LNL"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0C143CEVUJ"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0C126QTB1C"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0C162UNBJM"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0C143CPQKC"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0C17QEUD3N"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0C17QET812"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0C1YFGS8BA"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0C0XTEJL1H"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0C0ZGUGK45"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0C126QTQHL"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0C143D4DD0"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0C162V1FDX"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0C17QEPUP6"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0C126R0R0W"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0C1YFGN680"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0C1YFGQW1E"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0C0XTEG5DZ"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0C126RNKU6"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0C143D4YUA"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0C0XTEDLMR"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0C0ZGUT7DK"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0C162VFFRP"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0C162VARNV"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0C126RH1SA"
+      }
     ]
   },
   "processedMessageTs": {
@@ -29179,8 +29751,9 @@
     "1788899387.518809": true,
     "1788913886.361309": true,
     "1788907320.490489": true,
-    "1788970970.429179": true
+    "1788970970.429179": true,
+    "1789077586.343019": true
   },
   "lastWeeklySummaryDate": "2026-W36",
-  "lastRun": "2026-09-10T20:38:09.987Z"
+  "lastRun": "2026-09-11T06:02:28.502Z"
 }
