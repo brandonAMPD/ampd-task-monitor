@@ -1637,6 +1637,20 @@
       "completed": false,
       "completedAt": null,
       "firstSeenAt": "2026-09-11T20:43:36.797Z"
+    },
+    "db1e4d2c4bc86c87f66e50fbefb17f70": {
+      "task": "Set up support calendar form options so active calendars are in the support menu",
+      "assignee_name": "Mark 'Morpheus' Manaog",
+      "assignee_slack_mention": "@Mark 'Morpheus' Manaog",
+      "assigned_date": "2026-09-14",
+      "due_date": "2026-09-16",
+      "message_ts": "1789404956.064679",
+      "source_message": "@Mark 'Morpheus' Manaog make sure the support calendar form options are set up correctly so that active",
+      "assigneeId": "U023F61R16F",
+      "messageTs": "1789404956.064679",
+      "completed": false,
+      "completedAt": null,
+      "firstSeenAt": "2026-09-14T18:01:36.556Z"
     }
   },
   "scheduled": {
@@ -20159,6 +20173,236 @@
       "task": "Setup appointment reminder workflow in Dovetail GHL",
       "assignee": "Josh Morales",
       "reminderDate": "2026-10-14"
+    },
+    "db1e4d2c4bc86c87f66e50fbefb17f70|nag|2026-09-14": {
+      "scheduledAt": "2026-09-14T18:01:36.559Z",
+      "type": "nag",
+      "task": "Set up support calendar form options so active calendars are in the support menu",
+      "skipped": true
+    },
+    "db1e4d2c4bc86c87f66e50fbefb17f70|nag|2026-09-15": {
+      "scheduledAt": "2026-09-14T18:01:37.710Z",
+      "type": "nag",
+      "task": "Set up support calendar form options so active calendars are in the support menu",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-09-15"
+    },
+    "db1e4d2c4bc86c87f66e50fbefb17f70|due|2026-09-16": {
+      "scheduledAt": "2026-09-14T18:01:38.637Z",
+      "type": "due",
+      "task": "Set up support calendar form options so active calendars are in the support menu",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-09-16"
+    },
+    "db1e4d2c4bc86c87f66e50fbefb17f70|overdue|2026-09-17": {
+      "scheduledAt": "2026-09-14T18:01:39.524Z",
+      "type": "overdue",
+      "task": "Set up support calendar form options so active calendars are in the support menu",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-09-17"
+    },
+    "db1e4d2c4bc86c87f66e50fbefb17f70|overdue|2026-09-18": {
+      "scheduledAt": "2026-09-14T18:01:40.410Z",
+      "type": "overdue",
+      "task": "Set up support calendar form options so active calendars are in the support menu",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-09-18"
+    },
+    "db1e4d2c4bc86c87f66e50fbefb17f70|overdue|2026-09-19": {
+      "scheduledAt": "2026-09-14T18:01:41.275Z",
+      "type": "overdue",
+      "task": "Set up support calendar form options so active calendars are in the support menu",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-09-19"
+    },
+    "db1e4d2c4bc86c87f66e50fbefb17f70|overdue|2026-09-20": {
+      "scheduledAt": "2026-09-14T18:01:42.201Z",
+      "type": "overdue",
+      "task": "Set up support calendar form options so active calendars are in the support menu",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-09-20"
+    },
+    "db1e4d2c4bc86c87f66e50fbefb17f70|overdue|2026-09-21": {
+      "scheduledAt": "2026-09-14T18:01:43.109Z",
+      "type": "overdue",
+      "task": "Set up support calendar form options so active calendars are in the support menu",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-09-21"
+    },
+    "db1e4d2c4bc86c87f66e50fbefb17f70|overdue|2026-09-22": {
+      "scheduledAt": "2026-09-14T18:01:44.022Z",
+      "type": "overdue",
+      "task": "Set up support calendar form options so active calendars are in the support menu",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-09-22"
+    },
+    "db1e4d2c4bc86c87f66e50fbefb17f70|overdue|2026-09-23": {
+      "scheduledAt": "2026-09-14T18:01:44.935Z",
+      "type": "overdue",
+      "task": "Set up support calendar form options so active calendars are in the support menu",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-09-23"
+    },
+    "db1e4d2c4bc86c87f66e50fbefb17f70|overdue|2026-09-24": {
+      "scheduledAt": "2026-09-14T18:01:45.872Z",
+      "type": "overdue",
+      "task": "Set up support calendar form options so active calendars are in the support menu",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-09-24"
+    },
+    "db1e4d2c4bc86c87f66e50fbefb17f70|overdue|2026-09-25": {
+      "scheduledAt": "2026-09-14T18:01:46.768Z",
+      "type": "overdue",
+      "task": "Set up support calendar form options so active calendars are in the support menu",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-09-25"
+    },
+    "db1e4d2c4bc86c87f66e50fbefb17f70|overdue|2026-09-26": {
+      "scheduledAt": "2026-09-14T18:01:47.673Z",
+      "type": "overdue",
+      "task": "Set up support calendar form options so active calendars are in the support menu",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-09-26"
+    },
+    "db1e4d2c4bc86c87f66e50fbefb17f70|overdue|2026-09-27": {
+      "scheduledAt": "2026-09-14T18:01:48.549Z",
+      "type": "overdue",
+      "task": "Set up support calendar form options so active calendars are in the support menu",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-09-27"
+    },
+    "db1e4d2c4bc86c87f66e50fbefb17f70|overdue|2026-09-28": {
+      "scheduledAt": "2026-09-14T18:01:49.463Z",
+      "type": "overdue",
+      "task": "Set up support calendar form options so active calendars are in the support menu",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-09-28"
+    },
+    "db1e4d2c4bc86c87f66e50fbefb17f70|overdue|2026-09-29": {
+      "scheduledAt": "2026-09-14T18:01:50.358Z",
+      "type": "overdue",
+      "task": "Set up support calendar form options so active calendars are in the support menu",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-09-29"
+    },
+    "db1e4d2c4bc86c87f66e50fbefb17f70|overdue|2026-09-30": {
+      "scheduledAt": "2026-09-14T18:01:51.255Z",
+      "type": "overdue",
+      "task": "Set up support calendar form options so active calendars are in the support menu",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-09-30"
+    },
+    "db1e4d2c4bc86c87f66e50fbefb17f70|overdue|2026-10-01": {
+      "scheduledAt": "2026-09-14T18:01:52.171Z",
+      "type": "overdue",
+      "task": "Set up support calendar form options so active calendars are in the support menu",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-10-01"
+    },
+    "db1e4d2c4bc86c87f66e50fbefb17f70|overdue|2026-10-02": {
+      "scheduledAt": "2026-09-14T18:01:53.087Z",
+      "type": "overdue",
+      "task": "Set up support calendar form options so active calendars are in the support menu",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-10-02"
+    },
+    "db1e4d2c4bc86c87f66e50fbefb17f70|overdue|2026-10-03": {
+      "scheduledAt": "2026-09-14T18:01:54.002Z",
+      "type": "overdue",
+      "task": "Set up support calendar form options so active calendars are in the support menu",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-10-03"
+    },
+    "db1e4d2c4bc86c87f66e50fbefb17f70|overdue|2026-10-04": {
+      "scheduledAt": "2026-09-14T18:01:54.871Z",
+      "type": "overdue",
+      "task": "Set up support calendar form options so active calendars are in the support menu",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-10-04"
+    },
+    "db1e4d2c4bc86c87f66e50fbefb17f70|overdue|2026-10-05": {
+      "scheduledAt": "2026-09-14T18:01:55.779Z",
+      "type": "overdue",
+      "task": "Set up support calendar form options so active calendars are in the support menu",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-10-05"
+    },
+    "db1e4d2c4bc86c87f66e50fbefb17f70|overdue|2026-10-06": {
+      "scheduledAt": "2026-09-14T18:01:56.694Z",
+      "type": "overdue",
+      "task": "Set up support calendar form options so active calendars are in the support menu",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-10-06"
+    },
+    "db1e4d2c4bc86c87f66e50fbefb17f70|overdue|2026-10-07": {
+      "scheduledAt": "2026-09-14T18:01:57.582Z",
+      "type": "overdue",
+      "task": "Set up support calendar form options so active calendars are in the support menu",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-10-07"
+    },
+    "db1e4d2c4bc86c87f66e50fbefb17f70|overdue|2026-10-08": {
+      "scheduledAt": "2026-09-14T18:01:58.452Z",
+      "type": "overdue",
+      "task": "Set up support calendar form options so active calendars are in the support menu",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-10-08"
+    },
+    "db1e4d2c4bc86c87f66e50fbefb17f70|overdue|2026-10-09": {
+      "scheduledAt": "2026-09-14T18:01:59.327Z",
+      "type": "overdue",
+      "task": "Set up support calendar form options so active calendars are in the support menu",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-10-09"
+    },
+    "db1e4d2c4bc86c87f66e50fbefb17f70|overdue|2026-10-10": {
+      "scheduledAt": "2026-09-14T18:02:00.214Z",
+      "type": "overdue",
+      "task": "Set up support calendar form options so active calendars are in the support menu",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-10-10"
+    },
+    "db1e4d2c4bc86c87f66e50fbefb17f70|overdue|2026-10-11": {
+      "scheduledAt": "2026-09-14T18:02:01.115Z",
+      "type": "overdue",
+      "task": "Set up support calendar form options so active calendars are in the support menu",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-10-11"
+    },
+    "db1e4d2c4bc86c87f66e50fbefb17f70|overdue|2026-10-12": {
+      "scheduledAt": "2026-09-14T18:02:02.022Z",
+      "type": "overdue",
+      "task": "Set up support calendar form options so active calendars are in the support menu",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-10-12"
+    },
+    "db1e4d2c4bc86c87f66e50fbefb17f70|overdue|2026-10-13": {
+      "scheduledAt": "2026-09-14T18:02:02.908Z",
+      "type": "overdue",
+      "task": "Set up support calendar form options so active calendars are in the support menu",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-10-13"
+    },
+    "db1e4d2c4bc86c87f66e50fbefb17f70|overdue|2026-10-14": {
+      "scheduledAt": "2026-09-14T18:02:03.881Z",
+      "type": "overdue",
+      "task": "Set up support calendar form options so active calendars are in the support menu",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-10-14"
+    },
+    "db1e4d2c4bc86c87f66e50fbefb17f70|overdue|2026-10-15": {
+      "scheduledAt": "2026-09-14T18:02:04.764Z",
+      "type": "overdue",
+      "task": "Set up support calendar form options so active calendars are in the support menu",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-10-15"
+    },
+    "db1e4d2c4bc86c87f66e50fbefb17f70|overdue|2026-10-16": {
+      "scheduledAt": "2026-09-14T18:02:05.659Z",
+      "type": "overdue",
+      "task": "Set up support calendar form options so active calendars are in the support menu",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-10-16"
     }
   },
   "scheduledMessageIds": {
@@ -31453,6 +31697,392 @@
         "channel": "C093VPK55NF",
         "messageId": "Q0C1669V3KP"
       }
+    ],
+    "db1e4d2c4bc86c87f66e50fbefb17f70": [
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0C2LA8R8AC"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0C1Q1AG38E"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0C1TT40TK3"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0C1Q1ALMRU"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0C1TT3AKRP"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0C1KNACU3D"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0C2LAABHDW"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0C2LA98RHN"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0C2LA8QBFS"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0C1M9B7G05"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0C1VK4H404"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0C1AJ1QQUF"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0C1VK4B3D2"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0C1KN9PVD1"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0C1M9BUUCD"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0C1M9BBH9B"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0C1KNAS2RH"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0C1RT8UUGJ"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0C1KNAK4V9"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0C1VK4LNMS"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0C1KNA7799"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0C1RT8QDHQ"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0C1VK4KMD2"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0C2LAA37LG"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0C1TT4TLRX"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0C1M9CM2BF"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0C1Q1BSTNJ"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0C1RT9DLQJ"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0C1KNBCRGB"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0C1VK54V3N"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0C1Q1C0HBQ"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0C1AJ2QK47"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0C1TT57EFK"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0C2LAA81DW"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0C1M9C833P"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0C1KNB32GK"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0C1AJ43F2B"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0C2LAB63CY"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0C1Q1CEH8W"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0C1M9CJRUM"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0C1KNBRZTM"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0C1M9CLRQV"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0C1AJ35JQ7"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0C1KNBFN59"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0C1M9CE3QD"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0C1VK68VN0"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0C1RT9QZGA"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0C1RTA699Q"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0C1Q1C0FK8"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0C1AJ3DKC7"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0C1TT63DJM"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0C1RTAV7EE"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0C1AJ4LVEK"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0C1AJ4KLLF"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0C2LAC1M5W"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0C1RTAKA1G"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0C1AJ48MQF"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0C1RTA2F34"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0C1Q1DD1GE"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0C1RTA1N90"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0C1RTB1NNN"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0C1VK6N7MJ"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0C1VK6JTRA"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0C1AJ4CQF9"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0C2LAC86U8"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0C1Q1DTLUE"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0C1M9DFQBX"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0C1AJ4Q78X"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0C1AJ4PNKH"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0C1AJ51EVD"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0C1VK74YQ4"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0C2LACKLSU"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0C1AJ54X0F"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0C2LACUU7J"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0C1TT75H4Z"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0C1RTB7AKC"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0C2LACKPQQ"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0C1M9DT8FP"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0C1Q1D3B5L"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0C1M9EFNF7"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0C1TT7JK1P"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0C2LACTX96"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0C1M9DNW0M"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0C2LACDY00"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0C1KNDJVT5"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0C1RTBSKQS"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0C1Q1EKWNS"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0C1VK7RCLC"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0C2LACL6KA"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0C1AJ5M4K1"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0C1M9F3Z37"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0C1KNDGUBV"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0C1VK7UR9S"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0C1M9F0Z0D"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0C1RTBTM5G"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0C1VK84EA0"
+      }
     ]
   },
   "processedMessageTs": {
@@ -31656,8 +32286,9 @@
     "1789077586.343019": true,
     "1789139595.795239": true,
     "1789157276.050809": true,
-    "1789157249.248209": true
+    "1789157249.248209": true,
+    "1789404956.064679": true
   },
   "lastWeeklySummaryDate": "2026-W37",
-  "lastRun": "2026-09-14T11:49:54.845Z"
+  "lastRun": "2026-09-14T18:02:05.660Z"
 }
