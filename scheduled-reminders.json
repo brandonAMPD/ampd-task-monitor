@@ -1693,6 +1693,20 @@
       "completed": false,
       "completedAt": null,
       "firstSeenAt": "2026-09-17T18:02:07.379Z"
+    },
+    "53ad32fed39cb28ac2812d54ee14f0ad": {
+      "task": "Move Jimmy's task reminders to his new FD channel (Megan's old channel)",
+      "assignee_name": "Mark 'Morpheus' Manaog",
+      "assignee_slack_mention": "@Mark 'Morpheus' Manaog",
+      "assigned_date": "2026-09-17",
+      "due_date": "2026-09-21",
+      "message_ts": "1789676979.253129",
+      "source_message": "@Mark 'Morpheus' Manaog move Jimmy's task reminders to his new FD channel by Monday (Megan's old chann",
+      "assigneeId": "U023F61R16F",
+      "messageTs": "1789676979.253129",
+      "completed": false,
+      "completedAt": null,
+      "firstSeenAt": "2026-09-17T21:07:29.050Z"
     }
   },
   "scheduled": {
@@ -21383,6 +21397,237 @@
       "task": "Schedule a time to work with Richard on the CRM demo update - taking a lead from A-Z format",
       "assignee": "Josh 'The Ninja' Morales",
       "reminderDate": "2026-10-21"
+    },
+    "53ad32fed39cb28ac2812d54ee14f0ad|midpoint|2026-09-19": {
+      "scheduledAt": "2026-09-17T21:07:30.049Z",
+      "type": "midpoint",
+      "task": "Move Jimmy's task reminders to his new FD channel (Megan's old channel)",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-09-19"
+    },
+    "53ad32fed39cb28ac2812d54ee14f0ad|nag|2026-09-20": {
+      "scheduledAt": "2026-09-17T21:07:31.033Z",
+      "type": "nag",
+      "task": "Move Jimmy's task reminders to his new FD channel (Megan's old channel)",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-09-20"
+    },
+    "53ad32fed39cb28ac2812d54ee14f0ad|due|2026-09-21": {
+      "scheduledAt": "2026-09-17T21:07:32.092Z",
+      "type": "due",
+      "task": "Move Jimmy's task reminders to his new FD channel (Megan's old channel)",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-09-21"
+    },
+    "53ad32fed39cb28ac2812d54ee14f0ad|overdue|2026-09-22": {
+      "scheduledAt": "2026-09-17T21:07:33.079Z",
+      "type": "overdue",
+      "task": "Move Jimmy's task reminders to his new FD channel (Megan's old channel)",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-09-22"
+    },
+    "53ad32fed39cb28ac2812d54ee14f0ad|overdue|2026-09-23": {
+      "scheduledAt": "2026-09-17T21:07:34.035Z",
+      "type": "overdue",
+      "task": "Move Jimmy's task reminders to his new FD channel (Megan's old channel)",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-09-23"
+    },
+    "53ad32fed39cb28ac2812d54ee14f0ad|overdue|2026-09-24": {
+      "scheduledAt": "2026-09-17T21:07:35.009Z",
+      "type": "overdue",
+      "task": "Move Jimmy's task reminders to his new FD channel (Megan's old channel)",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-09-24"
+    },
+    "53ad32fed39cb28ac2812d54ee14f0ad|overdue|2026-09-25": {
+      "scheduledAt": "2026-09-17T21:07:35.980Z",
+      "type": "overdue",
+      "task": "Move Jimmy's task reminders to his new FD channel (Megan's old channel)",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-09-25"
+    },
+    "53ad32fed39cb28ac2812d54ee14f0ad|overdue|2026-09-26": {
+      "scheduledAt": "2026-09-17T21:07:36.989Z",
+      "type": "overdue",
+      "task": "Move Jimmy's task reminders to his new FD channel (Megan's old channel)",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-09-26"
+    },
+    "53ad32fed39cb28ac2812d54ee14f0ad|overdue|2026-09-27": {
+      "scheduledAt": "2026-09-17T21:07:37.979Z",
+      "type": "overdue",
+      "task": "Move Jimmy's task reminders to his new FD channel (Megan's old channel)",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-09-27"
+    },
+    "53ad32fed39cb28ac2812d54ee14f0ad|overdue|2026-09-28": {
+      "scheduledAt": "2026-09-17T21:07:38.990Z",
+      "type": "overdue",
+      "task": "Move Jimmy's task reminders to his new FD channel (Megan's old channel)",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-09-28"
+    },
+    "53ad32fed39cb28ac2812d54ee14f0ad|overdue|2026-09-29": {
+      "scheduledAt": "2026-09-17T21:07:39.992Z",
+      "type": "overdue",
+      "task": "Move Jimmy's task reminders to his new FD channel (Megan's old channel)",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-09-29"
+    },
+    "53ad32fed39cb28ac2812d54ee14f0ad|overdue|2026-09-30": {
+      "scheduledAt": "2026-09-17T21:07:40.964Z",
+      "type": "overdue",
+      "task": "Move Jimmy's task reminders to his new FD channel (Megan's old channel)",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-09-30"
+    },
+    "53ad32fed39cb28ac2812d54ee14f0ad|overdue|2026-10-01": {
+      "scheduledAt": "2026-09-17T21:07:41.939Z",
+      "type": "overdue",
+      "task": "Move Jimmy's task reminders to his new FD channel (Megan's old channel)",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-10-01"
+    },
+    "53ad32fed39cb28ac2812d54ee14f0ad|overdue|2026-10-02": {
+      "scheduledAt": "2026-09-17T21:07:42.932Z",
+      "type": "overdue",
+      "task": "Move Jimmy's task reminders to his new FD channel (Megan's old channel)",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-10-02"
+    },
+    "53ad32fed39cb28ac2812d54ee14f0ad|overdue|2026-10-03": {
+      "scheduledAt": "2026-09-17T21:07:43.898Z",
+      "type": "overdue",
+      "task": "Move Jimmy's task reminders to his new FD channel (Megan's old channel)",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-10-03"
+    },
+    "53ad32fed39cb28ac2812d54ee14f0ad|overdue|2026-10-04": {
+      "scheduledAt": "2026-09-17T21:07:44.871Z",
+      "type": "overdue",
+      "task": "Move Jimmy's task reminders to his new FD channel (Megan's old channel)",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-10-04"
+    },
+    "53ad32fed39cb28ac2812d54ee14f0ad|overdue|2026-10-05": {
+      "scheduledAt": "2026-09-17T21:07:45.835Z",
+      "type": "overdue",
+      "task": "Move Jimmy's task reminders to his new FD channel (Megan's old channel)",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-10-05"
+    },
+    "53ad32fed39cb28ac2812d54ee14f0ad|overdue|2026-10-06": {
+      "scheduledAt": "2026-09-17T21:07:46.788Z",
+      "type": "overdue",
+      "task": "Move Jimmy's task reminders to his new FD channel (Megan's old channel)",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-10-06"
+    },
+    "53ad32fed39cb28ac2812d54ee14f0ad|overdue|2026-10-07": {
+      "scheduledAt": "2026-09-17T21:07:47.795Z",
+      "type": "overdue",
+      "task": "Move Jimmy's task reminders to his new FD channel (Megan's old channel)",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-10-07"
+    },
+    "53ad32fed39cb28ac2812d54ee14f0ad|overdue|2026-10-08": {
+      "scheduledAt": "2026-09-17T21:07:48.776Z",
+      "type": "overdue",
+      "task": "Move Jimmy's task reminders to his new FD channel (Megan's old channel)",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-10-08"
+    },
+    "53ad32fed39cb28ac2812d54ee14f0ad|overdue|2026-10-09": {
+      "scheduledAt": "2026-09-17T21:07:49.740Z",
+      "type": "overdue",
+      "task": "Move Jimmy's task reminders to his new FD channel (Megan's old channel)",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-10-09"
+    },
+    "53ad32fed39cb28ac2812d54ee14f0ad|overdue|2026-10-10": {
+      "scheduledAt": "2026-09-17T21:07:50.711Z",
+      "type": "overdue",
+      "task": "Move Jimmy's task reminders to his new FD channel (Megan's old channel)",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-10-10"
+    },
+    "53ad32fed39cb28ac2812d54ee14f0ad|overdue|2026-10-11": {
+      "scheduledAt": "2026-09-17T21:07:51.699Z",
+      "type": "overdue",
+      "task": "Move Jimmy's task reminders to his new FD channel (Megan's old channel)",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-10-11"
+    },
+    "53ad32fed39cb28ac2812d54ee14f0ad|overdue|2026-10-12": {
+      "scheduledAt": "2026-09-17T21:07:52.639Z",
+      "type": "overdue",
+      "task": "Move Jimmy's task reminders to his new FD channel (Megan's old channel)",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-10-12"
+    },
+    "53ad32fed39cb28ac2812d54ee14f0ad|overdue|2026-10-13": {
+      "scheduledAt": "2026-09-17T21:07:53.624Z",
+      "type": "overdue",
+      "task": "Move Jimmy's task reminders to his new FD channel (Megan's old channel)",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-10-13"
+    },
+    "53ad32fed39cb28ac2812d54ee14f0ad|overdue|2026-10-14": {
+      "scheduledAt": "2026-09-17T21:07:54.586Z",
+      "type": "overdue",
+      "task": "Move Jimmy's task reminders to his new FD channel (Megan's old channel)",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-10-14"
+    },
+    "53ad32fed39cb28ac2812d54ee14f0ad|overdue|2026-10-15": {
+      "scheduledAt": "2026-09-17T21:07:55.538Z",
+      "type": "overdue",
+      "task": "Move Jimmy's task reminders to his new FD channel (Megan's old channel)",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-10-15"
+    },
+    "53ad32fed39cb28ac2812d54ee14f0ad|overdue|2026-10-16": {
+      "scheduledAt": "2026-09-17T21:07:56.509Z",
+      "type": "overdue",
+      "task": "Move Jimmy's task reminders to his new FD channel (Megan's old channel)",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-10-16"
+    },
+    "53ad32fed39cb28ac2812d54ee14f0ad|overdue|2026-10-17": {
+      "scheduledAt": "2026-09-17T21:07:57.468Z",
+      "type": "overdue",
+      "task": "Move Jimmy's task reminders to his new FD channel (Megan's old channel)",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-10-17"
+    },
+    "53ad32fed39cb28ac2812d54ee14f0ad|overdue|2026-10-18": {
+      "scheduledAt": "2026-09-17T21:07:58.449Z",
+      "type": "overdue",
+      "task": "Move Jimmy's task reminders to his new FD channel (Megan's old channel)",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-10-18"
+    },
+    "53ad32fed39cb28ac2812d54ee14f0ad|overdue|2026-10-19": {
+      "scheduledAt": "2026-09-17T21:07:59.385Z",
+      "type": "overdue",
+      "task": "Move Jimmy's task reminders to his new FD channel (Megan's old channel)",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-10-19"
+    },
+    "53ad32fed39cb28ac2812d54ee14f0ad|overdue|2026-10-20": {
+      "scheduledAt": "2026-09-17T21:08:00.341Z",
+      "type": "overdue",
+      "task": "Move Jimmy's task reminders to his new FD channel (Megan's old channel)",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-10-20"
+    },
+    "53ad32fed39cb28ac2812d54ee14f0ad|overdue|2026-10-21": {
+      "scheduledAt": "2026-09-17T21:08:01.269Z",
+      "type": "overdue",
+      "task": "Move Jimmy's task reminders to his new FD channel (Megan's old channel)",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-10-21"
     }
   },
   "scheduledMessageIds": {
@@ -33609,6 +33854,404 @@
         "channel": "C093VPK55NF",
         "messageId": "Q0C3H02LJ8Y"
       }
+    ],
+    "53ad32fed39cb28ac2812d54ee14f0ad": [
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0C2HS37BMH"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0C28MM9KN3"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0C28MMS1LP"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0C2N4LBUTG"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0C2N4K1YDC"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0C2S173TAM"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0C3JDQ0QUQ"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0C2HS2F5FV"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0C2TNGB4JY"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0C2K6VD0F7"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0C2K6WEHCM"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0C2TNFG87N"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0C2HS24WMR"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0C3JDQTFHN"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0C2S18Q249"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0C3JDPFTPS"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0C2Q0JBXH8"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0C2K6WGTT7"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0C2N4KPUMC"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0C28MNKGBH"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0C2K6W1RN1"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0C3JDPKMMW"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0C2TNH2R2Q"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0C2S197A01"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0C2K6W16P7"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0C3JDQDURW"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0C2S18P7JM"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0C2S18KW4R"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0C2TNGQ3E0"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0C2K6X542H"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0C2K6WCAPP"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0C2N4LE80N"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0C28MNHZNK"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0C2N4LLWPQ"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0C2S19QGPK"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0C28MNSAJK"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0C2N4LRJDU"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0C2Q0K3MFC"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0C2HS4BGQ3"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0C28MPCSDD"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0C2Q0JSE74"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0C2N4M4P7Y"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0C2N4LARQE"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0C2TNHGRNY"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0C2N4LU2R4"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0C2N4LM26A"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0C28MP0QDD"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0C2K6WD6VB"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0C2S19UY3B"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0C2N4MLPDL"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0C2Q0JS3L2"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0C2Q0JD05Q"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0C3JDQT1G8"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0C2TNHNJS0"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0C2K6WTQ9K"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0C2TNJEVRA"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0C2N4MK6RL"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0C3JDRFSFJ"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0C2HS4G5L3"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0C28MQ7M5M"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0C3JDSTW5N"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0C2TNJCDJQ"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0C28MPLF71"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0C2K6YK75K"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0C2HS54DTM"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0C2S1B2H5X"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0C28MQ9U7R"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0C2S19QV5F"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0C28MQMG9M"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0C2Q0L31PU"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0C2N4N3538"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0C28MQFD0F"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0C2TNJD8MS"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0C2Q0KUE10"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0C2Q0KESJW"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0C28MQFJCF"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0C2HS5BU1H"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0C28MQ1WNB"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0C2K6Y7D61"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0C2HS4K6F5"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0C28MPMN79"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0C2TNJSPEY"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0C3JDSLXB2"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0C2K6YV1NZ"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0C2N4N2JEA"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0C2K6Y4RB7"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0C2K6YESRK"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0C2N4NNA2J"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0C2HS5KFLK"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0C2N4NMP1C"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0C2S1C0J57"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0C2N4P97V4"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0C2Q0LK1M0"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0C2TNKJ22G"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0C2K6Z4KHT"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0C2Q0LPBMG"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0C3JDSGC9W"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0C2K6ZDLHK"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0C2Q0MCB6E"
+      }
     ]
   },
   "processedMessageTs": {
@@ -33817,8 +34460,9 @@
     "1789485784.811889": true,
     "1789660133.202589": true,
     "1789658637.715509": true,
-    "1789658605.022609": true
+    "1789658605.022609": true,
+    "1789676979.253129": true
   },
   "lastWeeklySummaryDate": "2026-W37",
-  "lastRun": "2026-09-17T18:03:31.913Z"
+  "lastRun": "2026-09-17T21:08:01.270Z"
 }
