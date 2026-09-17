@@ -1536,8 +1536,8 @@
       "source_message": "@Mark 'Morpheus' Manaog can you help me build a funnel template that will be included with the CRM set",
       "assigneeId": "U023F61R16F",
       "messageTs": "1788913886.361309",
-      "completed": false,
-      "completedAt": null,
+      "completed": true,
+      "completedAt": "2026-09-17T18:01:51.916Z",
       "firstSeenAt": "2026-09-09T06:01:47.418Z"
     },
     "58e9ce43500e0587931012a22c2cf8ac": {
@@ -1651,6 +1651,48 @@
       "completed": false,
       "completedAt": null,
       "firstSeenAt": "2026-09-15T18:01:37.133Z"
+    },
+    "c7b326c294663ab4df36f594501c98ff": {
+      "task": "Review sending join questions on Skool back to the CRM contact so we know what they said when they joined",
+      "assignee_name": "Mark 'Morpheus' Manaog",
+      "assignee_slack_mention": "@Mark 'Morpheus' Manaog",
+      "assigned_date": "2026-09-17",
+      "due_date": "2026-09-22",
+      "message_ts": "1789660133.202589",
+      "source_message": "@Mark 'Morpheus' Manaog review sending join questions on Skool back to the CRM contact so we know what they",
+      "assigneeId": "U023F61R16F",
+      "messageTs": "1789660133.202589",
+      "completed": false,
+      "completedAt": null,
+      "firstSeenAt": "2026-09-17T18:02:07.121Z"
+    },
+    "c66f205276c819b804580babe11d0fcb": {
+      "task": "Finalize CRM demo updated format (A-Z lead flow)",
+      "assignee_name": "U0BLTLN1Q0K",
+      "assignee_slack_mention": "@U0BLTLN1Q0K",
+      "assigned_date": "2026-09-17",
+      "due_date": "2026-09-25",
+      "message_ts": "1789658637.715509",
+      "source_message": "@U0BLTLN1Q0K finalize CRM demo updated format (A-Z lead flow) by next firday",
+      "assigneeId": null,
+      "messageTs": "1789658637.715509",
+      "completed": false,
+      "completedAt": null,
+      "firstSeenAt": "2026-09-17T18:02:07.251Z"
+    },
+    "b6e945c1609eca13379c9a23de194d89": {
+      "task": "Schedule a time to work with Richard on the CRM demo update - taking a lead from A-Z format",
+      "assignee_name": "Josh 'The Ninja' Morales",
+      "assignee_slack_mention": "@Josh 'The Ninja' Morales",
+      "assigned_date": "2026-09-17",
+      "due_date": "2026-09-21",
+      "message_ts": "1789658605.022609",
+      "source_message": "@Josh 'The Ninja' Morales - please schedule a time to work with Richard on the CRM demo update - taking a lea",
+      "assigneeId": "U07FVUF09T7",
+      "messageTs": "1789658605.022609",
+      "completed": false,
+      "completedAt": null,
+      "firstSeenAt": "2026-09-17T18:02:07.379Z"
     }
   },
   "scheduled": {
@@ -20634,6 +20676,713 @@
       "task": "Create client management tasks in Zoom tasks and report on it during Friday reporting meeting",
       "assignee": "Jimmy 'Suave' Flores",
       "reminderDate": "2026-10-18"
+    },
+    "c7b326c294663ab4df36f594501c98ff|midpoint|2026-09-19": {
+      "scheduledAt": "2026-09-17T18:02:08.381Z",
+      "type": "midpoint",
+      "task": "Review sending join questions on Skool back to the CRM contact so we know what they said when they joined",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-09-19"
+    },
+    "c7b326c294663ab4df36f594501c98ff|nag|2026-09-20": {
+      "scheduledAt": "2026-09-17T18:02:09.296Z",
+      "type": "nag",
+      "task": "Review sending join questions on Skool back to the CRM contact so we know what they said when they joined",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-09-20"
+    },
+    "c7b326c294663ab4df36f594501c98ff|nag|2026-09-21": {
+      "scheduledAt": "2026-09-17T18:02:10.225Z",
+      "type": "nag",
+      "task": "Review sending join questions on Skool back to the CRM contact so we know what they said when they joined",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-09-21"
+    },
+    "c7b326c294663ab4df36f594501c98ff|due|2026-09-22": {
+      "scheduledAt": "2026-09-17T18:02:11.210Z",
+      "type": "due",
+      "task": "Review sending join questions on Skool back to the CRM contact so we know what they said when they joined",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-09-22"
+    },
+    "c7b326c294663ab4df36f594501c98ff|overdue|2026-09-23": {
+      "scheduledAt": "2026-09-17T18:02:12.192Z",
+      "type": "overdue",
+      "task": "Review sending join questions on Skool back to the CRM contact so we know what they said when they joined",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-09-23"
+    },
+    "c7b326c294663ab4df36f594501c98ff|overdue|2026-09-24": {
+      "scheduledAt": "2026-09-17T18:02:13.136Z",
+      "type": "overdue",
+      "task": "Review sending join questions on Skool back to the CRM contact so we know what they said when they joined",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-09-24"
+    },
+    "c7b326c294663ab4df36f594501c98ff|overdue|2026-09-25": {
+      "scheduledAt": "2026-09-17T18:02:14.108Z",
+      "type": "overdue",
+      "task": "Review sending join questions on Skool back to the CRM contact so we know what they said when they joined",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-09-25"
+    },
+    "c7b326c294663ab4df36f594501c98ff|overdue|2026-09-26": {
+      "scheduledAt": "2026-09-17T18:02:15.091Z",
+      "type": "overdue",
+      "task": "Review sending join questions on Skool back to the CRM contact so we know what they said when they joined",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-09-26"
+    },
+    "c7b326c294663ab4df36f594501c98ff|overdue|2026-09-27": {
+      "scheduledAt": "2026-09-17T18:02:15.989Z",
+      "type": "overdue",
+      "task": "Review sending join questions on Skool back to the CRM contact so we know what they said when they joined",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-09-27"
+    },
+    "c7b326c294663ab4df36f594501c98ff|overdue|2026-09-28": {
+      "scheduledAt": "2026-09-17T18:02:16.919Z",
+      "type": "overdue",
+      "task": "Review sending join questions on Skool back to the CRM contact so we know what they said when they joined",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-09-28"
+    },
+    "c7b326c294663ab4df36f594501c98ff|overdue|2026-09-29": {
+      "scheduledAt": "2026-09-17T18:02:17.842Z",
+      "type": "overdue",
+      "task": "Review sending join questions on Skool back to the CRM contact so we know what they said when they joined",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-09-29"
+    },
+    "c7b326c294663ab4df36f594501c98ff|overdue|2026-09-30": {
+      "scheduledAt": "2026-09-17T18:02:18.770Z",
+      "type": "overdue",
+      "task": "Review sending join questions on Skool back to the CRM contact so we know what they said when they joined",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-09-30"
+    },
+    "c7b326c294663ab4df36f594501c98ff|overdue|2026-10-01": {
+      "scheduledAt": "2026-09-17T18:02:19.708Z",
+      "type": "overdue",
+      "task": "Review sending join questions on Skool back to the CRM contact so we know what they said when they joined",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-10-01"
+    },
+    "c7b326c294663ab4df36f594501c98ff|overdue|2026-10-02": {
+      "scheduledAt": "2026-09-17T18:02:20.611Z",
+      "type": "overdue",
+      "task": "Review sending join questions on Skool back to the CRM contact so we know what they said when they joined",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-10-02"
+    },
+    "c7b326c294663ab4df36f594501c98ff|overdue|2026-10-03": {
+      "scheduledAt": "2026-09-17T18:02:21.517Z",
+      "type": "overdue",
+      "task": "Review sending join questions on Skool back to the CRM contact so we know what they said when they joined",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-10-03"
+    },
+    "c7b326c294663ab4df36f594501c98ff|overdue|2026-10-04": {
+      "scheduledAt": "2026-09-17T18:02:22.425Z",
+      "type": "overdue",
+      "task": "Review sending join questions on Skool back to the CRM contact so we know what they said when they joined",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-10-04"
+    },
+    "c7b326c294663ab4df36f594501c98ff|overdue|2026-10-05": {
+      "scheduledAt": "2026-09-17T18:02:23.339Z",
+      "type": "overdue",
+      "task": "Review sending join questions on Skool back to the CRM contact so we know what they said when they joined",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-10-05"
+    },
+    "c7b326c294663ab4df36f594501c98ff|overdue|2026-10-06": {
+      "scheduledAt": "2026-09-17T18:02:24.293Z",
+      "type": "overdue",
+      "task": "Review sending join questions on Skool back to the CRM contact so we know what they said when they joined",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-10-06"
+    },
+    "c7b326c294663ab4df36f594501c98ff|overdue|2026-10-07": {
+      "scheduledAt": "2026-09-17T18:02:25.206Z",
+      "type": "overdue",
+      "task": "Review sending join questions on Skool back to the CRM contact so we know what they said when they joined",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-10-07"
+    },
+    "c7b326c294663ab4df36f594501c98ff|overdue|2026-10-08": {
+      "scheduledAt": "2026-09-17T18:02:26.123Z",
+      "type": "overdue",
+      "task": "Review sending join questions on Skool back to the CRM contact so we know what they said when they joined",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-10-08"
+    },
+    "c7b326c294663ab4df36f594501c98ff|overdue|2026-10-09": {
+      "scheduledAt": "2026-09-17T18:02:27.052Z",
+      "type": "overdue",
+      "task": "Review sending join questions on Skool back to the CRM contact so we know what they said when they joined",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-10-09"
+    },
+    "c7b326c294663ab4df36f594501c98ff|overdue|2026-10-10": {
+      "scheduledAt": "2026-09-17T18:02:27.950Z",
+      "type": "overdue",
+      "task": "Review sending join questions on Skool back to the CRM contact so we know what they said when they joined",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-10-10"
+    },
+    "c7b326c294663ab4df36f594501c98ff|overdue|2026-10-11": {
+      "scheduledAt": "2026-09-17T18:02:28.925Z",
+      "type": "overdue",
+      "task": "Review sending join questions on Skool back to the CRM contact so we know what they said when they joined",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-10-11"
+    },
+    "c7b326c294663ab4df36f594501c98ff|overdue|2026-10-12": {
+      "scheduledAt": "2026-09-17T18:02:29.833Z",
+      "type": "overdue",
+      "task": "Review sending join questions on Skool back to the CRM contact so we know what they said when they joined",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-10-12"
+    },
+    "c7b326c294663ab4df36f594501c98ff|overdue|2026-10-13": {
+      "scheduledAt": "2026-09-17T18:02:30.765Z",
+      "type": "overdue",
+      "task": "Review sending join questions on Skool back to the CRM contact so we know what they said when they joined",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-10-13"
+    },
+    "c7b326c294663ab4df36f594501c98ff|overdue|2026-10-14": {
+      "scheduledAt": "2026-09-17T18:02:32.159Z",
+      "type": "overdue",
+      "task": "Review sending join questions on Skool back to the CRM contact so we know what they said when they joined",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-10-14"
+    },
+    "c7b326c294663ab4df36f594501c98ff|overdue|2026-10-15": {
+      "scheduledAt": "2026-09-17T18:02:33.103Z",
+      "type": "overdue",
+      "task": "Review sending join questions on Skool back to the CRM contact so we know what they said when they joined",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-10-15"
+    },
+    "c7b326c294663ab4df36f594501c98ff|overdue|2026-10-16": {
+      "scheduledAt": "2026-09-17T18:02:34.043Z",
+      "type": "overdue",
+      "task": "Review sending join questions on Skool back to the CRM contact so we know what they said when they joined",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-10-16"
+    },
+    "c7b326c294663ab4df36f594501c98ff|overdue|2026-10-17": {
+      "scheduledAt": "2026-09-17T18:02:34.954Z",
+      "type": "overdue",
+      "task": "Review sending join questions on Skool back to the CRM contact so we know what they said when they joined",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-10-17"
+    },
+    "c7b326c294663ab4df36f594501c98ff|overdue|2026-10-18": {
+      "scheduledAt": "2026-09-17T18:02:35.906Z",
+      "type": "overdue",
+      "task": "Review sending join questions on Skool back to the CRM contact so we know what they said when they joined",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-10-18"
+    },
+    "c7b326c294663ab4df36f594501c98ff|overdue|2026-10-19": {
+      "scheduledAt": "2026-09-17T18:02:36.836Z",
+      "type": "overdue",
+      "task": "Review sending join questions on Skool back to the CRM contact so we know what they said when they joined",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-10-19"
+    },
+    "c7b326c294663ab4df36f594501c98ff|overdue|2026-10-20": {
+      "scheduledAt": "2026-09-17T18:02:37.757Z",
+      "type": "overdue",
+      "task": "Review sending join questions on Skool back to the CRM contact so we know what they said when they joined",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-10-20"
+    },
+    "c7b326c294663ab4df36f594501c98ff|overdue|2026-10-21": {
+      "scheduledAt": "2026-09-17T18:02:38.717Z",
+      "type": "overdue",
+      "task": "Review sending join questions on Skool back to the CRM contact so we know what they said when they joined",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-10-21"
+    },
+    "c7b326c294663ab4df36f594501c98ff|overdue|2026-10-22": {
+      "scheduledAt": "2026-09-17T18:02:39.642Z",
+      "type": "overdue",
+      "task": "Review sending join questions on Skool back to the CRM contact so we know what they said when they joined",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-10-22"
+    },
+    "c66f205276c819b804580babe11d0fcb|midpoint|2026-09-21": {
+      "scheduledAt": "2026-09-17T18:02:40.276Z",
+      "type": "midpoint",
+      "task": "Finalize CRM demo updated format (A-Z lead flow)",
+      "assignee": "U0BLTLN1Q0K",
+      "reminderDate": "2026-09-21"
+    },
+    "c66f205276c819b804580babe11d0fcb|nag|2026-09-23": {
+      "scheduledAt": "2026-09-17T18:02:40.922Z",
+      "type": "nag",
+      "task": "Finalize CRM demo updated format (A-Z lead flow)",
+      "assignee": "U0BLTLN1Q0K",
+      "reminderDate": "2026-09-23"
+    },
+    "c66f205276c819b804580babe11d0fcb|nag|2026-09-24": {
+      "scheduledAt": "2026-09-17T18:02:41.550Z",
+      "type": "nag",
+      "task": "Finalize CRM demo updated format (A-Z lead flow)",
+      "assignee": "U0BLTLN1Q0K",
+      "reminderDate": "2026-09-24"
+    },
+    "c66f205276c819b804580babe11d0fcb|due|2026-09-25": {
+      "scheduledAt": "2026-09-17T18:02:42.199Z",
+      "type": "due",
+      "task": "Finalize CRM demo updated format (A-Z lead flow)",
+      "assignee": "U0BLTLN1Q0K",
+      "reminderDate": "2026-09-25"
+    },
+    "c66f205276c819b804580babe11d0fcb|overdue|2026-09-26": {
+      "scheduledAt": "2026-09-17T18:02:42.824Z",
+      "type": "overdue",
+      "task": "Finalize CRM demo updated format (A-Z lead flow)",
+      "assignee": "U0BLTLN1Q0K",
+      "reminderDate": "2026-09-26"
+    },
+    "c66f205276c819b804580babe11d0fcb|overdue|2026-09-27": {
+      "scheduledAt": "2026-09-17T18:02:43.456Z",
+      "type": "overdue",
+      "task": "Finalize CRM demo updated format (A-Z lead flow)",
+      "assignee": "U0BLTLN1Q0K",
+      "reminderDate": "2026-09-27"
+    },
+    "c66f205276c819b804580babe11d0fcb|overdue|2026-09-28": {
+      "scheduledAt": "2026-09-17T18:02:44.094Z",
+      "type": "overdue",
+      "task": "Finalize CRM demo updated format (A-Z lead flow)",
+      "assignee": "U0BLTLN1Q0K",
+      "reminderDate": "2026-09-28"
+    },
+    "c66f205276c819b804580babe11d0fcb|overdue|2026-09-29": {
+      "scheduledAt": "2026-09-17T18:02:44.750Z",
+      "type": "overdue",
+      "task": "Finalize CRM demo updated format (A-Z lead flow)",
+      "assignee": "U0BLTLN1Q0K",
+      "reminderDate": "2026-09-29"
+    },
+    "c66f205276c819b804580babe11d0fcb|overdue|2026-09-30": {
+      "scheduledAt": "2026-09-17T18:02:45.395Z",
+      "type": "overdue",
+      "task": "Finalize CRM demo updated format (A-Z lead flow)",
+      "assignee": "U0BLTLN1Q0K",
+      "reminderDate": "2026-09-30"
+    },
+    "c66f205276c819b804580babe11d0fcb|overdue|2026-10-01": {
+      "scheduledAt": "2026-09-17T18:02:46.038Z",
+      "type": "overdue",
+      "task": "Finalize CRM demo updated format (A-Z lead flow)",
+      "assignee": "U0BLTLN1Q0K",
+      "reminderDate": "2026-10-01"
+    },
+    "c66f205276c819b804580babe11d0fcb|overdue|2026-10-02": {
+      "scheduledAt": "2026-09-17T18:02:46.683Z",
+      "type": "overdue",
+      "task": "Finalize CRM demo updated format (A-Z lead flow)",
+      "assignee": "U0BLTLN1Q0K",
+      "reminderDate": "2026-10-02"
+    },
+    "c66f205276c819b804580babe11d0fcb|overdue|2026-10-03": {
+      "scheduledAt": "2026-09-17T18:02:47.320Z",
+      "type": "overdue",
+      "task": "Finalize CRM demo updated format (A-Z lead flow)",
+      "assignee": "U0BLTLN1Q0K",
+      "reminderDate": "2026-10-03"
+    },
+    "c66f205276c819b804580babe11d0fcb|overdue|2026-10-04": {
+      "scheduledAt": "2026-09-17T18:02:47.961Z",
+      "type": "overdue",
+      "task": "Finalize CRM demo updated format (A-Z lead flow)",
+      "assignee": "U0BLTLN1Q0K",
+      "reminderDate": "2026-10-04"
+    },
+    "c66f205276c819b804580babe11d0fcb|overdue|2026-10-05": {
+      "scheduledAt": "2026-09-17T18:02:48.603Z",
+      "type": "overdue",
+      "task": "Finalize CRM demo updated format (A-Z lead flow)",
+      "assignee": "U0BLTLN1Q0K",
+      "reminderDate": "2026-10-05"
+    },
+    "c66f205276c819b804580babe11d0fcb|overdue|2026-10-06": {
+      "scheduledAt": "2026-09-17T18:02:49.234Z",
+      "type": "overdue",
+      "task": "Finalize CRM demo updated format (A-Z lead flow)",
+      "assignee": "U0BLTLN1Q0K",
+      "reminderDate": "2026-10-06"
+    },
+    "c66f205276c819b804580babe11d0fcb|overdue|2026-10-07": {
+      "scheduledAt": "2026-09-17T18:02:49.858Z",
+      "type": "overdue",
+      "task": "Finalize CRM demo updated format (A-Z lead flow)",
+      "assignee": "U0BLTLN1Q0K",
+      "reminderDate": "2026-10-07"
+    },
+    "c66f205276c819b804580babe11d0fcb|overdue|2026-10-08": {
+      "scheduledAt": "2026-09-17T18:02:50.501Z",
+      "type": "overdue",
+      "task": "Finalize CRM demo updated format (A-Z lead flow)",
+      "assignee": "U0BLTLN1Q0K",
+      "reminderDate": "2026-10-08"
+    },
+    "c66f205276c819b804580babe11d0fcb|overdue|2026-10-09": {
+      "scheduledAt": "2026-09-17T18:02:51.136Z",
+      "type": "overdue",
+      "task": "Finalize CRM demo updated format (A-Z lead flow)",
+      "assignee": "U0BLTLN1Q0K",
+      "reminderDate": "2026-10-09"
+    },
+    "c66f205276c819b804580babe11d0fcb|overdue|2026-10-10": {
+      "scheduledAt": "2026-09-17T18:02:51.781Z",
+      "type": "overdue",
+      "task": "Finalize CRM demo updated format (A-Z lead flow)",
+      "assignee": "U0BLTLN1Q0K",
+      "reminderDate": "2026-10-10"
+    },
+    "c66f205276c819b804580babe11d0fcb|overdue|2026-10-11": {
+      "scheduledAt": "2026-09-17T18:02:52.440Z",
+      "type": "overdue",
+      "task": "Finalize CRM demo updated format (A-Z lead flow)",
+      "assignee": "U0BLTLN1Q0K",
+      "reminderDate": "2026-10-11"
+    },
+    "c66f205276c819b804580babe11d0fcb|overdue|2026-10-12": {
+      "scheduledAt": "2026-09-17T18:02:53.067Z",
+      "type": "overdue",
+      "task": "Finalize CRM demo updated format (A-Z lead flow)",
+      "assignee": "U0BLTLN1Q0K",
+      "reminderDate": "2026-10-12"
+    },
+    "c66f205276c819b804580babe11d0fcb|overdue|2026-10-13": {
+      "scheduledAt": "2026-09-17T18:02:53.715Z",
+      "type": "overdue",
+      "task": "Finalize CRM demo updated format (A-Z lead flow)",
+      "assignee": "U0BLTLN1Q0K",
+      "reminderDate": "2026-10-13"
+    },
+    "c66f205276c819b804580babe11d0fcb|overdue|2026-10-14": {
+      "scheduledAt": "2026-09-17T18:02:54.364Z",
+      "type": "overdue",
+      "task": "Finalize CRM demo updated format (A-Z lead flow)",
+      "assignee": "U0BLTLN1Q0K",
+      "reminderDate": "2026-10-14"
+    },
+    "c66f205276c819b804580babe11d0fcb|overdue|2026-10-15": {
+      "scheduledAt": "2026-09-17T18:02:54.986Z",
+      "type": "overdue",
+      "task": "Finalize CRM demo updated format (A-Z lead flow)",
+      "assignee": "U0BLTLN1Q0K",
+      "reminderDate": "2026-10-15"
+    },
+    "c66f205276c819b804580babe11d0fcb|overdue|2026-10-16": {
+      "scheduledAt": "2026-09-17T18:02:55.680Z",
+      "type": "overdue",
+      "task": "Finalize CRM demo updated format (A-Z lead flow)",
+      "assignee": "U0BLTLN1Q0K",
+      "reminderDate": "2026-10-16"
+    },
+    "c66f205276c819b804580babe11d0fcb|overdue|2026-10-17": {
+      "scheduledAt": "2026-09-17T18:02:56.332Z",
+      "type": "overdue",
+      "task": "Finalize CRM demo updated format (A-Z lead flow)",
+      "assignee": "U0BLTLN1Q0K",
+      "reminderDate": "2026-10-17"
+    },
+    "c66f205276c819b804580babe11d0fcb|overdue|2026-10-18": {
+      "scheduledAt": "2026-09-17T18:02:56.983Z",
+      "type": "overdue",
+      "task": "Finalize CRM demo updated format (A-Z lead flow)",
+      "assignee": "U0BLTLN1Q0K",
+      "reminderDate": "2026-10-18"
+    },
+    "c66f205276c819b804580babe11d0fcb|overdue|2026-10-19": {
+      "scheduledAt": "2026-09-17T18:02:57.644Z",
+      "type": "overdue",
+      "task": "Finalize CRM demo updated format (A-Z lead flow)",
+      "assignee": "U0BLTLN1Q0K",
+      "reminderDate": "2026-10-19"
+    },
+    "c66f205276c819b804580babe11d0fcb|overdue|2026-10-20": {
+      "scheduledAt": "2026-09-17T18:02:58.282Z",
+      "type": "overdue",
+      "task": "Finalize CRM demo updated format (A-Z lead flow)",
+      "assignee": "U0BLTLN1Q0K",
+      "reminderDate": "2026-10-20"
+    },
+    "c66f205276c819b804580babe11d0fcb|overdue|2026-10-21": {
+      "scheduledAt": "2026-09-17T18:02:58.926Z",
+      "type": "overdue",
+      "task": "Finalize CRM demo updated format (A-Z lead flow)",
+      "assignee": "U0BLTLN1Q0K",
+      "reminderDate": "2026-10-21"
+    },
+    "c66f205276c819b804580babe11d0fcb|overdue|2026-10-22": {
+      "scheduledAt": "2026-09-17T18:02:59.556Z",
+      "type": "overdue",
+      "task": "Finalize CRM demo updated format (A-Z lead flow)",
+      "assignee": "U0BLTLN1Q0K",
+      "reminderDate": "2026-10-22"
+    },
+    "c66f205276c819b804580babe11d0fcb|overdue|2026-10-23": {
+      "scheduledAt": "2026-09-17T18:03:00.184Z",
+      "type": "overdue",
+      "task": "Finalize CRM demo updated format (A-Z lead flow)",
+      "assignee": "U0BLTLN1Q0K",
+      "reminderDate": "2026-10-23"
+    },
+    "c66f205276c819b804580babe11d0fcb|overdue|2026-10-24": {
+      "scheduledAt": "2026-09-17T18:03:00.882Z",
+      "type": "overdue",
+      "task": "Finalize CRM demo updated format (A-Z lead flow)",
+      "assignee": "U0BLTLN1Q0K",
+      "reminderDate": "2026-10-24"
+    },
+    "c66f205276c819b804580babe11d0fcb|overdue|2026-10-25": {
+      "scheduledAt": "2026-09-17T18:03:01.527Z",
+      "type": "overdue",
+      "task": "Finalize CRM demo updated format (A-Z lead flow)",
+      "assignee": "U0BLTLN1Q0K",
+      "reminderDate": "2026-10-25"
+    },
+    "b6e945c1609eca13379c9a23de194d89|midpoint|2026-09-19": {
+      "scheduledAt": "2026-09-17T18:03:02.491Z",
+      "type": "midpoint",
+      "task": "Schedule a time to work with Richard on the CRM demo update - taking a lead from A-Z format",
+      "assignee": "Josh 'The Ninja' Morales",
+      "reminderDate": "2026-09-19"
+    },
+    "b6e945c1609eca13379c9a23de194d89|nag|2026-09-20": {
+      "scheduledAt": "2026-09-17T18:03:03.433Z",
+      "type": "nag",
+      "task": "Schedule a time to work with Richard on the CRM demo update - taking a lead from A-Z format",
+      "assignee": "Josh 'The Ninja' Morales",
+      "reminderDate": "2026-09-20"
+    },
+    "b6e945c1609eca13379c9a23de194d89|due|2026-09-21": {
+      "scheduledAt": "2026-09-17T18:03:04.352Z",
+      "type": "due",
+      "task": "Schedule a time to work with Richard on the CRM demo update - taking a lead from A-Z format",
+      "assignee": "Josh 'The Ninja' Morales",
+      "reminderDate": "2026-09-21"
+    },
+    "b6e945c1609eca13379c9a23de194d89|overdue|2026-09-22": {
+      "scheduledAt": "2026-09-17T18:03:05.296Z",
+      "type": "overdue",
+      "task": "Schedule a time to work with Richard on the CRM demo update - taking a lead from A-Z format",
+      "assignee": "Josh 'The Ninja' Morales",
+      "reminderDate": "2026-09-22"
+    },
+    "b6e945c1609eca13379c9a23de194d89|overdue|2026-09-23": {
+      "scheduledAt": "2026-09-17T18:03:06.223Z",
+      "type": "overdue",
+      "task": "Schedule a time to work with Richard on the CRM demo update - taking a lead from A-Z format",
+      "assignee": "Josh 'The Ninja' Morales",
+      "reminderDate": "2026-09-23"
+    },
+    "b6e945c1609eca13379c9a23de194d89|overdue|2026-09-24": {
+      "scheduledAt": "2026-09-17T18:03:07.132Z",
+      "type": "overdue",
+      "task": "Schedule a time to work with Richard on the CRM demo update - taking a lead from A-Z format",
+      "assignee": "Josh 'The Ninja' Morales",
+      "reminderDate": "2026-09-24"
+    },
+    "b6e945c1609eca13379c9a23de194d89|overdue|2026-09-25": {
+      "scheduledAt": "2026-09-17T18:03:08.034Z",
+      "type": "overdue",
+      "task": "Schedule a time to work with Richard on the CRM demo update - taking a lead from A-Z format",
+      "assignee": "Josh 'The Ninja' Morales",
+      "reminderDate": "2026-09-25"
+    },
+    "b6e945c1609eca13379c9a23de194d89|overdue|2026-09-26": {
+      "scheduledAt": "2026-09-17T18:03:08.964Z",
+      "type": "overdue",
+      "task": "Schedule a time to work with Richard on the CRM demo update - taking a lead from A-Z format",
+      "assignee": "Josh 'The Ninja' Morales",
+      "reminderDate": "2026-09-26"
+    },
+    "b6e945c1609eca13379c9a23de194d89|overdue|2026-09-27": {
+      "scheduledAt": "2026-09-17T18:03:09.885Z",
+      "type": "overdue",
+      "task": "Schedule a time to work with Richard on the CRM demo update - taking a lead from A-Z format",
+      "assignee": "Josh 'The Ninja' Morales",
+      "reminderDate": "2026-09-27"
+    },
+    "b6e945c1609eca13379c9a23de194d89|overdue|2026-09-28": {
+      "scheduledAt": "2026-09-17T18:03:10.798Z",
+      "type": "overdue",
+      "task": "Schedule a time to work with Richard on the CRM demo update - taking a lead from A-Z format",
+      "assignee": "Josh 'The Ninja' Morales",
+      "reminderDate": "2026-09-28"
+    },
+    "b6e945c1609eca13379c9a23de194d89|overdue|2026-09-29": {
+      "scheduledAt": "2026-09-17T18:03:11.717Z",
+      "type": "overdue",
+      "task": "Schedule a time to work with Richard on the CRM demo update - taking a lead from A-Z format",
+      "assignee": "Josh 'The Ninja' Morales",
+      "reminderDate": "2026-09-29"
+    },
+    "b6e945c1609eca13379c9a23de194d89|overdue|2026-09-30": {
+      "scheduledAt": "2026-09-17T18:03:12.673Z",
+      "type": "overdue",
+      "task": "Schedule a time to work with Richard on the CRM demo update - taking a lead from A-Z format",
+      "assignee": "Josh 'The Ninja' Morales",
+      "reminderDate": "2026-09-30"
+    },
+    "b6e945c1609eca13379c9a23de194d89|overdue|2026-10-01": {
+      "scheduledAt": "2026-09-17T18:03:13.597Z",
+      "type": "overdue",
+      "task": "Schedule a time to work with Richard on the CRM demo update - taking a lead from A-Z format",
+      "assignee": "Josh 'The Ninja' Morales",
+      "reminderDate": "2026-10-01"
+    },
+    "b6e945c1609eca13379c9a23de194d89|overdue|2026-10-02": {
+      "scheduledAt": "2026-09-17T18:03:14.541Z",
+      "type": "overdue",
+      "task": "Schedule a time to work with Richard on the CRM demo update - taking a lead from A-Z format",
+      "assignee": "Josh 'The Ninja' Morales",
+      "reminderDate": "2026-10-02"
+    },
+    "b6e945c1609eca13379c9a23de194d89|overdue|2026-10-03": {
+      "scheduledAt": "2026-09-17T18:03:15.439Z",
+      "type": "overdue",
+      "task": "Schedule a time to work with Richard on the CRM demo update - taking a lead from A-Z format",
+      "assignee": "Josh 'The Ninja' Morales",
+      "reminderDate": "2026-10-03"
+    },
+    "b6e945c1609eca13379c9a23de194d89|overdue|2026-10-04": {
+      "scheduledAt": "2026-09-17T18:03:16.357Z",
+      "type": "overdue",
+      "task": "Schedule a time to work with Richard on the CRM demo update - taking a lead from A-Z format",
+      "assignee": "Josh 'The Ninja' Morales",
+      "reminderDate": "2026-10-04"
+    },
+    "b6e945c1609eca13379c9a23de194d89|overdue|2026-10-05": {
+      "scheduledAt": "2026-09-17T18:03:17.300Z",
+      "type": "overdue",
+      "task": "Schedule a time to work with Richard on the CRM demo update - taking a lead from A-Z format",
+      "assignee": "Josh 'The Ninja' Morales",
+      "reminderDate": "2026-10-05"
+    },
+    "b6e945c1609eca13379c9a23de194d89|overdue|2026-10-06": {
+      "scheduledAt": "2026-09-17T18:03:18.187Z",
+      "type": "overdue",
+      "task": "Schedule a time to work with Richard on the CRM demo update - taking a lead from A-Z format",
+      "assignee": "Josh 'The Ninja' Morales",
+      "reminderDate": "2026-10-06"
+    },
+    "b6e945c1609eca13379c9a23de194d89|overdue|2026-10-07": {
+      "scheduledAt": "2026-09-17T18:03:19.096Z",
+      "type": "overdue",
+      "task": "Schedule a time to work with Richard on the CRM demo update - taking a lead from A-Z format",
+      "assignee": "Josh 'The Ninja' Morales",
+      "reminderDate": "2026-10-07"
+    },
+    "b6e945c1609eca13379c9a23de194d89|overdue|2026-10-08": {
+      "scheduledAt": "2026-09-17T18:03:20.024Z",
+      "type": "overdue",
+      "task": "Schedule a time to work with Richard on the CRM demo update - taking a lead from A-Z format",
+      "assignee": "Josh 'The Ninja' Morales",
+      "reminderDate": "2026-10-08"
+    },
+    "b6e945c1609eca13379c9a23de194d89|overdue|2026-10-09": {
+      "scheduledAt": "2026-09-17T18:03:20.934Z",
+      "type": "overdue",
+      "task": "Schedule a time to work with Richard on the CRM demo update - taking a lead from A-Z format",
+      "assignee": "Josh 'The Ninja' Morales",
+      "reminderDate": "2026-10-09"
+    },
+    "b6e945c1609eca13379c9a23de194d89|overdue|2026-10-10": {
+      "scheduledAt": "2026-09-17T18:03:21.840Z",
+      "type": "overdue",
+      "task": "Schedule a time to work with Richard on the CRM demo update - taking a lead from A-Z format",
+      "assignee": "Josh 'The Ninja' Morales",
+      "reminderDate": "2026-10-10"
+    },
+    "b6e945c1609eca13379c9a23de194d89|overdue|2026-10-11": {
+      "scheduledAt": "2026-09-17T18:03:22.766Z",
+      "type": "overdue",
+      "task": "Schedule a time to work with Richard on the CRM demo update - taking a lead from A-Z format",
+      "assignee": "Josh 'The Ninja' Morales",
+      "reminderDate": "2026-10-11"
+    },
+    "b6e945c1609eca13379c9a23de194d89|overdue|2026-10-12": {
+      "scheduledAt": "2026-09-17T18:03:23.701Z",
+      "type": "overdue",
+      "task": "Schedule a time to work with Richard on the CRM demo update - taking a lead from A-Z format",
+      "assignee": "Josh 'The Ninja' Morales",
+      "reminderDate": "2026-10-12"
+    },
+    "b6e945c1609eca13379c9a23de194d89|overdue|2026-10-13": {
+      "scheduledAt": "2026-09-17T18:03:24.615Z",
+      "type": "overdue",
+      "task": "Schedule a time to work with Richard on the CRM demo update - taking a lead from A-Z format",
+      "assignee": "Josh 'The Ninja' Morales",
+      "reminderDate": "2026-10-13"
+    },
+    "b6e945c1609eca13379c9a23de194d89|overdue|2026-10-14": {
+      "scheduledAt": "2026-09-17T18:03:25.519Z",
+      "type": "overdue",
+      "task": "Schedule a time to work with Richard on the CRM demo update - taking a lead from A-Z format",
+      "assignee": "Josh 'The Ninja' Morales",
+      "reminderDate": "2026-10-14"
+    },
+    "b6e945c1609eca13379c9a23de194d89|overdue|2026-10-15": {
+      "scheduledAt": "2026-09-17T18:03:26.437Z",
+      "type": "overdue",
+      "task": "Schedule a time to work with Richard on the CRM demo update - taking a lead from A-Z format",
+      "assignee": "Josh 'The Ninja' Morales",
+      "reminderDate": "2026-10-15"
+    },
+    "b6e945c1609eca13379c9a23de194d89|overdue|2026-10-16": {
+      "scheduledAt": "2026-09-17T18:03:27.325Z",
+      "type": "overdue",
+      "task": "Schedule a time to work with Richard on the CRM demo update - taking a lead from A-Z format",
+      "assignee": "Josh 'The Ninja' Morales",
+      "reminderDate": "2026-10-16"
+    },
+    "b6e945c1609eca13379c9a23de194d89|overdue|2026-10-17": {
+      "scheduledAt": "2026-09-17T18:03:28.226Z",
+      "type": "overdue",
+      "task": "Schedule a time to work with Richard on the CRM demo update - taking a lead from A-Z format",
+      "assignee": "Josh 'The Ninja' Morales",
+      "reminderDate": "2026-10-17"
+    },
+    "b6e945c1609eca13379c9a23de194d89|overdue|2026-10-18": {
+      "scheduledAt": "2026-09-17T18:03:29.139Z",
+      "type": "overdue",
+      "task": "Schedule a time to work with Richard on the CRM demo update - taking a lead from A-Z format",
+      "assignee": "Josh 'The Ninja' Morales",
+      "reminderDate": "2026-10-18"
+    },
+    "b6e945c1609eca13379c9a23de194d89|overdue|2026-10-19": {
+      "scheduledAt": "2026-09-17T18:03:30.093Z",
+      "type": "overdue",
+      "task": "Schedule a time to work with Richard on the CRM demo update - taking a lead from A-Z format",
+      "assignee": "Josh 'The Ninja' Morales",
+      "reminderDate": "2026-10-19"
+    },
+    "b6e945c1609eca13379c9a23de194d89|overdue|2026-10-20": {
+      "scheduledAt": "2026-09-17T18:03:31.009Z",
+      "type": "overdue",
+      "task": "Schedule a time to work with Richard on the CRM demo update - taking a lead from A-Z format",
+      "assignee": "Josh 'The Ninja' Morales",
+      "reminderDate": "2026-10-20"
+    },
+    "b6e945c1609eca13379c9a23de194d89|overdue|2026-10-21": {
+      "scheduledAt": "2026-09-17T18:03:31.912Z",
+      "type": "overdue",
+      "task": "Schedule a time to work with Richard on the CRM demo update - taking a lead from A-Z format",
+      "assignee": "Josh 'The Ninja' Morales",
+      "reminderDate": "2026-10-21"
     }
   },
   "scheduledMessageIds": {
@@ -29935,20 +30684,6 @@
         "messageId": "Q0C0JJF3VM2"
       }
     ],
-    "33ef53dd83838fd70b4b246ac82941bd": [
-      {
-        "channel": "UMS39RAGP",
-        "messageId": "Q0C0HMVPSG2"
-      },
-      {
-        "channel": "U023F61R16F",
-        "messageId": "Q0C1C47HY80"
-      },
-      {
-        "channel": "C05JGF817H6",
-        "messageId": "Q0C0KLJMK09"
-      }
-    ],
     "58e9ce43500e0587931012a22c2cf8ac": [
       {
         "channel": "UMS39RAGP",
@@ -31928,6 +32663,952 @@
         "channel": "C097208ALLF",
         "messageId": "Q0C25P82D36"
       }
+    ],
+    "c7b326c294663ab4df36f594501c98ff": [
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0C2HNHH3QD"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0C2NFZ1A02"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0C2QGMM4HF"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0C277N0V9D"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0C277NMQQ7"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0C2GC6JBM1"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0C3GV4UQRE"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0C3GV420GY"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0C2LL06RGW"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0C2QGP2GAV"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0C2LL14B6J"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0C2GC6937V"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0C2NG04V26"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0C2HNL0KKP"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0C3GV3TN0G"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0C2HNKLRRT"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0C2LL0CDBQ"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0C2HNK8V6H"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0C2S8G3HC4"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0C2GC63TD1"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0C2NG0E3B4"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0C2GC6GYRZ"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0C2LL16678"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0C3GV52X16"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0C2HNKDXK7"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0C2QGPHBQ9"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0C277Q584F"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0C2GC74DK5"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0C2GC7A29H"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0C2HNLSEKF"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0C2LL1FDJS"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0C2NG0L4KU"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0C2HNLHTQV"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0C2QGQ0PU1"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0C2NG18R2N"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0C2S8JETCL"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0C2GC74LG3"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0C277NJSPR"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0C2NG0M16W"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0C2NG15CAW"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0C2HNLC5AR"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0C2NG218RY"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0C2S8HNHGC"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0C277QF8TZ"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0C2HNKUYMB"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0C2S8JFCMA"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0C3GV6TP16"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0C2HNLSJ3F"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0C2S8KGQH2"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0C2S8HMNA0"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0C277QUD7Z"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0C2NG22ZLJ"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0C277R231D"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0C3GV5QLJC"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0C2QGRSSCR"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0C2S8JPT2Q"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0C2NG2A0KC"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0C2HNN411T"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0C2NG29JNN"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0C2NG1N2MQ"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0C277RRU3H"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0C2NG1ENLS"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0C277RF5F1"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0C2GC97JGK"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0C277RMM6K"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0C2QGR83EV"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0C2NG209SN"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0C3GV86ABS"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0C2HNN771B"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0C2QGSBXED"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0C2HNN282Z"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0C3GV7T932"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0C2LL2V7LN"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0C2QGQ9DCH"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0C3GV77Q3A"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0C2HNNTD9T"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0C2LL3M9L6"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0C277RT1HV"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0C2S8LMJJY"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0C2GCA2DKM"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0C2HNNPTEZ"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0C2HNP4G21"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0C2GCACQH1"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0C2S8L7KBN"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0C3GV7J248"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0C2NG3TP3L"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0C2S8LDW7N"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0C2QGTQ1DX"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0C277SG0JK"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0C2HNNT6SZ"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0C277SRW95"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0C2QGSJ8TT"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0C2QGT6TFB"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0C2S8L26G4"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0C2S8M665A"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0C2NG3C4SW"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0C2HNP9M53"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0C2LL41BAS"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0C3GV89UTS"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0C2GCA732P"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0C2GCAC9EF"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0C3GV8PRL0"
+      }
+    ],
+    "c66f205276c819b804580babe11d0fcb": [
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0C2QGU0ZUZ"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0C2LL7ARB8"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0C3GV9P8N4"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0C3GV9K02C"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0C2S8N36BW"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0C2LL56Z7G"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0C2GCBDCLB"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0C2LL5QV0W"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0C2NG59D5Y"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0C277SR38F"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0C2QGUG10R"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0C2QGUM1B3"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0C2QGU640Z"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0C2HNR4B6H"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0C2S8NL2TW"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0C2NG5E3MY"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0C2QGUQ5CH"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0C2LL6JYHL"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0C277V7JP9"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0C2HNRHE13"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0C2GCCLTL3"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0C2NG65X2N"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0C2NG6JEGJ"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0C3GVB3E9E"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0C2HNS4G5B"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0C277VSXHD"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0C277VJK47"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0C2QGWJ5PB"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0C2LL8A39C"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0C2NG7PPU2"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0C2HNTJDL5"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0C277WG2K1"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0C2LL83622"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0C3GVCQYBS"
+      }
+    ],
+    "b6e945c1609eca13379c9a23de194d89": [
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0C2S8QEJ5A"
+      },
+      {
+        "channel": "U07FVUF09T7",
+        "messageId": "Q0C2S8QF4N8"
+      },
+      {
+        "channel": "C093VPK55NF",
+        "messageId": "Q0C2GCEGNRZ"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0C2GCDGWKV"
+      },
+      {
+        "channel": "U07FVUF09T7",
+        "messageId": "Q0C2GCE9ERZ"
+      },
+      {
+        "channel": "C093VPK55NF",
+        "messageId": "Q0C3GVCFAV6"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0C277X1PJT"
+      },
+      {
+        "channel": "U07FVUF09T7",
+        "messageId": "Q0C2S8RG99S"
+      },
+      {
+        "channel": "C093VPK55NF",
+        "messageId": "Q0C2S8R4Z8U"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0C2S8R85TN"
+      },
+      {
+        "channel": "U07FVUF09T7",
+        "messageId": "Q0C2S8RR4GL"
+      },
+      {
+        "channel": "C093VPK55NF",
+        "messageId": "Q0C277WK31V"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0C2LL8B11U"
+      },
+      {
+        "channel": "U07FVUF09T7",
+        "messageId": "Q0C2HNTFX6Z"
+      },
+      {
+        "channel": "C093VPK55NF",
+        "messageId": "Q0C3GVDBSRW"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0C2GCETZ51"
+      },
+      {
+        "channel": "U07FVUF09T7",
+        "messageId": "Q0C3GVD29MW"
+      },
+      {
+        "channel": "C093VPK55NF",
+        "messageId": "Q0C2S8R0S76"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0C2HNU7GQ5"
+      },
+      {
+        "channel": "U07FVUF09T7",
+        "messageId": "Q0C2S8R6J7N"
+      },
+      {
+        "channel": "C093VPK55NF",
+        "messageId": "Q0C2LL8TQJ2"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0C3GVCG108"
+      },
+      {
+        "channel": "U07FVUF09T7",
+        "messageId": "Q0C2GCF1ZV1"
+      },
+      {
+        "channel": "C093VPK55NF",
+        "messageId": "Q0C2GCESJJF"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0C2HNTSSLV"
+      },
+      {
+        "channel": "U07FVUF09T7",
+        "messageId": "Q0C2GCFBH8B"
+      },
+      {
+        "channel": "C093VPK55NF",
+        "messageId": "Q0C2NG97JUS"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0C3GVD4NHW"
+      },
+      {
+        "channel": "U07FVUF09T7",
+        "messageId": "Q0C2S8SC2EQ"
+      },
+      {
+        "channel": "C093VPK55NF",
+        "messageId": "Q0C2S8S31GU"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0C2S8RQXQU"
+      },
+      {
+        "channel": "U07FVUF09T7",
+        "messageId": "Q0C2S8S9E3W"
+      },
+      {
+        "channel": "C093VPK55NF",
+        "messageId": "Q0C2QGXUK7B"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0C2LLA8Z7G"
+      },
+      {
+        "channel": "U07FVUF09T7",
+        "messageId": "Q0C2LL9SVLN"
+      },
+      {
+        "channel": "C093VPK55NF",
+        "messageId": "Q0C2QGYJP89"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0C2HNU1FJ9"
+      },
+      {
+        "channel": "U07FVUF09T7",
+        "messageId": "Q0C2NG97VA6"
+      },
+      {
+        "channel": "C093VPK55NF",
+        "messageId": "Q0C2QGYDMK3"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0C2GCGUZ1R"
+      },
+      {
+        "channel": "U07FVUF09T7",
+        "messageId": "Q0C2S8SRBHA"
+      },
+      {
+        "channel": "C093VPK55NF",
+        "messageId": "Q0C2LLA8WVC"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0C277YPG23"
+      },
+      {
+        "channel": "U07FVUF09T7",
+        "messageId": "Q0C2HNVJQ8M"
+      },
+      {
+        "channel": "C093VPK55NF",
+        "messageId": "Q0C2GCF8L5R"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0C2NGA8SJE"
+      },
+      {
+        "channel": "U07FVUF09T7",
+        "messageId": "Q0C2LL9PRHC"
+      },
+      {
+        "channel": "C093VPK55NF",
+        "messageId": "Q0C2GCFMAF5"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0C2QGYQM6D"
+      },
+      {
+        "channel": "U07FVUF09T7",
+        "messageId": "Q0C2LLAFSKY"
+      },
+      {
+        "channel": "C093VPK55NF",
+        "messageId": "Q0C2GCH3L0K"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0C277YPMD5"
+      },
+      {
+        "channel": "U07FVUF09T7",
+        "messageId": "Q0C2LLAKCNS"
+      },
+      {
+        "channel": "C093VPK55NF",
+        "messageId": "Q0C2NG9TKH8"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0C2NGA9XS6"
+      },
+      {
+        "channel": "U07FVUF09T7",
+        "messageId": "Q0C277Z0SB1"
+      },
+      {
+        "channel": "C093VPK55NF",
+        "messageId": "Q0C2LLAT7RC"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0C3H01LF88"
+      },
+      {
+        "channel": "U07FVUF09T7",
+        "messageId": "Q0C2HNW29A9"
+      },
+      {
+        "channel": "C093VPK55NF",
+        "messageId": "Q0C2QGZE2GZ"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0C2NGAA810"
+      },
+      {
+        "channel": "U07FVUF09T7",
+        "messageId": "Q0C277Z9ADV"
+      },
+      {
+        "channel": "C093VPK55NF",
+        "messageId": "Q0C2GCGLJDR"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0C2LLB0PV4"
+      },
+      {
+        "channel": "U07FVUF09T7",
+        "messageId": "Q0C3H013WNL"
+      },
+      {
+        "channel": "C093VPK55NF",
+        "messageId": "Q0C2LLB6TPG"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0C2QH0AREV"
+      },
+      {
+        "channel": "U07FVUF09T7",
+        "messageId": "Q0C2GCGS8RH"
+      },
+      {
+        "channel": "C093VPK55NF",
+        "messageId": "Q0C2LLC2KGE"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0C2HNW0Q7P"
+      },
+      {
+        "channel": "U07FVUF09T7",
+        "messageId": "Q0C2HNWB3DK"
+      },
+      {
+        "channel": "C093VPK55NF",
+        "messageId": "Q0C3H01QS0Y"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0C2LLBNZ3Q"
+      },
+      {
+        "channel": "U07FVUF09T7",
+        "messageId": "Q0C2QH0VBQ9"
+      },
+      {
+        "channel": "C093VPK55NF",
+        "messageId": "Q0C2S8U2MKN"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0C2HNWMZMK"
+      },
+      {
+        "channel": "U07FVUF09T7",
+        "messageId": "Q0C2NGAR890"
+      },
+      {
+        "channel": "C093VPK55NF",
+        "messageId": "Q0C2S8UMYBW"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0C2780QY9M"
+      },
+      {
+        "channel": "U07FVUF09T7",
+        "messageId": "Q0C2S8U9M4L"
+      },
+      {
+        "channel": "C093VPK55NF",
+        "messageId": "Q0C2HNW72JZ"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0C2S8UA0G4"
+      },
+      {
+        "channel": "U07FVUF09T7",
+        "messageId": "Q0C2QH0LJM7"
+      },
+      {
+        "channel": "C093VPK55NF",
+        "messageId": "Q0C2NGAQV42"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0C2GCJB8QK"
+      },
+      {
+        "channel": "U07FVUF09T7",
+        "messageId": "Q0C2GCJ5J4T"
+      },
+      {
+        "channel": "C093VPK55NF",
+        "messageId": "Q0C2NGBS0GJ"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0C2NGBMZNW"
+      },
+      {
+        "channel": "U07FVUF09T7",
+        "messageId": "Q0C2S8V2G5A"
+      },
+      {
+        "channel": "C093VPK55NF",
+        "messageId": "Q0C2GCJ2Y3D"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0C2LLCSAEA"
+      },
+      {
+        "channel": "U07FVUF09T7",
+        "messageId": "Q0C2S8V48MS"
+      },
+      {
+        "channel": "C093VPK55NF",
+        "messageId": "Q0C3H02EKAL"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0C2780TJ31"
+      },
+      {
+        "channel": "U07FVUF09T7",
+        "messageId": "Q0C2LLCMCP8"
+      },
+      {
+        "channel": "C093VPK55NF",
+        "messageId": "Q0C2QH1D7FB"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0C2HNXC3S9"
+      },
+      {
+        "channel": "U07FVUF09T7",
+        "messageId": "Q0C2HNXL6DT"
+      },
+      {
+        "channel": "C093VPK55NF",
+        "messageId": "Q0C3H02LJ8Y"
+      }
     ]
   },
   "processedMessageTs": {
@@ -32133,8 +33814,11 @@
     "1789157276.050809": true,
     "1789157249.248209": true,
     "1789404956.064679": true,
-    "1789485784.811889": true
+    "1789485784.811889": true,
+    "1789660133.202589": true,
+    "1789658637.715509": true,
+    "1789658605.022609": true
   },
   "lastWeeklySummaryDate": "2026-W37",
-  "lastRun": "2026-09-17T10:58:51.704Z"
+  "lastRun": "2026-09-17T18:03:31.913Z"
 }
