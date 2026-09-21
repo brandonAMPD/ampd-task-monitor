@@ -1,0 +1,35 @@
+name: Cancel Scheduled Reminders For Task
+
+on:
+  workflow_dispatch:
+    inputs:
+      taskId:
+        description: 'Task ID to cancel scheduled Slack messages for'
+        required: true
+        default: 'c324f5f4690ad9f6db2f8f96336d7387'
+
+jobs:
+  cancel:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Install dependencies
+        run: npm ci || npm install
+
+      - name: Run cancel-task.js
+        env:
+          SLACK_BOT_TOKEN: ${{ secrets.SLACK_BOT_TOKEN }}
+        run: node cancel-task.js "${{ github.event.inputs.taskId }}"
+
+      - name: Commit updated state file
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add scheduled-reminders.json
+          git diff --staged --quiet || git commit -m "Cancel scheduled messages for task ${{ github.event.inputs.taskId }}"
+          git push
