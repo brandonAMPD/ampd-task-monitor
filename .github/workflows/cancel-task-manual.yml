@@ -8,6 +8,9 @@ on:
         required: true
         default: 'c324f5f4690ad9f6db2f8f96336d7387'
 
+permissions:
+  contents: write
+
 jobs:
   cancel:
     runs-on: ubuntu-latest
