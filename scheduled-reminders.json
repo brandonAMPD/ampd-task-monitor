@@ -84,20 +84,6 @@
       "completedAt": null,
       "firstSeenAt": "2026-06-03T06:01:05.858Z"
     },
-    "4bd62b32dea5e20b9d80e572fc3709d7": {
-      "task": "get with josh loeb about increasing his budget and assist him more, possibly with AI in CRM",
-      "assignee_name": "Jimmy 'Suave' Flores",
-      "assignee_slack_mention": "@Jimmy 'Suave' Flores",
-      "assigned_date": "2026-06-03",
-      "due_date": "2026-06-11",
-      "message_ts": "1780501684.168879",
-      "source_message": "@Jimmy 'Suave' Flores please be sure to get with josh loeb about increasing his budget a bit out of",
-      "assigneeId": "U02773FLDN2",
-      "messageTs": "1780501684.168879",
-      "completed": true,
-      "completedAt": "2026-06-24T18:01:17.667Z",
-      "firstSeenAt": "2026-06-03T18:01:46.386Z"
-    },
     "9668373477e6df6277ccf78129e047df": {
       "task": "ensure there is a campaign for LKongterm stage in CRM template account",
       "assignee_name": "Eddie 'Rockstar' Monarrez",
@@ -139,20 +125,6 @@
       "completed": false,
       "completedAt": null,
       "firstSeenAt": "2026-06-04T06:01:09.061Z"
-    },
-    "c0631a3cfc07e3733319b0f1d6e1b825": {
-      "task": "update FD signature",
-      "assignee_name": "Jimmy 'Suave' Flores",
-      "assignee_slack_mention": "@Jimmy 'Suave' Flores",
-      "assigned_date": "2026-06-11",
-      "due_date": "2026-06-12",
-      "message_ts": "1781220889.434549",
-      "source_message": "@Jimmy 'Suave' Flores plz update your FD signature by tomorrow <https://docs.google.com/document",
-      "assigneeId": "U02773FLDN2",
-      "messageTs": "1781220889.434549",
-      "completed": true,
-      "completedAt": "2026-06-24T18:01:42.662Z",
-      "firstSeenAt": "2026-06-12T06:01:18.911Z"
     },
     "59cef72665cb91edffb6cbb5db8efd03": {
       "task": "setup the process for sending LB invite to new bls clients through homework onboarding form",
@@ -1833,6 +1805,20 @@
       "completed": false,
       "completedAt": null,
       "firstSeenAt": "2026-09-22T06:01:56.771Z"
+    },
+    "3e9a1ef50709335edc8af2aec65b9dca": {
+      "task": "Review linked message/content",
+      "assignee_name": "Christle 'Knows All' Ochigue",
+      "assignee_slack_mention": "@Christle 'Knows All' Ochigue",
+      "assigned_date": "2026-09-22",
+      "due_date": null,
+      "message_ts": "1790107598.434819",
+      "source_message": "@Christle 'Knows All' Ochigue https://dovetail-mktg.slack.com/archives/C08R493ESAJ/p179010756250206",
+      "assigneeId": "UMCPG3D8A",
+      "messageTs": "1790107598.434819",
+      "completed": false,
+      "completedAt": null,
+      "firstSeenAt": "2026-09-22T21:03:38.232Z"
     }
   },
   "scheduled": {
@@ -23826,6 +23812,13 @@
       "task": "Document process for switching deprecated CRM packages to current packages with billing updates and create billing tracker tab",
       "assignee": "Jimmy 'Suave' Flores",
       "reminderDate": "2026-10-25"
+    },
+    "3e9a1ef50709335edc8af2aec65b9dca|followup|2026-09-29": {
+      "scheduledAt": "2026-09-22T21:03:39.363Z",
+      "type": "followup",
+      "task": "Review linked message/content",
+      "assignee": "Christle 'Knows All' Ochigue",
+      "reminderDate": "2026-09-29"
     }
   },
   "scheduledMessageIds": {
@@ -36343,6 +36336,20 @@
         "channel": "U02773FLDN2",
         "messageId": "Q0C32ND9W95"
       }
+    ],
+    "3e9a1ef50709335edc8af2aec65b9dca": [
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0C39V5MXJT"
+      },
+      {
+        "channel": "UMCPG3D8A",
+        "messageId": "Q0C39V57NMD"
+      },
+      {
+        "channel": "C08R493ESAJ",
+        "messageId": "Q0C3R7DPDV0"
+      }
     ]
   },
   "processedMessageTs": {
@@ -36563,8 +36570,9 @@
     "1790037528.260009": true,
     "1790037497.535949": true,
     "1790029383.930439": true,
-    "1790029340.007739": true
+    "1790029340.007739": true,
+    "1790107598.434819": true
   },
   "lastWeeklySummaryDate": "2026-W38",
-  "lastRun": "2026-09-22T18:02:11.867Z"
+  "lastRun": "2026-09-22T21:03:39.364Z"
 }
