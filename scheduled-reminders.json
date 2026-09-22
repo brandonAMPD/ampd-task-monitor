@@ -1777,6 +1777,62 @@
       "completed": false,
       "completedAt": null,
       "firstSeenAt": "2026-09-21T21:50:45.270Z"
+    },
+    "64b0dbec96bcca1158551c0e56a7aeba": {
+      "task": "Finish tech setup part of campaign in Dovetail GHL after Christle builds it",
+      "assignee_name": "Mark 'Morpheus' Manaog",
+      "assignee_slack_mention": "@Mark 'Morpheus' Manaog",
+      "assigned_date": "2026-09-22",
+      "due_date": "2026-09-25",
+      "message_ts": "1790037528.260009",
+      "source_message": "@Mark 'Morpheus' Manaog make sure to finish the tech setup part of the campaign in dovetail GHL after",
+      "assigneeId": "U023F61R16F",
+      "messageTs": "1790037528.260009",
+      "completed": false,
+      "completedAt": null,
+      "firstSeenAt": "2026-09-22T06:01:56.317Z"
+    },
+    "9ab56aa3e3037f9687cbc7a685d5f5cb": {
+      "task": "Build campaign, hand off tech parts to Mark, add contact Kia Mohammadi and move to Lenderbase LB Trial subscriber stage",
+      "assignee_name": "Christle 'Knows All' Ochigue",
+      "assignee_slack_mention": "@Christle 'Knows All' Ochigue",
+      "assigned_date": "2026-09-22",
+      "due_date": "2026-09-23",
+      "message_ts": "1790037497.535949",
+      "source_message": "@Christle 'Knows All' Ochigue please build this campaign then hand off to Mark for the tech parts you ca",
+      "assigneeId": "UMCPG3D8A",
+      "messageTs": "1790037497.535949",
+      "completed": false,
+      "completedAt": null,
+      "firstSeenAt": "2026-09-22T06:01:56.473Z"
+    },
+    "62534cc0e54fc10b9958adae1f59a7ec": {
+      "task": "Fix leadsheet for AW CRM leadform optin tab where data is going to wrong columns",
+      "assignee_name": "Mark 'Morpheus' Manaog",
+      "assignee_slack_mention": "@Mark 'Morpheus' Manaog",
+      "assigned_date": "2026-09-21",
+      "due_date": "2026-09-24",
+      "message_ts": "1790029383.930439",
+      "source_message": "@Mark 'Morpheus' Manaog fix leadsheet for AW CRM leadform optin tab where the data is going to the wron",
+      "assigneeId": "U023F61R16F",
+      "messageTs": "1790029383.930439",
+      "completed": true,
+      "completedAt": "2026-09-22T06:01:56.628Z",
+      "firstSeenAt": "2026-09-22T06:01:56.628Z"
+    },
+    "efa8045c24fabe403448f182469c2764": {
+      "task": "Document process for switching deprecated CRM packages to current packages with billing updates and create billing tracker tab",
+      "assignee_name": "Jimmy 'Suave' Flores",
+      "assignee_slack_mention": "@Jimmy 'Suave' Flores",
+      "assigned_date": "2026-09-21",
+      "due_date": "2026-09-25",
+      "message_ts": "1790029340.007739",
+      "source_message": "@Jimmy 'Suave' Flores Please document the process of how we can change all clients with deprecated CRM pa",
+      "assigneeId": "U02773FLDN2",
+      "messageTs": "1790029340.007739",
+      "completed": false,
+      "completedAt": null,
+      "firstSeenAt": "2026-09-22T06:01:56.771Z"
     }
   },
   "scheduled": {
@@ -23084,6 +23140,692 @@
       "task": "Ensure all public sales calendars have reminders set for ALL attendees",
       "assignee": "Josh 'The Ninja' Morales",
       "reminderDate": "2026-10-24"
+    },
+    "64b0dbec96bcca1158551c0e56a7aeba|midpoint|2026-09-23": {
+      "scheduledAt": "2026-09-22T06:01:57.773Z",
+      "type": "midpoint",
+      "task": "Finish tech setup part of campaign in Dovetail GHL after Christle builds it",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-09-23"
+    },
+    "64b0dbec96bcca1158551c0e56a7aeba|nag|2026-09-24": {
+      "scheduledAt": "2026-09-22T06:01:58.724Z",
+      "type": "nag",
+      "task": "Finish tech setup part of campaign in Dovetail GHL after Christle builds it",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-09-24"
+    },
+    "64b0dbec96bcca1158551c0e56a7aeba|due|2026-09-25": {
+      "scheduledAt": "2026-09-22T06:01:59.688Z",
+      "type": "due",
+      "task": "Finish tech setup part of campaign in Dovetail GHL after Christle builds it",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-09-25"
+    },
+    "64b0dbec96bcca1158551c0e56a7aeba|overdue|2026-09-26": {
+      "scheduledAt": "2026-09-22T06:02:00.650Z",
+      "type": "overdue",
+      "task": "Finish tech setup part of campaign in Dovetail GHL after Christle builds it",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-09-26"
+    },
+    "64b0dbec96bcca1158551c0e56a7aeba|overdue|2026-09-27": {
+      "scheduledAt": "2026-09-22T06:02:01.674Z",
+      "type": "overdue",
+      "task": "Finish tech setup part of campaign in Dovetail GHL after Christle builds it",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-09-27"
+    },
+    "64b0dbec96bcca1158551c0e56a7aeba|overdue|2026-09-28": {
+      "scheduledAt": "2026-09-22T06:02:02.645Z",
+      "type": "overdue",
+      "task": "Finish tech setup part of campaign in Dovetail GHL after Christle builds it",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-09-28"
+    },
+    "64b0dbec96bcca1158551c0e56a7aeba|overdue|2026-09-29": {
+      "scheduledAt": "2026-09-22T06:02:03.622Z",
+      "type": "overdue",
+      "task": "Finish tech setup part of campaign in Dovetail GHL after Christle builds it",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-09-29"
+    },
+    "64b0dbec96bcca1158551c0e56a7aeba|overdue|2026-09-30": {
+      "scheduledAt": "2026-09-22T06:02:04.616Z",
+      "type": "overdue",
+      "task": "Finish tech setup part of campaign in Dovetail GHL after Christle builds it",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-09-30"
+    },
+    "64b0dbec96bcca1158551c0e56a7aeba|overdue|2026-10-01": {
+      "scheduledAt": "2026-09-22T06:02:05.599Z",
+      "type": "overdue",
+      "task": "Finish tech setup part of campaign in Dovetail GHL after Christle builds it",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-10-01"
+    },
+    "64b0dbec96bcca1158551c0e56a7aeba|overdue|2026-10-02": {
+      "scheduledAt": "2026-09-22T06:02:06.602Z",
+      "type": "overdue",
+      "task": "Finish tech setup part of campaign in Dovetail GHL after Christle builds it",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-10-02"
+    },
+    "64b0dbec96bcca1158551c0e56a7aeba|overdue|2026-10-03": {
+      "scheduledAt": "2026-09-22T06:02:07.553Z",
+      "type": "overdue",
+      "task": "Finish tech setup part of campaign in Dovetail GHL after Christle builds it",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-10-03"
+    },
+    "64b0dbec96bcca1158551c0e56a7aeba|overdue|2026-10-04": {
+      "scheduledAt": "2026-09-22T06:02:08.565Z",
+      "type": "overdue",
+      "task": "Finish tech setup part of campaign in Dovetail GHL after Christle builds it",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-10-04"
+    },
+    "64b0dbec96bcca1158551c0e56a7aeba|overdue|2026-10-05": {
+      "scheduledAt": "2026-09-22T06:02:09.529Z",
+      "type": "overdue",
+      "task": "Finish tech setup part of campaign in Dovetail GHL after Christle builds it",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-10-05"
+    },
+    "64b0dbec96bcca1158551c0e56a7aeba|overdue|2026-10-06": {
+      "scheduledAt": "2026-09-22T06:02:10.524Z",
+      "type": "overdue",
+      "task": "Finish tech setup part of campaign in Dovetail GHL after Christle builds it",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-10-06"
+    },
+    "64b0dbec96bcca1158551c0e56a7aeba|overdue|2026-10-07": {
+      "scheduledAt": "2026-09-22T06:02:11.492Z",
+      "type": "overdue",
+      "task": "Finish tech setup part of campaign in Dovetail GHL after Christle builds it",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-10-07"
+    },
+    "64b0dbec96bcca1158551c0e56a7aeba|overdue|2026-10-08": {
+      "scheduledAt": "2026-09-22T06:02:12.473Z",
+      "type": "overdue",
+      "task": "Finish tech setup part of campaign in Dovetail GHL after Christle builds it",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-10-08"
+    },
+    "64b0dbec96bcca1158551c0e56a7aeba|overdue|2026-10-09": {
+      "scheduledAt": "2026-09-22T06:02:13.651Z",
+      "type": "overdue",
+      "task": "Finish tech setup part of campaign in Dovetail GHL after Christle builds it",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-10-09"
+    },
+    "64b0dbec96bcca1158551c0e56a7aeba|overdue|2026-10-10": {
+      "scheduledAt": "2026-09-22T06:02:14.594Z",
+      "type": "overdue",
+      "task": "Finish tech setup part of campaign in Dovetail GHL after Christle builds it",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-10-10"
+    },
+    "64b0dbec96bcca1158551c0e56a7aeba|overdue|2026-10-11": {
+      "scheduledAt": "2026-09-22T06:02:15.916Z",
+      "type": "overdue",
+      "task": "Finish tech setup part of campaign in Dovetail GHL after Christle builds it",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-10-11"
+    },
+    "64b0dbec96bcca1158551c0e56a7aeba|overdue|2026-10-12": {
+      "scheduledAt": "2026-09-22T06:02:16.869Z",
+      "type": "overdue",
+      "task": "Finish tech setup part of campaign in Dovetail GHL after Christle builds it",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-10-12"
+    },
+    "64b0dbec96bcca1158551c0e56a7aeba|overdue|2026-10-13": {
+      "scheduledAt": "2026-09-22T06:02:17.854Z",
+      "type": "overdue",
+      "task": "Finish tech setup part of campaign in Dovetail GHL after Christle builds it",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-10-13"
+    },
+    "64b0dbec96bcca1158551c0e56a7aeba|overdue|2026-10-14": {
+      "scheduledAt": "2026-09-22T06:02:18.851Z",
+      "type": "overdue",
+      "task": "Finish tech setup part of campaign in Dovetail GHL after Christle builds it",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-10-14"
+    },
+    "64b0dbec96bcca1158551c0e56a7aeba|overdue|2026-10-15": {
+      "scheduledAt": "2026-09-22T06:02:19.857Z",
+      "type": "overdue",
+      "task": "Finish tech setup part of campaign in Dovetail GHL after Christle builds it",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-10-15"
+    },
+    "64b0dbec96bcca1158551c0e56a7aeba|overdue|2026-10-16": {
+      "scheduledAt": "2026-09-22T06:02:20.803Z",
+      "type": "overdue",
+      "task": "Finish tech setup part of campaign in Dovetail GHL after Christle builds it",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-10-16"
+    },
+    "64b0dbec96bcca1158551c0e56a7aeba|overdue|2026-10-17": {
+      "scheduledAt": "2026-09-22T06:02:21.777Z",
+      "type": "overdue",
+      "task": "Finish tech setup part of campaign in Dovetail GHL after Christle builds it",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-10-17"
+    },
+    "64b0dbec96bcca1158551c0e56a7aeba|overdue|2026-10-18": {
+      "scheduledAt": "2026-09-22T06:02:22.742Z",
+      "type": "overdue",
+      "task": "Finish tech setup part of campaign in Dovetail GHL after Christle builds it",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-10-18"
+    },
+    "64b0dbec96bcca1158551c0e56a7aeba|overdue|2026-10-19": {
+      "scheduledAt": "2026-09-22T06:02:23.681Z",
+      "type": "overdue",
+      "task": "Finish tech setup part of campaign in Dovetail GHL after Christle builds it",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-10-19"
+    },
+    "64b0dbec96bcca1158551c0e56a7aeba|overdue|2026-10-20": {
+      "scheduledAt": "2026-09-22T06:02:24.629Z",
+      "type": "overdue",
+      "task": "Finish tech setup part of campaign in Dovetail GHL after Christle builds it",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-10-20"
+    },
+    "64b0dbec96bcca1158551c0e56a7aeba|overdue|2026-10-21": {
+      "scheduledAt": "2026-09-22T06:02:25.579Z",
+      "type": "overdue",
+      "task": "Finish tech setup part of campaign in Dovetail GHL after Christle builds it",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-10-21"
+    },
+    "64b0dbec96bcca1158551c0e56a7aeba|overdue|2026-10-22": {
+      "scheduledAt": "2026-09-22T06:02:26.561Z",
+      "type": "overdue",
+      "task": "Finish tech setup part of campaign in Dovetail GHL after Christle builds it",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-10-22"
+    },
+    "64b0dbec96bcca1158551c0e56a7aeba|overdue|2026-10-23": {
+      "scheduledAt": "2026-09-22T06:02:27.524Z",
+      "type": "overdue",
+      "task": "Finish tech setup part of campaign in Dovetail GHL after Christle builds it",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-10-23"
+    },
+    "64b0dbec96bcca1158551c0e56a7aeba|overdue|2026-10-24": {
+      "scheduledAt": "2026-09-22T06:02:28.439Z",
+      "type": "overdue",
+      "task": "Finish tech setup part of campaign in Dovetail GHL after Christle builds it",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-10-24"
+    },
+    "64b0dbec96bcca1158551c0e56a7aeba|overdue|2026-10-25": {
+      "scheduledAt": "2026-09-22T06:02:29.374Z",
+      "type": "overdue",
+      "task": "Finish tech setup part of campaign in Dovetail GHL after Christle builds it",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-10-25"
+    },
+    "9ab56aa3e3037f9687cbc7a685d5f5cb|nag|2026-09-22": {
+      "scheduledAt": "2026-09-22T06:02:30.356Z",
+      "type": "nag",
+      "task": "Build campaign, hand off tech parts to Mark, add contact Kia Mohammadi and move to Lenderbase LB Trial subscriber stage",
+      "assignee": "Christle 'Knows All' Ochigue",
+      "reminderDate": "2026-09-22"
+    },
+    "9ab56aa3e3037f9687cbc7a685d5f5cb|due|2026-09-23": {
+      "scheduledAt": "2026-09-22T06:02:31.311Z",
+      "type": "due",
+      "task": "Build campaign, hand off tech parts to Mark, add contact Kia Mohammadi and move to Lenderbase LB Trial subscriber stage",
+      "assignee": "Christle 'Knows All' Ochigue",
+      "reminderDate": "2026-09-23"
+    },
+    "9ab56aa3e3037f9687cbc7a685d5f5cb|overdue|2026-09-24": {
+      "scheduledAt": "2026-09-22T06:02:32.922Z",
+      "type": "overdue",
+      "task": "Build campaign, hand off tech parts to Mark, add contact Kia Mohammadi and move to Lenderbase LB Trial subscriber stage",
+      "assignee": "Christle 'Knows All' Ochigue",
+      "reminderDate": "2026-09-24"
+    },
+    "9ab56aa3e3037f9687cbc7a685d5f5cb|overdue|2026-09-25": {
+      "scheduledAt": "2026-09-22T06:02:33.870Z",
+      "type": "overdue",
+      "task": "Build campaign, hand off tech parts to Mark, add contact Kia Mohammadi and move to Lenderbase LB Trial subscriber stage",
+      "assignee": "Christle 'Knows All' Ochigue",
+      "reminderDate": "2026-09-25"
+    },
+    "9ab56aa3e3037f9687cbc7a685d5f5cb|overdue|2026-09-26": {
+      "scheduledAt": "2026-09-22T06:02:34.823Z",
+      "type": "overdue",
+      "task": "Build campaign, hand off tech parts to Mark, add contact Kia Mohammadi and move to Lenderbase LB Trial subscriber stage",
+      "assignee": "Christle 'Knows All' Ochigue",
+      "reminderDate": "2026-09-26"
+    },
+    "9ab56aa3e3037f9687cbc7a685d5f5cb|overdue|2026-09-27": {
+      "scheduledAt": "2026-09-22T06:02:35.784Z",
+      "type": "overdue",
+      "task": "Build campaign, hand off tech parts to Mark, add contact Kia Mohammadi and move to Lenderbase LB Trial subscriber stage",
+      "assignee": "Christle 'Knows All' Ochigue",
+      "reminderDate": "2026-09-27"
+    },
+    "9ab56aa3e3037f9687cbc7a685d5f5cb|overdue|2026-09-28": {
+      "scheduledAt": "2026-09-22T06:02:36.802Z",
+      "type": "overdue",
+      "task": "Build campaign, hand off tech parts to Mark, add contact Kia Mohammadi and move to Lenderbase LB Trial subscriber stage",
+      "assignee": "Christle 'Knows All' Ochigue",
+      "reminderDate": "2026-09-28"
+    },
+    "9ab56aa3e3037f9687cbc7a685d5f5cb|overdue|2026-09-29": {
+      "scheduledAt": "2026-09-22T06:02:37.755Z",
+      "type": "overdue",
+      "task": "Build campaign, hand off tech parts to Mark, add contact Kia Mohammadi and move to Lenderbase LB Trial subscriber stage",
+      "assignee": "Christle 'Knows All' Ochigue",
+      "reminderDate": "2026-09-29"
+    },
+    "9ab56aa3e3037f9687cbc7a685d5f5cb|overdue|2026-09-30": {
+      "scheduledAt": "2026-09-22T06:02:38.735Z",
+      "type": "overdue",
+      "task": "Build campaign, hand off tech parts to Mark, add contact Kia Mohammadi and move to Lenderbase LB Trial subscriber stage",
+      "assignee": "Christle 'Knows All' Ochigue",
+      "reminderDate": "2026-09-30"
+    },
+    "9ab56aa3e3037f9687cbc7a685d5f5cb|overdue|2026-10-01": {
+      "scheduledAt": "2026-09-22T06:02:39.687Z",
+      "type": "overdue",
+      "task": "Build campaign, hand off tech parts to Mark, add contact Kia Mohammadi and move to Lenderbase LB Trial subscriber stage",
+      "assignee": "Christle 'Knows All' Ochigue",
+      "reminderDate": "2026-10-01"
+    },
+    "9ab56aa3e3037f9687cbc7a685d5f5cb|overdue|2026-10-02": {
+      "scheduledAt": "2026-09-22T06:02:40.702Z",
+      "type": "overdue",
+      "task": "Build campaign, hand off tech parts to Mark, add contact Kia Mohammadi and move to Lenderbase LB Trial subscriber stage",
+      "assignee": "Christle 'Knows All' Ochigue",
+      "reminderDate": "2026-10-02"
+    },
+    "9ab56aa3e3037f9687cbc7a685d5f5cb|overdue|2026-10-03": {
+      "scheduledAt": "2026-09-22T06:02:41.624Z",
+      "type": "overdue",
+      "task": "Build campaign, hand off tech parts to Mark, add contact Kia Mohammadi and move to Lenderbase LB Trial subscriber stage",
+      "assignee": "Christle 'Knows All' Ochigue",
+      "reminderDate": "2026-10-03"
+    },
+    "9ab56aa3e3037f9687cbc7a685d5f5cb|overdue|2026-10-04": {
+      "scheduledAt": "2026-09-22T06:02:42.583Z",
+      "type": "overdue",
+      "task": "Build campaign, hand off tech parts to Mark, add contact Kia Mohammadi and move to Lenderbase LB Trial subscriber stage",
+      "assignee": "Christle 'Knows All' Ochigue",
+      "reminderDate": "2026-10-04"
+    },
+    "9ab56aa3e3037f9687cbc7a685d5f5cb|overdue|2026-10-05": {
+      "scheduledAt": "2026-09-22T06:02:43.525Z",
+      "type": "overdue",
+      "task": "Build campaign, hand off tech parts to Mark, add contact Kia Mohammadi and move to Lenderbase LB Trial subscriber stage",
+      "assignee": "Christle 'Knows All' Ochigue",
+      "reminderDate": "2026-10-05"
+    },
+    "9ab56aa3e3037f9687cbc7a685d5f5cb|overdue|2026-10-06": {
+      "scheduledAt": "2026-09-22T06:02:44.481Z",
+      "type": "overdue",
+      "task": "Build campaign, hand off tech parts to Mark, add contact Kia Mohammadi and move to Lenderbase LB Trial subscriber stage",
+      "assignee": "Christle 'Knows All' Ochigue",
+      "reminderDate": "2026-10-06"
+    },
+    "9ab56aa3e3037f9687cbc7a685d5f5cb|overdue|2026-10-07": {
+      "scheduledAt": "2026-09-22T06:02:45.438Z",
+      "type": "overdue",
+      "task": "Build campaign, hand off tech parts to Mark, add contact Kia Mohammadi and move to Lenderbase LB Trial subscriber stage",
+      "assignee": "Christle 'Knows All' Ochigue",
+      "reminderDate": "2026-10-07"
+    },
+    "9ab56aa3e3037f9687cbc7a685d5f5cb|overdue|2026-10-08": {
+      "scheduledAt": "2026-09-22T06:02:46.441Z",
+      "type": "overdue",
+      "task": "Build campaign, hand off tech parts to Mark, add contact Kia Mohammadi and move to Lenderbase LB Trial subscriber stage",
+      "assignee": "Christle 'Knows All' Ochigue",
+      "reminderDate": "2026-10-08"
+    },
+    "9ab56aa3e3037f9687cbc7a685d5f5cb|overdue|2026-10-09": {
+      "scheduledAt": "2026-09-22T06:02:47.406Z",
+      "type": "overdue",
+      "task": "Build campaign, hand off tech parts to Mark, add contact Kia Mohammadi and move to Lenderbase LB Trial subscriber stage",
+      "assignee": "Christle 'Knows All' Ochigue",
+      "reminderDate": "2026-10-09"
+    },
+    "9ab56aa3e3037f9687cbc7a685d5f5cb|overdue|2026-10-10": {
+      "scheduledAt": "2026-09-22T06:02:48.353Z",
+      "type": "overdue",
+      "task": "Build campaign, hand off tech parts to Mark, add contact Kia Mohammadi and move to Lenderbase LB Trial subscriber stage",
+      "assignee": "Christle 'Knows All' Ochigue",
+      "reminderDate": "2026-10-10"
+    },
+    "9ab56aa3e3037f9687cbc7a685d5f5cb|overdue|2026-10-11": {
+      "scheduledAt": "2026-09-22T06:02:49.303Z",
+      "type": "overdue",
+      "task": "Build campaign, hand off tech parts to Mark, add contact Kia Mohammadi and move to Lenderbase LB Trial subscriber stage",
+      "assignee": "Christle 'Knows All' Ochigue",
+      "reminderDate": "2026-10-11"
+    },
+    "9ab56aa3e3037f9687cbc7a685d5f5cb|overdue|2026-10-12": {
+      "scheduledAt": "2026-09-22T06:02:50.255Z",
+      "type": "overdue",
+      "task": "Build campaign, hand off tech parts to Mark, add contact Kia Mohammadi and move to Lenderbase LB Trial subscriber stage",
+      "assignee": "Christle 'Knows All' Ochigue",
+      "reminderDate": "2026-10-12"
+    },
+    "9ab56aa3e3037f9687cbc7a685d5f5cb|overdue|2026-10-13": {
+      "scheduledAt": "2026-09-22T06:02:51.248Z",
+      "type": "overdue",
+      "task": "Build campaign, hand off tech parts to Mark, add contact Kia Mohammadi and move to Lenderbase LB Trial subscriber stage",
+      "assignee": "Christle 'Knows All' Ochigue",
+      "reminderDate": "2026-10-13"
+    },
+    "9ab56aa3e3037f9687cbc7a685d5f5cb|overdue|2026-10-14": {
+      "scheduledAt": "2026-09-22T06:02:52.212Z",
+      "type": "overdue",
+      "task": "Build campaign, hand off tech parts to Mark, add contact Kia Mohammadi and move to Lenderbase LB Trial subscriber stage",
+      "assignee": "Christle 'Knows All' Ochigue",
+      "reminderDate": "2026-10-14"
+    },
+    "9ab56aa3e3037f9687cbc7a685d5f5cb|overdue|2026-10-15": {
+      "scheduledAt": "2026-09-22T06:02:53.159Z",
+      "type": "overdue",
+      "task": "Build campaign, hand off tech parts to Mark, add contact Kia Mohammadi and move to Lenderbase LB Trial subscriber stage",
+      "assignee": "Christle 'Knows All' Ochigue",
+      "reminderDate": "2026-10-15"
+    },
+    "9ab56aa3e3037f9687cbc7a685d5f5cb|overdue|2026-10-16": {
+      "scheduledAt": "2026-09-22T06:02:54.084Z",
+      "type": "overdue",
+      "task": "Build campaign, hand off tech parts to Mark, add contact Kia Mohammadi and move to Lenderbase LB Trial subscriber stage",
+      "assignee": "Christle 'Knows All' Ochigue",
+      "reminderDate": "2026-10-16"
+    },
+    "9ab56aa3e3037f9687cbc7a685d5f5cb|overdue|2026-10-17": {
+      "scheduledAt": "2026-09-22T06:02:55.037Z",
+      "type": "overdue",
+      "task": "Build campaign, hand off tech parts to Mark, add contact Kia Mohammadi and move to Lenderbase LB Trial subscriber stage",
+      "assignee": "Christle 'Knows All' Ochigue",
+      "reminderDate": "2026-10-17"
+    },
+    "9ab56aa3e3037f9687cbc7a685d5f5cb|overdue|2026-10-18": {
+      "scheduledAt": "2026-09-22T06:02:56.034Z",
+      "type": "overdue",
+      "task": "Build campaign, hand off tech parts to Mark, add contact Kia Mohammadi and move to Lenderbase LB Trial subscriber stage",
+      "assignee": "Christle 'Knows All' Ochigue",
+      "reminderDate": "2026-10-18"
+    },
+    "9ab56aa3e3037f9687cbc7a685d5f5cb|overdue|2026-10-19": {
+      "scheduledAt": "2026-09-22T06:02:57.001Z",
+      "type": "overdue",
+      "task": "Build campaign, hand off tech parts to Mark, add contact Kia Mohammadi and move to Lenderbase LB Trial subscriber stage",
+      "assignee": "Christle 'Knows All' Ochigue",
+      "reminderDate": "2026-10-19"
+    },
+    "9ab56aa3e3037f9687cbc7a685d5f5cb|overdue|2026-10-20": {
+      "scheduledAt": "2026-09-22T06:02:58.062Z",
+      "type": "overdue",
+      "task": "Build campaign, hand off tech parts to Mark, add contact Kia Mohammadi and move to Lenderbase LB Trial subscriber stage",
+      "assignee": "Christle 'Knows All' Ochigue",
+      "reminderDate": "2026-10-20"
+    },
+    "9ab56aa3e3037f9687cbc7a685d5f5cb|overdue|2026-10-21": {
+      "scheduledAt": "2026-09-22T06:02:59.041Z",
+      "type": "overdue",
+      "task": "Build campaign, hand off tech parts to Mark, add contact Kia Mohammadi and move to Lenderbase LB Trial subscriber stage",
+      "assignee": "Christle 'Knows All' Ochigue",
+      "reminderDate": "2026-10-21"
+    },
+    "9ab56aa3e3037f9687cbc7a685d5f5cb|overdue|2026-10-22": {
+      "scheduledAt": "2026-09-22T06:02:59.992Z",
+      "type": "overdue",
+      "task": "Build campaign, hand off tech parts to Mark, add contact Kia Mohammadi and move to Lenderbase LB Trial subscriber stage",
+      "assignee": "Christle 'Knows All' Ochigue",
+      "reminderDate": "2026-10-22"
+    },
+    "9ab56aa3e3037f9687cbc7a685d5f5cb|overdue|2026-10-23": {
+      "scheduledAt": "2026-09-22T06:03:00.956Z",
+      "type": "overdue",
+      "task": "Build campaign, hand off tech parts to Mark, add contact Kia Mohammadi and move to Lenderbase LB Trial subscriber stage",
+      "assignee": "Christle 'Knows All' Ochigue",
+      "reminderDate": "2026-10-23"
+    },
+    "efa8045c24fabe403448f182469c2764|midpoint|2026-09-23": {
+      "scheduledAt": "2026-09-22T06:03:01.787Z",
+      "type": "midpoint",
+      "task": "Document process for switching deprecated CRM packages to current packages with billing updates and create billing tracker tab",
+      "assignee": "Jimmy 'Suave' Flores",
+      "reminderDate": "2026-09-23"
+    },
+    "efa8045c24fabe403448f182469c2764|nag|2026-09-24": {
+      "scheduledAt": "2026-09-22T06:03:02.628Z",
+      "type": "nag",
+      "task": "Document process for switching deprecated CRM packages to current packages with billing updates and create billing tracker tab",
+      "assignee": "Jimmy 'Suave' Flores",
+      "reminderDate": "2026-09-24"
+    },
+    "efa8045c24fabe403448f182469c2764|due|2026-09-25": {
+      "scheduledAt": "2026-09-22T06:03:03.426Z",
+      "type": "due",
+      "task": "Document process for switching deprecated CRM packages to current packages with billing updates and create billing tracker tab",
+      "assignee": "Jimmy 'Suave' Flores",
+      "reminderDate": "2026-09-25"
+    },
+    "efa8045c24fabe403448f182469c2764|overdue|2026-09-26": {
+      "scheduledAt": "2026-09-22T06:03:04.258Z",
+      "type": "overdue",
+      "task": "Document process for switching deprecated CRM packages to current packages with billing updates and create billing tracker tab",
+      "assignee": "Jimmy 'Suave' Flores",
+      "reminderDate": "2026-09-26"
+    },
+    "efa8045c24fabe403448f182469c2764|overdue|2026-09-27": {
+      "scheduledAt": "2026-09-22T06:03:05.103Z",
+      "type": "overdue",
+      "task": "Document process for switching deprecated CRM packages to current packages with billing updates and create billing tracker tab",
+      "assignee": "Jimmy 'Suave' Flores",
+      "reminderDate": "2026-09-27"
+    },
+    "efa8045c24fabe403448f182469c2764|overdue|2026-09-28": {
+      "scheduledAt": "2026-09-22T06:03:05.918Z",
+      "type": "overdue",
+      "task": "Document process for switching deprecated CRM packages to current packages with billing updates and create billing tracker tab",
+      "assignee": "Jimmy 'Suave' Flores",
+      "reminderDate": "2026-09-28"
+    },
+    "efa8045c24fabe403448f182469c2764|overdue|2026-09-29": {
+      "scheduledAt": "2026-09-22T06:03:06.776Z",
+      "type": "overdue",
+      "task": "Document process for switching deprecated CRM packages to current packages with billing updates and create billing tracker tab",
+      "assignee": "Jimmy 'Suave' Flores",
+      "reminderDate": "2026-09-29"
+    },
+    "efa8045c24fabe403448f182469c2764|overdue|2026-09-30": {
+      "scheduledAt": "2026-09-22T06:03:07.627Z",
+      "type": "overdue",
+      "task": "Document process for switching deprecated CRM packages to current packages with billing updates and create billing tracker tab",
+      "assignee": "Jimmy 'Suave' Flores",
+      "reminderDate": "2026-09-30"
+    },
+    "efa8045c24fabe403448f182469c2764|overdue|2026-10-01": {
+      "scheduledAt": "2026-09-22T06:03:08.469Z",
+      "type": "overdue",
+      "task": "Document process for switching deprecated CRM packages to current packages with billing updates and create billing tracker tab",
+      "assignee": "Jimmy 'Suave' Flores",
+      "reminderDate": "2026-10-01"
+    },
+    "efa8045c24fabe403448f182469c2764|overdue|2026-10-02": {
+      "scheduledAt": "2026-09-22T06:03:09.282Z",
+      "type": "overdue",
+      "task": "Document process for switching deprecated CRM packages to current packages with billing updates and create billing tracker tab",
+      "assignee": "Jimmy 'Suave' Flores",
+      "reminderDate": "2026-10-02"
+    },
+    "efa8045c24fabe403448f182469c2764|overdue|2026-10-03": {
+      "scheduledAt": "2026-09-22T06:03:10.105Z",
+      "type": "overdue",
+      "task": "Document process for switching deprecated CRM packages to current packages with billing updates and create billing tracker tab",
+      "assignee": "Jimmy 'Suave' Flores",
+      "reminderDate": "2026-10-03"
+    },
+    "efa8045c24fabe403448f182469c2764|overdue|2026-10-04": {
+      "scheduledAt": "2026-09-22T06:03:10.906Z",
+      "type": "overdue",
+      "task": "Document process for switching deprecated CRM packages to current packages with billing updates and create billing tracker tab",
+      "assignee": "Jimmy 'Suave' Flores",
+      "reminderDate": "2026-10-04"
+    },
+    "efa8045c24fabe403448f182469c2764|overdue|2026-10-05": {
+      "scheduledAt": "2026-09-22T06:03:11.775Z",
+      "type": "overdue",
+      "task": "Document process for switching deprecated CRM packages to current packages with billing updates and create billing tracker tab",
+      "assignee": "Jimmy 'Suave' Flores",
+      "reminderDate": "2026-10-05"
+    },
+    "efa8045c24fabe403448f182469c2764|overdue|2026-10-06": {
+      "scheduledAt": "2026-09-22T06:03:12.563Z",
+      "type": "overdue",
+      "task": "Document process for switching deprecated CRM packages to current packages with billing updates and create billing tracker tab",
+      "assignee": "Jimmy 'Suave' Flores",
+      "reminderDate": "2026-10-06"
+    },
+    "efa8045c24fabe403448f182469c2764|overdue|2026-10-07": {
+      "scheduledAt": "2026-09-22T06:03:13.405Z",
+      "type": "overdue",
+      "task": "Document process for switching deprecated CRM packages to current packages with billing updates and create billing tracker tab",
+      "assignee": "Jimmy 'Suave' Flores",
+      "reminderDate": "2026-10-07"
+    },
+    "efa8045c24fabe403448f182469c2764|overdue|2026-10-08": {
+      "scheduledAt": "2026-09-22T06:03:14.248Z",
+      "type": "overdue",
+      "task": "Document process for switching deprecated CRM packages to current packages with billing updates and create billing tracker tab",
+      "assignee": "Jimmy 'Suave' Flores",
+      "reminderDate": "2026-10-08"
+    },
+    "efa8045c24fabe403448f182469c2764|overdue|2026-10-09": {
+      "scheduledAt": "2026-09-22T06:03:15.069Z",
+      "type": "overdue",
+      "task": "Document process for switching deprecated CRM packages to current packages with billing updates and create billing tracker tab",
+      "assignee": "Jimmy 'Suave' Flores",
+      "reminderDate": "2026-10-09"
+    },
+    "efa8045c24fabe403448f182469c2764|overdue|2026-10-10": {
+      "scheduledAt": "2026-09-22T06:03:15.889Z",
+      "type": "overdue",
+      "task": "Document process for switching deprecated CRM packages to current packages with billing updates and create billing tracker tab",
+      "assignee": "Jimmy 'Suave' Flores",
+      "reminderDate": "2026-10-10"
+    },
+    "efa8045c24fabe403448f182469c2764|overdue|2026-10-11": {
+      "scheduledAt": "2026-09-22T06:03:16.684Z",
+      "type": "overdue",
+      "task": "Document process for switching deprecated CRM packages to current packages with billing updates and create billing tracker tab",
+      "assignee": "Jimmy 'Suave' Flores",
+      "reminderDate": "2026-10-11"
+    },
+    "efa8045c24fabe403448f182469c2764|overdue|2026-10-12": {
+      "scheduledAt": "2026-09-22T06:03:17.536Z",
+      "type": "overdue",
+      "task": "Document process for switching deprecated CRM packages to current packages with billing updates and create billing tracker tab",
+      "assignee": "Jimmy 'Suave' Flores",
+      "reminderDate": "2026-10-12"
+    },
+    "efa8045c24fabe403448f182469c2764|overdue|2026-10-13": {
+      "scheduledAt": "2026-09-22T06:03:18.330Z",
+      "type": "overdue",
+      "task": "Document process for switching deprecated CRM packages to current packages with billing updates and create billing tracker tab",
+      "assignee": "Jimmy 'Suave' Flores",
+      "reminderDate": "2026-10-13"
+    },
+    "efa8045c24fabe403448f182469c2764|overdue|2026-10-14": {
+      "scheduledAt": "2026-09-22T06:03:19.144Z",
+      "type": "overdue",
+      "task": "Document process for switching deprecated CRM packages to current packages with billing updates and create billing tracker tab",
+      "assignee": "Jimmy 'Suave' Flores",
+      "reminderDate": "2026-10-14"
+    },
+    "efa8045c24fabe403448f182469c2764|overdue|2026-10-15": {
+      "scheduledAt": "2026-09-22T06:03:19.940Z",
+      "type": "overdue",
+      "task": "Document process for switching deprecated CRM packages to current packages with billing updates and create billing tracker tab",
+      "assignee": "Jimmy 'Suave' Flores",
+      "reminderDate": "2026-10-15"
+    },
+    "efa8045c24fabe403448f182469c2764|overdue|2026-10-16": {
+      "scheduledAt": "2026-09-22T06:03:20.760Z",
+      "type": "overdue",
+      "task": "Document process for switching deprecated CRM packages to current packages with billing updates and create billing tracker tab",
+      "assignee": "Jimmy 'Suave' Flores",
+      "reminderDate": "2026-10-16"
+    },
+    "efa8045c24fabe403448f182469c2764|overdue|2026-10-17": {
+      "scheduledAt": "2026-09-22T06:03:21.559Z",
+      "type": "overdue",
+      "task": "Document process for switching deprecated CRM packages to current packages with billing updates and create billing tracker tab",
+      "assignee": "Jimmy 'Suave' Flores",
+      "reminderDate": "2026-10-17"
+    },
+    "efa8045c24fabe403448f182469c2764|overdue|2026-10-18": {
+      "scheduledAt": "2026-09-22T06:03:22.388Z",
+      "type": "overdue",
+      "task": "Document process for switching deprecated CRM packages to current packages with billing updates and create billing tracker tab",
+      "assignee": "Jimmy 'Suave' Flores",
+      "reminderDate": "2026-10-18"
+    },
+    "efa8045c24fabe403448f182469c2764|overdue|2026-10-19": {
+      "scheduledAt": "2026-09-22T06:03:23.224Z",
+      "type": "overdue",
+      "task": "Document process for switching deprecated CRM packages to current packages with billing updates and create billing tracker tab",
+      "assignee": "Jimmy 'Suave' Flores",
+      "reminderDate": "2026-10-19"
+    },
+    "efa8045c24fabe403448f182469c2764|overdue|2026-10-20": {
+      "scheduledAt": "2026-09-22T06:03:24.048Z",
+      "type": "overdue",
+      "task": "Document process for switching deprecated CRM packages to current packages with billing updates and create billing tracker tab",
+      "assignee": "Jimmy 'Suave' Flores",
+      "reminderDate": "2026-10-20"
+    },
+    "efa8045c24fabe403448f182469c2764|overdue|2026-10-21": {
+      "scheduledAt": "2026-09-22T06:03:24.889Z",
+      "type": "overdue",
+      "task": "Document process for switching deprecated CRM packages to current packages with billing updates and create billing tracker tab",
+      "assignee": "Jimmy 'Suave' Flores",
+      "reminderDate": "2026-10-21"
+    },
+    "efa8045c24fabe403448f182469c2764|overdue|2026-10-22": {
+      "scheduledAt": "2026-09-22T06:03:25.732Z",
+      "type": "overdue",
+      "task": "Document process for switching deprecated CRM packages to current packages with billing updates and create billing tracker tab",
+      "assignee": "Jimmy 'Suave' Flores",
+      "reminderDate": "2026-10-22"
+    },
+    "efa8045c24fabe403448f182469c2764|overdue|2026-10-23": {
+      "scheduledAt": "2026-09-22T06:03:26.548Z",
+      "type": "overdue",
+      "task": "Document process for switching deprecated CRM packages to current packages with billing updates and create billing tracker tab",
+      "assignee": "Jimmy 'Suave' Flores",
+      "reminderDate": "2026-10-23"
+    },
+    "efa8045c24fabe403448f182469c2764|overdue|2026-10-24": {
+      "scheduledAt": "2026-09-22T06:03:27.362Z",
+      "type": "overdue",
+      "task": "Document process for switching deprecated CRM packages to current packages with billing updates and create billing tracker tab",
+      "assignee": "Jimmy 'Suave' Flores",
+      "reminderDate": "2026-10-24"
+    },
+    "efa8045c24fabe403448f182469c2764|overdue|2026-10-25": {
+      "scheduledAt": "2026-09-22T06:03:28.202Z",
+      "type": "overdue",
+      "task": "Document process for switching deprecated CRM packages to current packages with billing updates and create billing tracker tab",
+      "assignee": "Jimmy 'Suave' Flores",
+      "reminderDate": "2026-10-25"
     }
   },
   "scheduledMessageIds": {
@@ -35347,6 +36089,1056 @@
         "channel": "C093VPK55NF",
         "messageId": "Q0C4AAK8TNC"
       }
+    ],
+    "64b0dbec96bcca1158551c0e56a7aeba": [
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0C3J0Q182E"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0C3L1TJ8JD"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0C3D5H1PL5"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0C3G51SZSS"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0C3J0PSL1Y"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0C3BSGDCNP"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0C3D5HMSBX"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0C3G503Q22"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0C3L1TU08H"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0C3J0Q797C"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0C32N5CQ9M"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0C32N50S9M"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0C3MP36BNY"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0C3G51JSFQ"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0C4CE8UP16"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0C3L1U8JPK"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0C3BSGGPNF"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0C3J0Q88M8"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0C3J0R4VGA"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0C3D5H9C21"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0C3MP3J78C"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0C3D5HU3JR"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0C3MP33R0U"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0C3MP3KWTW"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0C32N50FK9"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0C3J0QG9J6"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0C3L1UEWRX"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0C3G52C8LW"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0C3G52M0UW"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0C3D5JCETF"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0C32N5T18F"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0C4CE9T71N"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0C32N528KZ"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0C3MP3LQDS"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0C32N5B59V"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0C3MP3QBN0"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0C3L1UNA1F"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0C3G52U0F8"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0C3MP49TB6"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0C3D5JL6P7"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0C3J0RHA74"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0C3MP45BFE"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0C3BSHJ1QB"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0C32N5NFHD"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0C3L1ULV89"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0C3G53FC0N"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0C4CEAFA8Y"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0C3G53D30W"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0C3G5358MC"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0C3L1V4GFK"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0C3L1URNL9"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0C3BSHT5U3"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0C3BSJ0PTM"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0C3MP45L4U"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0C3G53JEK0"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0C3G536DJA"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0C32N6C5C7"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0C4CEB9UHW"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0C3J0S815Y"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0C3BSHT15H"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0C3BSJBTM1"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0C3J0S3274"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0C32N64GKH"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0C3J0SB9FC"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0C32N6KX5M"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0C3D5K5P8D"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0C3BSJ3TUK"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0C3BSJ5XLK"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0C32N6KLT1"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0C3BSHNY6P"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0C4CEBD664"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0C3D5KKYLV"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0C3L1VDHEV"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0C3BSJLA3V"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0C3BSJEF35"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0C3MP577D2"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0C32N3RE23"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0C32N6LSNT"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0C3G545H46"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0C3G54R7PG"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0C3BSKAYKV"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0C3MP5D4FN"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0C3G54A2FQ"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0C3BSJFBEX"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0C3D5L8RRB"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0C3D5L16MT"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0C32N7084F"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0C3G54HZPY"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0C3J0SLMS6"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0C4CECE5JL"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0C3G54QTKQ"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0C3MP57W9J"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0C3J0T0N8J"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0C3G54J8KY"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0C3MP56F2Q"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0C3BSK2UUT"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0C3D5L3HHB"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0C4CEBU724"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0C3L1W9WPK"
+      }
+    ],
+    "9ab56aa3e3037f9687cbc7a685d5f5cb": [
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0C3L1X0UC9"
+      },
+      {
+        "channel": "UMCPG3D8A",
+        "messageId": "Q0C3G555FML"
+      },
+      {
+        "channel": "C08R493ESAJ",
+        "messageId": "Q0C3D5LKUAH"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0C3L1WPP4Z"
+      },
+      {
+        "channel": "UMCPG3D8A",
+        "messageId": "Q0C4CECLURE"
+      },
+      {
+        "channel": "C08R493ESAJ",
+        "messageId": "Q0C3MP25HKN"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0C3MP62MUL"
+      },
+      {
+        "channel": "UMCPG3D8A",
+        "messageId": "Q0C3G55A8UW"
+      },
+      {
+        "channel": "C08R493ESAJ",
+        "messageId": "Q0C3BSKJENP"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0C4CECPCU8"
+      },
+      {
+        "channel": "UMCPG3D8A",
+        "messageId": "Q0C4CE9MZ8Q"
+      },
+      {
+        "channel": "C08R493ESAJ",
+        "messageId": "Q0C4CECGAPJ"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0C4CECUFQQ"
+      },
+      {
+        "channel": "UMCPG3D8A",
+        "messageId": "Q0C32N8B815"
+      },
+      {
+        "channel": "C08R493ESAJ",
+        "messageId": "Q0C3MP6C17E"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0C3G55DNAJ"
+      },
+      {
+        "channel": "UMCPG3D8A",
+        "messageId": "Q0C3J0U6NNN"
+      },
+      {
+        "channel": "C08R493ESAJ",
+        "messageId": "Q0C3J0TFJ8J"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0C3L1X7STT"
+      },
+      {
+        "channel": "UMCPG3D8A",
+        "messageId": "Q0C3MP64FE0"
+      },
+      {
+        "channel": "C08R493ESAJ",
+        "messageId": "Q0C3L1X32UR"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0C3L1X2XNV"
+      },
+      {
+        "channel": "UMCPG3D8A",
+        "messageId": "Q0C4CED3AAU"
+      },
+      {
+        "channel": "C08R493ESAJ",
+        "messageId": "Q0C3MP6CNFN"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0C3G55P0Q6"
+      },
+      {
+        "channel": "UMCPG3D8A",
+        "messageId": "Q0C4CECV4FJ"
+      },
+      {
+        "channel": "C08R493ESAJ",
+        "messageId": "Q0C3G55K422"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0C32N8CWRM"
+      },
+      {
+        "channel": "UMCPG3D8A",
+        "messageId": "Q0C3D5MJ64V"
+      },
+      {
+        "channel": "C08R493ESAJ",
+        "messageId": "Q0C3J0U7QCS"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0C3D5M4DKP"
+      },
+      {
+        "channel": "UMCPG3D8A",
+        "messageId": "Q0C3G55S8QN"
+      },
+      {
+        "channel": "C08R493ESAJ",
+        "messageId": "Q0C4CEDD8RE"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0C3J0UBX18"
+      },
+      {
+        "channel": "UMCPG3D8A",
+        "messageId": "Q0C3BSLE351"
+      },
+      {
+        "channel": "C08R493ESAJ",
+        "messageId": "Q0C4CEDJL72"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0C3BSLRGJX"
+      },
+      {
+        "channel": "UMCPG3D8A",
+        "messageId": "Q0C4CEDFWU8"
+      },
+      {
+        "channel": "C08R493ESAJ",
+        "messageId": "Q0C3L1XNZND"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0C32N8LG4X"
+      },
+      {
+        "channel": "UMCPG3D8A",
+        "messageId": "Q0C32N9FY4X"
+      },
+      {
+        "channel": "C08R493ESAJ",
+        "messageId": "Q0C3J0ULYSW"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0C3G56F99C"
+      },
+      {
+        "channel": "UMCPG3D8A",
+        "messageId": "Q0C3G56EJTG"
+      },
+      {
+        "channel": "C08R493ESAJ",
+        "messageId": "Q0C3MP77QH2"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0C32N8JLK1"
+      },
+      {
+        "channel": "UMCPG3D8A",
+        "messageId": "Q0C4CEDTE64"
+      },
+      {
+        "channel": "C08R493ESAJ",
+        "messageId": "Q0C3J0UNVC2"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0C3G56QE78"
+      },
+      {
+        "channel": "UMCPG3D8A",
+        "messageId": "Q0C3G564TLN"
+      },
+      {
+        "channel": "C08R493ESAJ",
+        "messageId": "Q0C3MP7K9QU"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0C32N95LDD"
+      },
+      {
+        "channel": "UMCPG3D8A",
+        "messageId": "Q0C3MP7RL2G"
+      },
+      {
+        "channel": "C08R493ESAJ",
+        "messageId": "Q0C3G56KLQN"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0C3BSL8891"
+      },
+      {
+        "channel": "UMCPG3D8A",
+        "messageId": "Q0C3BSLLNG3"
+      },
+      {
+        "channel": "C08R493ESAJ",
+        "messageId": "Q0C3J0V224A"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0C4CEECERW"
+      },
+      {
+        "channel": "UMCPG3D8A",
+        "messageId": "Q0C3J0UV0DQ"
+      },
+      {
+        "channel": "C08R493ESAJ",
+        "messageId": "Q0C4CEDR1NU"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0C3D5K83CM"
+      },
+      {
+        "channel": "UMCPG3D8A",
+        "messageId": "Q0C3BSMF859"
+      },
+      {
+        "channel": "C08R493ESAJ",
+        "messageId": "Q0C4CEE7JPJ"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0C3MP7HDGU"
+      },
+      {
+        "channel": "UMCPG3D8A",
+        "messageId": "Q0C3J0VH0Q2"
+      },
+      {
+        "channel": "C08R493ESAJ",
+        "messageId": "Q0C3D5N7MJR"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0C3J0VCGRY"
+      },
+      {
+        "channel": "UMCPG3D8A",
+        "messageId": "Q0C3D5NVD6Z"
+      },
+      {
+        "channel": "C08R493ESAJ",
+        "messageId": "Q0C32N971JB"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0C3J0UKBDG"
+      },
+      {
+        "channel": "UMCPG3D8A",
+        "messageId": "Q0C32N9EA4F"
+      },
+      {
+        "channel": "C08R493ESAJ",
+        "messageId": "Q0C3MP8B49J"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0C4CEE9FME"
+      },
+      {
+        "channel": "UMCPG3D8A",
+        "messageId": "Q0C4CEEJGBA"
+      },
+      {
+        "channel": "C08R493ESAJ",
+        "messageId": "Q0C3BSMQMTM"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0C3BSN41H9"
+      },
+      {
+        "channel": "UMCPG3D8A",
+        "messageId": "Q0C3MP845QU"
+      },
+      {
+        "channel": "C08R493ESAJ",
+        "messageId": "Q0C3BSM7JPM"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0C3D5P14E9"
+      },
+      {
+        "channel": "UMCPG3D8A",
+        "messageId": "Q0C3MP850FN"
+      },
+      {
+        "channel": "C08R493ESAJ",
+        "messageId": "Q0C32N9KQ79"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0C3D5PFT1T"
+      },
+      {
+        "channel": "UMCPG3D8A",
+        "messageId": "Q0C32NA0807"
+      },
+      {
+        "channel": "C08R493ESAJ",
+        "messageId": "Q0C3BSMKU11"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0C3D5NN361"
+      },
+      {
+        "channel": "UMCPG3D8A",
+        "messageId": "Q0C3J0W0Y82"
+      },
+      {
+        "channel": "C08R493ESAJ",
+        "messageId": "Q0C3L1Z71ED"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0C4CEF9YDN"
+      },
+      {
+        "channel": "UMCPG3D8A",
+        "messageId": "Q0C3D5P4Q1K"
+      },
+      {
+        "channel": "C08R493ESAJ",
+        "messageId": "Q0C3J0VK5NE"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0C3BSMLBR9"
+      },
+      {
+        "channel": "UMCPG3D8A",
+        "messageId": "Q0C3G5788CW"
+      },
+      {
+        "channel": "C08R493ESAJ",
+        "messageId": "Q0C4CEF5DFS"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0C3D5NFXB7"
+      },
+      {
+        "channel": "UMCPG3D8A",
+        "messageId": "Q0C4CEFPP9N"
+      },
+      {
+        "channel": "C08R493ESAJ",
+        "messageId": "Q0C3MP8HGE8"
+      }
+    ],
+    "efa8045c24fabe403448f182469c2764": [
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0C3BSN8VFD"
+      },
+      {
+        "channel": "U02773FLDN2",
+        "messageId": "Q0C3MP9AETW"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0C32NAM9FH"
+      },
+      {
+        "channel": "U02773FLDN2",
+        "messageId": "Q0C3MP91WCU"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0C4CEFM6LQ"
+      },
+      {
+        "channel": "U02773FLDN2",
+        "messageId": "Q0C3J0W7Q0J"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0C32NANELX"
+      },
+      {
+        "channel": "U02773FLDN2",
+        "messageId": "Q0C32NB0K2B"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0C3L1ZKVMF"
+      },
+      {
+        "channel": "U02773FLDN2",
+        "messageId": "Q0C32NB4UDV"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0C3D5PUGSH"
+      },
+      {
+        "channel": "U02773FLDN2",
+        "messageId": "Q0C3L1ZLMBK"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0C3L200H1P"
+      },
+      {
+        "channel": "U02773FLDN2",
+        "messageId": "Q0C3G58R5SA"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0C32NARDJT"
+      },
+      {
+        "channel": "U02773FLDN2",
+        "messageId": "Q0C3J0WUVMG"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0C4CEFRWHE"
+      },
+      {
+        "channel": "U02773FLDN2",
+        "messageId": "Q0C3BSP29M1"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0C3G58BBTQ"
+      },
+      {
+        "channel": "U02773FLDN2",
+        "messageId": "Q0C3J0WJUE6"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0C3G595K0E"
+      },
+      {
+        "channel": "U02773FLDN2",
+        "messageId": "Q0C3D5PNLGM"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0C3L20GMAM"
+      },
+      {
+        "channel": "U02773FLDN2",
+        "messageId": "Q0C3D5PREPP"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0C3L2053CZ"
+      },
+      {
+        "channel": "U02773FLDN2",
+        "messageId": "Q0C3BSPAJTD"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0C32NBE1SB"
+      },
+      {
+        "channel": "U02773FLDN2",
+        "messageId": "Q0C4CEG7PC0"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0C3BSPAATV"
+      },
+      {
+        "channel": "U02773FLDN2",
+        "messageId": "Q0C3G58V64W"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0C3L20PPR7"
+      },
+      {
+        "channel": "U02773FLDN2",
+        "messageId": "Q0C3BSPE91R"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0C3G58QN3Y"
+      },
+      {
+        "channel": "U02773FLDN2",
+        "messageId": "Q0C4CEGN6L8"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0C3BSPEYRZ"
+      },
+      {
+        "channel": "U02773FLDN2",
+        "messageId": "Q0C3L20KAAV"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0C3J0XJJ10"
+      },
+      {
+        "channel": "U02773FLDN2",
+        "messageId": "Q0C4CEGJARE"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0C3G5967HU"
+      },
+      {
+        "channel": "U02773FLDN2",
+        "messageId": "Q0C4CEGMX4Y"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0C32NC96G7"
+      },
+      {
+        "channel": "U02773FLDN2",
+        "messageId": "Q0C3L2126TB"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0C3L21TU0H"
+      },
+      {
+        "channel": "U02773FLDN2",
+        "messageId": "Q0C3MPAT0P6"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0C32NC4KN3"
+      },
+      {
+        "channel": "U02773FLDN2",
+        "messageId": "Q0C3L219KUH"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0C3BSPPKDZ"
+      },
+      {
+        "channel": "U02773FLDN2",
+        "messageId": "Q0C3BSPMX8B"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0C3J0Y1SHG"
+      },
+      {
+        "channel": "U02773FLDN2",
+        "messageId": "Q0C3MPASJNQ"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0C3L21QT33"
+      },
+      {
+        "channel": "U02773FLDN2",
+        "messageId": "Q0C4CEHD0RW"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0C4CEHJ69W"
+      },
+      {
+        "channel": "U02773FLDN2",
+        "messageId": "Q0C3L21S5FT"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0C32NCLDCP"
+      },
+      {
+        "channel": "U02773FLDN2",
+        "messageId": "Q0C4CEH75GQ"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0C32NCEQCF"
+      },
+      {
+        "channel": "U02773FLDN2",
+        "messageId": "Q0C3G59UCES"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0C3L21UARX"
+      },
+      {
+        "channel": "U02773FLDN2",
+        "messageId": "Q0C3L220H33"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0C4CEH4MAL"
+      },
+      {
+        "channel": "U02773FLDN2",
+        "messageId": "Q0C3J0YHVEW"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0C3J0YN86N"
+      },
+      {
+        "channel": "U02773FLDN2",
+        "messageId": "Q0C3L21ND25"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0C3D5S1BUM"
+      },
+      {
+        "channel": "U02773FLDN2",
+        "messageId": "Q0C32ND9W95"
+      }
     ]
   },
   "processedMessageTs": {
@@ -35563,8 +37355,12 @@
     "1790022164.712759": true,
     "1790021507.072589": true,
     "1790021449.957989": true,
-    "1790017472.795659": true
+    "1790017472.795659": true,
+    "1790037528.260009": true,
+    "1790037497.535949": true,
+    "1790029383.930439": true,
+    "1790029340.007739": true
   },
   "lastWeeklySummaryDate": "2026-W38",
-  "lastRun": "2026-09-21T21:56:39.590Z"
+  "lastRun": "2026-09-22T06:03:28.202Z"
 }
