@@ -1861,6 +1861,20 @@
       "completed": false,
       "completedAt": null,
       "firstSeenAt": "2026-09-24T18:02:09.396Z"
+    },
+    "5074ed1bbc9a3c50800849b59a3b94a4": {
+      "task": "Help get 10DLC funnel ready for Issac Bradley's account using GHL number (not personal) in PP, TOS, website footer",
+      "assignee_name": "Christle 'Knows All' Ochigue",
+      "assignee_slack_mention": "@Christle 'Knows All' Ochigue",
+      "assigned_date": "2026-09-24",
+      "due_date": null,
+      "message_ts": "1790273320.893539",
+      "source_message": "@Christle 'Knows All' Ochigue can you help me get the 10dlc funnel ready for Issac Bradley's account",
+      "assigneeId": "UMCPG3D8A",
+      "messageTs": "1790273320.893539",
+      "completed": false,
+      "completedAt": null,
+      "firstSeenAt": "2026-09-24T21:19:54.168Z"
     }
   },
   "scheduled": {
@@ -24545,6 +24559,13 @@
       "task": "Setup notifications for Dovetail GHL calendar 'PMP/LB - Onboarding or Help for PMP or LB'",
       "assignee": "Josh 'The Ninja' Morales",
       "reminderDate": "2026-10-24"
+    },
+    "5074ed1bbc9a3c50800849b59a3b94a4|followup|2026-10-01": {
+      "scheduledAt": "2026-09-24T21:19:55.216Z",
+      "type": "followup",
+      "task": "Help get 10DLC funnel ready for Issac Bradley's account using GHL number (not personal) in PP, TOS, website footer",
+      "assignee": "Christle 'Knows All' Ochigue",
+      "reminderDate": "2026-10-01"
     }
   },
   "scheduledMessageIds": {
@@ -35436,6 +35457,20 @@
         "channel": "C093VPK55NF",
         "messageId": "Q0C49E8CK9Q"
       }
+    ],
+    "5074ed1bbc9a3c50800849b59a3b94a4": [
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0C3VQ8RGJK"
+      },
+      {
+        "channel": "UMCPG3D8A",
+        "messageId": "Q0C55GB6MFA"
+      },
+      {
+        "channel": "C08R493ESAJ",
+        "messageId": "Q0C4974TX46"
+      }
     ]
   },
   "processedMessageTs": {
@@ -35661,8 +35696,9 @@
     "1790175296.479569": true,
     "1790171825.767129": true,
     "1790270067.560969": true,
-    "1790268569.465279": true
+    "1790268569.465279": true,
+    "1790273320.893539": true
   },
   "lastWeeklySummaryDate": "2026-W38",
-  "lastRun": "2026-09-24T18:03:07.375Z"
+  "lastRun": "2026-09-24T21:19:55.237Z"
 }
