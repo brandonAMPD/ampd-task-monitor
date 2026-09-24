@@ -1830,9 +1830,37 @@
       "source_message": "@Christle 'Knows All' Ochigue for some reason my calendars still aren't set to create blue appointments",
       "assigneeId": "UMCPG3D8A",
       "messageTs": "1790171825.767129",
+      "completed": true,
+      "completedAt": "2026-09-24T18:01:25.153Z",
+      "firstSeenAt": "2026-09-23T18:02:13.201Z"
+    },
+    "81e651b903be4e143a93230a7213c407": {
+      "task": "Create a Claude project (org-shared) for building GHL calendar notification workflows for Ampd and Dovetail",
+      "assignee_name": "Josh 'The Ninja' Morales",
+      "assignee_slack_mention": "@Josh 'The Ninja' Morales",
+      "assigned_date": "2026-09-24",
+      "due_date": "2026-10-02",
+      "message_ts": "1790270067.560969",
+      "source_message": "@Josh 'The Ninja' Morales please create a claude project shared with the organization that is specificall",
+      "assigneeId": "U07FVUF09T7",
+      "messageTs": "1790270067.560969",
       "completed": false,
       "completedAt": null,
-      "firstSeenAt": "2026-09-23T18:02:13.201Z"
+      "firstSeenAt": "2026-09-24T18:02:09.288Z"
+    },
+    "1c0fdea1a77b3988f5b336b90c8c555c": {
+      "task": "Setup notifications for Dovetail GHL calendar 'PMP/LB - Onboarding or Help for PMP or LB'",
+      "assignee_name": "Josh 'The Ninja' Morales",
+      "assignee_slack_mention": "@Josh 'The Ninja' Morales",
+      "assigned_date": "2026-09-24",
+      "due_date": "2026-09-24",
+      "message_ts": "1790268569.465279",
+      "source_message": "@Josh 'The Ninja' Morales please setup notifications for the Dovetail GHL calendar *PMP/LB - Onboarding or He",
+      "assigneeId": "U07FVUF09T7",
+      "messageTs": "1790268569.465279",
+      "completed": false,
+      "completedAt": null,
+      "firstSeenAt": "2026-09-24T18:02:09.396Z"
     }
   },
   "scheduled": {
@@ -24063,6 +24091,460 @@
       "task": "Check both CRMs and update calendars to create blue appointments in GHL",
       "assignee": "Christle 'Knows All' Ochigue",
       "reminderDate": "2026-10-25"
+    },
+    "81e651b903be4e143a93230a7213c407|midpoint|2026-09-28": {
+      "scheduledAt": "2026-09-24T18:02:10.354Z",
+      "type": "midpoint",
+      "task": "Create a Claude project (org-shared) for building GHL calendar notification workflows for Ampd and Dovetail",
+      "assignee": "Josh 'The Ninja' Morales",
+      "reminderDate": "2026-09-28"
+    },
+    "81e651b903be4e143a93230a7213c407|nag|2026-09-30": {
+      "scheduledAt": "2026-09-24T18:02:11.259Z",
+      "type": "nag",
+      "task": "Create a Claude project (org-shared) for building GHL calendar notification workflows for Ampd and Dovetail",
+      "assignee": "Josh 'The Ninja' Morales",
+      "reminderDate": "2026-09-30"
+    },
+    "81e651b903be4e143a93230a7213c407|nag|2026-10-01": {
+      "scheduledAt": "2026-09-24T18:02:12.155Z",
+      "type": "nag",
+      "task": "Create a Claude project (org-shared) for building GHL calendar notification workflows for Ampd and Dovetail",
+      "assignee": "Josh 'The Ninja' Morales",
+      "reminderDate": "2026-10-01"
+    },
+    "81e651b903be4e143a93230a7213c407|due|2026-10-02": {
+      "scheduledAt": "2026-09-24T18:02:13.081Z",
+      "type": "due",
+      "task": "Create a Claude project (org-shared) for building GHL calendar notification workflows for Ampd and Dovetail",
+      "assignee": "Josh 'The Ninja' Morales",
+      "reminderDate": "2026-10-02"
+    },
+    "81e651b903be4e143a93230a7213c407|overdue|2026-10-03": {
+      "scheduledAt": "2026-09-24T18:02:13.996Z",
+      "type": "overdue",
+      "task": "Create a Claude project (org-shared) for building GHL calendar notification workflows for Ampd and Dovetail",
+      "assignee": "Josh 'The Ninja' Morales",
+      "reminderDate": "2026-10-03"
+    },
+    "81e651b903be4e143a93230a7213c407|overdue|2026-10-04": {
+      "scheduledAt": "2026-09-24T18:02:14.910Z",
+      "type": "overdue",
+      "task": "Create a Claude project (org-shared) for building GHL calendar notification workflows for Ampd and Dovetail",
+      "assignee": "Josh 'The Ninja' Morales",
+      "reminderDate": "2026-10-04"
+    },
+    "81e651b903be4e143a93230a7213c407|overdue|2026-10-05": {
+      "scheduledAt": "2026-09-24T18:02:15.788Z",
+      "type": "overdue",
+      "task": "Create a Claude project (org-shared) for building GHL calendar notification workflows for Ampd and Dovetail",
+      "assignee": "Josh 'The Ninja' Morales",
+      "reminderDate": "2026-10-05"
+    },
+    "81e651b903be4e143a93230a7213c407|overdue|2026-10-06": {
+      "scheduledAt": "2026-09-24T18:02:16.681Z",
+      "type": "overdue",
+      "task": "Create a Claude project (org-shared) for building GHL calendar notification workflows for Ampd and Dovetail",
+      "assignee": "Josh 'The Ninja' Morales",
+      "reminderDate": "2026-10-06"
+    },
+    "81e651b903be4e143a93230a7213c407|overdue|2026-10-07": {
+      "scheduledAt": "2026-09-24T18:02:17.572Z",
+      "type": "overdue",
+      "task": "Create a Claude project (org-shared) for building GHL calendar notification workflows for Ampd and Dovetail",
+      "assignee": "Josh 'The Ninja' Morales",
+      "reminderDate": "2026-10-07"
+    },
+    "81e651b903be4e143a93230a7213c407|overdue|2026-10-08": {
+      "scheduledAt": "2026-09-24T18:02:18.479Z",
+      "type": "overdue",
+      "task": "Create a Claude project (org-shared) for building GHL calendar notification workflows for Ampd and Dovetail",
+      "assignee": "Josh 'The Ninja' Morales",
+      "reminderDate": "2026-10-08"
+    },
+    "81e651b903be4e143a93230a7213c407|overdue|2026-10-09": {
+      "scheduledAt": "2026-09-24T18:02:19.403Z",
+      "type": "overdue",
+      "task": "Create a Claude project (org-shared) for building GHL calendar notification workflows for Ampd and Dovetail",
+      "assignee": "Josh 'The Ninja' Morales",
+      "reminderDate": "2026-10-09"
+    },
+    "81e651b903be4e143a93230a7213c407|overdue|2026-10-10": {
+      "scheduledAt": "2026-09-24T18:02:20.298Z",
+      "type": "overdue",
+      "task": "Create a Claude project (org-shared) for building GHL calendar notification workflows for Ampd and Dovetail",
+      "assignee": "Josh 'The Ninja' Morales",
+      "reminderDate": "2026-10-10"
+    },
+    "81e651b903be4e143a93230a7213c407|overdue|2026-10-11": {
+      "scheduledAt": "2026-09-24T18:02:21.189Z",
+      "type": "overdue",
+      "task": "Create a Claude project (org-shared) for building GHL calendar notification workflows for Ampd and Dovetail",
+      "assignee": "Josh 'The Ninja' Morales",
+      "reminderDate": "2026-10-11"
+    },
+    "81e651b903be4e143a93230a7213c407|overdue|2026-10-12": {
+      "scheduledAt": "2026-09-24T18:02:22.054Z",
+      "type": "overdue",
+      "task": "Create a Claude project (org-shared) for building GHL calendar notification workflows for Ampd and Dovetail",
+      "assignee": "Josh 'The Ninja' Morales",
+      "reminderDate": "2026-10-12"
+    },
+    "81e651b903be4e143a93230a7213c407|overdue|2026-10-13": {
+      "scheduledAt": "2026-09-24T18:02:23.010Z",
+      "type": "overdue",
+      "task": "Create a Claude project (org-shared) for building GHL calendar notification workflows for Ampd and Dovetail",
+      "assignee": "Josh 'The Ninja' Morales",
+      "reminderDate": "2026-10-13"
+    },
+    "81e651b903be4e143a93230a7213c407|overdue|2026-10-14": {
+      "scheduledAt": "2026-09-24T18:02:23.904Z",
+      "type": "overdue",
+      "task": "Create a Claude project (org-shared) for building GHL calendar notification workflows for Ampd and Dovetail",
+      "assignee": "Josh 'The Ninja' Morales",
+      "reminderDate": "2026-10-14"
+    },
+    "81e651b903be4e143a93230a7213c407|overdue|2026-10-15": {
+      "scheduledAt": "2026-09-24T18:02:24.841Z",
+      "type": "overdue",
+      "task": "Create a Claude project (org-shared) for building GHL calendar notification workflows for Ampd and Dovetail",
+      "assignee": "Josh 'The Ninja' Morales",
+      "reminderDate": "2026-10-15"
+    },
+    "81e651b903be4e143a93230a7213c407|overdue|2026-10-16": {
+      "scheduledAt": "2026-09-24T18:02:25.781Z",
+      "type": "overdue",
+      "task": "Create a Claude project (org-shared) for building GHL calendar notification workflows for Ampd and Dovetail",
+      "assignee": "Josh 'The Ninja' Morales",
+      "reminderDate": "2026-10-16"
+    },
+    "81e651b903be4e143a93230a7213c407|overdue|2026-10-17": {
+      "scheduledAt": "2026-09-24T18:02:26.680Z",
+      "type": "overdue",
+      "task": "Create a Claude project (org-shared) for building GHL calendar notification workflows for Ampd and Dovetail",
+      "assignee": "Josh 'The Ninja' Morales",
+      "reminderDate": "2026-10-17"
+    },
+    "81e651b903be4e143a93230a7213c407|overdue|2026-10-18": {
+      "scheduledAt": "2026-09-24T18:02:27.569Z",
+      "type": "overdue",
+      "task": "Create a Claude project (org-shared) for building GHL calendar notification workflows for Ampd and Dovetail",
+      "assignee": "Josh 'The Ninja' Morales",
+      "reminderDate": "2026-10-18"
+    },
+    "81e651b903be4e143a93230a7213c407|overdue|2026-10-19": {
+      "scheduledAt": "2026-09-24T18:02:28.473Z",
+      "type": "overdue",
+      "task": "Create a Claude project (org-shared) for building GHL calendar notification workflows for Ampd and Dovetail",
+      "assignee": "Josh 'The Ninja' Morales",
+      "reminderDate": "2026-10-19"
+    },
+    "81e651b903be4e143a93230a7213c407|overdue|2026-10-20": {
+      "scheduledAt": "2026-09-24T18:02:29.373Z",
+      "type": "overdue",
+      "task": "Create a Claude project (org-shared) for building GHL calendar notification workflows for Ampd and Dovetail",
+      "assignee": "Josh 'The Ninja' Morales",
+      "reminderDate": "2026-10-20"
+    },
+    "81e651b903be4e143a93230a7213c407|overdue|2026-10-21": {
+      "scheduledAt": "2026-09-24T18:02:30.276Z",
+      "type": "overdue",
+      "task": "Create a Claude project (org-shared) for building GHL calendar notification workflows for Ampd and Dovetail",
+      "assignee": "Josh 'The Ninja' Morales",
+      "reminderDate": "2026-10-21"
+    },
+    "81e651b903be4e143a93230a7213c407|overdue|2026-10-22": {
+      "scheduledAt": "2026-09-24T18:02:31.176Z",
+      "type": "overdue",
+      "task": "Create a Claude project (org-shared) for building GHL calendar notification workflows for Ampd and Dovetail",
+      "assignee": "Josh 'The Ninja' Morales",
+      "reminderDate": "2026-10-22"
+    },
+    "81e651b903be4e143a93230a7213c407|overdue|2026-10-23": {
+      "scheduledAt": "2026-09-24T18:02:32.063Z",
+      "type": "overdue",
+      "task": "Create a Claude project (org-shared) for building GHL calendar notification workflows for Ampd and Dovetail",
+      "assignee": "Josh 'The Ninja' Morales",
+      "reminderDate": "2026-10-23"
+    },
+    "81e651b903be4e143a93230a7213c407|overdue|2026-10-24": {
+      "scheduledAt": "2026-09-24T18:02:32.958Z",
+      "type": "overdue",
+      "task": "Create a Claude project (org-shared) for building GHL calendar notification workflows for Ampd and Dovetail",
+      "assignee": "Josh 'The Ninja' Morales",
+      "reminderDate": "2026-10-24"
+    },
+    "81e651b903be4e143a93230a7213c407|overdue|2026-10-25": {
+      "scheduledAt": "2026-09-24T18:02:33.863Z",
+      "type": "overdue",
+      "task": "Create a Claude project (org-shared) for building GHL calendar notification workflows for Ampd and Dovetail",
+      "assignee": "Josh 'The Ninja' Morales",
+      "reminderDate": "2026-10-25"
+    },
+    "81e651b903be4e143a93230a7213c407|overdue|2026-10-26": {
+      "scheduledAt": "2026-09-24T18:02:34.753Z",
+      "type": "overdue",
+      "task": "Create a Claude project (org-shared) for building GHL calendar notification workflows for Ampd and Dovetail",
+      "assignee": "Josh 'The Ninja' Morales",
+      "reminderDate": "2026-10-26"
+    },
+    "81e651b903be4e143a93230a7213c407|overdue|2026-10-27": {
+      "scheduledAt": "2026-09-24T18:02:35.678Z",
+      "type": "overdue",
+      "task": "Create a Claude project (org-shared) for building GHL calendar notification workflows for Ampd and Dovetail",
+      "assignee": "Josh 'The Ninja' Morales",
+      "reminderDate": "2026-10-27"
+    },
+    "81e651b903be4e143a93230a7213c407|overdue|2026-10-28": {
+      "scheduledAt": "2026-09-24T18:02:36.658Z",
+      "type": "overdue",
+      "task": "Create a Claude project (org-shared) for building GHL calendar notification workflows for Ampd and Dovetail",
+      "assignee": "Josh 'The Ninja' Morales",
+      "reminderDate": "2026-10-28"
+    },
+    "81e651b903be4e143a93230a7213c407|overdue|2026-10-29": {
+      "scheduledAt": "2026-09-24T18:02:37.563Z",
+      "type": "overdue",
+      "task": "Create a Claude project (org-shared) for building GHL calendar notification workflows for Ampd and Dovetail",
+      "assignee": "Josh 'The Ninja' Morales",
+      "reminderDate": "2026-10-29"
+    },
+    "81e651b903be4e143a93230a7213c407|overdue|2026-10-30": {
+      "scheduledAt": "2026-09-24T18:02:38.515Z",
+      "type": "overdue",
+      "task": "Create a Claude project (org-shared) for building GHL calendar notification workflows for Ampd and Dovetail",
+      "assignee": "Josh 'The Ninja' Morales",
+      "reminderDate": "2026-10-30"
+    },
+    "81e651b903be4e143a93230a7213c407|overdue|2026-10-31": {
+      "scheduledAt": "2026-09-24T18:02:39.395Z",
+      "type": "overdue",
+      "task": "Create a Claude project (org-shared) for building GHL calendar notification workflows for Ampd and Dovetail",
+      "assignee": "Josh 'The Ninja' Morales",
+      "reminderDate": "2026-10-31"
+    },
+    "81e651b903be4e143a93230a7213c407|overdue|2026-11-01": {
+      "scheduledAt": "2026-09-24T18:02:40.278Z",
+      "type": "overdue",
+      "task": "Create a Claude project (org-shared) for building GHL calendar notification workflows for Ampd and Dovetail",
+      "assignee": "Josh 'The Ninja' Morales",
+      "reminderDate": "2026-11-01"
+    },
+    "1c0fdea1a77b3988f5b336b90c8c555c|due|2026-09-24": {
+      "scheduledAt": "2026-09-24T18:02:40.278Z",
+      "type": "due",
+      "task": "Setup notifications for Dovetail GHL calendar 'PMP/LB - Onboarding or Help for PMP or LB'",
+      "skipped": true
+    },
+    "1c0fdea1a77b3988f5b336b90c8c555c|overdue|2026-09-25": {
+      "scheduledAt": "2026-09-24T18:02:41.165Z",
+      "type": "overdue",
+      "task": "Setup notifications for Dovetail GHL calendar 'PMP/LB - Onboarding or Help for PMP or LB'",
+      "assignee": "Josh 'The Ninja' Morales",
+      "reminderDate": "2026-09-25"
+    },
+    "1c0fdea1a77b3988f5b336b90c8c555c|overdue|2026-09-26": {
+      "scheduledAt": "2026-09-24T18:02:42.065Z",
+      "type": "overdue",
+      "task": "Setup notifications for Dovetail GHL calendar 'PMP/LB - Onboarding or Help for PMP or LB'",
+      "assignee": "Josh 'The Ninja' Morales",
+      "reminderDate": "2026-09-26"
+    },
+    "1c0fdea1a77b3988f5b336b90c8c555c|overdue|2026-09-27": {
+      "scheduledAt": "2026-09-24T18:02:42.944Z",
+      "type": "overdue",
+      "task": "Setup notifications for Dovetail GHL calendar 'PMP/LB - Onboarding or Help for PMP or LB'",
+      "assignee": "Josh 'The Ninja' Morales",
+      "reminderDate": "2026-09-27"
+    },
+    "1c0fdea1a77b3988f5b336b90c8c555c|overdue|2026-09-28": {
+      "scheduledAt": "2026-09-24T18:02:43.834Z",
+      "type": "overdue",
+      "task": "Setup notifications for Dovetail GHL calendar 'PMP/LB - Onboarding or Help for PMP or LB'",
+      "assignee": "Josh 'The Ninja' Morales",
+      "reminderDate": "2026-09-28"
+    },
+    "1c0fdea1a77b3988f5b336b90c8c555c|overdue|2026-09-29": {
+      "scheduledAt": "2026-09-24T18:02:44.748Z",
+      "type": "overdue",
+      "task": "Setup notifications for Dovetail GHL calendar 'PMP/LB - Onboarding or Help for PMP or LB'",
+      "assignee": "Josh 'The Ninja' Morales",
+      "reminderDate": "2026-09-29"
+    },
+    "1c0fdea1a77b3988f5b336b90c8c555c|overdue|2026-09-30": {
+      "scheduledAt": "2026-09-24T18:02:45.633Z",
+      "type": "overdue",
+      "task": "Setup notifications for Dovetail GHL calendar 'PMP/LB - Onboarding or Help for PMP or LB'",
+      "assignee": "Josh 'The Ninja' Morales",
+      "reminderDate": "2026-09-30"
+    },
+    "1c0fdea1a77b3988f5b336b90c8c555c|overdue|2026-10-01": {
+      "scheduledAt": "2026-09-24T18:02:46.702Z",
+      "type": "overdue",
+      "task": "Setup notifications for Dovetail GHL calendar 'PMP/LB - Onboarding or Help for PMP or LB'",
+      "assignee": "Josh 'The Ninja' Morales",
+      "reminderDate": "2026-10-01"
+    },
+    "1c0fdea1a77b3988f5b336b90c8c555c|overdue|2026-10-02": {
+      "scheduledAt": "2026-09-24T18:02:47.601Z",
+      "type": "overdue",
+      "task": "Setup notifications for Dovetail GHL calendar 'PMP/LB - Onboarding or Help for PMP or LB'",
+      "assignee": "Josh 'The Ninja' Morales",
+      "reminderDate": "2026-10-02"
+    },
+    "1c0fdea1a77b3988f5b336b90c8c555c|overdue|2026-10-03": {
+      "scheduledAt": "2026-09-24T18:02:48.503Z",
+      "type": "overdue",
+      "task": "Setup notifications for Dovetail GHL calendar 'PMP/LB - Onboarding or Help for PMP or LB'",
+      "assignee": "Josh 'The Ninja' Morales",
+      "reminderDate": "2026-10-03"
+    },
+    "1c0fdea1a77b3988f5b336b90c8c555c|overdue|2026-10-04": {
+      "scheduledAt": "2026-09-24T18:02:49.408Z",
+      "type": "overdue",
+      "task": "Setup notifications for Dovetail GHL calendar 'PMP/LB - Onboarding or Help for PMP or LB'",
+      "assignee": "Josh 'The Ninja' Morales",
+      "reminderDate": "2026-10-04"
+    },
+    "1c0fdea1a77b3988f5b336b90c8c555c|overdue|2026-10-05": {
+      "scheduledAt": "2026-09-24T18:02:50.303Z",
+      "type": "overdue",
+      "task": "Setup notifications for Dovetail GHL calendar 'PMP/LB - Onboarding or Help for PMP or LB'",
+      "assignee": "Josh 'The Ninja' Morales",
+      "reminderDate": "2026-10-05"
+    },
+    "1c0fdea1a77b3988f5b336b90c8c555c|overdue|2026-10-06": {
+      "scheduledAt": "2026-09-24T18:02:51.213Z",
+      "type": "overdue",
+      "task": "Setup notifications for Dovetail GHL calendar 'PMP/LB - Onboarding or Help for PMP or LB'",
+      "assignee": "Josh 'The Ninja' Morales",
+      "reminderDate": "2026-10-06"
+    },
+    "1c0fdea1a77b3988f5b336b90c8c555c|overdue|2026-10-07": {
+      "scheduledAt": "2026-09-24T18:02:52.101Z",
+      "type": "overdue",
+      "task": "Setup notifications for Dovetail GHL calendar 'PMP/LB - Onboarding or Help for PMP or LB'",
+      "assignee": "Josh 'The Ninja' Morales",
+      "reminderDate": "2026-10-07"
+    },
+    "1c0fdea1a77b3988f5b336b90c8c555c|overdue|2026-10-08": {
+      "scheduledAt": "2026-09-24T18:02:53.023Z",
+      "type": "overdue",
+      "task": "Setup notifications for Dovetail GHL calendar 'PMP/LB - Onboarding or Help for PMP or LB'",
+      "assignee": "Josh 'The Ninja' Morales",
+      "reminderDate": "2026-10-08"
+    },
+    "1c0fdea1a77b3988f5b336b90c8c555c|overdue|2026-10-09": {
+      "scheduledAt": "2026-09-24T18:02:53.880Z",
+      "type": "overdue",
+      "task": "Setup notifications for Dovetail GHL calendar 'PMP/LB - Onboarding or Help for PMP or LB'",
+      "assignee": "Josh 'The Ninja' Morales",
+      "reminderDate": "2026-10-09"
+    },
+    "1c0fdea1a77b3988f5b336b90c8c555c|overdue|2026-10-10": {
+      "scheduledAt": "2026-09-24T18:02:54.772Z",
+      "type": "overdue",
+      "task": "Setup notifications for Dovetail GHL calendar 'PMP/LB - Onboarding or Help for PMP or LB'",
+      "assignee": "Josh 'The Ninja' Morales",
+      "reminderDate": "2026-10-10"
+    },
+    "1c0fdea1a77b3988f5b336b90c8c555c|overdue|2026-10-11": {
+      "scheduledAt": "2026-09-24T18:02:55.687Z",
+      "type": "overdue",
+      "task": "Setup notifications for Dovetail GHL calendar 'PMP/LB - Onboarding or Help for PMP or LB'",
+      "assignee": "Josh 'The Ninja' Morales",
+      "reminderDate": "2026-10-11"
+    },
+    "1c0fdea1a77b3988f5b336b90c8c555c|overdue|2026-10-12": {
+      "scheduledAt": "2026-09-24T18:02:56.565Z",
+      "type": "overdue",
+      "task": "Setup notifications for Dovetail GHL calendar 'PMP/LB - Onboarding or Help for PMP or LB'",
+      "assignee": "Josh 'The Ninja' Morales",
+      "reminderDate": "2026-10-12"
+    },
+    "1c0fdea1a77b3988f5b336b90c8c555c|overdue|2026-10-13": {
+      "scheduledAt": "2026-09-24T18:02:57.431Z",
+      "type": "overdue",
+      "task": "Setup notifications for Dovetail GHL calendar 'PMP/LB - Onboarding or Help for PMP or LB'",
+      "assignee": "Josh 'The Ninja' Morales",
+      "reminderDate": "2026-10-13"
+    },
+    "1c0fdea1a77b3988f5b336b90c8c555c|overdue|2026-10-14": {
+      "scheduledAt": "2026-09-24T18:02:58.345Z",
+      "type": "overdue",
+      "task": "Setup notifications for Dovetail GHL calendar 'PMP/LB - Onboarding or Help for PMP or LB'",
+      "assignee": "Josh 'The Ninja' Morales",
+      "reminderDate": "2026-10-14"
+    },
+    "1c0fdea1a77b3988f5b336b90c8c555c|overdue|2026-10-15": {
+      "scheduledAt": "2026-09-24T18:02:59.219Z",
+      "type": "overdue",
+      "task": "Setup notifications for Dovetail GHL calendar 'PMP/LB - Onboarding or Help for PMP or LB'",
+      "assignee": "Josh 'The Ninja' Morales",
+      "reminderDate": "2026-10-15"
+    },
+    "1c0fdea1a77b3988f5b336b90c8c555c|overdue|2026-10-16": {
+      "scheduledAt": "2026-09-24T18:03:00.122Z",
+      "type": "overdue",
+      "task": "Setup notifications for Dovetail GHL calendar 'PMP/LB - Onboarding or Help for PMP or LB'",
+      "assignee": "Josh 'The Ninja' Morales",
+      "reminderDate": "2026-10-16"
+    },
+    "1c0fdea1a77b3988f5b336b90c8c555c|overdue|2026-10-17": {
+      "scheduledAt": "2026-09-24T18:03:01.013Z",
+      "type": "overdue",
+      "task": "Setup notifications for Dovetail GHL calendar 'PMP/LB - Onboarding or Help for PMP or LB'",
+      "assignee": "Josh 'The Ninja' Morales",
+      "reminderDate": "2026-10-17"
+    },
+    "1c0fdea1a77b3988f5b336b90c8c555c|overdue|2026-10-18": {
+      "scheduledAt": "2026-09-24T18:03:01.941Z",
+      "type": "overdue",
+      "task": "Setup notifications for Dovetail GHL calendar 'PMP/LB - Onboarding or Help for PMP or LB'",
+      "assignee": "Josh 'The Ninja' Morales",
+      "reminderDate": "2026-10-18"
+    },
+    "1c0fdea1a77b3988f5b336b90c8c555c|overdue|2026-10-19": {
+      "scheduledAt": "2026-09-24T18:03:02.824Z",
+      "type": "overdue",
+      "task": "Setup notifications for Dovetail GHL calendar 'PMP/LB - Onboarding or Help for PMP or LB'",
+      "assignee": "Josh 'The Ninja' Morales",
+      "reminderDate": "2026-10-19"
+    },
+    "1c0fdea1a77b3988f5b336b90c8c555c|overdue|2026-10-20": {
+      "scheduledAt": "2026-09-24T18:03:03.768Z",
+      "type": "overdue",
+      "task": "Setup notifications for Dovetail GHL calendar 'PMP/LB - Onboarding or Help for PMP or LB'",
+      "assignee": "Josh 'The Ninja' Morales",
+      "reminderDate": "2026-10-20"
+    },
+    "1c0fdea1a77b3988f5b336b90c8c555c|overdue|2026-10-21": {
+      "scheduledAt": "2026-09-24T18:03:04.653Z",
+      "type": "overdue",
+      "task": "Setup notifications for Dovetail GHL calendar 'PMP/LB - Onboarding or Help for PMP or LB'",
+      "assignee": "Josh 'The Ninja' Morales",
+      "reminderDate": "2026-10-21"
+    },
+    "1c0fdea1a77b3988f5b336b90c8c555c|overdue|2026-10-22": {
+      "scheduledAt": "2026-09-24T18:03:05.577Z",
+      "type": "overdue",
+      "task": "Setup notifications for Dovetail GHL calendar 'PMP/LB - Onboarding or Help for PMP or LB'",
+      "assignee": "Josh 'The Ninja' Morales",
+      "reminderDate": "2026-10-22"
+    },
+    "1c0fdea1a77b3988f5b336b90c8c555c|overdue|2026-10-23": {
+      "scheduledAt": "2026-09-24T18:03:06.455Z",
+      "type": "overdue",
+      "task": "Setup notifications for Dovetail GHL calendar 'PMP/LB - Onboarding or Help for PMP or LB'",
+      "assignee": "Josh 'The Ninja' Morales",
+      "reminderDate": "2026-10-23"
+    },
+    "1c0fdea1a77b3988f5b336b90c8c555c|overdue|2026-10-24": {
+      "scheduledAt": "2026-09-24T18:03:07.374Z",
+      "type": "overdue",
+      "task": "Setup notifications for Dovetail GHL calendar 'PMP/LB - Onboarding or Help for PMP or LB'",
+      "assignee": "Josh 'The Ninja' Morales",
+      "reminderDate": "2026-10-24"
     }
   },
   "scheduledMessageIds": {
@@ -34183,390 +34665,776 @@
         "messageId": "Q0C3R7DPDV0"
       }
     ],
-    "d4d060efa14aec692ec9e6ac0708a584": [
+    "81e651b903be4e143a93230a7213c407": [
       {
         "channel": "UMS39RAGP",
-        "messageId": "Q0C4379FQ04"
+        "messageId": "Q0C53U5EH6C"
       },
       {
-        "channel": "UMCPG3D8A",
-        "messageId": "Q0C3XJKKNT0"
+        "channel": "U07FVUF09T7",
+        "messageId": "Q0C53U5AGKA"
       },
       {
-        "channel": "C08R493ESAJ",
-        "messageId": "Q0C3UGXM3B7"
-      },
-      {
-        "channel": "UMS39RAGP",
-        "messageId": "Q0C3XJL0S6S"
-      },
-      {
-        "channel": "UMCPG3D8A",
-        "messageId": "Q0C4TTLUBBJ"
-      },
-      {
-        "channel": "C08R493ESAJ",
-        "messageId": "Q0C3UGX81GD"
+        "channel": "C093VPK55NF",
+        "messageId": "Q0C4BFVSBJ5"
       },
       {
         "channel": "UMS39RAGP",
-        "messageId": "Q0C3J63T6AK"
+        "messageId": "Q0C43B418UT"
       },
       {
-        "channel": "UMCPG3D8A",
-        "messageId": "Q0C3TAERQ91"
+        "channel": "U07FVUF09T7",
+        "messageId": "Q0C53U63RLG"
       },
       {
-        "channel": "C08R493ESAJ",
-        "messageId": "Q0C3TAF36G3"
-      },
-      {
-        "channel": "UMS39RAGP",
-        "messageId": "Q0C4TTMK1SL"
-      },
-      {
-        "channel": "UMCPG3D8A",
-        "messageId": "Q0C3XJKRDB8"
-      },
-      {
-        "channel": "C08R493ESAJ",
-        "messageId": "Q0C3UGXNFLM"
+        "channel": "C093VPK55NF",
+        "messageId": "Q0C49DYT96E"
       },
       {
         "channel": "UMS39RAGP",
-        "messageId": "Q0C3J637KJB"
+        "messageId": "Q0C49DZPU58"
       },
       {
-        "channel": "UMCPG3D8A",
-        "messageId": "Q0C41F7CMT3"
+        "channel": "U07FVUF09T7",
+        "messageId": "Q0C53U68C80"
       },
       {
-        "channel": "C08R493ESAJ",
-        "messageId": "Q0C3XJKKXQW"
-      },
-      {
-        "channel": "UMS39RAGP",
-        "messageId": "Q0C4TTN4DNU"
-      },
-      {
-        "channel": "UMCPG3D8A",
-        "messageId": "Q0C41F82FDX"
-      },
-      {
-        "channel": "C08R493ESAJ",
-        "messageId": "Q0C3J63P4BZ"
+        "channel": "C093VPK55NF",
+        "messageId": "Q0C47K0BQP8"
       },
       {
         "channel": "UMS39RAGP",
-        "messageId": "Q0C3XJL3DJA"
+        "messageId": "Q0C4BFVNXMF"
       },
       {
-        "channel": "UMCPG3D8A",
-        "messageId": "Q0C4378UR2Q"
+        "channel": "U07FVUF09T7",
+        "messageId": "Q0C4BFVPMS5"
       },
       {
-        "channel": "C08R493ESAJ",
-        "messageId": "Q0C3TAFDEF5"
-      },
-      {
-        "channel": "UMS39RAGP",
-        "messageId": "Q0C3XJL28BY"
-      },
-      {
-        "channel": "UMCPG3D8A",
-        "messageId": "Q0C4379PQFN"
-      },
-      {
-        "channel": "C08R493ESAJ",
-        "messageId": "Q0C3ZDKJ7QA"
+        "channel": "C093VPK55NF",
+        "messageId": "Q0C49DZ5MHQ"
       },
       {
         "channel": "UMS39RAGP",
-        "messageId": "Q0C41F77E1X"
+        "messageId": "Q0C53U6GYTS"
       },
       {
-        "channel": "UMCPG3D8A",
-        "messageId": "Q0C3XJL2GCW"
+        "channel": "U07FVUF09T7",
+        "messageId": "Q0C3U6Q55KR"
       },
       {
-        "channel": "C08R493ESAJ",
-        "messageId": "Q0C3ZDKHLE6"
-      },
-      {
-        "channel": "UMS39RAGP",
-        "messageId": "Q0C3J645FB9"
-      },
-      {
-        "channel": "UMCPG3D8A",
-        "messageId": "Q0C41F80201"
-      },
-      {
-        "channel": "C08R493ESAJ",
-        "messageId": "Q0C3XJLEYUW"
+        "channel": "C093VPK55NF",
+        "messageId": "Q0C49DYDCQJ"
       },
       {
         "channel": "UMS39RAGP",
-        "messageId": "Q0C3UGYC2E9"
+        "messageId": "Q0C4D7XQGDA"
       },
       {
-        "channel": "UMCPG3D8A",
-        "messageId": "Q0C3UGYQ8H3"
+        "channel": "U07FVUF09T7",
+        "messageId": "Q0C53U6AXHN"
       },
       {
-        "channel": "C08R493ESAJ",
-        "messageId": "Q0C3UGYC7PX"
-      },
-      {
-        "channel": "UMS39RAGP",
-        "messageId": "Q0C3J5YSU2K"
-      },
-      {
-        "channel": "UMCPG3D8A",
-        "messageId": "Q0C4TTNJHR6"
-      },
-      {
-        "channel": "C08R493ESAJ",
-        "messageId": "Q0C3XJLC61L"
+        "channel": "C093VPK55NF",
+        "messageId": "Q0C47K0A3GE"
       },
       {
         "channel": "UMS39RAGP",
-        "messageId": "Q0C437A6PEY"
+        "messageId": "Q0C47K10A4E"
       },
       {
-        "channel": "UMCPG3D8A",
-        "messageId": "Q0C3J64LAP9"
+        "channel": "U07FVUF09T7",
+        "messageId": "Q0C4D7XHQUU"
       },
       {
-        "channel": "C08R493ESAJ",
-        "messageId": "Q0C4TTNSYQG"
-      },
-      {
-        "channel": "UMS39RAGP",
-        "messageId": "Q0C41F8D48Z"
-      },
-      {
-        "channel": "UMCPG3D8A",
-        "messageId": "Q0C3UGYMSCV"
-      },
-      {
-        "channel": "C08R493ESAJ",
-        "messageId": "Q0C3TAFRBJ7"
+        "channel": "C093VPK55NF",
+        "messageId": "Q0C53U6E8AC"
       },
       {
         "channel": "UMS39RAGP",
-        "messageId": "Q0C4TTNMF7A"
+        "messageId": "Q0C3U6R4QT1"
       },
       {
-        "channel": "UMCPG3D8A",
-        "messageId": "Q0C3XJLQY6A"
+        "channel": "U07FVUF09T7",
+        "messageId": "Q0C43B40003"
       },
       {
-        "channel": "C08R493ESAJ",
-        "messageId": "Q0C3TAG5S2F"
-      },
-      {
-        "channel": "UMS39RAGP",
-        "messageId": "Q0C3XJL8M8E"
-      },
-      {
-        "channel": "UMCPG3D8A",
-        "messageId": "Q0C3XJMBERL"
-      },
-      {
-        "channel": "C08R493ESAJ",
-        "messageId": "Q0C3UGZ5LSH"
+        "channel": "C093VPK55NF",
+        "messageId": "Q0C4D7X9A1J"
       },
       {
         "channel": "UMS39RAGP",
-        "messageId": "Q0C4TTNR3T2"
+        "messageId": "Q0C43B62PNF"
       },
       {
-        "channel": "UMCPG3D8A",
-        "messageId": "Q0C3XJMBSRL"
+        "channel": "U07FVUF09T7",
+        "messageId": "Q0C3U6RQ6K1"
       },
       {
-        "channel": "C08R493ESAJ",
-        "messageId": "Q0C3UGZ2EJ1"
-      },
-      {
-        "channel": "UMS39RAGP",
-        "messageId": "Q0C3J65EELX"
-      },
-      {
-        "channel": "UMCPG3D8A",
-        "messageId": "Q0C3XJMCD5L"
-      },
-      {
-        "channel": "C08R493ESAJ",
-        "messageId": "Q0C3UGYRV7F"
+        "channel": "C093VPK55NF",
+        "messageId": "Q0C4D7YU25A"
       },
       {
         "channel": "UMS39RAGP",
-        "messageId": "Q0C3XJM93QW"
+        "messageId": "Q0C43B58U83"
       },
       {
-        "channel": "UMCPG3D8A",
-        "messageId": "Q0C3TAH5YHZ"
+        "channel": "U07FVUF09T7",
+        "messageId": "Q0C44FY9G77"
       },
       {
-        "channel": "C08R493ESAJ",
-        "messageId": "Q0C41F8KC1X"
-      },
-      {
-        "channel": "UMS39RAGP",
-        "messageId": "Q0C3ZDLGP3L"
-      },
-      {
-        "channel": "UMCPG3D8A",
-        "messageId": "Q0C41F98Q49"
-      },
-      {
-        "channel": "C08R493ESAJ",
-        "messageId": "Q0C3UGYTVNH"
+        "channel": "C093VPK55NF",
+        "messageId": "Q0C4D7YMPDJ"
       },
       {
         "channel": "UMS39RAGP",
-        "messageId": "Q0C3J65LA0P"
+        "messageId": "Q0C3U6RPZ9V"
       },
       {
-        "channel": "UMCPG3D8A",
-        "messageId": "Q0C3ZDLEWAW"
+        "channel": "U07FVUF09T7",
+        "messageId": "Q0C44FYJMB7"
       },
       {
-        "channel": "C08R493ESAJ",
-        "messageId": "Q0C3UGZC7KP"
-      },
-      {
-        "channel": "UMS39RAGP",
-        "messageId": "Q0C41F4H8BB"
-      },
-      {
-        "channel": "UMCPG3D8A",
-        "messageId": "Q0C3ZDL9NCA"
-      },
-      {
-        "channel": "C08R493ESAJ",
-        "messageId": "Q0C3XJNB4J2"
+        "channel": "C093VPK55NF",
+        "messageId": "Q0C4D7YQ8CC"
       },
       {
         "channel": "UMS39RAGP",
-        "messageId": "Q0C3UGZQJBX"
+        "messageId": "Q0C3U6QK1GF"
       },
       {
-        "channel": "UMCPG3D8A",
-        "messageId": "Q0C41F9E8F3"
+        "channel": "U07FVUF09T7",
+        "messageId": "Q0C4D7XQFJQ"
       },
       {
-        "channel": "C08R493ESAJ",
-        "messageId": "Q0C41F9A281"
-      },
-      {
-        "channel": "UMS39RAGP",
-        "messageId": "Q0C3TAHLSPM"
-      },
-      {
-        "channel": "UMCPG3D8A",
-        "messageId": "Q0C437C4ZM2"
-      },
-      {
-        "channel": "C08R493ESAJ",
-        "messageId": "Q0C3TAHA691"
+        "channel": "C093VPK55NF",
+        "messageId": "Q0C44FYV1RB"
       },
       {
         "channel": "UMS39RAGP",
-        "messageId": "Q0C437CKF3N"
+        "messageId": "Q0C4BFWFZUZ"
       },
       {
-        "channel": "UMCPG3D8A",
-        "messageId": "Q0C3UH065RT"
+        "channel": "U07FVUF09T7",
+        "messageId": "Q0C53U7CCSU"
       },
       {
-        "channel": "C08R493ESAJ",
-        "messageId": "Q0C437BLX0U"
-      },
-      {
-        "channel": "UMS39RAGP",
-        "messageId": "Q0C3ZDML7FC"
-      },
-      {
-        "channel": "UMCPG3D8A",
-        "messageId": "Q0C3XJNF162"
-      },
-      {
-        "channel": "C08R493ESAJ",
-        "messageId": "Q0C3J66Q7JB"
+        "channel": "C093VPK55NF",
+        "messageId": "Q0C44FZEHJ9"
       },
       {
         "channel": "UMS39RAGP",
-        "messageId": "Q0C3J666UUX"
+        "messageId": "Q0C53U7EPR6"
       },
       {
-        "channel": "UMCPG3D8A",
-        "messageId": "Q0C41FAR9DX"
+        "channel": "U07FVUF09T7",
+        "messageId": "Q0C49E1CQD8"
       },
       {
-        "channel": "C08R493ESAJ",
-        "messageId": "Q0C3TAJDSCT"
-      },
-      {
-        "channel": "UMS39RAGP",
-        "messageId": "Q0C3TAJG8H1"
-      },
-      {
-        "channel": "UMCPG3D8A",
-        "messageId": "Q0C3TAHMQUB"
-      },
-      {
-        "channel": "C08R493ESAJ",
-        "messageId": "Q0C4TTQ053J"
+        "channel": "C093VPK55NF",
+        "messageId": "Q0C49E23E1Y"
       },
       {
         "channel": "UMS39RAGP",
-        "messageId": "Q0C3J66U8HM"
+        "messageId": "Q0C43B65W2X"
       },
       {
-        "channel": "UMCPG3D8A",
-        "messageId": "Q0C4TTRSK9N"
+        "channel": "U07FVUF09T7",
+        "messageId": "Q0C4BFXSHDX"
       },
       {
-        "channel": "C08R493ESAJ",
-        "messageId": "Q0C3XJNMW30"
-      },
-      {
-        "channel": "UMS39RAGP",
-        "messageId": "Q0C3TAK54NP"
-      },
-      {
-        "channel": "UMCPG3D8A",
-        "messageId": "Q0C41F9DUGZ"
-      },
-      {
-        "channel": "C08R493ESAJ",
-        "messageId": "Q0C437CU9JQ"
+        "channel": "C093VPK55NF",
+        "messageId": "Q0C4BFYA2GH"
       },
       {
         "channel": "UMS39RAGP",
-        "messageId": "Q0C41FAABCH"
+        "messageId": "Q0C47K0R0S2"
       },
       {
-        "channel": "UMCPG3D8A",
-        "messageId": "Q0C3J65M5PZ"
+        "channel": "U07FVUF09T7",
+        "messageId": "Q0C4BFY1UN5"
       },
       {
-        "channel": "C08R493ESAJ",
-        "messageId": "Q0C3UH0JUNR"
+        "channel": "C093VPK55NF",
+        "messageId": "Q0C4BFXM1H7"
       },
       {
         "channel": "UMS39RAGP",
-        "messageId": "Q0C3J671QKH"
+        "messageId": "Q0C49E1PXD0"
       },
       {
-        "channel": "UMCPG3D8A",
-        "messageId": "Q0C3ZDNFV7C"
+        "channel": "U07FVUF09T7",
+        "messageId": "Q0C43B5KFS7"
       },
       {
-        "channel": "C08R493ESAJ",
-        "messageId": "Q0C41FAAY6M"
+        "channel": "C093VPK55NF",
+        "messageId": "Q0C43B69KDH"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0C4D7ZKF9A"
+      },
+      {
+        "channel": "U07FVUF09T7",
+        "messageId": "Q0C49E1G2Q2"
+      },
+      {
+        "channel": "C093VPK55NF",
+        "messageId": "Q0C44FYURM3"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0C53U89Z96"
+      },
+      {
+        "channel": "U07FVUF09T7",
+        "messageId": "Q0C53U8CZMW"
+      },
+      {
+        "channel": "C093VPK55NF",
+        "messageId": "Q0C4BFYQUC9"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0C44G04BRT"
+      },
+      {
+        "channel": "U07FVUF09T7",
+        "messageId": "Q0C47K2UWLE"
+      },
+      {
+        "channel": "C093VPK55NF",
+        "messageId": "Q0C43B6GJUT"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0C4D7ZV1AQ"
+      },
+      {
+        "channel": "U07FVUF09T7",
+        "messageId": "Q0C3U6SUW95"
+      },
+      {
+        "channel": "C093VPK55NF",
+        "messageId": "Q0C44G0CSUD"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0C3U6T0U15"
+      },
+      {
+        "channel": "U07FVUF09T7",
+        "messageId": "Q0C44FZ9ZEH"
+      },
+      {
+        "channel": "C093VPK55NF",
+        "messageId": "Q0C53U89MCY"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0C47K3BV62"
+      },
+      {
+        "channel": "U07FVUF09T7",
+        "messageId": "Q0C43B7GHNF"
+      },
+      {
+        "channel": "C093VPK55NF",
+        "messageId": "Q0C49E1NTEE"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0C47K3SFHC"
+      },
+      {
+        "channel": "U07FVUF09T7",
+        "messageId": "Q0C49E2SF8S"
+      },
+      {
+        "channel": "C093VPK55NF",
+        "messageId": "Q0C49E3GPD0"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0C4D80542G"
+      },
+      {
+        "channel": "U07FVUF09T7",
+        "messageId": "Q0C44G09RE1"
+      },
+      {
+        "channel": "C093VPK55NF",
+        "messageId": "Q0C53U9JU4Q"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0C44G0E9MK"
+      },
+      {
+        "channel": "U07FVUF09T7",
+        "messageId": "Q0C49E3A6FL"
+      },
+      {
+        "channel": "C093VPK55NF",
+        "messageId": "Q0C4D811BBN"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0C3U6T6HC7"
+      },
+      {
+        "channel": "U07FVUF09T7",
+        "messageId": "Q0C49E2U2TU"
+      },
+      {
+        "channel": "C093VPK55NF",
+        "messageId": "Q0C49E31CRG"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0C49E3UDMG"
+      },
+      {
+        "channel": "U07FVUF09T7",
+        "messageId": "Q0C4BFZB8TB"
+      },
+      {
+        "channel": "C093VPK55NF",
+        "messageId": "Q0C53U9LP4G"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0C49E36EMQ"
+      },
+      {
+        "channel": "U07FVUF09T7",
+        "messageId": "Q0C44G1CA4V"
+      },
+      {
+        "channel": "C093VPK55NF",
+        "messageId": "Q0C44G175T7"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0C43B7UENP"
+      },
+      {
+        "channel": "U07FVUF09T7",
+        "messageId": "Q0C53U9U7NC"
+      },
+      {
+        "channel": "C093VPK55NF",
+        "messageId": "Q0C47K3S03G"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0C53UA8Q80"
+      },
+      {
+        "channel": "U07FVUF09T7",
+        "messageId": "Q0C47K52FCN"
+      },
+      {
+        "channel": "C093VPK55NF",
+        "messageId": "Q0C43B8K0LT"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0C3U6TSC87"
+      },
+      {
+        "channel": "U07FVUF09T7",
+        "messageId": "Q0C47K43K8E"
+      },
+      {
+        "channel": "C093VPK55NF",
+        "messageId": "Q0C47K53QK0"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0C44G1SE69"
+      },
+      {
+        "channel": "U07FVUF09T7",
+        "messageId": "Q0C44G1DX1B"
+      },
+      {
+        "channel": "C093VPK55NF",
+        "messageId": "Q0C53UACNV6"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0C4D824MHS"
+      },
+      {
+        "channel": "U07FVUF09T7",
+        "messageId": "Q0C4BG0FBQR"
+      },
+      {
+        "channel": "C093VPK55NF",
+        "messageId": "Q0C3U6V8WK1"
+      }
+    ],
+    "1c0fdea1a77b3988f5b336b90c8c555c": [
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0C43B90NPM"
+      },
+      {
+        "channel": "U07FVUF09T7",
+        "messageId": "Q0C4BG19MQ9"
+      },
+      {
+        "channel": "C093VPK55NF",
+        "messageId": "Q0C4D81J70U"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0C3U6V3J6T"
+      },
+      {
+        "channel": "U07FVUF09T7",
+        "messageId": "Q0C53UBB6EL"
+      },
+      {
+        "channel": "C093VPK55NF",
+        "messageId": "Q0C47K4TREJ"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0C53U9QQ7J"
+      },
+      {
+        "channel": "U07FVUF09T7",
+        "messageId": "Q0C49E53JEN"
+      },
+      {
+        "channel": "C093VPK55NF",
+        "messageId": "Q0C49E42X50"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0C53UCRHL0"
+      },
+      {
+        "channel": "U07FVUF09T7",
+        "messageId": "Q0C44G259JR"
+      },
+      {
+        "channel": "C093VPK55NF",
+        "messageId": "Q0C3U6U9Z2B"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0C43B9MS3V"
+      },
+      {
+        "channel": "U07FVUF09T7",
+        "messageId": "Q0C43B98L2X"
+      },
+      {
+        "channel": "C093VPK55NF",
+        "messageId": "Q0C4BG13F6V"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0C43BA2ML3"
+      },
+      {
+        "channel": "U07FVUF09T7",
+        "messageId": "Q0C44G1NKD3"
+      },
+      {
+        "channel": "C093VPK55NF",
+        "messageId": "Q0C47K6CZM4"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0C44G3FT7X"
+      },
+      {
+        "channel": "U07FVUF09T7",
+        "messageId": "Q0C4D823JF6"
+      },
+      {
+        "channel": "C093VPK55NF",
+        "messageId": "Q0C43BA2J7M"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0C47K643PY"
+      },
+      {
+        "channel": "U07FVUF09T7",
+        "messageId": "Q0C44G3JUF7"
+      },
+      {
+        "channel": "C093VPK55NF",
+        "messageId": "Q0C4D82PAPN"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0C49E5DM8A"
+      },
+      {
+        "channel": "U07FVUF09T7",
+        "messageId": "Q0C3U6VR6NB"
+      },
+      {
+        "channel": "C093VPK55NF",
+        "messageId": "Q0C53UC54LQ"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0C4BG1ARLH"
+      },
+      {
+        "channel": "U07FVUF09T7",
+        "messageId": "Q0C53UC1P1N"
+      },
+      {
+        "channel": "C093VPK55NF",
+        "messageId": "Q0C53UBH8Q0"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0C47K7KJSJ"
+      },
+      {
+        "channel": "U07FVUF09T7",
+        "messageId": "Q0C4D83SYQ4"
+      },
+      {
+        "channel": "C093VPK55NF",
+        "messageId": "Q0C4D82U560"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0C49E5LBPU"
+      },
+      {
+        "channel": "U07FVUF09T7",
+        "messageId": "Q0C49E62NRY"
+      },
+      {
+        "channel": "C093VPK55NF",
+        "messageId": "Q0C47K6JCQ6"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0C44G3UH1T"
+      },
+      {
+        "channel": "U07FVUF09T7",
+        "messageId": "Q0C43BAF2RH"
+      },
+      {
+        "channel": "C093VPK55NF",
+        "messageId": "Q0C53UD7X5W"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0C43BALVPV"
+      },
+      {
+        "channel": "U07FVUF09T7",
+        "messageId": "Q0C43BAK9A7"
+      },
+      {
+        "channel": "C093VPK55NF",
+        "messageId": "Q0C43BB5UUB"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0C44G4S0R3"
+      },
+      {
+        "channel": "U07FVUF09T7",
+        "messageId": "Q0C47K73XEJ"
+      },
+      {
+        "channel": "C093VPK55NF",
+        "messageId": "Q0C44G3NCF7"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0C4D83MC4C"
+      },
+      {
+        "channel": "U07FVUF09T7",
+        "messageId": "Q0C44G3SMHT"
+      },
+      {
+        "channel": "C093VPK55NF",
+        "messageId": "Q0C4BG341UZ"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0C4D84C48L"
+      },
+      {
+        "channel": "U07FVUF09T7",
+        "messageId": "Q0C3U6XPCVD"
+      },
+      {
+        "channel": "C093VPK55NF",
+        "messageId": "Q0C4D85DYN8"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0C53UD0N3S"
+      },
+      {
+        "channel": "U07FVUF09T7",
+        "messageId": "Q0C3U6XA3EK"
+      },
+      {
+        "channel": "C093VPK55NF",
+        "messageId": "Q0C43BBPTMH"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0C47K7KHV4"
+      },
+      {
+        "channel": "U07FVUF09T7",
+        "messageId": "Q0C43BBG5PD"
+      },
+      {
+        "channel": "C093VPK55NF",
+        "messageId": "Q0C49E6QBAN"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0C49E6J1RQ"
+      },
+      {
+        "channel": "U07FVUF09T7",
+        "messageId": "Q0C43BBKUG3"
+      },
+      {
+        "channel": "C093VPK55NF",
+        "messageId": "Q0C4BG3BLE5"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0C47K8A6A2"
+      },
+      {
+        "channel": "U07FVUF09T7",
+        "messageId": "Q0C43BC1YV9"
+      },
+      {
+        "channel": "C093VPK55NF",
+        "messageId": "Q0C43BC8J4T"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0C3U6Y2J3H"
+      },
+      {
+        "channel": "U07FVUF09T7",
+        "messageId": "Q0C49E6KUH0"
+      },
+      {
+        "channel": "C093VPK55NF",
+        "messageId": "Q0C3U6WMHFZ"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0C47K6E206"
+      },
+      {
+        "channel": "U07FVUF09T7",
+        "messageId": "Q0C49E73TJ6"
+      },
+      {
+        "channel": "C093VPK55NF",
+        "messageId": "Q0C4BG49DPT"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0C3U6XJZL7"
+      },
+      {
+        "channel": "U07FVUF09T7",
+        "messageId": "Q0C44G5022H"
+      },
+      {
+        "channel": "C093VPK55NF",
+        "messageId": "Q0C4D84FQKW"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0C4D84LFFW"
+      },
+      {
+        "channel": "U07FVUF09T7",
+        "messageId": "Q0C49E7B4M8"
+      },
+      {
+        "channel": "C093VPK55NF",
+        "messageId": "Q0C43BC8R0B"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0C4BG4DUAD"
+      },
+      {
+        "channel": "U07FVUF09T7",
+        "messageId": "Q0C43BCJR43"
+      },
+      {
+        "channel": "C093VPK55NF",
+        "messageId": "Q0C53UDRZRN"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0C3U6Z2TT9"
+      },
+      {
+        "channel": "U07FVUF09T7",
+        "messageId": "Q0C53UESS8G"
+      },
+      {
+        "channel": "C093VPK55NF",
+        "messageId": "Q0C44G5HVC5"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0C4BG48RTK"
+      },
+      {
+        "channel": "U07FVUF09T7",
+        "messageId": "Q0C44G5NE21"
+      },
+      {
+        "channel": "C093VPK55NF",
+        "messageId": "Q0C47K8Q83Y"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0C3U6Z30HM"
+      },
+      {
+        "channel": "U07FVUF09T7",
+        "messageId": "Q0C53UED01E"
+      },
+      {
+        "channel": "C093VPK55NF",
+        "messageId": "Q0C3U6Z9Z6K"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0C53UFC11N"
+      },
+      {
+        "channel": "U07FVUF09T7",
+        "messageId": "Q0C47K9CC3G"
+      },
+      {
+        "channel": "C093VPK55NF",
+        "messageId": "Q0C49E8CK9Q"
       }
     ]
   },
@@ -34791,8 +35659,10 @@
     "1790029340.007739": true,
     "1790107598.434819": true,
     "1790175296.479569": true,
-    "1790171825.767129": true
+    "1790171825.767129": true,
+    "1790270067.560969": true,
+    "1790268569.465279": true
   },
   "lastWeeklySummaryDate": "2026-W38",
-  "lastRun": "2026-09-24T11:08:01.657Z"
+  "lastRun": "2026-09-24T18:03:07.375Z"
 }
