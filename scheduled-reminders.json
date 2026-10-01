@@ -1875,6 +1875,20 @@
       "completed": false,
       "completedAt": null,
       "firstSeenAt": "2026-09-24T21:19:54.168Z"
+    },
+    "62afcde62abc1ce7bd8d7c06d2c6b68b": {
+      "task": "Complete urgent task referenced in linked message",
+      "assignee_name": "Christle 'Knows All' Ochigue",
+      "assignee_slack_mention": "@Christle 'Knows All' Ochigue",
+      "assigned_date": "2026-10-01",
+      "due_date": null,
+      "message_ts": "1790872712.747719",
+      "source_message": "@Christle 'Knows All' Ochigue URGENT task if posible, please https://dovetail-mktg.slack.com/arc",
+      "assigneeId": "UMCPG3D8A",
+      "messageTs": "1790872712.747719",
+      "completed": false,
+      "completedAt": null,
+      "firstSeenAt": "2026-10-01T18:01:25.647Z"
     }
   },
   "scheduled": {
@@ -24566,6 +24580,13 @@
       "task": "Help get 10DLC funnel ready for Issac Bradley's account using GHL number (not personal) in PP, TOS, website footer",
       "assignee": "Christle 'Knows All' Ochigue",
       "reminderDate": "2026-10-01"
+    },
+    "62afcde62abc1ce7bd8d7c06d2c6b68b|followup|2026-10-08": {
+      "scheduledAt": "2026-10-01T18:01:26.475Z",
+      "type": "followup",
+      "task": "Complete urgent task referenced in linked message",
+      "assignee": "Christle 'Knows All' Ochigue",
+      "reminderDate": "2026-10-08"
     }
   },
   "scheduledMessageIds": {
@@ -33469,6 +33490,20 @@
         "channel": "C08R493ESAJ",
         "messageId": "Q0C4974TX46"
       }
+    ],
+    "62afcde62abc1ce7bd8d7c06d2c6b68b": [
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0C6WR7B0CQ"
+      },
+      {
+        "channel": "UMCPG3D8A",
+        "messageId": "Q0C5W7W8NQ3"
+      },
+      {
+        "channel": "C08R493ESAJ",
+        "messageId": "Q0C6WR6J81E"
+      }
     ]
   },
   "processedMessageTs": {
@@ -33695,8 +33730,9 @@
     "1790171825.767129": true,
     "1790270067.560969": true,
     "1790268569.465279": true,
-    "1790273320.893539": true
+    "1790273320.893539": true,
+    "1790872712.747719": true
   },
   "lastWeeklySummaryDate": "2026-W39",
-  "lastRun": "2026-10-01T12:28:02.248Z"
+  "lastRun": "2026-10-01T18:01:26.476Z"
 }
