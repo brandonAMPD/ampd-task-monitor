@@ -1872,8 +1872,8 @@
       "source_message": "@Christle 'Knows All' Ochigue can you help me get the 10dlc funnel ready for Issac Bradley's account",
       "assigneeId": "UMCPG3D8A",
       "messageTs": "1790273320.893539",
-      "completed": false,
-      "completedAt": null,
+      "completed": true,
+      "completedAt": "2026-10-02T14:01:08.430Z",
       "firstSeenAt": "2026-09-24T21:19:54.168Z"
     },
     "62afcde62abc1ce7bd8d7c06d2c6b68b": {
@@ -33477,20 +33477,6 @@
         "messageId": "Q0C49E8CK9Q"
       }
     ],
-    "5074ed1bbc9a3c50800849b59a3b94a4": [
-      {
-        "channel": "UMS39RAGP",
-        "messageId": "Q0C3VQ8RGJK"
-      },
-      {
-        "channel": "UMCPG3D8A",
-        "messageId": "Q0C55GB6MFA"
-      },
-      {
-        "channel": "C08R493ESAJ",
-        "messageId": "Q0C4974TX46"
-      }
-    ],
     "62afcde62abc1ce7bd8d7c06d2c6b68b": [
       {
         "channel": "UMS39RAGP",
@@ -33733,6 +33719,6 @@
     "1790273320.893539": true,
     "1790872712.747719": true
   },
-  "lastWeeklySummaryDate": "2026-W39",
-  "lastRun": "2026-10-02T11:54:55.407Z"
+  "lastWeeklySummaryDate": "2026-W40",
+  "lastRun": "2026-10-02T14:01:16.608Z"
 }
