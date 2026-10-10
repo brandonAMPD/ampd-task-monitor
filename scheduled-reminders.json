@@ -1917,6 +1917,20 @@
       "completed": false,
       "completedAt": null,
       "firstSeenAt": "2026-10-06T18:01:36.744Z"
+    },
+    "43404549717ead53e319466dcd505e74": {
+      "task": "Help ensure the sheetup is up to date while working on calendars",
+      "assignee_name": "Christle 'Knows All' Ochigue",
+      "assignee_slack_mention": "@Christle 'Knows All' Ochigue",
+      "assigned_date": "2026-10-10",
+      "due_date": null,
+      "message_ts": "1791657869.533729",
+      "source_message": "@Christle 'Knows All' Ochigue can you help me make sure the sheetup is up to date as you work on",
+      "assigneeId": "UMCPG3D8A",
+      "messageTs": "1791657869.533729",
+      "completed": false,
+      "completedAt": null,
+      "firstSeenAt": "2026-10-10T21:22:23.641Z"
     }
   },
   "scheduled": {
@@ -25084,6 +25098,13 @@
       "task": "Review workflows for BLS Calendars to ensure bookings trigger automations and stages",
       "assignee": "Mark 'Morpheus' Manaog",
       "reminderDate": "2026-11-08"
+    },
+    "43404549717ead53e319466dcd505e74|followup|2026-10-17": {
+      "scheduledAt": "2026-10-10T21:22:24.716Z",
+      "type": "followup",
+      "task": "Help ensure the sheetup is up to date while working on calendars",
+      "assignee": "Christle 'Knows All' Ochigue",
+      "reminderDate": "2026-10-17"
     }
   },
   "scheduledMessageIds": {
@@ -34795,6 +34816,20 @@
         "channel": "C05JGF817H6",
         "messageId": "Q0C78JN35UH"
       }
+    ],
+    "43404549717ead53e319466dcd505e74": [
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0C84HWFWSX"
+      },
+      {
+        "channel": "UMCPG3D8A",
+        "messageId": "Q0C88RM7T2A"
+      },
+      {
+        "channel": "C08R493ESAJ",
+        "messageId": "Q0C956BNUJC"
+      }
     ]
   },
   "processedMessageTs": {
@@ -35025,8 +35060,9 @@
     "1790872712.747719": true,
     "1791304874.343989": true,
     "1791304721.424589": true,
-    "1791304660.307919": true
+    "1791304660.307919": true,
+    "1791657869.533729": true
   },
   "lastWeeklySummaryDate": "2026-W41",
-  "lastRun": "2026-10-10T18:01:29.989Z"
+  "lastRun": "2026-10-10T21:22:24.720Z"
 }
