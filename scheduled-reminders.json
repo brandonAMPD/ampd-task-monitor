@@ -1844,8 +1844,8 @@
       "source_message": "@Christle 'Knows All' Ochigue please update the BLS calendars that are in the web category so that Mo",
       "assigneeId": "UMCPG3D8A",
       "messageTs": "1791737717.431729",
-      "completed": false,
-      "completedAt": null,
+      "completed": true,
+      "completedAt": "2026-10-16T20:43:30.119Z",
       "firstSeenAt": "2026-10-11T18:01:34.665Z"
     },
     "0ef4d6cd0076d29a4f5bcc81f56a8896": {
@@ -1875,6 +1875,34 @@
       "completed": false,
       "completedAt": null,
       "firstSeenAt": "2026-10-14T21:25:40.691Z"
+    },
+    "1613eb469375e804ab8402e262420e8b": {
+      "task": "Reorganize tagging in CR: add 'Past Client' tag, update tag organizer sheet, reassign VIP tags for BLS clients",
+      "assignee_name": "Christle 'Knows All' Ochigue",
+      "assignee_slack_mention": "@Christle 'Knows All' Ochigue",
+      "assigned_date": "2026-10-16",
+      "due_date": "2026-10-19",
+      "message_ts": "1792182200.161599",
+      "source_message": "@Christle 'Knows All' Ochigue I need you to help reorganize our tagging a little in CR due by Monday",
+      "assigneeId": "UMCPG3D8A",
+      "messageTs": "1792182200.161599",
+      "completed": false,
+      "completedAt": null,
+      "firstSeenAt": "2026-10-16T20:44:04.964Z"
+    },
+    "2b30a689c4c3da6e1138560fce2eed70": {
+      "task": "Work with Christle on CR tagging reorganization for BLS clients",
+      "assignee_name": "Jimmy",
+      "assignee_slack_mention": null,
+      "assigned_date": "2026-10-16",
+      "due_date": "2026-10-19",
+      "message_ts": "1792182200.161599",
+      "source_message": "@Christle 'Knows All' Ochigue I need you to help reorganize our tagging a little in CR due by Monday",
+      "assigneeId": "U029FPQV2L9",
+      "messageTs": "1792182200.161599",
+      "completed": false,
+      "completedAt": null,
+      "firstSeenAt": "2026-10-16T20:44:05.049Z"
     }
   },
   "scheduled": {
@@ -23522,6 +23550,468 @@
       "task": "Check Cloudconvert usage and look at moving to new subscription as needed",
       "assignee": "Josh 'The Ninja' Morales",
       "reminderDate": "2026-11-15"
+    },
+    "1613eb469375e804ab8402e262420e8b|midpoint|2026-10-17": {
+      "scheduledAt": "2026-10-16T20:44:05.895Z",
+      "type": "midpoint",
+      "task": "Reorganize tagging in CR: add 'Past Client' tag, update tag organizer sheet, reassign VIP tags for BLS clients",
+      "assignee": "Christle 'Knows All' Ochigue",
+      "reminderDate": "2026-10-17"
+    },
+    "1613eb469375e804ab8402e262420e8b|nag|2026-10-18": {
+      "scheduledAt": "2026-10-16T20:44:06.725Z",
+      "type": "nag",
+      "task": "Reorganize tagging in CR: add 'Past Client' tag, update tag organizer sheet, reassign VIP tags for BLS clients",
+      "assignee": "Christle 'Knows All' Ochigue",
+      "reminderDate": "2026-10-18"
+    },
+    "1613eb469375e804ab8402e262420e8b|due|2026-10-19": {
+      "scheduledAt": "2026-10-16T20:44:07.601Z",
+      "type": "due",
+      "task": "Reorganize tagging in CR: add 'Past Client' tag, update tag organizer sheet, reassign VIP tags for BLS clients",
+      "assignee": "Christle 'Knows All' Ochigue",
+      "reminderDate": "2026-10-19"
+    },
+    "1613eb469375e804ab8402e262420e8b|overdue|2026-10-20": {
+      "scheduledAt": "2026-10-16T20:44:08.415Z",
+      "type": "overdue",
+      "task": "Reorganize tagging in CR: add 'Past Client' tag, update tag organizer sheet, reassign VIP tags for BLS clients",
+      "assignee": "Christle 'Knows All' Ochigue",
+      "reminderDate": "2026-10-20"
+    },
+    "1613eb469375e804ab8402e262420e8b|overdue|2026-10-21": {
+      "scheduledAt": "2026-10-16T20:44:09.302Z",
+      "type": "overdue",
+      "task": "Reorganize tagging in CR: add 'Past Client' tag, update tag organizer sheet, reassign VIP tags for BLS clients",
+      "assignee": "Christle 'Knows All' Ochigue",
+      "reminderDate": "2026-10-21"
+    },
+    "1613eb469375e804ab8402e262420e8b|overdue|2026-10-22": {
+      "scheduledAt": "2026-10-16T20:44:10.166Z",
+      "type": "overdue",
+      "task": "Reorganize tagging in CR: add 'Past Client' tag, update tag organizer sheet, reassign VIP tags for BLS clients",
+      "assignee": "Christle 'Knows All' Ochigue",
+      "reminderDate": "2026-10-22"
+    },
+    "1613eb469375e804ab8402e262420e8b|overdue|2026-10-23": {
+      "scheduledAt": "2026-10-16T20:44:10.972Z",
+      "type": "overdue",
+      "task": "Reorganize tagging in CR: add 'Past Client' tag, update tag organizer sheet, reassign VIP tags for BLS clients",
+      "assignee": "Christle 'Knows All' Ochigue",
+      "reminderDate": "2026-10-23"
+    },
+    "1613eb469375e804ab8402e262420e8b|overdue|2026-10-24": {
+      "scheduledAt": "2026-10-16T20:44:11.802Z",
+      "type": "overdue",
+      "task": "Reorganize tagging in CR: add 'Past Client' tag, update tag organizer sheet, reassign VIP tags for BLS clients",
+      "assignee": "Christle 'Knows All' Ochigue",
+      "reminderDate": "2026-10-24"
+    },
+    "1613eb469375e804ab8402e262420e8b|overdue|2026-10-25": {
+      "scheduledAt": "2026-10-16T20:44:12.688Z",
+      "type": "overdue",
+      "task": "Reorganize tagging in CR: add 'Past Client' tag, update tag organizer sheet, reassign VIP tags for BLS clients",
+      "assignee": "Christle 'Knows All' Ochigue",
+      "reminderDate": "2026-10-25"
+    },
+    "1613eb469375e804ab8402e262420e8b|overdue|2026-10-26": {
+      "scheduledAt": "2026-10-16T20:44:13.548Z",
+      "type": "overdue",
+      "task": "Reorganize tagging in CR: add 'Past Client' tag, update tag organizer sheet, reassign VIP tags for BLS clients",
+      "assignee": "Christle 'Knows All' Ochigue",
+      "reminderDate": "2026-10-26"
+    },
+    "1613eb469375e804ab8402e262420e8b|overdue|2026-10-27": {
+      "scheduledAt": "2026-10-16T20:44:14.419Z",
+      "type": "overdue",
+      "task": "Reorganize tagging in CR: add 'Past Client' tag, update tag organizer sheet, reassign VIP tags for BLS clients",
+      "assignee": "Christle 'Knows All' Ochigue",
+      "reminderDate": "2026-10-27"
+    },
+    "1613eb469375e804ab8402e262420e8b|overdue|2026-10-28": {
+      "scheduledAt": "2026-10-16T20:44:15.190Z",
+      "type": "overdue",
+      "task": "Reorganize tagging in CR: add 'Past Client' tag, update tag organizer sheet, reassign VIP tags for BLS clients",
+      "assignee": "Christle 'Knows All' Ochigue",
+      "reminderDate": "2026-10-28"
+    },
+    "1613eb469375e804ab8402e262420e8b|overdue|2026-10-29": {
+      "scheduledAt": "2026-10-16T20:44:16.047Z",
+      "type": "overdue",
+      "task": "Reorganize tagging in CR: add 'Past Client' tag, update tag organizer sheet, reassign VIP tags for BLS clients",
+      "assignee": "Christle 'Knows All' Ochigue",
+      "reminderDate": "2026-10-29"
+    },
+    "1613eb469375e804ab8402e262420e8b|overdue|2026-10-30": {
+      "scheduledAt": "2026-10-16T20:44:16.871Z",
+      "type": "overdue",
+      "task": "Reorganize tagging in CR: add 'Past Client' tag, update tag organizer sheet, reassign VIP tags for BLS clients",
+      "assignee": "Christle 'Knows All' Ochigue",
+      "reminderDate": "2026-10-30"
+    },
+    "1613eb469375e804ab8402e262420e8b|overdue|2026-10-31": {
+      "scheduledAt": "2026-10-16T20:44:17.761Z",
+      "type": "overdue",
+      "task": "Reorganize tagging in CR: add 'Past Client' tag, update tag organizer sheet, reassign VIP tags for BLS clients",
+      "assignee": "Christle 'Knows All' Ochigue",
+      "reminderDate": "2026-10-31"
+    },
+    "1613eb469375e804ab8402e262420e8b|overdue|2026-11-01": {
+      "scheduledAt": "2026-10-16T20:44:18.611Z",
+      "type": "overdue",
+      "task": "Reorganize tagging in CR: add 'Past Client' tag, update tag organizer sheet, reassign VIP tags for BLS clients",
+      "assignee": "Christle 'Knows All' Ochigue",
+      "reminderDate": "2026-11-01"
+    },
+    "1613eb469375e804ab8402e262420e8b|overdue|2026-11-02": {
+      "scheduledAt": "2026-10-16T20:44:19.449Z",
+      "type": "overdue",
+      "task": "Reorganize tagging in CR: add 'Past Client' tag, update tag organizer sheet, reassign VIP tags for BLS clients",
+      "assignee": "Christle 'Knows All' Ochigue",
+      "reminderDate": "2026-11-02"
+    },
+    "1613eb469375e804ab8402e262420e8b|overdue|2026-11-03": {
+      "scheduledAt": "2026-10-16T20:44:20.388Z",
+      "type": "overdue",
+      "task": "Reorganize tagging in CR: add 'Past Client' tag, update tag organizer sheet, reassign VIP tags for BLS clients",
+      "assignee": "Christle 'Knows All' Ochigue",
+      "reminderDate": "2026-11-03"
+    },
+    "1613eb469375e804ab8402e262420e8b|overdue|2026-11-04": {
+      "scheduledAt": "2026-10-16T20:44:21.279Z",
+      "type": "overdue",
+      "task": "Reorganize tagging in CR: add 'Past Client' tag, update tag organizer sheet, reassign VIP tags for BLS clients",
+      "assignee": "Christle 'Knows All' Ochigue",
+      "reminderDate": "2026-11-04"
+    },
+    "1613eb469375e804ab8402e262420e8b|overdue|2026-11-05": {
+      "scheduledAt": "2026-10-16T20:44:22.092Z",
+      "type": "overdue",
+      "task": "Reorganize tagging in CR: add 'Past Client' tag, update tag organizer sheet, reassign VIP tags for BLS clients",
+      "assignee": "Christle 'Knows All' Ochigue",
+      "reminderDate": "2026-11-05"
+    },
+    "1613eb469375e804ab8402e262420e8b|overdue|2026-11-06": {
+      "scheduledAt": "2026-10-16T20:44:22.882Z",
+      "type": "overdue",
+      "task": "Reorganize tagging in CR: add 'Past Client' tag, update tag organizer sheet, reassign VIP tags for BLS clients",
+      "assignee": "Christle 'Knows All' Ochigue",
+      "reminderDate": "2026-11-06"
+    },
+    "1613eb469375e804ab8402e262420e8b|overdue|2026-11-07": {
+      "scheduledAt": "2026-10-16T20:44:23.747Z",
+      "type": "overdue",
+      "task": "Reorganize tagging in CR: add 'Past Client' tag, update tag organizer sheet, reassign VIP tags for BLS clients",
+      "assignee": "Christle 'Knows All' Ochigue",
+      "reminderDate": "2026-11-07"
+    },
+    "1613eb469375e804ab8402e262420e8b|overdue|2026-11-08": {
+      "scheduledAt": "2026-10-16T20:44:24.567Z",
+      "type": "overdue",
+      "task": "Reorganize tagging in CR: add 'Past Client' tag, update tag organizer sheet, reassign VIP tags for BLS clients",
+      "assignee": "Christle 'Knows All' Ochigue",
+      "reminderDate": "2026-11-08"
+    },
+    "1613eb469375e804ab8402e262420e8b|overdue|2026-11-09": {
+      "scheduledAt": "2026-10-16T20:44:25.433Z",
+      "type": "overdue",
+      "task": "Reorganize tagging in CR: add 'Past Client' tag, update tag organizer sheet, reassign VIP tags for BLS clients",
+      "assignee": "Christle 'Knows All' Ochigue",
+      "reminderDate": "2026-11-09"
+    },
+    "1613eb469375e804ab8402e262420e8b|overdue|2026-11-10": {
+      "scheduledAt": "2026-10-16T20:44:26.210Z",
+      "type": "overdue",
+      "task": "Reorganize tagging in CR: add 'Past Client' tag, update tag organizer sheet, reassign VIP tags for BLS clients",
+      "assignee": "Christle 'Knows All' Ochigue",
+      "reminderDate": "2026-11-10"
+    },
+    "1613eb469375e804ab8402e262420e8b|overdue|2026-11-11": {
+      "scheduledAt": "2026-10-16T20:44:27.137Z",
+      "type": "overdue",
+      "task": "Reorganize tagging in CR: add 'Past Client' tag, update tag organizer sheet, reassign VIP tags for BLS clients",
+      "assignee": "Christle 'Knows All' Ochigue",
+      "reminderDate": "2026-11-11"
+    },
+    "1613eb469375e804ab8402e262420e8b|overdue|2026-11-12": {
+      "scheduledAt": "2026-10-16T20:44:27.921Z",
+      "type": "overdue",
+      "task": "Reorganize tagging in CR: add 'Past Client' tag, update tag organizer sheet, reassign VIP tags for BLS clients",
+      "assignee": "Christle 'Knows All' Ochigue",
+      "reminderDate": "2026-11-12"
+    },
+    "1613eb469375e804ab8402e262420e8b|overdue|2026-11-13": {
+      "scheduledAt": "2026-10-16T20:44:29.280Z",
+      "type": "overdue",
+      "task": "Reorganize tagging in CR: add 'Past Client' tag, update tag organizer sheet, reassign VIP tags for BLS clients",
+      "assignee": "Christle 'Knows All' Ochigue",
+      "reminderDate": "2026-11-13"
+    },
+    "1613eb469375e804ab8402e262420e8b|overdue|2026-11-14": {
+      "scheduledAt": "2026-10-16T20:44:30.117Z",
+      "type": "overdue",
+      "task": "Reorganize tagging in CR: add 'Past Client' tag, update tag organizer sheet, reassign VIP tags for BLS clients",
+      "assignee": "Christle 'Knows All' Ochigue",
+      "reminderDate": "2026-11-14"
+    },
+    "1613eb469375e804ab8402e262420e8b|overdue|2026-11-15": {
+      "scheduledAt": "2026-10-16T20:44:31.005Z",
+      "type": "overdue",
+      "task": "Reorganize tagging in CR: add 'Past Client' tag, update tag organizer sheet, reassign VIP tags for BLS clients",
+      "assignee": "Christle 'Knows All' Ochigue",
+      "reminderDate": "2026-11-15"
+    },
+    "1613eb469375e804ab8402e262420e8b|overdue|2026-11-16": {
+      "scheduledAt": "2026-10-16T20:44:31.805Z",
+      "type": "overdue",
+      "task": "Reorganize tagging in CR: add 'Past Client' tag, update tag organizer sheet, reassign VIP tags for BLS clients",
+      "assignee": "Christle 'Knows All' Ochigue",
+      "reminderDate": "2026-11-16"
+    },
+    "1613eb469375e804ab8402e262420e8b|overdue|2026-11-17": {
+      "scheduledAt": "2026-10-16T20:44:32.692Z",
+      "type": "overdue",
+      "task": "Reorganize tagging in CR: add 'Past Client' tag, update tag organizer sheet, reassign VIP tags for BLS clients",
+      "assignee": "Christle 'Knows All' Ochigue",
+      "reminderDate": "2026-11-17"
+    },
+    "1613eb469375e804ab8402e262420e8b|overdue|2026-11-18": {
+      "scheduledAt": "2026-10-16T20:44:33.502Z",
+      "type": "overdue",
+      "task": "Reorganize tagging in CR: add 'Past Client' tag, update tag organizer sheet, reassign VIP tags for BLS clients",
+      "assignee": "Christle 'Knows All' Ochigue",
+      "reminderDate": "2026-11-18"
+    },
+    "2b30a689c4c3da6e1138560fce2eed70|midpoint|2026-10-17": {
+      "scheduledAt": "2026-10-16T20:44:34.275Z",
+      "type": "midpoint",
+      "task": "Work with Christle on CR tagging reorganization for BLS clients",
+      "assignee": "Jimmy",
+      "reminderDate": "2026-10-17"
+    },
+    "2b30a689c4c3da6e1138560fce2eed70|nag|2026-10-18": {
+      "scheduledAt": "2026-10-16T20:44:35.032Z",
+      "type": "nag",
+      "task": "Work with Christle on CR tagging reorganization for BLS clients",
+      "assignee": "Jimmy",
+      "reminderDate": "2026-10-18"
+    },
+    "2b30a689c4c3da6e1138560fce2eed70|due|2026-10-19": {
+      "scheduledAt": "2026-10-16T20:44:35.749Z",
+      "type": "due",
+      "task": "Work with Christle on CR tagging reorganization for BLS clients",
+      "assignee": "Jimmy",
+      "reminderDate": "2026-10-19"
+    },
+    "2b30a689c4c3da6e1138560fce2eed70|overdue|2026-10-20": {
+      "scheduledAt": "2026-10-16T20:44:36.502Z",
+      "type": "overdue",
+      "task": "Work with Christle on CR tagging reorganization for BLS clients",
+      "assignee": "Jimmy",
+      "reminderDate": "2026-10-20"
+    },
+    "2b30a689c4c3da6e1138560fce2eed70|overdue|2026-10-21": {
+      "scheduledAt": "2026-10-16T20:44:37.258Z",
+      "type": "overdue",
+      "task": "Work with Christle on CR tagging reorganization for BLS clients",
+      "assignee": "Jimmy",
+      "reminderDate": "2026-10-21"
+    },
+    "2b30a689c4c3da6e1138560fce2eed70|overdue|2026-10-22": {
+      "scheduledAt": "2026-10-16T20:44:37.957Z",
+      "type": "overdue",
+      "task": "Work with Christle on CR tagging reorganization for BLS clients",
+      "assignee": "Jimmy",
+      "reminderDate": "2026-10-22"
+    },
+    "2b30a689c4c3da6e1138560fce2eed70|overdue|2026-10-23": {
+      "scheduledAt": "2026-10-16T20:44:38.659Z",
+      "type": "overdue",
+      "task": "Work with Christle on CR tagging reorganization for BLS clients",
+      "assignee": "Jimmy",
+      "reminderDate": "2026-10-23"
+    },
+    "2b30a689c4c3da6e1138560fce2eed70|overdue|2026-10-24": {
+      "scheduledAt": "2026-10-16T20:44:39.354Z",
+      "type": "overdue",
+      "task": "Work with Christle on CR tagging reorganization for BLS clients",
+      "assignee": "Jimmy",
+      "reminderDate": "2026-10-24"
+    },
+    "2b30a689c4c3da6e1138560fce2eed70|overdue|2026-10-25": {
+      "scheduledAt": "2026-10-16T20:44:40.106Z",
+      "type": "overdue",
+      "task": "Work with Christle on CR tagging reorganization for BLS clients",
+      "assignee": "Jimmy",
+      "reminderDate": "2026-10-25"
+    },
+    "2b30a689c4c3da6e1138560fce2eed70|overdue|2026-10-26": {
+      "scheduledAt": "2026-10-16T20:44:40.791Z",
+      "type": "overdue",
+      "task": "Work with Christle on CR tagging reorganization for BLS clients",
+      "assignee": "Jimmy",
+      "reminderDate": "2026-10-26"
+    },
+    "2b30a689c4c3da6e1138560fce2eed70|overdue|2026-10-27": {
+      "scheduledAt": "2026-10-16T20:44:41.478Z",
+      "type": "overdue",
+      "task": "Work with Christle on CR tagging reorganization for BLS clients",
+      "assignee": "Jimmy",
+      "reminderDate": "2026-10-27"
+    },
+    "2b30a689c4c3da6e1138560fce2eed70|overdue|2026-10-28": {
+      "scheduledAt": "2026-10-16T20:44:42.150Z",
+      "type": "overdue",
+      "task": "Work with Christle on CR tagging reorganization for BLS clients",
+      "assignee": "Jimmy",
+      "reminderDate": "2026-10-28"
+    },
+    "2b30a689c4c3da6e1138560fce2eed70|overdue|2026-10-29": {
+      "scheduledAt": "2026-10-16T20:44:42.890Z",
+      "type": "overdue",
+      "task": "Work with Christle on CR tagging reorganization for BLS clients",
+      "assignee": "Jimmy",
+      "reminderDate": "2026-10-29"
+    },
+    "2b30a689c4c3da6e1138560fce2eed70|overdue|2026-10-30": {
+      "scheduledAt": "2026-10-16T20:44:43.624Z",
+      "type": "overdue",
+      "task": "Work with Christle on CR tagging reorganization for BLS clients",
+      "assignee": "Jimmy",
+      "reminderDate": "2026-10-30"
+    },
+    "2b30a689c4c3da6e1138560fce2eed70|overdue|2026-10-31": {
+      "scheduledAt": "2026-10-16T20:44:44.302Z",
+      "type": "overdue",
+      "task": "Work with Christle on CR tagging reorganization for BLS clients",
+      "assignee": "Jimmy",
+      "reminderDate": "2026-10-31"
+    },
+    "2b30a689c4c3da6e1138560fce2eed70|overdue|2026-11-01": {
+      "scheduledAt": "2026-10-16T20:44:45.012Z",
+      "type": "overdue",
+      "task": "Work with Christle on CR tagging reorganization for BLS clients",
+      "assignee": "Jimmy",
+      "reminderDate": "2026-11-01"
+    },
+    "2b30a689c4c3da6e1138560fce2eed70|overdue|2026-11-02": {
+      "scheduledAt": "2026-10-16T20:44:45.712Z",
+      "type": "overdue",
+      "task": "Work with Christle on CR tagging reorganization for BLS clients",
+      "assignee": "Jimmy",
+      "reminderDate": "2026-11-02"
+    },
+    "2b30a689c4c3da6e1138560fce2eed70|overdue|2026-11-03": {
+      "scheduledAt": "2026-10-16T20:44:46.465Z",
+      "type": "overdue",
+      "task": "Work with Christle on CR tagging reorganization for BLS clients",
+      "assignee": "Jimmy",
+      "reminderDate": "2026-11-03"
+    },
+    "2b30a689c4c3da6e1138560fce2eed70|overdue|2026-11-04": {
+      "scheduledAt": "2026-10-16T20:44:47.162Z",
+      "type": "overdue",
+      "task": "Work with Christle on CR tagging reorganization for BLS clients",
+      "assignee": "Jimmy",
+      "reminderDate": "2026-11-04"
+    },
+    "2b30a689c4c3da6e1138560fce2eed70|overdue|2026-11-05": {
+      "scheduledAt": "2026-10-16T20:44:47.848Z",
+      "type": "overdue",
+      "task": "Work with Christle on CR tagging reorganization for BLS clients",
+      "assignee": "Jimmy",
+      "reminderDate": "2026-11-05"
+    },
+    "2b30a689c4c3da6e1138560fce2eed70|overdue|2026-11-06": {
+      "scheduledAt": "2026-10-16T20:44:48.531Z",
+      "type": "overdue",
+      "task": "Work with Christle on CR tagging reorganization for BLS clients",
+      "assignee": "Jimmy",
+      "reminderDate": "2026-11-06"
+    },
+    "2b30a689c4c3da6e1138560fce2eed70|overdue|2026-11-07": {
+      "scheduledAt": "2026-10-16T20:44:49.219Z",
+      "type": "overdue",
+      "task": "Work with Christle on CR tagging reorganization for BLS clients",
+      "assignee": "Jimmy",
+      "reminderDate": "2026-11-07"
+    },
+    "2b30a689c4c3da6e1138560fce2eed70|overdue|2026-11-08": {
+      "scheduledAt": "2026-10-16T20:44:49.928Z",
+      "type": "overdue",
+      "task": "Work with Christle on CR tagging reorganization for BLS clients",
+      "assignee": "Jimmy",
+      "reminderDate": "2026-11-08"
+    },
+    "2b30a689c4c3da6e1138560fce2eed70|overdue|2026-11-09": {
+      "scheduledAt": "2026-10-16T20:44:50.666Z",
+      "type": "overdue",
+      "task": "Work with Christle on CR tagging reorganization for BLS clients",
+      "assignee": "Jimmy",
+      "reminderDate": "2026-11-09"
+    },
+    "2b30a689c4c3da6e1138560fce2eed70|overdue|2026-11-10": {
+      "scheduledAt": "2026-10-16T20:44:51.371Z",
+      "type": "overdue",
+      "task": "Work with Christle on CR tagging reorganization for BLS clients",
+      "assignee": "Jimmy",
+      "reminderDate": "2026-11-10"
+    },
+    "2b30a689c4c3da6e1138560fce2eed70|overdue|2026-11-11": {
+      "scheduledAt": "2026-10-16T20:44:52.141Z",
+      "type": "overdue",
+      "task": "Work with Christle on CR tagging reorganization for BLS clients",
+      "assignee": "Jimmy",
+      "reminderDate": "2026-11-11"
+    },
+    "2b30a689c4c3da6e1138560fce2eed70|overdue|2026-11-12": {
+      "scheduledAt": "2026-10-16T20:44:52.837Z",
+      "type": "overdue",
+      "task": "Work with Christle on CR tagging reorganization for BLS clients",
+      "assignee": "Jimmy",
+      "reminderDate": "2026-11-12"
+    },
+    "2b30a689c4c3da6e1138560fce2eed70|overdue|2026-11-13": {
+      "scheduledAt": "2026-10-16T20:44:53.585Z",
+      "type": "overdue",
+      "task": "Work with Christle on CR tagging reorganization for BLS clients",
+      "assignee": "Jimmy",
+      "reminderDate": "2026-11-13"
+    },
+    "2b30a689c4c3da6e1138560fce2eed70|overdue|2026-11-14": {
+      "scheduledAt": "2026-10-16T20:44:54.267Z",
+      "type": "overdue",
+      "task": "Work with Christle on CR tagging reorganization for BLS clients",
+      "assignee": "Jimmy",
+      "reminderDate": "2026-11-14"
+    },
+    "2b30a689c4c3da6e1138560fce2eed70|overdue|2026-11-15": {
+      "scheduledAt": "2026-10-16T20:44:55.017Z",
+      "type": "overdue",
+      "task": "Work with Christle on CR tagging reorganization for BLS clients",
+      "assignee": "Jimmy",
+      "reminderDate": "2026-11-15"
+    },
+    "2b30a689c4c3da6e1138560fce2eed70|overdue|2026-11-16": {
+      "scheduledAt": "2026-10-16T20:44:55.712Z",
+      "type": "overdue",
+      "task": "Work with Christle on CR tagging reorganization for BLS clients",
+      "assignee": "Jimmy",
+      "reminderDate": "2026-11-16"
+    },
+    "2b30a689c4c3da6e1138560fce2eed70|overdue|2026-11-17": {
+      "scheduledAt": "2026-10-16T20:44:56.466Z",
+      "type": "overdue",
+      "task": "Work with Christle on CR tagging reorganization for BLS clients",
+      "assignee": "Jimmy",
+      "reminderDate": "2026-11-17"
+    },
+    "2b30a689c4c3da6e1138560fce2eed70|overdue|2026-11-18": {
+      "scheduledAt": "2026-10-16T20:44:57.146Z",
+      "type": "overdue",
+      "task": "Work with Christle on CR tagging reorganization for BLS clients",
+      "assignee": "Jimmy",
+      "reminderDate": "2026-11-18"
     }
   },
   "scheduledMessageIds": {
@@ -33284,392 +33774,6 @@
         "messageId": "Q0C956BNUJC"
       }
     ],
-    "ddb31be6071b8ef88eafd8ccce8ce1fd": [
-      {
-        "channel": "UMS39RAGP",
-        "messageId": "Q0C8G03JP2M"
-      },
-      {
-        "channel": "UMCPG3D8A",
-        "messageId": "Q0C8HN1MCKW"
-      },
-      {
-        "channel": "C08R493ESAJ",
-        "messageId": "Q0C8C2WCJ86"
-      },
-      {
-        "channel": "UMS39RAGP",
-        "messageId": "Q0C98D08V88"
-      },
-      {
-        "channel": "UMCPG3D8A",
-        "messageId": "Q0C8C2W7NG6"
-      },
-      {
-        "channel": "C08R493ESAJ",
-        "messageId": "Q0C98CNRUMN"
-      },
-      {
-        "channel": "UMS39RAGP",
-        "messageId": "Q0C7YL68EHM"
-      },
-      {
-        "channel": "UMCPG3D8A",
-        "messageId": "Q0C88NHSA5B"
-      },
-      {
-        "channel": "C08R493ESAJ",
-        "messageId": "Q0C98D0RE5N"
-      },
-      {
-        "channel": "UMS39RAGP",
-        "messageId": "Q0C98D14ETA"
-      },
-      {
-        "channel": "UMCPG3D8A",
-        "messageId": "Q0C8G03Q865"
-      },
-      {
-        "channel": "C08R493ESAJ",
-        "messageId": "Q0C87QL9JKD"
-      },
-      {
-        "channel": "UMS39RAGP",
-        "messageId": "Q0C87QKP3GT"
-      },
-      {
-        "channel": "UMCPG3D8A",
-        "messageId": "Q0C98D13AF2"
-      },
-      {
-        "channel": "C08R493ESAJ",
-        "messageId": "Q0C8DSACKGS"
-      },
-      {
-        "channel": "UMS39RAGP",
-        "messageId": "Q0C8HN1Q3UL"
-      },
-      {
-        "channel": "UMCPG3D8A",
-        "messageId": "Q0C98D158DN"
-      },
-      {
-        "channel": "C08R493ESAJ",
-        "messageId": "Q0C7YL6AC5V"
-      },
-      {
-        "channel": "UMS39RAGP",
-        "messageId": "Q0C87QD5D7D"
-      },
-      {
-        "channel": "UMCPG3D8A",
-        "messageId": "Q0C87QLNPRR"
-      },
-      {
-        "channel": "C08R493ESAJ",
-        "messageId": "Q0C7YL5P7MM"
-      },
-      {
-        "channel": "UMS39RAGP",
-        "messageId": "Q0C8DSA4V5Y"
-      },
-      {
-        "channel": "UMCPG3D8A",
-        "messageId": "Q0C8G03UFPB"
-      },
-      {
-        "channel": "C08R493ESAJ",
-        "messageId": "Q0C7YL5KKNK"
-      },
-      {
-        "channel": "UMS39RAGP",
-        "messageId": "Q0C8HN1Q7QU"
-      },
-      {
-        "channel": "UMCPG3D8A",
-        "messageId": "Q0C8DSA5UQJ"
-      },
-      {
-        "channel": "C08R493ESAJ",
-        "messageId": "Q0C98D0U388"
-      },
-      {
-        "channel": "UMS39RAGP",
-        "messageId": "Q0C8C2X218E"
-      },
-      {
-        "channel": "UMCPG3D8A",
-        "messageId": "Q0C8DSAGK5G"
-      },
-      {
-        "channel": "C08R493ESAJ",
-        "messageId": "Q0C98D14DRN"
-      },
-      {
-        "channel": "UMS39RAGP",
-        "messageId": "Q0C87QL77JP"
-      },
-      {
-        "channel": "UMCPG3D8A",
-        "messageId": "Q0C8HN2FSSG"
-      },
-      {
-        "channel": "C08R493ESAJ",
-        "messageId": "Q0C98D13SC8"
-      },
-      {
-        "channel": "UMS39RAGP",
-        "messageId": "Q0C98D17RC0"
-      },
-      {
-        "channel": "UMCPG3D8A",
-        "messageId": "Q0C88NHJKQV"
-      },
-      {
-        "channel": "C08R493ESAJ",
-        "messageId": "Q0C8DSAQ37C"
-      },
-      {
-        "channel": "UMS39RAGP",
-        "messageId": "Q0C8C2WQ8CW"
-      },
-      {
-        "channel": "UMCPG3D8A",
-        "messageId": "Q0C7YL6KLSK"
-      },
-      {
-        "channel": "C08R493ESAJ",
-        "messageId": "Q0C8G04TMPB"
-      },
-      {
-        "channel": "UMS39RAGP",
-        "messageId": "Q0C98D1D7TJ"
-      },
-      {
-        "channel": "UMCPG3D8A",
-        "messageId": "Q0C8DSAN7PU"
-      },
-      {
-        "channel": "C08R493ESAJ",
-        "messageId": "Q0C98D1KH3J"
-      },
-      {
-        "channel": "UMS39RAGP",
-        "messageId": "Q0C87QL8X99"
-      },
-      {
-        "channel": "UMCPG3D8A",
-        "messageId": "Q0C98D2HTUY"
-      },
-      {
-        "channel": "C08R493ESAJ",
-        "messageId": "Q0C8C2WFMSS"
-      },
-      {
-        "channel": "UMS39RAGP",
-        "messageId": "Q0C88NHFD8D"
-      },
-      {
-        "channel": "UMCPG3D8A",
-        "messageId": "Q0C8DSAENHG"
-      },
-      {
-        "channel": "C08R493ESAJ",
-        "messageId": "Q0C8C2WK9SA"
-      },
-      {
-        "channel": "UMS39RAGP",
-        "messageId": "Q0C8C2WP1T8"
-      },
-      {
-        "channel": "UMCPG3D8A",
-        "messageId": "Q0C8HN1KY8L"
-      },
-      {
-        "channel": "C08R493ESAJ",
-        "messageId": "Q0C7YL6JK0X"
-      },
-      {
-        "channel": "UMS39RAGP",
-        "messageId": "Q0C8HN2690U"
-      },
-      {
-        "channel": "UMCPG3D8A",
-        "messageId": "Q0C8G04FLUR"
-      },
-      {
-        "channel": "C08R493ESAJ",
-        "messageId": "Q0C87QM4R2P"
-      },
-      {
-        "channel": "UMS39RAGP",
-        "messageId": "Q0C8DSB9N4S"
-      },
-      {
-        "channel": "UMCPG3D8A",
-        "messageId": "Q0C87QM0ZGB"
-      },
-      {
-        "channel": "C08R493ESAJ",
-        "messageId": "Q0C8DSAPW74"
-      },
-      {
-        "channel": "UMS39RAGP",
-        "messageId": "Q0C7YL6HUP9"
-      },
-      {
-        "channel": "UMCPG3D8A",
-        "messageId": "Q0C87QLTS6P"
-      },
-      {
-        "channel": "C08R493ESAJ",
-        "messageId": "Q0C8G04U88Z"
-      },
-      {
-        "channel": "UMS39RAGP",
-        "messageId": "Q0C8C2WGSMU"
-      },
-      {
-        "channel": "UMCPG3D8A",
-        "messageId": "Q0C98D1LEE4"
-      },
-      {
-        "channel": "C08R493ESAJ",
-        "messageId": "Q0C8G0504NM"
-      },
-      {
-        "channel": "UMS39RAGP",
-        "messageId": "Q0C8G04N08Z"
-      },
-      {
-        "channel": "UMCPG3D8A",
-        "messageId": "Q0C8G052ZB3"
-      },
-      {
-        "channel": "C08R493ESAJ",
-        "messageId": "Q0C87QLMHCK"
-      },
-      {
-        "channel": "UMS39RAGP",
-        "messageId": "Q0C7YL6P9B9"
-      },
-      {
-        "channel": "UMCPG3D8A",
-        "messageId": "Q0C8DS2PWF4"
-      },
-      {
-        "channel": "C08R493ESAJ",
-        "messageId": "Q0C98D1G324"
-      },
-      {
-        "channel": "UMS39RAGP",
-        "messageId": "Q0C8G04AEQZ"
-      },
-      {
-        "channel": "UMCPG3D8A",
-        "messageId": "Q0C88NHP12R"
-      },
-      {
-        "channel": "C08R493ESAJ",
-        "messageId": "Q0C7YL68J5D"
-      },
-      {
-        "channel": "UMS39RAGP",
-        "messageId": "Q0C98D28RPA"
-      },
-      {
-        "channel": "UMCPG3D8A",
-        "messageId": "Q0C7YL6Q2ET"
-      },
-      {
-        "channel": "C08R493ESAJ",
-        "messageId": "Q0C8G04M8GH"
-      },
-      {
-        "channel": "UMS39RAGP",
-        "messageId": "Q0C98D22GQG"
-      },
-      {
-        "channel": "UMCPG3D8A",
-        "messageId": "Q0C87QM1WD9"
-      },
-      {
-        "channel": "C08R493ESAJ",
-        "messageId": "Q0C7YL74YK1"
-      },
-      {
-        "channel": "UMS39RAGP",
-        "messageId": "Q0C87QLVBBM"
-      },
-      {
-        "channel": "UMCPG3D8A",
-        "messageId": "Q0C7YL7GG3Z"
-      },
-      {
-        "channel": "C08R493ESAJ",
-        "messageId": "Q0C8G04PD4Z"
-      },
-      {
-        "channel": "UMS39RAGP",
-        "messageId": "Q0C8C2X9ZU6"
-      },
-      {
-        "channel": "UMCPG3D8A",
-        "messageId": "Q0C88NJGRGV"
-      },
-      {
-        "channel": "C08R493ESAJ",
-        "messageId": "Q0C8G04P32M"
-      },
-      {
-        "channel": "UMS39RAGP",
-        "messageId": "Q0C8G04NGF3"
-      },
-      {
-        "channel": "UMCPG3D8A",
-        "messageId": "Q0C8C2X87T8"
-      },
-      {
-        "channel": "C08R493ESAJ",
-        "messageId": "Q0C98D207CG"
-      },
-      {
-        "channel": "UMS39RAGP",
-        "messageId": "Q0C98D1TUL8"
-      },
-      {
-        "channel": "UMCPG3D8A",
-        "messageId": "Q0C87QMKMFV"
-      },
-      {
-        "channel": "C08R493ESAJ",
-        "messageId": "Q0C7YL7J2UX"
-      },
-      {
-        "channel": "UMS39RAGP",
-        "messageId": "Q0C8G04T0GH"
-      },
-      {
-        "channel": "UMCPG3D8A",
-        "messageId": "Q0C8G04S925"
-      },
-      {
-        "channel": "C08R493ESAJ",
-        "messageId": "Q0C8G05D33K"
-      },
-      {
-        "channel": "UMS39RAGP",
-        "messageId": "Q0C87QMHKU3"
-      },
-      {
-        "channel": "UMCPG3D8A",
-        "messageId": "Q0C98D2BU2U"
-      },
-      {
-        "channel": "C08R493ESAJ",
-        "messageId": "Q0C7YL80SKZ"
-      }
-    ],
     "0ef4d6cd0076d29a4f5bcc81f56a8896": [
       {
         "channel": "UMS39RAGP",
@@ -34209,6 +34313,670 @@
         "channel": "C05HV4SQD6G",
         "messageId": "Q0C95UBR2CD"
       }
+    ],
+    "1613eb469375e804ab8402e262420e8b": [
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0C9GTQ7VN3"
+      },
+      {
+        "channel": "UMCPG3D8A",
+        "messageId": "Q0CA06EQDGR"
+      },
+      {
+        "channel": "C08R493ESAJ",
+        "messageId": "Q0CASLBELRE"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0CASLB9H7S"
+      },
+      {
+        "channel": "UMCPG3D8A",
+        "messageId": "Q0CASLBE916"
+      },
+      {
+        "channel": "C08R493ESAJ",
+        "messageId": "Q0C9Y3VUFU2"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0CA20BPJRJ"
+      },
+      {
+        "channel": "UMCPG3D8A",
+        "messageId": "Q0CA20B9HEG"
+      },
+      {
+        "channel": "C08R493ESAJ",
+        "messageId": "Q0CA06F5TFT"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0C9T0T0GTX"
+      },
+      {
+        "channel": "UMCPG3D8A",
+        "messageId": "Q0C9Y3W7YRY"
+      },
+      {
+        "channel": "C08R493ESAJ",
+        "messageId": "Q0CASLBGY9W"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0C9Y3VQ802"
+      },
+      {
+        "channel": "UMCPG3D8A",
+        "messageId": "Q0CA20C018C"
+      },
+      {
+        "channel": "C08R493ESAJ",
+        "messageId": "Q0C9S2LMCBV"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0C9WAKN7TQ"
+      },
+      {
+        "channel": "UMCPG3D8A",
+        "messageId": "Q0CASLBA0RW"
+      },
+      {
+        "channel": "C08R493ESAJ",
+        "messageId": "Q0C9Y3W9YH0"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0C9S2M2VL3"
+      },
+      {
+        "channel": "UMCPG3D8A",
+        "messageId": "Q0CA06FCEQ1"
+      },
+      {
+        "channel": "C08R493ESAJ",
+        "messageId": "Q0CASLC128G"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0C9T0TJW5T"
+      },
+      {
+        "channel": "UMCPG3D8A",
+        "messageId": "Q0C9T0TR361"
+      },
+      {
+        "channel": "C08R493ESAJ",
+        "messageId": "Q0C9S2M657V"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0C9WAL8LCW"
+      },
+      {
+        "channel": "UMCPG3D8A",
+        "messageId": "Q0C9Y3WK0M8"
+      },
+      {
+        "channel": "C08R493ESAJ",
+        "messageId": "Q0C9S2MN10B"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0C9S2MRB99"
+      },
+      {
+        "channel": "UMCPG3D8A",
+        "messageId": "Q0C9GTRAQ8P"
+      },
+      {
+        "channel": "C08R493ESAJ",
+        "messageId": "Q0C9WALET54"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0C9T0TPWHK"
+      },
+      {
+        "channel": "UMCPG3D8A",
+        "messageId": "Q0C9GTRFK3R"
+      },
+      {
+        "channel": "C08R493ESAJ",
+        "messageId": "Q0C9S2JCC3D"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0C9WAL6V62"
+      },
+      {
+        "channel": "UMCPG3D8A",
+        "messageId": "Q0CA06FFA2V"
+      },
+      {
+        "channel": "C08R493ESAJ",
+        "messageId": "Q0C9GTR8ZB9"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0C9S2N4WG3"
+      },
+      {
+        "channel": "UMCPG3D8A",
+        "messageId": "Q0CA06FK09F"
+      },
+      {
+        "channel": "C08R493ESAJ",
+        "messageId": "Q0C9T0TKB7F"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0C9T0TT5AR"
+      },
+      {
+        "channel": "UMCPG3D8A",
+        "messageId": "Q0C9T0TTU7P"
+      },
+      {
+        "channel": "C08R493ESAJ",
+        "messageId": "Q0CASLCJLLQ"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0CA06G5709"
+      },
+      {
+        "channel": "UMCPG3D8A",
+        "messageId": "Q0CA20CK9RA"
+      },
+      {
+        "channel": "C08R493ESAJ",
+        "messageId": "Q0CA06FMV7B"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0C9T0UPPV3"
+      },
+      {
+        "channel": "UMCPG3D8A",
+        "messageId": "Q0CASLCPXGQ"
+      },
+      {
+        "channel": "C08R493ESAJ",
+        "messageId": "Q0C9Y3X5SJE"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0C9WALT93Q"
+      },
+      {
+        "channel": "UMCPG3D8A",
+        "messageId": "Q0CA06FRKMF"
+      },
+      {
+        "channel": "C08R493ESAJ",
+        "messageId": "Q0CA20CS7EG"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0C9S2N7K7V"
+      },
+      {
+        "channel": "UMCPG3D8A",
+        "messageId": "Q0C9T0U5L69"
+      },
+      {
+        "channel": "C08R493ESAJ",
+        "messageId": "Q0C9WALM554"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0C9T0US5CM"
+      },
+      {
+        "channel": "UMCPG3D8A",
+        "messageId": "Q0C9T0V2YAZ"
+      },
+      {
+        "channel": "C08R493ESAJ",
+        "messageId": "Q0CA06G301F"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0C9S2NM1S7"
+      },
+      {
+        "channel": "UMCPG3D8A",
+        "messageId": "Q0CASLDHA1W"
+      },
+      {
+        "channel": "C08R493ESAJ",
+        "messageId": "Q0CA20D316Y"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0CA06G85EV"
+      },
+      {
+        "channel": "UMCPG3D8A",
+        "messageId": "Q0CA06GP2UR"
+      },
+      {
+        "channel": "C08R493ESAJ",
+        "messageId": "Q0C9GTSLQ4X"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0CA06GK001"
+      },
+      {
+        "channel": "UMCPG3D8A",
+        "messageId": "Q0CA20D8Y4C"
+      },
+      {
+        "channel": "C08R493ESAJ",
+        "messageId": "Q0C9S2NT7RR"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0C9GTS88VD"
+      },
+      {
+        "channel": "UMCPG3D8A",
+        "messageId": "Q0CASLDDY7J"
+      },
+      {
+        "channel": "C08R493ESAJ",
+        "messageId": "Q0C9S2P196F"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0C9S2P6Y9Z"
+      },
+      {
+        "channel": "UMCPG3D8A",
+        "messageId": "Q0C9T0V9K7F"
+      },
+      {
+        "channel": "C08R493ESAJ",
+        "messageId": "Q0C9WANB6H4"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0C9GTT1N8P"
+      },
+      {
+        "channel": "UMCPG3D8A",
+        "messageId": "Q0C9GTSHP7H"
+      },
+      {
+        "channel": "C08R493ESAJ",
+        "messageId": "Q0C9Y3YA5S6"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0CASLDCGQG"
+      },
+      {
+        "channel": "UMCPG3D8A",
+        "messageId": "Q0C9Y3Y5U90"
+      },
+      {
+        "channel": "C08R493ESAJ",
+        "messageId": "Q0C9Y3Y3DRQ"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0CASLDJKKJ"
+      },
+      {
+        "channel": "UMCPG3D8A",
+        "messageId": "Q0C9T0V370V"
+      },
+      {
+        "channel": "C08R493ESAJ",
+        "messageId": "Q0C9GTSRMHD"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0C9WAMPWLW"
+      },
+      {
+        "channel": "UMCPG3D8A",
+        "messageId": "Q0C9T0VBEA1"
+      },
+      {
+        "channel": "C08R493ESAJ",
+        "messageId": "Q0C9GTSH007"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0CA20DTVNY"
+      },
+      {
+        "channel": "UMCPG3D8A",
+        "messageId": "Q0C9GTT94KH"
+      },
+      {
+        "channel": "C08R493ESAJ",
+        "messageId": "Q0C9WANCBDL"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0CA06HPLHF"
+      },
+      {
+        "channel": "UMCPG3D8A",
+        "messageId": "Q0CA20EK2J0"
+      },
+      {
+        "channel": "C08R493ESAJ",
+        "messageId": "Q0C9T0W2SJZ"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0C9S2PPMUK"
+      },
+      {
+        "channel": "UMCPG3D8A",
+        "messageId": "Q0CASLDP81W"
+      },
+      {
+        "channel": "C08R493ESAJ",
+        "messageId": "Q0CA20E963W"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0C9T0W5VL5"
+      },
+      {
+        "channel": "UMCPG3D8A",
+        "messageId": "Q0CA06HGXRP"
+      },
+      {
+        "channel": "C08R493ESAJ",
+        "messageId": "Q0CASLE3M6U"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0C9GTTMX8F"
+      },
+      {
+        "channel": "UMCPG3D8A",
+        "messageId": "Q0CA20BUC76"
+      },
+      {
+        "channel": "C08R493ESAJ",
+        "messageId": "Q0C9Y3Z37GA"
+      }
+    ],
+    "2b30a689c4c3da6e1138560fce2eed70": [
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0C9S2Q3TFD"
+      },
+      {
+        "channel": "U029FPQV2L9",
+        "messageId": "Q0C9T0W11PF"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0CASLEBW1W"
+      },
+      {
+        "channel": "U029FPQV2L9",
+        "messageId": "Q0C9T0WLFGD"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0C9WANRAR4"
+      },
+      {
+        "channel": "U029FPQV2L9",
+        "messageId": "Q0C9WAP3XQE"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0C9WAP5S4E"
+      },
+      {
+        "channel": "U029FPQV2L9",
+        "messageId": "Q0C9Y3ZGE2E"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0CA06J9H6V"
+      },
+      {
+        "channel": "U029FPQV2L9",
+        "messageId": "Q0C9Y3Z56LA"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0C9WAP5KJA"
+      },
+      {
+        "channel": "U029FPQV2L9",
+        "messageId": "Q0CA06J48F3"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0CA06J5BBK"
+      },
+      {
+        "channel": "U029FPQV2L9",
+        "messageId": "Q0C9T0WEY4D"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0CASLF6QN4"
+      },
+      {
+        "channel": "U029FPQV2L9",
+        "messageId": "Q0C9T0WUBQV"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0C9T0X3BSR"
+      },
+      {
+        "channel": "U029FPQV2L9",
+        "messageId": "Q0C9WAP4FML"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0C9Y3ZAF42"
+      },
+      {
+        "channel": "U029FPQV2L9",
+        "messageId": "Q0C9S2QH9EX"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0CA20FFMJ8"
+      },
+      {
+        "channel": "U029FPQV2L9",
+        "messageId": "Q0CA06JT8MP"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0CA06JLRAM"
+      },
+      {
+        "channel": "U029FPQV2L9",
+        "messageId": "Q0CA06JLQQH"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0C9Y3ZK71Q"
+      },
+      {
+        "channel": "U029FPQV2L9",
+        "messageId": "Q0C9Y4055PU"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0C9WAPLYJ2"
+      },
+      {
+        "channel": "U029FPQV2L9",
+        "messageId": "Q0CA20G54SG"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0C9T0XEYJH"
+      },
+      {
+        "channel": "U029FPQV2L9",
+        "messageId": "Q0C9T0X5SKF"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0CASLG0LNL"
+      },
+      {
+        "channel": "U029FPQV2L9",
+        "messageId": "Q0C9T0X9JHK"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0C9WAQAKD4"
+      },
+      {
+        "channel": "U029FPQV2L9",
+        "messageId": "Q0CA06KAA7K"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0CA06KBC8H"
+      },
+      {
+        "channel": "U029FPQV2L9",
+        "messageId": "Q0C9WAPSRCN"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0CASLFSK16"
+      },
+      {
+        "channel": "U029FPQV2L9",
+        "messageId": "Q0CA20G4TD2"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0CA20G811S"
+      },
+      {
+        "channel": "U029FPQV2L9",
+        "messageId": "Q0CA06K7LNM"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0C9WAQE9JA"
+      },
+      {
+        "channel": "U029FPQV2L9",
+        "messageId": "Q0C9WAQFJCE"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0CA20GKRRA"
+      },
+      {
+        "channel": "U029FPQV2L9",
+        "messageId": "Q0C9S2RTU1H"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0CASLGAA4Q"
+      },
+      {
+        "channel": "U029FPQV2L9",
+        "messageId": "Q0C9S2RFH19"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0CA06L0T3K"
+      },
+      {
+        "channel": "U029FPQV2L9",
+        "messageId": "Q0CASLG3B4G"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0C9S2S1WQ3"
+      },
+      {
+        "channel": "U029FPQV2L9",
+        "messageId": "Q0C9WAQU6AJ"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0C9GTVL52T"
+      },
+      {
+        "channel": "U029FPQV2L9",
+        "messageId": "Q0CA06KCZGR"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0CA20GS4EQ"
+      },
+      {
+        "channel": "U029FPQV2L9",
+        "messageId": "Q0C9WARB1GW"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0CA06KCS65"
+      },
+      {
+        "channel": "U029FPQV2L9",
+        "messageId": "Q0C9GTVL2T1"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0C9WAQTHM4"
+      },
+      {
+        "channel": "U029FPQV2L9",
+        "messageId": "Q0CA06L756D"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0CASLH46SC"
+      },
+      {
+        "channel": "U029FPQV2L9",
+        "messageId": "Q0CASLDJC3A"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0CASLH0BDW"
+      },
+      {
+        "channel": "U029FPQV2L9",
+        "messageId": "Q0C9S2T97C3"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0C9S2SD44B"
+      },
+      {
+        "channel": "U029FPQV2L9",
+        "messageId": "Q0C9T0YARRB"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0CASLGKV0Q"
+      },
+      {
+        "channel": "U029FPQV2L9",
+        "messageId": "Q0C9T0YQBU5"
+      }
     ]
   },
   "processedMessageTs": {
@@ -34444,8 +35212,9 @@
     "1791737717.431729": true,
     "1791824973.391059": true,
     "1792003485.036469": true,
-    "1792003483.341449": true
+    "1792003483.341449": true,
+    "1792182200.161599": true
   },
   "lastWeeklySummaryDate": "2026-W42",
-  "lastRun": "2026-10-16T18:01:43.657Z"
+  "lastRun": "2026-10-16T20:44:57.147Z"
 }
