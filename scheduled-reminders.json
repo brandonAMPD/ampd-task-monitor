@@ -266,20 +266,6 @@
       "completedAt": null,
       "firstSeenAt": "2026-07-20T18:01:33.162Z"
     },
-    "b32a59c160d2af49276e33dd45727f9d": {
-      "task": "Build campaigns linked in message",
-      "assignee_name": "Christle 'Knows All' Ochigue",
-      "assignee_slack_mention": "@Christle 'Knows All' Ochigue",
-      "assigned_date": "2026-07-20",
-      "due_date": "2026-07-23",
-      "message_ts": "1784587796.520589",
-      "source_message": "@Christle 'Knows All' Ochigue please build these campaigns https://dovetail-mktg.slack.com/arc",
-      "assigneeId": "UMCPG3D8A",
-      "messageTs": "1784587796.520589",
-      "completed": true,
-      "completedAt": "2026-07-21T18:01:18.844Z",
-      "firstSeenAt": "2026-07-21T06:01:19.955Z"
-    },
     "1ff785ffdf5d735896209e293bbfdbe1": {
       "task": "Review URLs in use/not in use; cancel renewals for unused domains expiring this year; ensure 6-7 open domains; add refiforrentals.com to list",
       "assignee_name": "Mark 'Morpheus' Manaog",
@@ -34115,5 +34101,5 @@
     "1792182200.161599": true
   },
   "lastWeeklySummaryDate": "2026-W42",
-  "lastRun": "2026-10-19T12:09:49.136Z"
+  "lastRun": "2026-10-19T18:01:50.057Z"
 }
