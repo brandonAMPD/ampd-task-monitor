@@ -1774,8 +1774,8 @@
       "source_message": "@Eddie 'Rockstar' Monarrez please review leads that aren't in a stage but should be and try to figure out wh",
       "assigneeId": "U02LFUG2WLR",
       "messageTs": "1791304721.424589",
-      "completed": false,
-      "completedAt": null,
+      "completed": true,
+      "completedAt": "2026-10-21T18:01:30.927Z",
       "firstSeenAt": "2026-10-06T18:01:36.650Z"
     },
     "e0c6d3bafe7994c18189a926039ed259": {
@@ -1875,6 +1875,34 @@
       "completed": true,
       "completedAt": "2026-10-17T06:01:51.142Z",
       "firstSeenAt": "2026-10-16T20:44:05.049Z"
+    },
+    "a55b6fee0532775f46359d2925206ae2": {
+      "task": "Update SEO stuff in Lovable and Google Site Maps for getprivatemoneyhq.com (replaces crmdemo.ampdworks.com)",
+      "assignee_name": "Mark 'Morpheus' Manaog",
+      "assignee_slack_mention": "@Mark 'Morpheus' Manaog",
+      "assigned_date": "2026-10-21",
+      "due_date": "2026-10-26",
+      "message_ts": "1792599511.848259",
+      "source_message": "@Mark 'Morpheus' Manaog please update the SEO stuff in lovable and with google site maps for the domain",
+      "assigneeId": "U023F61R16F",
+      "messageTs": "1792599511.848259",
+      "completed": false,
+      "completedAt": null,
+      "firstSeenAt": "2026-10-21T18:02:08.909Z"
+    },
+    "34ed2d62580f1abd0129b713e2130c6e": {
+      "task": "Attach bls.ampdworks.com to the Lovable BLS landing page",
+      "assignee_name": "Mark 'Morpheus' Manaog",
+      "assignee_slack_mention": "@Mark 'Morpheus' Manaog",
+      "assigned_date": "2026-10-21",
+      "due_date": "2026-10-22",
+      "message_ts": "1792594747.068809",
+      "source_message": "@Mark 'Morpheus' Manaog attach http://bls.ampdworks.com to the lovable bls landing page due by tomorrow",
+      "assigneeId": "U023F61R16F",
+      "messageTs": "1792594747.068809",
+      "completed": false,
+      "completedAt": null,
+      "firstSeenAt": "2026-10-21T18:02:08.990Z"
     }
   },
   "scheduled": {
@@ -23047,6 +23075,467 @@
       "task": "Check Cloudconvert usage and look at moving to new subscription as needed",
       "assignee": "Josh 'The Ninja' Morales",
       "reminderDate": "2026-11-19"
+    },
+    "a55b6fee0532775f46359d2925206ae2|midpoint|2026-10-23": {
+      "scheduledAt": "2026-10-21T18:02:09.795Z",
+      "type": "midpoint",
+      "task": "Update SEO stuff in Lovable and Google Site Maps for getprivatemoneyhq.com (replaces crmdemo.ampdworks.com)",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-10-23"
+    },
+    "a55b6fee0532775f46359d2925206ae2|nag|2026-10-24": {
+      "scheduledAt": "2026-10-21T18:02:10.556Z",
+      "type": "nag",
+      "task": "Update SEO stuff in Lovable and Google Site Maps for getprivatemoneyhq.com (replaces crmdemo.ampdworks.com)",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-10-24"
+    },
+    "a55b6fee0532775f46359d2925206ae2|nag|2026-10-25": {
+      "scheduledAt": "2026-10-21T18:02:11.325Z",
+      "type": "nag",
+      "task": "Update SEO stuff in Lovable and Google Site Maps for getprivatemoneyhq.com (replaces crmdemo.ampdworks.com)",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-10-25"
+    },
+    "a55b6fee0532775f46359d2925206ae2|due|2026-10-26": {
+      "scheduledAt": "2026-10-21T18:02:12.111Z",
+      "type": "due",
+      "task": "Update SEO stuff in Lovable and Google Site Maps for getprivatemoneyhq.com (replaces crmdemo.ampdworks.com)",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-10-26"
+    },
+    "a55b6fee0532775f46359d2925206ae2|overdue|2026-10-27": {
+      "scheduledAt": "2026-10-21T18:02:12.875Z",
+      "type": "overdue",
+      "task": "Update SEO stuff in Lovable and Google Site Maps for getprivatemoneyhq.com (replaces crmdemo.ampdworks.com)",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-10-27"
+    },
+    "a55b6fee0532775f46359d2925206ae2|overdue|2026-10-28": {
+      "scheduledAt": "2026-10-21T18:02:13.643Z",
+      "type": "overdue",
+      "task": "Update SEO stuff in Lovable and Google Site Maps for getprivatemoneyhq.com (replaces crmdemo.ampdworks.com)",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-10-28"
+    },
+    "a55b6fee0532775f46359d2925206ae2|overdue|2026-10-29": {
+      "scheduledAt": "2026-10-21T18:02:14.424Z",
+      "type": "overdue",
+      "task": "Update SEO stuff in Lovable and Google Site Maps for getprivatemoneyhq.com (replaces crmdemo.ampdworks.com)",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-10-29"
+    },
+    "a55b6fee0532775f46359d2925206ae2|overdue|2026-10-30": {
+      "scheduledAt": "2026-10-21T18:02:15.288Z",
+      "type": "overdue",
+      "task": "Update SEO stuff in Lovable and Google Site Maps for getprivatemoneyhq.com (replaces crmdemo.ampdworks.com)",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-10-30"
+    },
+    "a55b6fee0532775f46359d2925206ae2|overdue|2026-10-31": {
+      "scheduledAt": "2026-10-21T18:02:16.062Z",
+      "type": "overdue",
+      "task": "Update SEO stuff in Lovable and Google Site Maps for getprivatemoneyhq.com (replaces crmdemo.ampdworks.com)",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-10-31"
+    },
+    "a55b6fee0532775f46359d2925206ae2|overdue|2026-11-01": {
+      "scheduledAt": "2026-10-21T18:02:16.865Z",
+      "type": "overdue",
+      "task": "Update SEO stuff in Lovable and Google Site Maps for getprivatemoneyhq.com (replaces crmdemo.ampdworks.com)",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-11-01"
+    },
+    "a55b6fee0532775f46359d2925206ae2|overdue|2026-11-02": {
+      "scheduledAt": "2026-10-21T18:02:17.640Z",
+      "type": "overdue",
+      "task": "Update SEO stuff in Lovable and Google Site Maps for getprivatemoneyhq.com (replaces crmdemo.ampdworks.com)",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-11-02"
+    },
+    "a55b6fee0532775f46359d2925206ae2|overdue|2026-11-03": {
+      "scheduledAt": "2026-10-21T18:02:18.466Z",
+      "type": "overdue",
+      "task": "Update SEO stuff in Lovable and Google Site Maps for getprivatemoneyhq.com (replaces crmdemo.ampdworks.com)",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-11-03"
+    },
+    "a55b6fee0532775f46359d2925206ae2|overdue|2026-11-04": {
+      "scheduledAt": "2026-10-21T18:02:19.208Z",
+      "type": "overdue",
+      "task": "Update SEO stuff in Lovable and Google Site Maps for getprivatemoneyhq.com (replaces crmdemo.ampdworks.com)",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-11-04"
+    },
+    "a55b6fee0532775f46359d2925206ae2|overdue|2026-11-05": {
+      "scheduledAt": "2026-10-21T18:02:19.991Z",
+      "type": "overdue",
+      "task": "Update SEO stuff in Lovable and Google Site Maps for getprivatemoneyhq.com (replaces crmdemo.ampdworks.com)",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-11-05"
+    },
+    "a55b6fee0532775f46359d2925206ae2|overdue|2026-11-06": {
+      "scheduledAt": "2026-10-21T18:02:20.732Z",
+      "type": "overdue",
+      "task": "Update SEO stuff in Lovable and Google Site Maps for getprivatemoneyhq.com (replaces crmdemo.ampdworks.com)",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-11-06"
+    },
+    "a55b6fee0532775f46359d2925206ae2|overdue|2026-11-07": {
+      "scheduledAt": "2026-10-21T18:02:21.522Z",
+      "type": "overdue",
+      "task": "Update SEO stuff in Lovable and Google Site Maps for getprivatemoneyhq.com (replaces crmdemo.ampdworks.com)",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-11-07"
+    },
+    "a55b6fee0532775f46359d2925206ae2|overdue|2026-11-08": {
+      "scheduledAt": "2026-10-21T18:02:22.306Z",
+      "type": "overdue",
+      "task": "Update SEO stuff in Lovable and Google Site Maps for getprivatemoneyhq.com (replaces crmdemo.ampdworks.com)",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-11-08"
+    },
+    "a55b6fee0532775f46359d2925206ae2|overdue|2026-11-09": {
+      "scheduledAt": "2026-10-21T18:02:23.066Z",
+      "type": "overdue",
+      "task": "Update SEO stuff in Lovable and Google Site Maps for getprivatemoneyhq.com (replaces crmdemo.ampdworks.com)",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-11-09"
+    },
+    "a55b6fee0532775f46359d2925206ae2|overdue|2026-11-10": {
+      "scheduledAt": "2026-10-21T18:02:23.876Z",
+      "type": "overdue",
+      "task": "Update SEO stuff in Lovable and Google Site Maps for getprivatemoneyhq.com (replaces crmdemo.ampdworks.com)",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-11-10"
+    },
+    "a55b6fee0532775f46359d2925206ae2|overdue|2026-11-11": {
+      "scheduledAt": "2026-10-21T18:02:24.653Z",
+      "type": "overdue",
+      "task": "Update SEO stuff in Lovable and Google Site Maps for getprivatemoneyhq.com (replaces crmdemo.ampdworks.com)",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-11-11"
+    },
+    "a55b6fee0532775f46359d2925206ae2|overdue|2026-11-12": {
+      "scheduledAt": "2026-10-21T18:02:25.506Z",
+      "type": "overdue",
+      "task": "Update SEO stuff in Lovable and Google Site Maps for getprivatemoneyhq.com (replaces crmdemo.ampdworks.com)",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-11-12"
+    },
+    "a55b6fee0532775f46359d2925206ae2|overdue|2026-11-13": {
+      "scheduledAt": "2026-10-21T18:02:26.321Z",
+      "type": "overdue",
+      "task": "Update SEO stuff in Lovable and Google Site Maps for getprivatemoneyhq.com (replaces crmdemo.ampdworks.com)",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-11-13"
+    },
+    "a55b6fee0532775f46359d2925206ae2|overdue|2026-11-14": {
+      "scheduledAt": "2026-10-21T18:02:27.127Z",
+      "type": "overdue",
+      "task": "Update SEO stuff in Lovable and Google Site Maps for getprivatemoneyhq.com (replaces crmdemo.ampdworks.com)",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-11-14"
+    },
+    "a55b6fee0532775f46359d2925206ae2|overdue|2026-11-15": {
+      "scheduledAt": "2026-10-21T18:02:27.958Z",
+      "type": "overdue",
+      "task": "Update SEO stuff in Lovable and Google Site Maps for getprivatemoneyhq.com (replaces crmdemo.ampdworks.com)",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-11-15"
+    },
+    "a55b6fee0532775f46359d2925206ae2|overdue|2026-11-16": {
+      "scheduledAt": "2026-10-21T18:02:28.719Z",
+      "type": "overdue",
+      "task": "Update SEO stuff in Lovable and Google Site Maps for getprivatemoneyhq.com (replaces crmdemo.ampdworks.com)",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-11-16"
+    },
+    "a55b6fee0532775f46359d2925206ae2|overdue|2026-11-17": {
+      "scheduledAt": "2026-10-21T18:02:29.592Z",
+      "type": "overdue",
+      "task": "Update SEO stuff in Lovable and Google Site Maps for getprivatemoneyhq.com (replaces crmdemo.ampdworks.com)",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-11-17"
+    },
+    "a55b6fee0532775f46359d2925206ae2|overdue|2026-11-18": {
+      "scheduledAt": "2026-10-21T18:02:30.374Z",
+      "type": "overdue",
+      "task": "Update SEO stuff in Lovable and Google Site Maps for getprivatemoneyhq.com (replaces crmdemo.ampdworks.com)",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-11-18"
+    },
+    "a55b6fee0532775f46359d2925206ae2|overdue|2026-11-19": {
+      "scheduledAt": "2026-10-21T18:02:31.161Z",
+      "type": "overdue",
+      "task": "Update SEO stuff in Lovable and Google Site Maps for getprivatemoneyhq.com (replaces crmdemo.ampdworks.com)",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-11-19"
+    },
+    "a55b6fee0532775f46359d2925206ae2|overdue|2026-11-20": {
+      "scheduledAt": "2026-10-21T18:02:31.939Z",
+      "type": "overdue",
+      "task": "Update SEO stuff in Lovable and Google Site Maps for getprivatemoneyhq.com (replaces crmdemo.ampdworks.com)",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-11-20"
+    },
+    "a55b6fee0532775f46359d2925206ae2|overdue|2026-11-21": {
+      "scheduledAt": "2026-10-21T18:02:32.726Z",
+      "type": "overdue",
+      "task": "Update SEO stuff in Lovable and Google Site Maps for getprivatemoneyhq.com (replaces crmdemo.ampdworks.com)",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-11-21"
+    },
+    "a55b6fee0532775f46359d2925206ae2|overdue|2026-11-22": {
+      "scheduledAt": "2026-10-21T18:02:33.503Z",
+      "type": "overdue",
+      "task": "Update SEO stuff in Lovable and Google Site Maps for getprivatemoneyhq.com (replaces crmdemo.ampdworks.com)",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-11-22"
+    },
+    "a55b6fee0532775f46359d2925206ae2|overdue|2026-11-23": {
+      "scheduledAt": "2026-10-21T18:02:34.334Z",
+      "type": "overdue",
+      "task": "Update SEO stuff in Lovable and Google Site Maps for getprivatemoneyhq.com (replaces crmdemo.ampdworks.com)",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-11-23"
+    },
+    "a55b6fee0532775f46359d2925206ae2|overdue|2026-11-24": {
+      "scheduledAt": "2026-10-21T18:02:35.202Z",
+      "type": "overdue",
+      "task": "Update SEO stuff in Lovable and Google Site Maps for getprivatemoneyhq.com (replaces crmdemo.ampdworks.com)",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-11-24"
+    },
+    "a55b6fee0532775f46359d2925206ae2|overdue|2026-11-25": {
+      "scheduledAt": "2026-10-21T18:02:36.022Z",
+      "type": "overdue",
+      "task": "Update SEO stuff in Lovable and Google Site Maps for getprivatemoneyhq.com (replaces crmdemo.ampdworks.com)",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-11-25"
+    },
+    "34ed2d62580f1abd0129b713e2130c6e|nag|2026-10-21": {
+      "scheduledAt": "2026-10-21T18:02:36.023Z",
+      "type": "nag",
+      "task": "Attach bls.ampdworks.com to the Lovable BLS landing page",
+      "skipped": true
+    },
+    "34ed2d62580f1abd0129b713e2130c6e|due|2026-10-22": {
+      "scheduledAt": "2026-10-21T18:02:36.858Z",
+      "type": "due",
+      "task": "Attach bls.ampdworks.com to the Lovable BLS landing page",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-10-22"
+    },
+    "34ed2d62580f1abd0129b713e2130c6e|overdue|2026-10-23": {
+      "scheduledAt": "2026-10-21T18:02:37.609Z",
+      "type": "overdue",
+      "task": "Attach bls.ampdworks.com to the Lovable BLS landing page",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-10-23"
+    },
+    "34ed2d62580f1abd0129b713e2130c6e|overdue|2026-10-24": {
+      "scheduledAt": "2026-10-21T18:02:38.393Z",
+      "type": "overdue",
+      "task": "Attach bls.ampdworks.com to the Lovable BLS landing page",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-10-24"
+    },
+    "34ed2d62580f1abd0129b713e2130c6e|overdue|2026-10-25": {
+      "scheduledAt": "2026-10-21T18:02:39.166Z",
+      "type": "overdue",
+      "task": "Attach bls.ampdworks.com to the Lovable BLS landing page",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-10-25"
+    },
+    "34ed2d62580f1abd0129b713e2130c6e|overdue|2026-10-26": {
+      "scheduledAt": "2026-10-21T18:02:39.925Z",
+      "type": "overdue",
+      "task": "Attach bls.ampdworks.com to the Lovable BLS landing page",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-10-26"
+    },
+    "34ed2d62580f1abd0129b713e2130c6e|overdue|2026-10-27": {
+      "scheduledAt": "2026-10-21T18:02:40.760Z",
+      "type": "overdue",
+      "task": "Attach bls.ampdworks.com to the Lovable BLS landing page",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-10-27"
+    },
+    "34ed2d62580f1abd0129b713e2130c6e|overdue|2026-10-28": {
+      "scheduledAt": "2026-10-21T18:02:41.837Z",
+      "type": "overdue",
+      "task": "Attach bls.ampdworks.com to the Lovable BLS landing page",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-10-28"
+    },
+    "34ed2d62580f1abd0129b713e2130c6e|overdue|2026-10-29": {
+      "scheduledAt": "2026-10-21T18:02:42.619Z",
+      "type": "overdue",
+      "task": "Attach bls.ampdworks.com to the Lovable BLS landing page",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-10-29"
+    },
+    "34ed2d62580f1abd0129b713e2130c6e|overdue|2026-10-30": {
+      "scheduledAt": "2026-10-21T18:02:43.399Z",
+      "type": "overdue",
+      "task": "Attach bls.ampdworks.com to the Lovable BLS landing page",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-10-30"
+    },
+    "34ed2d62580f1abd0129b713e2130c6e|overdue|2026-10-31": {
+      "scheduledAt": "2026-10-21T18:02:44.211Z",
+      "type": "overdue",
+      "task": "Attach bls.ampdworks.com to the Lovable BLS landing page",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-10-31"
+    },
+    "34ed2d62580f1abd0129b713e2130c6e|overdue|2026-11-01": {
+      "scheduledAt": "2026-10-21T18:02:44.978Z",
+      "type": "overdue",
+      "task": "Attach bls.ampdworks.com to the Lovable BLS landing page",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-11-01"
+    },
+    "34ed2d62580f1abd0129b713e2130c6e|overdue|2026-11-02": {
+      "scheduledAt": "2026-10-21T18:02:45.769Z",
+      "type": "overdue",
+      "task": "Attach bls.ampdworks.com to the Lovable BLS landing page",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-11-02"
+    },
+    "34ed2d62580f1abd0129b713e2130c6e|overdue|2026-11-03": {
+      "scheduledAt": "2026-10-21T18:02:46.606Z",
+      "type": "overdue",
+      "task": "Attach bls.ampdworks.com to the Lovable BLS landing page",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-11-03"
+    },
+    "34ed2d62580f1abd0129b713e2130c6e|overdue|2026-11-04": {
+      "scheduledAt": "2026-10-21T18:02:47.403Z",
+      "type": "overdue",
+      "task": "Attach bls.ampdworks.com to the Lovable BLS landing page",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-11-04"
+    },
+    "34ed2d62580f1abd0129b713e2130c6e|overdue|2026-11-05": {
+      "scheduledAt": "2026-10-21T18:02:48.246Z",
+      "type": "overdue",
+      "task": "Attach bls.ampdworks.com to the Lovable BLS landing page",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-11-05"
+    },
+    "34ed2d62580f1abd0129b713e2130c6e|overdue|2026-11-06": {
+      "scheduledAt": "2026-10-21T18:02:49.092Z",
+      "type": "overdue",
+      "task": "Attach bls.ampdworks.com to the Lovable BLS landing page",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-11-06"
+    },
+    "34ed2d62580f1abd0129b713e2130c6e|overdue|2026-11-07": {
+      "scheduledAt": "2026-10-21T18:02:49.945Z",
+      "type": "overdue",
+      "task": "Attach bls.ampdworks.com to the Lovable BLS landing page",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-11-07"
+    },
+    "34ed2d62580f1abd0129b713e2130c6e|overdue|2026-11-08": {
+      "scheduledAt": "2026-10-21T18:02:50.708Z",
+      "type": "overdue",
+      "task": "Attach bls.ampdworks.com to the Lovable BLS landing page",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-11-08"
+    },
+    "34ed2d62580f1abd0129b713e2130c6e|overdue|2026-11-09": {
+      "scheduledAt": "2026-10-21T18:02:51.489Z",
+      "type": "overdue",
+      "task": "Attach bls.ampdworks.com to the Lovable BLS landing page",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-11-09"
+    },
+    "34ed2d62580f1abd0129b713e2130c6e|overdue|2026-11-10": {
+      "scheduledAt": "2026-10-21T18:02:52.275Z",
+      "type": "overdue",
+      "task": "Attach bls.ampdworks.com to the Lovable BLS landing page",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-11-10"
+    },
+    "34ed2d62580f1abd0129b713e2130c6e|overdue|2026-11-11": {
+      "scheduledAt": "2026-10-21T18:02:53.039Z",
+      "type": "overdue",
+      "task": "Attach bls.ampdworks.com to the Lovable BLS landing page",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-11-11"
+    },
+    "34ed2d62580f1abd0129b713e2130c6e|overdue|2026-11-12": {
+      "scheduledAt": "2026-10-21T18:02:53.841Z",
+      "type": "overdue",
+      "task": "Attach bls.ampdworks.com to the Lovable BLS landing page",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-11-12"
+    },
+    "34ed2d62580f1abd0129b713e2130c6e|overdue|2026-11-13": {
+      "scheduledAt": "2026-10-21T18:02:54.615Z",
+      "type": "overdue",
+      "task": "Attach bls.ampdworks.com to the Lovable BLS landing page",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-11-13"
+    },
+    "34ed2d62580f1abd0129b713e2130c6e|overdue|2026-11-14": {
+      "scheduledAt": "2026-10-21T18:02:55.377Z",
+      "type": "overdue",
+      "task": "Attach bls.ampdworks.com to the Lovable BLS landing page",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-11-14"
+    },
+    "34ed2d62580f1abd0129b713e2130c6e|overdue|2026-11-15": {
+      "scheduledAt": "2026-10-21T18:02:56.171Z",
+      "type": "overdue",
+      "task": "Attach bls.ampdworks.com to the Lovable BLS landing page",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-11-15"
+    },
+    "34ed2d62580f1abd0129b713e2130c6e|overdue|2026-11-16": {
+      "scheduledAt": "2026-10-21T18:02:57.011Z",
+      "type": "overdue",
+      "task": "Attach bls.ampdworks.com to the Lovable BLS landing page",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-11-16"
+    },
+    "34ed2d62580f1abd0129b713e2130c6e|overdue|2026-11-17": {
+      "scheduledAt": "2026-10-21T18:02:57.772Z",
+      "type": "overdue",
+      "task": "Attach bls.ampdworks.com to the Lovable BLS landing page",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-11-17"
+    },
+    "34ed2d62580f1abd0129b713e2130c6e|overdue|2026-11-18": {
+      "scheduledAt": "2026-10-21T18:02:58.664Z",
+      "type": "overdue",
+      "task": "Attach bls.ampdworks.com to the Lovable BLS landing page",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-11-18"
+    },
+    "34ed2d62580f1abd0129b713e2130c6e|overdue|2026-11-19": {
+      "scheduledAt": "2026-10-21T18:02:59.419Z",
+      "type": "overdue",
+      "task": "Attach bls.ampdworks.com to the Lovable BLS landing page",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-11-19"
+    },
+    "34ed2d62580f1abd0129b713e2130c6e|overdue|2026-11-20": {
+      "scheduledAt": "2026-10-21T18:03:00.226Z",
+      "type": "overdue",
+      "task": "Attach bls.ampdworks.com to the Lovable BLS landing page",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-11-20"
+    },
+    "34ed2d62580f1abd0129b713e2130c6e|overdue|2026-11-21": {
+      "scheduledAt": "2026-10-21T18:03:01.066Z",
+      "type": "overdue",
+      "task": "Attach bls.ampdworks.com to the Lovable BLS landing page",
+      "assignee": "Mark 'Morpheus' Manaog",
+      "reminderDate": "2026-11-21"
     }
   },
   "scheduledMessageIds": {
@@ -32035,416 +32524,6 @@
         "messageId": "Q0C6WR6J81E"
       }
     ],
-    "6aca746142f7ccc83d943171f7ea4792": [
-      {
-        "channel": "UMS39RAGP",
-        "messageId": "Q0C76FK4XQA"
-      },
-      {
-        "channel": "U02LFUG2WLR",
-        "messageId": "Q0C78JCPA8H"
-      },
-      {
-        "channel": "C05HPPDCSS1",
-        "messageId": "Q0C811Q6LHE"
-      },
-      {
-        "channel": "UMS39RAGP",
-        "messageId": "Q0C7AAW3VFE"
-      },
-      {
-        "channel": "U02LFUG2WLR",
-        "messageId": "Q0C70DG2YAX"
-      },
-      {
-        "channel": "C05HPPDCSS1",
-        "messageId": "Q0C78JDDW01"
-      },
-      {
-        "channel": "UMS39RAGP",
-        "messageId": "Q0C76FJPL4A"
-      },
-      {
-        "channel": "U02LFUG2WLR",
-        "messageId": "Q0C6R8WJGSK"
-      },
-      {
-        "channel": "C05HPPDCSS1",
-        "messageId": "Q0C76FKGG2E"
-      },
-      {
-        "channel": "UMS39RAGP",
-        "messageId": "Q0C76FKCDCJ"
-      },
-      {
-        "channel": "U02LFUG2WLR",
-        "messageId": "Q0C7AAWMR6Y"
-      },
-      {
-        "channel": "C05HPPDCSS1",
-        "messageId": "Q0C70DG4T2P"
-      },
-      {
-        "channel": "UMS39RAGP",
-        "messageId": "Q0C76FKLBPC"
-      },
-      {
-        "channel": "U02LFUG2WLR",
-        "messageId": "Q0C70DGDM0B"
-      },
-      {
-        "channel": "C05HPPDCSS1",
-        "messageId": "Q0C7AAW7TFW"
-      },
-      {
-        "channel": "UMS39RAGP",
-        "messageId": "Q0C70DHBQ9Z"
-      },
-      {
-        "channel": "U02LFUG2WLR",
-        "messageId": "Q0C811QGDCG"
-      },
-      {
-        "channel": "C05HPPDCSS1",
-        "messageId": "Q0C6R8Y327R"
-      },
-      {
-        "channel": "UMS39RAGP",
-        "messageId": "Q0C76FL2WF4"
-      },
-      {
-        "channel": "U02LFUG2WLR",
-        "messageId": "Q0C74MA6M7G"
-      },
-      {
-        "channel": "C05HPPDCSS1",
-        "messageId": "Q0C78JDFN65"
-      },
-      {
-        "channel": "UMS39RAGP",
-        "messageId": "Q0C70DH1XT5"
-      },
-      {
-        "channel": "U02LFUG2WLR",
-        "messageId": "Q0C6R8Y0FC7"
-      },
-      {
-        "channel": "C05HPPDCSS1",
-        "messageId": "Q0C74MA86P8"
-      },
-      {
-        "channel": "UMS39RAGP",
-        "messageId": "Q0C70DG7SGK"
-      },
-      {
-        "channel": "U02LFUG2WLR",
-        "messageId": "Q0C76FLBKFU"
-      },
-      {
-        "channel": "C05HPPDCSS1",
-        "messageId": "Q0C70DHM2FM"
-      },
-      {
-        "channel": "UMS39RAGP",
-        "messageId": "Q0C74M9UKFY"
-      },
-      {
-        "channel": "U02LFUG2WLR",
-        "messageId": "Q0C74MA2P9C"
-      },
-      {
-        "channel": "C05HPPDCSS1",
-        "messageId": "Q0C811QTAHW"
-      },
-      {
-        "channel": "UMS39RAGP",
-        "messageId": "Q0C71BB2M6Z"
-      },
-      {
-        "channel": "U02LFUG2WLR",
-        "messageId": "Q0C78JECMQ9"
-      },
-      {
-        "channel": "C05HPPDCSS1",
-        "messageId": "Q0C74MB9PAS"
-      },
-      {
-        "channel": "UMS39RAGP",
-        "messageId": "Q0C811RA2Q0"
-      },
-      {
-        "channel": "U02LFUG2WLR",
-        "messageId": "Q0C71BBCHUM"
-      },
-      {
-        "channel": "C05HPPDCSS1",
-        "messageId": "Q0C7AAXHM36"
-      },
-      {
-        "channel": "UMS39RAGP",
-        "messageId": "Q0C7AAXKPB6"
-      },
-      {
-        "channel": "U02LFUG2WLR",
-        "messageId": "Q0C7AAXDKSQ"
-      },
-      {
-        "channel": "C05HPPDCSS1",
-        "messageId": "Q0C811RC1BJ"
-      },
-      {
-        "channel": "UMS39RAGP",
-        "messageId": "Q0C74MBDV0W"
-      },
-      {
-        "channel": "U02LFUG2WLR",
-        "messageId": "Q0C6R8ZFNEB"
-      },
-      {
-        "channel": "C05HPPDCSS1",
-        "messageId": "Q0C76FMGWBC"
-      },
-      {
-        "channel": "UMS39RAGP",
-        "messageId": "Q0C7AAYAY5S"
-      },
-      {
-        "channel": "U02LFUG2WLR",
-        "messageId": "Q0C76FLUVQA"
-      },
-      {
-        "channel": "C05HPPDCSS1",
-        "messageId": "Q0C70DJ05EF"
-      },
-      {
-        "channel": "UMS39RAGP",
-        "messageId": "Q0C7AAYHPU4"
-      },
-      {
-        "channel": "U02LFUG2WLR",
-        "messageId": "Q0C71BCA9JR"
-      },
-      {
-        "channel": "C05HPPDCSS1",
-        "messageId": "Q0C78JEHEEM"
-      },
-      {
-        "channel": "UMS39RAGP",
-        "messageId": "Q0C78JF1LC9"
-      },
-      {
-        "channel": "U02LFUG2WLR",
-        "messageId": "Q0C6R8Z805V"
-      },
-      {
-        "channel": "C05HPPDCSS1",
-        "messageId": "Q0C811RV140"
-      },
-      {
-        "channel": "UMS39RAGP",
-        "messageId": "Q0C811S5AL8"
-      },
-      {
-        "channel": "U02LFUG2WLR",
-        "messageId": "Q0C74MBULKG"
-      },
-      {
-        "channel": "C05HPPDCSS1",
-        "messageId": "Q0C78JFD733"
-      },
-      {
-        "channel": "UMS39RAGP",
-        "messageId": "Q0C74MBK9D4"
-      },
-      {
-        "channel": "U02LFUG2WLR",
-        "messageId": "Q0C78JFE7TK"
-      },
-      {
-        "channel": "C05HPPDCSS1",
-        "messageId": "Q0C76FLH2F4"
-      },
-      {
-        "channel": "UMS39RAGP",
-        "messageId": "Q0C811SPN8G"
-      },
-      {
-        "channel": "U02LFUG2WLR",
-        "messageId": "Q0C78JEPLGZ"
-      },
-      {
-        "channel": "C05HPPDCSS1",
-        "messageId": "Q0C811SH048"
-      },
-      {
-        "channel": "UMS39RAGP",
-        "messageId": "Q0C6R8ZUS4X"
-      },
-      {
-        "channel": "U02LFUG2WLR",
-        "messageId": "Q0C74MCEV2S"
-      },
-      {
-        "channel": "C05HPPDCSS1",
-        "messageId": "Q0C78JFR4SD"
-      },
-      {
-        "channel": "UMS39RAGP",
-        "messageId": "Q0C76FN8G8J"
-      },
-      {
-        "channel": "U02LFUG2WLR",
-        "messageId": "Q0C70DJU6F5"
-      },
-      {
-        "channel": "C05HPPDCSS1",
-        "messageId": "Q0C6R909SLX"
-      },
-      {
-        "channel": "UMS39RAGP",
-        "messageId": "Q0C76FN7J9Y"
-      },
-      {
-        "channel": "U02LFUG2WLR",
-        "messageId": "Q0C70DKA9TM"
-      },
-      {
-        "channel": "C05HPPDCSS1",
-        "messageId": "Q0C811RD1TJ"
-      },
-      {
-        "channel": "UMS39RAGP",
-        "messageId": "Q0C70DK5F19"
-      },
-      {
-        "channel": "U02LFUG2WLR",
-        "messageId": "Q0C811TKTJL"
-      },
-      {
-        "channel": "C05HPPDCSS1",
-        "messageId": "Q0C70DJATMH"
-      },
-      {
-        "channel": "UMS39RAGP",
-        "messageId": "Q0C71BCFJ85"
-      },
-      {
-        "channel": "U02LFUG2WLR",
-        "messageId": "Q0C70DK1S5R"
-      },
-      {
-        "channel": "C05HPPDCSS1",
-        "messageId": "Q0C76FN9B34"
-      },
-      {
-        "channel": "UMS39RAGP",
-        "messageId": "Q0C6R914687"
-      },
-      {
-        "channel": "U02LFUG2WLR",
-        "messageId": "Q0C6R91AQKZ"
-      },
-      {
-        "channel": "C05HPPDCSS1",
-        "messageId": "Q0C6R90RTB9"
-      },
-      {
-        "channel": "UMS39RAGP",
-        "messageId": "Q0C6R8Z5S0P"
-      },
-      {
-        "channel": "U02LFUG2WLR",
-        "messageId": "Q0C6R9005D5"
-      },
-      {
-        "channel": "C05HPPDCSS1",
-        "messageId": "Q0C811TR7G8"
-      },
-      {
-        "channel": "UMS39RAGP",
-        "messageId": "Q0C76FNE0UA"
-      },
-      {
-        "channel": "U02LFUG2WLR",
-        "messageId": "Q0C71BD92MT"
-      },
-      {
-        "channel": "C05HPPDCSS1",
-        "messageId": "Q0C71BDP83X"
-      },
-      {
-        "channel": "UMS39RAGP",
-        "messageId": "Q0C6R91577Z"
-      },
-      {
-        "channel": "U02LFUG2WLR",
-        "messageId": "Q0C71BE2G13"
-      },
-      {
-        "channel": "C05HPPDCSS1",
-        "messageId": "Q0C7AB0EPNY"
-      },
-      {
-        "channel": "UMS39RAGP",
-        "messageId": "Q0C78JGMD25"
-      },
-      {
-        "channel": "U02LFUG2WLR",
-        "messageId": "Q0C78JGK2TT"
-      },
-      {
-        "channel": "C05HPPDCSS1",
-        "messageId": "Q0C811TTNEL"
-      },
-      {
-        "channel": "UMS39RAGP",
-        "messageId": "Q0C7AB02C7N"
-      },
-      {
-        "channel": "U02LFUG2WLR",
-        "messageId": "Q0C71BDTBT7"
-      },
-      {
-        "channel": "C05HPPDCSS1",
-        "messageId": "Q0C70DKNM51"
-      },
-      {
-        "channel": "UMS39RAGP",
-        "messageId": "Q0C76FPH6PL"
-      },
-      {
-        "channel": "U02LFUG2WLR",
-        "messageId": "Q0C6R91P71V"
-      },
-      {
-        "channel": "C05HPPDCSS1",
-        "messageId": "Q0C6R9184K1"
-      },
-      {
-        "channel": "UMS39RAGP",
-        "messageId": "Q0C811V0P16"
-      },
-      {
-        "channel": "U02LFUG2WLR",
-        "messageId": "Q0C71BEED37"
-      },
-      {
-        "channel": "C05HPPDCSS1",
-        "messageId": "Q0C76FPF5QS"
-      },
-      {
-        "channel": "UMS39RAGP",
-        "messageId": "Q0C78JHQTJ5"
-      },
-      {
-        "channel": "U02LFUG2WLR",
-        "messageId": "Q0C78JHMY0H"
-      },
-      {
-        "channel": "C05HPPDCSS1",
-        "messageId": "Q0C7AB0LNMS"
-      }
-    ],
     "e0c6d3bafe7994c18189a926039ed259": [
       {
         "channel": "UMS39RAGP",
@@ -33396,6 +33475,790 @@
         "channel": "C05HV4SQD6G",
         "messageId": "Q0C95UBR2CD"
       }
+    ],
+    "a55b6fee0532775f46359d2925206ae2": [
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0CB69SS99S"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0CBX0B3Q0Y"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0CAWBZU7D1"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0CB2D9R91Q"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0CAXA54UPP"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0CBX0ASRNU"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0CB4FSA6JD"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0CB0KXEK3Q"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0CB4FT5B9P"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0CAM7N47FH"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0CAM7NF9QX"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0CAM7N910F"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0CB69TQ5U4"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0CAWC091SP"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0CBX0C633J"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0CB0KWCVT8"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0CAXA6C77X"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0CBX0C3TPA"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0CAWC0RUN7"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0CB2DBMDMG"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0CB0KXKHL6"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0CB69TR5JQ"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0CAM7NQ5P1"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0CAWC0TWHZ"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0CB0KXU17Y"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0CB0KXL0DU"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0CB4FT037B"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0CAXA6C3MK"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0CAXA72BCM"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0CBX0D100Y"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0CAXA6UT9B"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0CAWC1164T"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0CBX0CTVFA"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0CAM7P26JK"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0CAXA6RS8M"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0CBX0CTCGG"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0CB2DCGBEE"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0CB4FTLL7K"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0CB0KZ0AGN"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0CB4FTJSEM"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0CB69V2K4L"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0CB4FU1K41"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0CBX0D5DJ4"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0CAXA6NQBX"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0CAXA74ZT7"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0CAM7PHXU7"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0CAM7PT6ET"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0CB69V312Q"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0CB2DCPKUJ"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0CAWC1SE3D"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0CB69VCW0L"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0CAM7PSGR5"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0CB0KZC5K8"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0CAM7Q9WET"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0CB4FUPMED"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0CB0KZ8SEA"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0CAWC31MEF"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0CBX0E5W8G"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0CAXA85FK7"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0CAXA7LN4V"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0CBX0E50GY"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0CB0KZMKFY"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0CAWC2KM8T"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0CB4FV3NPK"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0CAWC2PBDZ"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0CB4FVELM7"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0CBX0E3340"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0CAM7QQ0UX"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0CAWC33YBV"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0CAM7R19FH"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0CB0L0C66S"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0CB4FVA5H7"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0CB69WRSR2"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0CB0L0J67Q"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0CAXA8S0DT"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0CB2DE96RG"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0CAWC377UK"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0CAM7R4E6T"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0CB2DDSTEW"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0CAWC3TK0B"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0CB2DE4ZB4"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0CBX0F4RPS"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0CB0L0BEMU"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0CBX0EGK8Q"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0CB4FVNARF"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0CAXA95KSR"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0CB69WGV4L"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0CAM7S7A31"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0CBX0FL332"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0CBX0FB6G0"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0CAM7RF9CP"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0CAWC4B55Z"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0CAXA9LQ5B"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0CAXA98ZBP"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0CAM7SFNP9"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0CAWC4AHNF"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0CAWC40XFD"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0CBX0FQ8BA"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0CAWC4JAQ3"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0CB4FWG7G9"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0CAM7SM947"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0CBX0FPAF2"
+      }
+    ],
+    "34ed2d62580f1abd0129b713e2130c6e": [
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0CAXA9SMRB"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0CAXAAF0N9"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0CAXA9UNJZ"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0CAM7T74DV"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0CB4FX91ED"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0CAXA9MYFP"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0CBX0GHMEC"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0CBX0GEKCG"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0CB0L2H9NJ"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0CB0L2873Q"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0CBX0GJNN4"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0CBX0FMVME"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0CAXAACDFX"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0CAWC580LB"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0CAXAACJ5T"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0CBX0GJXBJ"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0CAM7T18HM"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0CAWC6539R"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0CAM7TL69M"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0CB0L3BCKG"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0CBX0GEXJ4"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0CB69YNLA0"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0CB2DG1GM8"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0CAWC5NVH9"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0CB2DFK98A"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0CAM7TLDV5"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0CAXABDJJH"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0CB69Z6YLC"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0CB4FYFM6D"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0CAM7TC5BR"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0CBX0HPJ9W"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0CB2DGHZPU"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0CAXAB2HBP"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0CB4FY1QE5"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0CB0L3N04E"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0CAM7TRZQF"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0CB69ZGGRJ"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0CAXABCDNZ"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0CAXABC94M"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0CB69Z3ULU"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0CB0L3E1PY"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0CB0L3LNFQ"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0CB4FYCN7K"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0CB4FZ27CZ"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0CB6A04Q3E"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0CB4FZ0B5F"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0CBX0FULEL"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0CB0L3TRPG"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0CB69ZP3K6"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0CB2DHLUKU"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0CBX0HJSAC"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0CAXAE9YNR"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0CAWC6C7RR"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0CB69ZTWFN"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0CB4FZF4NM"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0CB0L4L8NS"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0CBX0JHA72"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0CAM7UCCKZ"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0CAXAC7R8V"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0CBX0JPF1N"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0CB6A0G3U4"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0CAWC7DA1H"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0CB4FZRADP"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0CBX0JTF5W"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0CAWC7TL8K"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0CB6A1DE5A"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0CAM7V23UP"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0CAWC778BD"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0CB0L4T52A"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0CAXAD9G8M"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0CB2DJJ0SW"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0CBX0KFG7J"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0CB4G08KUZ"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0CB0L59ZSS"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0CBX0KRHBJ"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0CAWC8A18T"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0CB6A1393N"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0CAWC7SJ4T"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0CAXADJ3RB"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0CAXADU2BF"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0CB6A1QDSQ"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0CBX0LC88G"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0CB6A14KT6"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0CAM7W4KRV"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0CB6A1H2A0"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0CAM7VP1GF"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0CAM7W438X"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0CAWC8EE0K"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0CB0L5Q022"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0CB0L6BAFQ"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0CAWC8B459"
+      },
+      {
+        "channel": "U023F61R16F",
+        "messageId": "Q0CB4G1AY0H"
+      },
+      {
+        "channel": "C05JGF817H6",
+        "messageId": "Q0CAWC8MM8T"
+      }
     ]
   },
   "processedMessageTs": {
@@ -33632,8 +34495,10 @@
     "1791824973.391059": true,
     "1792003485.036469": true,
     "1792003483.341449": true,
-    "1792182200.161599": true
+    "1792182200.161599": true,
+    "1792599511.848259": true,
+    "1792594747.068809": true
   },
   "lastWeeklySummaryDate": "2026-W42",
-  "lastRun": "2026-10-21T11:10:46.239Z"
+  "lastRun": "2026-10-21T18:03:01.067Z"
 }
