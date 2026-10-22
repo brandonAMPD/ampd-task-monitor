@@ -1900,19 +1900,12 @@
       "source_message": "@Mark 'Morpheus' Manaog attach http://bls.ampdworks.com to the lovable bls landing page due by tomorrow",
       "assigneeId": "U023F61R16F",
       "messageTs": "1792594747.068809",
-      "completed": false,
-      "completedAt": null,
+      "completed": true,
+      "completedAt": "2026-10-22T18:01:30.069Z",
       "firstSeenAt": "2026-10-21T18:02:08.990Z"
     }
   },
   "scheduled": {
-    "96d2ff7b90a185e6c54e65a290b9c5df|overdue|2026-11-21": {
-      "scheduledAt": "2026-07-24T14:01:05.988Z",
-      "type": "overdue",
-      "task": "Check Cloudconvert usage and look at moving to new subscription as needed",
-      "assignee": "Josh 'The Ninja' Morales",
-      "reminderDate": "2026-11-21"
-    },
     "e0f22072ff2a10968fa5b13de0aaac8e|midpoint|2026-07-25": {
       "scheduledAt": "2026-07-25T06:01:45.357Z",
       "type": "midpoint",
@@ -23305,6 +23298,13 @@
       "task": "Check Cloudconvert usage and look at moving to new subscription as needed",
       "assignee": "Josh 'The Ninja' Morales",
       "reminderDate": "2026-11-20"
+    },
+    "96d2ff7b90a185e6c54e65a290b9c5df|overdue|2026-11-21": {
+      "scheduledAt": "2026-10-22T18:01:55.858Z",
+      "type": "overdue",
+      "task": "Check Cloudconvert usage and look at moving to new subscription as needed",
+      "assignee": "Josh 'The Ninja' Morales",
+      "reminderDate": "2026-11-21"
     }
   },
   "scheduledMessageIds": {
@@ -25456,6 +25456,18 @@
       {
         "channel": "C093VPK55NF",
         "messageId": "Q0CAY648JAX"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0CBDL1V4G2"
+      },
+      {
+        "channel": "U07FVUF09T7",
+        "messageId": "Q0CBDL18B6W"
+      },
+      {
+        "channel": "C093VPK55NF",
+        "messageId": "Q0CBDL1HW2W"
       }
     ],
     "94fb80fe57974915ad709df6838d0e7b": [
@@ -33666,380 +33678,6 @@
         "channel": "C05JGF817H6",
         "messageId": "Q0CBX0FPAF2"
       }
-    ],
-    "34ed2d62580f1abd0129b713e2130c6e": [
-      {
-        "channel": "UMS39RAGP",
-        "messageId": "Q0CAXA9SMRB"
-      },
-      {
-        "channel": "U023F61R16F",
-        "messageId": "Q0CAXAAF0N9"
-      },
-      {
-        "channel": "C05JGF817H6",
-        "messageId": "Q0CAXA9UNJZ"
-      },
-      {
-        "channel": "UMS39RAGP",
-        "messageId": "Q0CAM7T74DV"
-      },
-      {
-        "channel": "U023F61R16F",
-        "messageId": "Q0CB4FX91ED"
-      },
-      {
-        "channel": "C05JGF817H6",
-        "messageId": "Q0CAXA9MYFP"
-      },
-      {
-        "channel": "UMS39RAGP",
-        "messageId": "Q0CBX0GHMEC"
-      },
-      {
-        "channel": "U023F61R16F",
-        "messageId": "Q0CBX0GEKCG"
-      },
-      {
-        "channel": "C05JGF817H6",
-        "messageId": "Q0CB0L2H9NJ"
-      },
-      {
-        "channel": "UMS39RAGP",
-        "messageId": "Q0CB0L2873Q"
-      },
-      {
-        "channel": "U023F61R16F",
-        "messageId": "Q0CBX0GJNN4"
-      },
-      {
-        "channel": "C05JGF817H6",
-        "messageId": "Q0CBX0FMVME"
-      },
-      {
-        "channel": "UMS39RAGP",
-        "messageId": "Q0CAXAACDFX"
-      },
-      {
-        "channel": "U023F61R16F",
-        "messageId": "Q0CAWC580LB"
-      },
-      {
-        "channel": "C05JGF817H6",
-        "messageId": "Q0CAXAACJ5T"
-      },
-      {
-        "channel": "UMS39RAGP",
-        "messageId": "Q0CBX0GJXBJ"
-      },
-      {
-        "channel": "U023F61R16F",
-        "messageId": "Q0CAM7T18HM"
-      },
-      {
-        "channel": "C05JGF817H6",
-        "messageId": "Q0CAWC6539R"
-      },
-      {
-        "channel": "UMS39RAGP",
-        "messageId": "Q0CAM7TL69M"
-      },
-      {
-        "channel": "U023F61R16F",
-        "messageId": "Q0CB0L3BCKG"
-      },
-      {
-        "channel": "C05JGF817H6",
-        "messageId": "Q0CBX0GEXJ4"
-      },
-      {
-        "channel": "UMS39RAGP",
-        "messageId": "Q0CB69YNLA0"
-      },
-      {
-        "channel": "U023F61R16F",
-        "messageId": "Q0CB2DG1GM8"
-      },
-      {
-        "channel": "C05JGF817H6",
-        "messageId": "Q0CAWC5NVH9"
-      },
-      {
-        "channel": "UMS39RAGP",
-        "messageId": "Q0CB2DFK98A"
-      },
-      {
-        "channel": "U023F61R16F",
-        "messageId": "Q0CAM7TLDV5"
-      },
-      {
-        "channel": "C05JGF817H6",
-        "messageId": "Q0CAXABDJJH"
-      },
-      {
-        "channel": "UMS39RAGP",
-        "messageId": "Q0CB69Z6YLC"
-      },
-      {
-        "channel": "U023F61R16F",
-        "messageId": "Q0CB4FYFM6D"
-      },
-      {
-        "channel": "C05JGF817H6",
-        "messageId": "Q0CAM7TC5BR"
-      },
-      {
-        "channel": "UMS39RAGP",
-        "messageId": "Q0CBX0HPJ9W"
-      },
-      {
-        "channel": "U023F61R16F",
-        "messageId": "Q0CB2DGHZPU"
-      },
-      {
-        "channel": "C05JGF817H6",
-        "messageId": "Q0CAXAB2HBP"
-      },
-      {
-        "channel": "UMS39RAGP",
-        "messageId": "Q0CB4FY1QE5"
-      },
-      {
-        "channel": "U023F61R16F",
-        "messageId": "Q0CB0L3N04E"
-      },
-      {
-        "channel": "C05JGF817H6",
-        "messageId": "Q0CAM7TRZQF"
-      },
-      {
-        "channel": "UMS39RAGP",
-        "messageId": "Q0CB69ZGGRJ"
-      },
-      {
-        "channel": "U023F61R16F",
-        "messageId": "Q0CAXABCDNZ"
-      },
-      {
-        "channel": "C05JGF817H6",
-        "messageId": "Q0CAXABC94M"
-      },
-      {
-        "channel": "UMS39RAGP",
-        "messageId": "Q0CB69Z3ULU"
-      },
-      {
-        "channel": "U023F61R16F",
-        "messageId": "Q0CB0L3E1PY"
-      },
-      {
-        "channel": "C05JGF817H6",
-        "messageId": "Q0CB0L3LNFQ"
-      },
-      {
-        "channel": "UMS39RAGP",
-        "messageId": "Q0CB4FYCN7K"
-      },
-      {
-        "channel": "U023F61R16F",
-        "messageId": "Q0CB4FZ27CZ"
-      },
-      {
-        "channel": "C05JGF817H6",
-        "messageId": "Q0CB6A04Q3E"
-      },
-      {
-        "channel": "UMS39RAGP",
-        "messageId": "Q0CB4FZ0B5F"
-      },
-      {
-        "channel": "U023F61R16F",
-        "messageId": "Q0CBX0FULEL"
-      },
-      {
-        "channel": "C05JGF817H6",
-        "messageId": "Q0CB0L3TRPG"
-      },
-      {
-        "channel": "UMS39RAGP",
-        "messageId": "Q0CB69ZP3K6"
-      },
-      {
-        "channel": "U023F61R16F",
-        "messageId": "Q0CB2DHLUKU"
-      },
-      {
-        "channel": "C05JGF817H6",
-        "messageId": "Q0CBX0HJSAC"
-      },
-      {
-        "channel": "UMS39RAGP",
-        "messageId": "Q0CAXAE9YNR"
-      },
-      {
-        "channel": "U023F61R16F",
-        "messageId": "Q0CAWC6C7RR"
-      },
-      {
-        "channel": "C05JGF817H6",
-        "messageId": "Q0CB69ZTWFN"
-      },
-      {
-        "channel": "UMS39RAGP",
-        "messageId": "Q0CB4FZF4NM"
-      },
-      {
-        "channel": "U023F61R16F",
-        "messageId": "Q0CB0L4L8NS"
-      },
-      {
-        "channel": "C05JGF817H6",
-        "messageId": "Q0CBX0JHA72"
-      },
-      {
-        "channel": "UMS39RAGP",
-        "messageId": "Q0CAM7UCCKZ"
-      },
-      {
-        "channel": "U023F61R16F",
-        "messageId": "Q0CAXAC7R8V"
-      },
-      {
-        "channel": "C05JGF817H6",
-        "messageId": "Q0CBX0JPF1N"
-      },
-      {
-        "channel": "UMS39RAGP",
-        "messageId": "Q0CB6A0G3U4"
-      },
-      {
-        "channel": "U023F61R16F",
-        "messageId": "Q0CAWC7DA1H"
-      },
-      {
-        "channel": "C05JGF817H6",
-        "messageId": "Q0CB4FZRADP"
-      },
-      {
-        "channel": "UMS39RAGP",
-        "messageId": "Q0CBX0JTF5W"
-      },
-      {
-        "channel": "U023F61R16F",
-        "messageId": "Q0CAWC7TL8K"
-      },
-      {
-        "channel": "C05JGF817H6",
-        "messageId": "Q0CB6A1DE5A"
-      },
-      {
-        "channel": "UMS39RAGP",
-        "messageId": "Q0CAM7V23UP"
-      },
-      {
-        "channel": "U023F61R16F",
-        "messageId": "Q0CAWC778BD"
-      },
-      {
-        "channel": "C05JGF817H6",
-        "messageId": "Q0CB0L4T52A"
-      },
-      {
-        "channel": "UMS39RAGP",
-        "messageId": "Q0CAXAD9G8M"
-      },
-      {
-        "channel": "U023F61R16F",
-        "messageId": "Q0CB2DJJ0SW"
-      },
-      {
-        "channel": "C05JGF817H6",
-        "messageId": "Q0CBX0KFG7J"
-      },
-      {
-        "channel": "UMS39RAGP",
-        "messageId": "Q0CB4G08KUZ"
-      },
-      {
-        "channel": "U023F61R16F",
-        "messageId": "Q0CB0L59ZSS"
-      },
-      {
-        "channel": "C05JGF817H6",
-        "messageId": "Q0CBX0KRHBJ"
-      },
-      {
-        "channel": "UMS39RAGP",
-        "messageId": "Q0CAWC8A18T"
-      },
-      {
-        "channel": "U023F61R16F",
-        "messageId": "Q0CB6A1393N"
-      },
-      {
-        "channel": "C05JGF817H6",
-        "messageId": "Q0CAWC7SJ4T"
-      },
-      {
-        "channel": "UMS39RAGP",
-        "messageId": "Q0CAXADJ3RB"
-      },
-      {
-        "channel": "U023F61R16F",
-        "messageId": "Q0CAXADU2BF"
-      },
-      {
-        "channel": "C05JGF817H6",
-        "messageId": "Q0CB6A1QDSQ"
-      },
-      {
-        "channel": "UMS39RAGP",
-        "messageId": "Q0CBX0LC88G"
-      },
-      {
-        "channel": "U023F61R16F",
-        "messageId": "Q0CB6A14KT6"
-      },
-      {
-        "channel": "C05JGF817H6",
-        "messageId": "Q0CAM7W4KRV"
-      },
-      {
-        "channel": "UMS39RAGP",
-        "messageId": "Q0CB6A1H2A0"
-      },
-      {
-        "channel": "U023F61R16F",
-        "messageId": "Q0CAM7VP1GF"
-      },
-      {
-        "channel": "C05JGF817H6",
-        "messageId": "Q0CAM7W438X"
-      },
-      {
-        "channel": "UMS39RAGP",
-        "messageId": "Q0CAWC8EE0K"
-      },
-      {
-        "channel": "U023F61R16F",
-        "messageId": "Q0CB0L5Q022"
-      },
-      {
-        "channel": "C05JGF817H6",
-        "messageId": "Q0CB0L6BAFQ"
-      },
-      {
-        "channel": "UMS39RAGP",
-        "messageId": "Q0CAWC8B459"
-      },
-      {
-        "channel": "U023F61R16F",
-        "messageId": "Q0CB4G1AY0H"
-      },
-      {
-        "channel": "C05JGF817H6",
-        "messageId": "Q0CAWC8MM8T"
-      }
     ]
   },
   "processedMessageTs": {
@@ -34281,5 +33919,5 @@
     "1792594747.068809": true
   },
   "lastWeeklySummaryDate": "2026-W42",
-  "lastRun": "2026-10-22T11:10:33.779Z"
+  "lastRun": "2026-10-22T18:01:55.860Z"
 }
