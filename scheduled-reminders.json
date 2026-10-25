@@ -266,20 +266,6 @@
       "completedAt": "2026-08-10T18:01:38.425Z",
       "firstSeenAt": "2026-07-22T18:01:42.499Z"
     },
-    "454bdcd2171598232d614e40af176bad": {
-      "task": "Update whatever docs as needed with the How to Register and Update Business Phone Number Caller ID doc",
-      "assignee_name": "Meg 'The Sage' Scheffler",
-      "assignee_slack_mention": "@Meg 'The Sage' Scheffler",
-      "assigned_date": "2026-07-22",
-      "due_date": "2026-07-27",
-      "message_ts": "1784757854.944619",
-      "source_message": "@Meg 'The Sage' Scheffler I couldn't find the caller ID doc or canned response so not sure if that was ever",
-      "assigneeId": "U05FE9QNFSQ",
-      "messageTs": "1784757854.944619",
-      "completed": true,
-      "completedAt": "2026-07-27T18:01:22.914Z",
-      "firstSeenAt": "2026-07-23T06:01:23.516Z"
-    },
     "3eeed9a28c07fe0b70c3f7dbfdbf6869": {
       "task": "Finish adding videos/articles to the CRM training page in Lovable",
       "assignee_name": "Josh 'The Ninja' Morales",
@@ -293,20 +279,6 @@
       "completed": false,
       "completedAt": null,
       "firstSeenAt": "2026-07-23T19:23:33.313Z"
-    },
-    "e0f22072ff2a10968fa5b13de0aaac8e": {
-      "task": "Create a canned response for Mark's tech calendar in FD",
-      "assignee_name": "Meg 'The Sage' Scheffler",
-      "assignee_slack_mention": "@Meg 'The Sage' Scheffler",
-      "assigned_date": "2026-07-24",
-      "due_date": "2026-07-27",
-      "message_ts": "1784927171.353829",
-      "source_message": "@Meg 'The Sage' Scheffler please create a canned response for Mark's tech calendar in FD.  due by Monday.",
-      "assigneeId": "U05FE9QNFSQ",
-      "messageTs": "1784927171.353829",
-      "completed": true,
-      "completedAt": "2026-07-27T18:01:55.772Z",
-      "firstSeenAt": "2026-07-25T06:01:26.748Z"
     },
     "bfcaa34d323755c7e124870f9b256fe5": {
       "task": "Review calendar links sheet and ensure all Ampd and Dovetail calendars are represented",
@@ -1906,13 +1878,6 @@
     }
   },
   "scheduled": {
-    "96d2ff7b90a185e6c54e65a290b9c5df|overdue|2026-11-24": {
-      "scheduledAt": "2026-07-27T18:02:33.180Z",
-      "type": "overdue",
-      "task": "Check Cloudconvert usage and look at moving to new subscription as needed",
-      "assignee": "Josh 'The Ninja' Morales",
-      "reminderDate": "2026-11-24"
-    },
     "96d2ff7b90a185e6c54e65a290b9c5df|overdue|2026-11-25": {
       "scheduledAt": "2026-07-28T18:02:22.573Z",
       "type": "overdue",
@@ -22605,6 +22570,13 @@
       "task": "Check Cloudconvert usage and look at moving to new subscription as needed",
       "assignee": "Josh 'The Ninja' Morales",
       "reminderDate": "2026-11-23"
+    },
+    "96d2ff7b90a185e6c54e65a290b9c5df|overdue|2026-11-24": {
+      "scheduledAt": "2026-10-25T20:36:55.073Z",
+      "type": "overdue",
+      "task": "Check Cloudconvert usage and look at moving to new subscription as needed",
+      "assignee": "Josh 'The Ninja' Morales",
+      "reminderDate": "2026-11-24"
     }
   },
   "scheduledMessageIds": {
@@ -24792,6 +24764,18 @@
       {
         "channel": "C093VPK55NF",
         "messageId": "Q0CCR4AHYKS"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0CBUCLU79R"
+      },
+      {
+        "channel": "U07FVUF09T7",
+        "messageId": "Q0CC0DXJRH8"
+      },
+      {
+        "channel": "C093VPK55NF",
+        "messageId": "Q0CBUCMFPEX"
       }
     ],
     "94fb80fe57974915ad709df6838d0e7b": [
@@ -33243,5 +33227,5 @@
     "1792594747.068809": true
   },
   "lastWeeklySummaryDate": "2026-W43",
-  "lastRun": "2026-10-25T18:01:41.859Z"
+  "lastRun": "2026-10-25T20:36:55.076Z"
 }
