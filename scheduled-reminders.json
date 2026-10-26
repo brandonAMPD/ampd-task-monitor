@@ -266,20 +266,6 @@
       "completedAt": null,
       "firstSeenAt": "2026-07-23T19:23:33.313Z"
     },
-    "bfcaa34d323755c7e124870f9b256fe5": {
-      "task": "Review calendar links sheet and ensure all Ampd and Dovetail calendars are represented",
-      "assignee_name": "Christle 'Knows All' Ochigue",
-      "assignee_slack_mention": "@Christle 'Knows All' Ochigue",
-      "assigned_date": "2026-07-24",
-      "due_date": "2026-07-28",
-      "message_ts": "1784927154.364169",
-      "source_message": "@Christle 'Knows All' Ochigue we are still missing calendar from the calendar links sheet.  Please go over every one",
-      "assigneeId": "UMCPG3D8A",
-      "messageTs": "1784927154.364169",
-      "completed": true,
-      "completedAt": "2026-07-28T18:01:47.337Z",
-      "firstSeenAt": "2026-07-25T06:01:26.867Z"
-    },
     "335fcc8cb4ededb2c7db4ef1ce7a4845": {
       "task": "Setup affiliate program for AW per linked doc",
       "assignee_name": "Mark 'Morpheus' Manaog",
@@ -1864,13 +1850,6 @@
     }
   },
   "scheduled": {
-    "96d2ff7b90a185e6c54e65a290b9c5df|overdue|2026-11-25": {
-      "scheduledAt": "2026-07-28T18:02:22.573Z",
-      "type": "overdue",
-      "task": "Check Cloudconvert usage and look at moving to new subscription as needed",
-      "assignee": "Josh 'The Ninja' Morales",
-      "reminderDate": "2026-11-25"
-    },
     "96d2ff7b90a185e6c54e65a290b9c5df|overdue|2026-11-26": {
       "scheduledAt": "2026-07-29T18:01:26.069Z",
       "type": "overdue",
@@ -22563,6 +22542,13 @@
       "task": "Check Cloudconvert usage and look at moving to new subscription as needed",
       "assignee": "Josh 'The Ninja' Morales",
       "reminderDate": "2026-11-24"
+    },
+    "96d2ff7b90a185e6c54e65a290b9c5df|overdue|2026-11-25": {
+      "scheduledAt": "2026-10-26T22:27:32.779Z",
+      "type": "overdue",
+      "task": "Check Cloudconvert usage and look at moving to new subscription as needed",
+      "assignee": "Josh 'The Ninja' Morales",
+      "reminderDate": "2026-11-25"
     }
   },
   "scheduledMessageIds": {
@@ -24762,6 +24748,18 @@
       {
         "channel": "C093VPK55NF",
         "messageId": "Q0CBUCMFPEX"
+      },
+      {
+        "channel": "UMS39RAGP",
+        "messageId": "Q0CCF92AH3N"
+      },
+      {
+        "channel": "U07FVUF09T7",
+        "messageId": "Q0CCDEZRV4H"
+      },
+      {
+        "channel": "C093VPK55NF",
+        "messageId": "Q0CCBCK4FRQ"
       }
     ],
     "94fb80fe57974915ad709df6838d0e7b": [
@@ -33213,5 +33211,5 @@
     "1792594747.068809": true
   },
   "lastWeeklySummaryDate": "2026-W43",
-  "lastRun": "2026-10-26T18:01:29.722Z"
+  "lastRun": "2026-10-26T22:27:32.781Z"
 }
