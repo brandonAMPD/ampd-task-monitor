@@ -1752,13 +1752,6 @@
     }
   },
   "scheduled": {
-    "a6aee7c1680693d572ae308b03a708d8|followup|2026-08-12": {
-      "scheduledAt": "2026-08-06T06:01:47.419Z",
-      "type": "followup",
-      "task": "Check FRD email notification issue for client bookings (e.g. Chad's booking not triggering alert)",
-      "assignee": "Mark 'Morpheus' Manaog",
-      "reminderDate": "2026-08-12"
-    },
     "96d2ff7b90a185e6c54e65a290b9c5df|overdue|2026-12-04": {
       "scheduledAt": "2026-08-07T00:06:09.866Z",
       "type": "overdue",
@@ -29480,5 +29473,5 @@
     "1792594747.068809": true
   },
   "lastWeeklySummaryDate": "2026-W44",
-  "lastRun": "2026-11-04T06:01:28.095Z"
+  "lastRun": "2026-11-04T13:47:38.363Z"
 }
