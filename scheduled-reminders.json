@@ -1682,13 +1682,6 @@
     }
   },
   "scheduled": {
-    "44f32c7f32bb6152166ebad3e2956720|followup|2026-08-15": {
-      "scheduledAt": "2026-08-09T06:01:46.345Z",
-      "type": "followup",
-      "task": "Determine which stage calendar 'Quick chat with Ampd (multiservice)' should move to",
-      "assignee": "Josh 'The Ninja' Morales",
-      "reminderDate": "2026-08-15"
-    },
     "96d2ff7b90a185e6c54e65a290b9c5df|overdue|2026-12-07": {
       "scheduledAt": "2026-08-09T18:01:30.349Z",
       "type": "overdue",
@@ -28192,5 +28185,5 @@
     "1792594747.068809": true
   },
   "lastWeeklySummaryDate": "2026-W44",
-  "lastRun": "2026-11-07T06:01:11.143Z"
+  "lastRun": "2026-11-07T12:28:00.540Z"
 }
