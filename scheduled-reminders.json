@@ -224,20 +224,6 @@
       "completedAt": null,
       "firstSeenAt": "2026-07-20T18:01:33.162Z"
     },
-    "1ff785ffdf5d735896209e293bbfdbe1": {
-      "task": "Review URLs in use/not in use; cancel renewals for unused domains expiring this year; ensure 6-7 open domains; add refiforrentals.com to list",
-      "assignee_name": "Mark 'Morpheus' Manaog",
-      "assignee_slack_mention": "@Mark 'Morpheus' Manaog",
-      "assigned_date": "2026-07-22",
-      "due_date": "2026-07-27",
-      "message_ts": "1784742278.181739",
-      "source_message": "@Mark 'Morpheus' Manaog please review what URLs we are using and not using.  any that are set for renewal",
-      "assigneeId": "U023F61R16F",
-      "messageTs": "1784742278.181739",
-      "completed": true,
-      "completedAt": "2026-08-10T18:01:38.425Z",
-      "firstSeenAt": "2026-07-22T18:01:42.499Z"
-    },
     "3eeed9a28c07fe0b70c3f7dbfdbf6869": {
       "task": "Finish adding videos/articles to the CRM training page in Lovable",
       "assignee_name": "Josh 'The Ninja' Morales",
@@ -293,20 +279,6 @@
       "completed": false,
       "completedAt": null,
       "firstSeenAt": "2026-07-31T18:01:29.129Z"
-    },
-    "c86d7d853b71dc58971050c700ce7593": {
-      "task": "Add all created tools with explanations to the internal tools channel, pin post(s), include links",
-      "assignee_name": "Mark 'Morpheus' Manaog",
-      "assignee_slack_mention": "@Mark 'Morpheus' Manaog",
-      "assigned_date": "2026-07-31",
-      "due_date": "2026-08-07",
-      "message_ts": "1785514242.081219",
-      "source_message": "@Mark 'Morpheus' Manaog please add all tools you created along with any necessary explanations on how to use",
-      "assigneeId": "U023F61R16F",
-      "messageTs": "1785514242.081219",
-      "completed": true,
-      "completedAt": "2026-08-10T18:02:10.998Z",
-      "firstSeenAt": "2026-07-31T18:01:29.430Z"
     },
     "8304067a2c8f125f5730174f8cd06b8e": {
       "task": "Edit AI product listing (Jotform AI / GHL AI categorization)",
@@ -1682,13 +1654,6 @@
     }
   },
   "scheduled": {
-    "96d2ff7b90a185e6c54e65a290b9c5df|overdue|2026-12-08": {
-      "scheduledAt": "2026-08-10T18:02:49.879Z",
-      "type": "overdue",
-      "task": "Check Cloudconvert usage and look at moving to new subscription as needed",
-      "assignee": "Josh 'The Ninja' Morales",
-      "reminderDate": "2026-12-08"
-    },
     "96d2ff7b90a185e6c54e65a290b9c5df|overdue|2026-12-09": {
       "scheduledAt": "2026-08-11T18:01:40.242Z",
       "type": "overdue",
@@ -28178,5 +28143,5 @@
     "1792594747.068809": true
   },
   "lastWeeklySummaryDate": "2026-W44",
-  "lastRun": "2026-11-08T18:01:16.152Z"
+  "lastRun": "2026-11-08T21:51:10.522Z"
 }
