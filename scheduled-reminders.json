@@ -406,20 +406,6 @@
       "completedAt": "2026-09-18T14:01:13.490Z",
       "firstSeenAt": "2026-08-12T19:05:58.064Z"
     },
-    "787f6d6099da5c6be53c4bb2a4100dd0": {
-      "task": "Update calendar sheet as instructed in video",
-      "assignee_name": "Christle 'Knows All' Ochigue",
-      "assignee_slack_mention": "@Christle 'Knows All' Ochigue",
-      "assigned_date": "2026-08-19",
-      "due_date": "2026-08-25",
-      "message_ts": "1787158029.525299",
-      "source_message": "@Christle 'Knows All' Ochigue please update calendar sheet as instructed in video.  Due by Next Tuesday",
-      "assigneeId": "UMCPG3D8A",
-      "messageTs": "1787158029.525299",
-      "completed": true,
-      "completedAt": "2026-08-27T17:20:05.303Z",
-      "firstSeenAt": "2026-08-19T18:02:01.651Z"
-    },
     "13e3dedf084cafeda176fdea89d61647": {
       "task": "Set up spam filtering system in Gmail",
       "assignee_name": "Mark 'Morpheus' Manaog",
@@ -475,20 +461,6 @@
       "completed": true,
       "completedAt": "2026-08-28T02:05:33.887Z",
       "firstSeenAt": "2026-08-25T18:01:48.153Z"
-    },
-    "9fd1bc44ce32b202bdbd37ef303530f0": {
-      "task": "Build campaign and stage within Ampd CRM Pipeline (3) per linked doc",
-      "assignee_name": "Christle Ochigue",
-      "assignee_slack_mention": "@Christle 'Knows All' Ochigue",
-      "assigned_date": "2026-08-26",
-      "due_date": "2026-08-28",
-      "message_ts": "1787754267.271519",
-      "source_message": "@Christle 'Knows All' Ochigue please build this campaign along with the stage needed for in within the",
-      "assigneeId": "UMCPG3D8A",
-      "messageTs": "1787754267.271519",
-      "completed": true,
-      "completedAt": "2026-08-27T17:20:40.008Z",
-      "firstSeenAt": "2026-08-26T18:02:23.120Z"
     },
     "4c27572a942ff2602e61fe7981063f28": {
       "task": "Update calendar sheet event title and description fields for Ampd and Dovetail",
@@ -21383,5 +21355,5 @@
     "1795199044.665449": true
   },
   "lastWeeklySummaryDate": "2026-W44",
-  "lastRun": "2026-11-25T16:48:09.780Z"
+  "lastRun": "2026-11-25T18:01:31.672Z"
 }
