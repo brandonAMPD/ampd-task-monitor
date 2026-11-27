@@ -378,20 +378,6 @@
       "completedAt": null,
       "firstSeenAt": "2026-08-09T06:01:36.315Z"
     },
-    "cf8f975cf6def1f83d5dd99a5efeb707": {
-      "task": "Cancel Vimeo subscription after Christle replaces videos with Sprout",
-      "assignee_name": "Brandon 'The One' Robertson",
-      "assignee_slack_mention": "@Brandon 'The One' Robertson",
-      "assigned_date": "2026-08-11",
-      "due_date": "2026-08-21",
-      "message_ts": "1786464240.619449",
-      "source_message": "@Brandon 'The One' Robertson cancel Vimeo after Christle replaces the videos with Sprout.  Due Next Friday",
-      "assigneeId": "UMS39RAGP",
-      "messageTs": "1786464240.619449",
-      "completed": true,
-      "completedAt": "2026-08-28T18:01:18.582Z",
-      "firstSeenAt": "2026-08-11T18:01:39.251Z"
-    },
     "3363ecfe2dc9dea481891ed39d5b99d8": {
       "task": "Update all new leads, purchases, bookings for sales/marketing in channel; priority: new AW funnel (purchases, demo bookings, onboarding books)",
       "assignee_name": "Mark 'Morpheus' Manaog",
@@ -447,34 +433,6 @@
       "completed": true,
       "completedAt": "2026-09-30T18:01:23.565Z",
       "firstSeenAt": "2026-08-21T18:01:20.718Z"
-    },
-    "4c27572a942ff2602e61fe7981063f28": {
-      "task": "Update calendar sheet event title and description fields for Ampd and Dovetail",
-      "assignee_name": "Christle 'Knows All' Ochigue",
-      "assignee_slack_mention": "@Christle 'Knows All' Ochigue",
-      "assigned_date": "2026-08-27",
-      "due_date": "2026-09-02",
-      "message_ts": "1787872110.415569",
-      "source_message": "@Christle 'Knows All' Ochigue update the calendar sheet even title and description fields for ampd and",
-      "assigneeId": "UMCPG3D8A",
-      "messageTs": "1787872110.415569",
-      "completed": true,
-      "completedAt": "2026-08-29T01:33:59.852Z",
-      "firstSeenAt": "2026-08-28T02:06:10.237Z"
-    },
-    "3c1d57540ee0ca629ff5f9590e948594": {
-      "task": "Fix calendar sheet tab duplicates",
-      "assignee_name": "Christle 'Knows All' Ochigue",
-      "assignee_slack_mention": "@Christle 'Knows All' Ochigue",
-      "assigned_date": "2026-08-27",
-      "due_date": "2026-08-28",
-      "message_ts": "1787869509.782399",
-      "source_message": "@Christle 'Knows All' Ochigue fix calendar sheet tab duplicates https://dovetail-mktg.slack.com/arc",
-      "assigneeId": "UMCPG3D8A",
-      "messageTs": "1787869509.782399",
-      "completed": true,
-      "completedAt": "2026-08-28T18:01:41.533Z",
-      "firstSeenAt": "2026-08-28T02:06:10.334Z"
     },
     "c0eb92cd99463fabba3bcd3cbcd04ce7": {
       "task": "Migrate campaign workflow details from Claude design used in demos to Lovable client training area",
@@ -1304,160 +1262,6 @@
     }
   },
   "scheduled": {
-    "3940638ac02716cbf6a905517dd5b747|followup|2026-09-04": {
-      "scheduledAt": "2026-08-29T01:34:44.537Z",
-      "type": "followup",
-      "task": "Determine right time in onboarding/client mgmt to handle dedicated sending domain setup for clients",
-      "assignee": "Mark 'Morpheus' Manaog",
-      "reminderDate": "2026-09-04"
-    },
-    "c89a7ed861316f9d0869287ad4c07671|followup|2026-09-04": {
-      "scheduledAt": "2026-08-29T01:34:45.262Z",
-      "type": "followup",
-      "task": "Consider dedicated sending domain 'via' issue after A2P Approval",
-      "assignee": "Brandon 'The One' Robertson",
-      "reminderDate": "2026-09-04"
-    },
-    "14314accd4ef54a61c2d2fe608601644|midpoint|2026-09-29": {
-      "scheduledAt": "2026-08-29T01:34:46.167Z",
-      "type": "midpoint",
-      "task": "Migrate PandaDoc templates to GHL agreements in Dovetail and setup equivalent workflow for reps",
-      "assignee": "Mark 'Morpheus' Manaog",
-      "reminderDate": "2026-09-29"
-    },
-    "14314accd4ef54a61c2d2fe608601644|nag|2026-10-29": {
-      "scheduledAt": "2026-08-29T01:34:46.978Z",
-      "type": "nag",
-      "task": "Migrate PandaDoc templates to GHL agreements in Dovetail and setup equivalent workflow for reps",
-      "assignee": "Mark 'Morpheus' Manaog",
-      "reminderDate": "2026-10-29"
-    },
-    "14314accd4ef54a61c2d2fe608601644|nag|2026-10-30": {
-      "scheduledAt": "2026-08-29T01:34:47.796Z",
-      "type": "nag",
-      "task": "Migrate PandaDoc templates to GHL agreements in Dovetail and setup equivalent workflow for reps",
-      "assignee": "Mark 'Morpheus' Manaog",
-      "reminderDate": "2026-10-30"
-    },
-    "14314accd4ef54a61c2d2fe608601644|due|2026-10-31": {
-      "scheduledAt": "2026-08-29T01:34:48.641Z",
-      "type": "due",
-      "task": "Migrate PandaDoc templates to GHL agreements in Dovetail and setup equivalent workflow for reps",
-      "assignee": "Mark 'Morpheus' Manaog",
-      "reminderDate": "2026-10-31"
-    },
-    "14314accd4ef54a61c2d2fe608601644|overdue|2026-11-01": {
-      "scheduledAt": "2026-08-29T01:34:49.505Z",
-      "type": "overdue",
-      "task": "Migrate PandaDoc templates to GHL agreements in Dovetail and setup equivalent workflow for reps",
-      "assignee": "Mark 'Morpheus' Manaog",
-      "reminderDate": "2026-11-01"
-    },
-    "14314accd4ef54a61c2d2fe608601644|overdue|2026-11-02": {
-      "scheduledAt": "2026-08-29T01:34:50.382Z",
-      "type": "overdue",
-      "task": "Migrate PandaDoc templates to GHL agreements in Dovetail and setup equivalent workflow for reps",
-      "assignee": "Mark 'Morpheus' Manaog",
-      "reminderDate": "2026-11-02"
-    },
-    "14314accd4ef54a61c2d2fe608601644|overdue|2026-11-03": {
-      "scheduledAt": "2026-08-29T01:34:51.189Z",
-      "type": "overdue",
-      "task": "Migrate PandaDoc templates to GHL agreements in Dovetail and setup equivalent workflow for reps",
-      "assignee": "Mark 'Morpheus' Manaog",
-      "reminderDate": "2026-11-03"
-    },
-    "14314accd4ef54a61c2d2fe608601644|overdue|2026-11-04": {
-      "scheduledAt": "2026-08-29T01:34:52.011Z",
-      "type": "overdue",
-      "task": "Migrate PandaDoc templates to GHL agreements in Dovetail and setup equivalent workflow for reps",
-      "assignee": "Mark 'Morpheus' Manaog",
-      "reminderDate": "2026-11-04"
-    },
-    "14314accd4ef54a61c2d2fe608601644|overdue|2026-11-05": {
-      "scheduledAt": "2026-08-29T01:34:52.913Z",
-      "type": "overdue",
-      "task": "Migrate PandaDoc templates to GHL agreements in Dovetail and setup equivalent workflow for reps",
-      "assignee": "Mark 'Morpheus' Manaog",
-      "reminderDate": "2026-11-05"
-    },
-    "14314accd4ef54a61c2d2fe608601644|overdue|2026-11-06": {
-      "scheduledAt": "2026-08-29T01:34:53.729Z",
-      "type": "overdue",
-      "task": "Migrate PandaDoc templates to GHL agreements in Dovetail and setup equivalent workflow for reps",
-      "assignee": "Mark 'Morpheus' Manaog",
-      "reminderDate": "2026-11-06"
-    },
-    "14314accd4ef54a61c2d2fe608601644|overdue|2026-11-07": {
-      "scheduledAt": "2026-08-29T01:34:54.565Z",
-      "type": "overdue",
-      "task": "Migrate PandaDoc templates to GHL agreements in Dovetail and setup equivalent workflow for reps",
-      "assignee": "Mark 'Morpheus' Manaog",
-      "reminderDate": "2026-11-07"
-    },
-    "14314accd4ef54a61c2d2fe608601644|overdue|2026-11-08": {
-      "scheduledAt": "2026-08-29T01:34:55.384Z",
-      "type": "overdue",
-      "task": "Migrate PandaDoc templates to GHL agreements in Dovetail and setup equivalent workflow for reps",
-      "assignee": "Mark 'Morpheus' Manaog",
-      "reminderDate": "2026-11-08"
-    },
-    "14314accd4ef54a61c2d2fe608601644|overdue|2026-11-09": {
-      "scheduledAt": "2026-08-29T01:34:56.219Z",
-      "type": "overdue",
-      "task": "Migrate PandaDoc templates to GHL agreements in Dovetail and setup equivalent workflow for reps",
-      "assignee": "Mark 'Morpheus' Manaog",
-      "reminderDate": "2026-11-09"
-    },
-    "14314accd4ef54a61c2d2fe608601644|overdue|2026-11-10": {
-      "scheduledAt": "2026-08-29T01:34:57.024Z",
-      "type": "overdue",
-      "task": "Migrate PandaDoc templates to GHL agreements in Dovetail and setup equivalent workflow for reps",
-      "assignee": "Mark 'Morpheus' Manaog",
-      "reminderDate": "2026-11-10"
-    },
-    "14314accd4ef54a61c2d2fe608601644|overdue|2026-11-11": {
-      "scheduledAt": "2026-08-29T01:34:57.848Z",
-      "type": "overdue",
-      "task": "Migrate PandaDoc templates to GHL agreements in Dovetail and setup equivalent workflow for reps",
-      "assignee": "Mark 'Morpheus' Manaog",
-      "reminderDate": "2026-11-11"
-    },
-    "14314accd4ef54a61c2d2fe608601644|overdue|2026-11-12": {
-      "scheduledAt": "2026-08-29T01:34:58.662Z",
-      "type": "overdue",
-      "task": "Migrate PandaDoc templates to GHL agreements in Dovetail and setup equivalent workflow for reps",
-      "assignee": "Mark 'Morpheus' Manaog",
-      "reminderDate": "2026-11-12"
-    },
-    "14314accd4ef54a61c2d2fe608601644|overdue|2026-11-13": {
-      "scheduledAt": "2026-08-29T01:34:59.490Z",
-      "type": "overdue",
-      "task": "Migrate PandaDoc templates to GHL agreements in Dovetail and setup equivalent workflow for reps",
-      "assignee": "Mark 'Morpheus' Manaog",
-      "reminderDate": "2026-11-13"
-    },
-    "14314accd4ef54a61c2d2fe608601644|overdue|2026-11-14": {
-      "scheduledAt": "2026-08-29T01:35:00.329Z",
-      "type": "overdue",
-      "task": "Migrate PandaDoc templates to GHL agreements in Dovetail and setup equivalent workflow for reps",
-      "assignee": "Mark 'Morpheus' Manaog",
-      "reminderDate": "2026-11-14"
-    },
-    "14314accd4ef54a61c2d2fe608601644|overdue|2026-11-15": {
-      "scheduledAt": "2026-08-29T01:35:01.221Z",
-      "type": "overdue",
-      "task": "Migrate PandaDoc templates to GHL agreements in Dovetail and setup equivalent workflow for reps",
-      "assignee": "Mark 'Morpheus' Manaog",
-      "reminderDate": "2026-11-15"
-    },
-    "14314accd4ef54a61c2d2fe608601644|overdue|2026-11-16": {
-      "scheduledAt": "2026-08-29T01:35:02.048Z",
-      "type": "overdue",
-      "task": "Migrate PandaDoc templates to GHL agreements in Dovetail and setup equivalent workflow for reps",
-      "assignee": "Mark 'Morpheus' Manaog",
-      "reminderDate": "2026-11-16"
-    },
     "14314accd4ef54a61c2d2fe608601644|overdue|2026-11-17": {
       "scheduledAt": "2026-08-29T01:35:02.878Z",
       "type": "overdue",
@@ -19756,5 +19560,5 @@
     "1795199044.665449": true
   },
   "lastWeeklySummaryDate": "2026-W44",
-  "lastRun": "2026-11-26T18:01:22.966Z"
+  "lastRun": "2026-11-27T01:35:17.915Z"
 }
